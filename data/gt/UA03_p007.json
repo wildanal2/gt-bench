@@ -1,0 +1,83 @@
+[
+ {
+  "type": "text",
+  "text": "LayoutParser: A Unified Toolkit for DL-Based DIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Coordinates are the cornerstones for storing layout information. Currently, three types of Coordinate data structures are provided in LayoutParser, shown in Figure 2. Interval and Rectangle are the most common data types and support specifying 1D or 2D regions within a document. They are parameterized with 2 and 4 parameters. A Quadrilateral class is also implemented to support a more generalized representation of rectangular regions when the document is skewed or distorted, where the 4 corner points can be specified and a total of 8 degrees of freedom are supported. A wide collection of transformations like shift, pad, and scale, and operations like intersect, union, and is_in, are supported for these classes. Notably, it is common to separate a segment of the image and analyze it individually. LayoutParser provides full support for this scenario via image cropping operations crop_image and coordinate transformations like relative_to and condition_on that transform coordinates to and from their relative representations. We refer readers to Table 2 for a more detailed description of these operations13.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penanda catatan kaki 13 superskrip ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "Based on Coordinates, we implement the TextBlock class that stores both the positional and extra features of individual layout elements. It also supports specifying the reading orders via setting the parent field to the index of the parent object. A Layout class is built that takes in a list of TextBlocks and supports processing the elements in batch. Layout can also be nested to support hierarchical layout structures. They support the same operations and transformations as the Coordinate classes, minimizing both learning and deployment effort.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.3 OCR",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "LayoutParser provides a unified interface for existing OCR tools. Though there are many OCR tools available, they are usually configured differently with distinct APIs or protocols for using them. It can be inefficient to add new OCR tools into an existing pipeline, and difficult to make direct comparisons among the available tools to find the best option for a particular project. To this end, LayoutParser builds a series of wrappers among existing OCR engines, and provides nearly the same syntax for using them. It supports a plug-and-play style of using OCR engines, making it effortless to switch, evaluate, and compare different OCR modules:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "ocr_agent = lp.TesseractAgent()\n# Can be easily switched to other OCR software\ntokens = ocr_agent.detect(image)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode; dicek: nomor baris listing 1-3 di margin tidak ditulis; spasi antar-token di lapisan teks dibuang sesuai tampilan visual"
+ },
+ {
+  "type": "text",
+  "text": "The OCR outputs will also be stored in the aforementioned layout data structures and can be seamlessly incorporated into the digitization pipeline. Currently LayoutParser supports the Tesseract and Google Cloud Vision OCR engines.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LayoutParser also comes with a DL-based CNN-RNN OCR model [6] trained with the Connectionist Temporal Classification (CTC) loss [10]. It can be used like the other OCR modules, and can be easily trained on customized datasets.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "13This is also available in the LayoutParser documentation pages.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote; angka superskrip ditulis sebagai angka biasa"
+ }
+]

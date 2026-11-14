@@ -1,0 +1,151 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">Method / Baseline</th><th colspan=\"2\">Contamination (C2 ∪ C3)</th><th colspan=\"2\">Hallucination (C1)</th><th>Latency</th><th>Extra LLM</th></tr><tr><th>F1-Score</th><th>AUROC</th><th>F1-Score</th><th>AUROC</th><th>(ms/turn)</th><th>Calls</th></tr><tr><td>BM25 Lexical [23]</td><td>57.7</td><td>0.612</td><td>50.6</td><td>0.548</td><td>12.4</td><td>0</td></tr><tr><td>Contriever Bi-Encoder [24]</td><td>65.9</td><td>0.704</td><td>58.3</td><td>0.642</td><td>24.8</td><td>0</td></tr><tr><td>BGE-M3 Bi-Encoder [25]</td><td>70.7</td><td>0.768</td><td>65.3</td><td>0.718</td><td>31.2</td><td>0</td></tr><tr><td>Cross-Encoder NLI [26]</td><td>75.5</td><td>0.812</td><td>72.7</td><td>0.789</td><td>186.5</td><td>0</td></tr><tr><td>FACTSCORE [13]</td><td>63.7</td><td>0.741</td><td>75.6</td><td>0.822</td><td>840.2</td><td>2</td></tr><tr><td>SELFCHECKGPT (NLI) [12]</td><td>73.9</td><td>0.838</td><td>79.8</td><td>0.865</td><td>1,840.0</td><td>5</td></tr><tr><td>GRAPH-RAG [21]</td><td>78.8</td><td>0.804</td><td>78.0</td><td>0.841</td><td>460.0</td><td>1</td></tr><tr><td>RECONTRACE (Ours)</td><td>90.0†</td><td>0.942†</td><td>88.6†</td><td>0.938†</td><td>64.2</td><td>0</td></tr></table>",
+  "table_caption": "TABLE I\nMAIN EMPIRICAL EVALUATION ON THE LONGAGENT-RECONBENCH TEST SET (200 HELD-OUT TRAJECTORIES, 6,040 EVALUATION TURNS). BEST RESULTS ARE IN BOLD; SECOND-BEST ARE UNDERLINED. STATISTICALLY SIGNIFICANT IMPROVEMENTS (p < 0.001, PAIRED BOOTSTRAP TEST) ARE DENOTED BY †.",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel selebar halaman; caption kapital kecil ditulis kapital seperti lapisan teks; nama metode kapital kecil ditulis kapital; tebal/garis bawah tidak dikodekan; 'Latency (ms/turn)' dan 'Extra LLM Calls' ditulis dua baris header dicek: bisa juga satu sel rowspan"
+ },
+ {
+  "type": "text",
+  "text": "tral and probing signals:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "\\mathbf{z}_t = [S_{\\text{RCA}}, \\lambda_2, I_{\\text{sem}}, S_{\\text{cf}}, \\bar{\\tau}_{\\text{age}}, P_{\\text{contr}}^{\\max}]^{\\top} \\in \\mathbb{R}^6, \\quad (8)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where τ̄age = 1/k ∑m∈M(k) t (t−τm)/t is the normalized mean chunk age and Pmax contr = maxmi,mj Pcontr(mi, mj) captures the worst-case contradiction.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan; matematika inline dilinearkan dari lapisan teks; 'worst-/case' ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "A multinomial logistic classifier maps zt to failure classes C0–C3:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "P(C_k \\mid \\mathbf{z}_t) = \\frac{\\exp(\\boldsymbol{\\theta}_k^{\\top}\\mathbf{z}_t)}{\\sum_{j=0}^{3}\\exp(\\boldsymbol{\\theta}_j^{\\top}\\mathbf{z}_t)}, \\quad (9)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "with 6 × 4 = 24 parameters trained on 900 trajectories (<0.1 ms inference). Actions: C0 passes; C1 regenerates with constrained decoding; C2 soft-invalidates stale chunks; C3 re-scopes the retrieval namespace.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan; 're-/scopes' ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "C. LongAgent-ReConBench Benchmark",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Standard single-turn retrieval benchmarks evaluate isolated, single-session lookups, lacking the multi-session temporal dependencies of long-horizon deployments. LONGAGENT-RECONBENCH fills this gap: 1,200 trajectories (300 per domain: MED clinical, MUN zoning, FIN regulatory, SWE repository maintenance), 81,370 chunks, 30.2 turns/trajectory on average. Contamination affects 29.8–36.5% of turns; hallu- cination, 19.5–26.1%.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital; 'LONGAGENT-/RECONBENCH' ditulis utuh; hyphen: 'hallu-/cination,' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Annotation & Dataset Split. Ground truth was produced by 12 certified domain specialists (three per domain), each label- ing every turn with its true epistemic state (C0–C3). Double-blind cross-annotation on 20% of turns yielded strong inter-annotator agreement (Cohen’s κ = 0.84; Fleiss’ κ = 0.82). The official split comprises 900 training, 100 validation, and 200 held-out test trajectories.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; 'Double-/blind', 'inter-/annotator' ditulis utuh; hyphen: 'label-/ing' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Construction & Leakage Control. Each trajectory is gen- erated in three phases: (i) backbone execution—GPT-4o and Claude-3.5-Sonnet agents operate a FAISS-backed episodic store (BGE-M3 embeddings, 256-token chunks, k=5) across 5–15 sessions, committing reflections unconstrained so C1 failures emerge naturally; (ii) controlled perturbation—at mile- stones tupdate ∈ [0.3T, 0.7T], explicit world-state updates inject C2 material while unrelated sessions are interleaved for C3 collisions; (iii) verification—three specialists per domain label every turn against the authoritative update log, so each failure instance carries an auditable provenance record shipped with the benchmark. All splits are trajectory-disjoint and template-disjoint: query templates, update patterns, and named entities are partitioned into per-split pools with no overlap. Residual risk—stylistic overlap of the two backbones—is discussed in Section V.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; lintas_kolom; 'template-/disjoint' ditulis utuh; hyphen: 'gen-/erated', 'mile-/stones' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "D. Experimental Setup",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Implementation Details. Dense embeddings E(·) use BGE-M3 [25] (d = 1024); natural language inference (NLI) scores use DeBERTa-v3-large [26]. Atomic claims are extracted as the top-3 dependency-parse propositions per response. Hyper- parameters α=0.65 and β=3.2 were selected on the validation split (stable within ±0.10: ∆AUROC<0.005).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; 'BGE-/M3' ditulis utuh; hyphen: 'Hyper-/parameters' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Baselines. BM25 [23], Contriever [24], BGE-M3 [25], Cross-Encoder NLI [26], FACTSCORE [13], SELFCHECKGPT [12], GRAPH-RAG [21]; single-turn baselines receive the top-k chunks as grounding for fairness.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; kapital kecil ditulis kapital; 'Cross-/Encoder' ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Metrics & Hardware. We report binary F1 and AUROC for detection (threshold from validation), macro F1 for 4-class attribution, and AUPRC; significance uses paired bootstrap over 1,000 trajectory-clustered resamples (p < 0.001), stable across 5 seeds (±0.4% F1). Longitudinal runs use 40 held-out trajectories (10 per domain, 100 turns). Profiling: NVIDIA RTX 4090 / AMD EPYC 7763.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; 'held-/out' ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "IV. RESULTS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "A. Detection Performance",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Table I shows that on contamination detection, RECON- TRACE achieves AUROC 0.942 (binary F1 90.0%)—+10.4 and +13.8 percentage points over SELFCHECKGPT and GRAPH-RAG—and on hallucination detection AUROC 0.938 (F1 88.6%), exceeding second-best SELFCHECKGPT (0.865). Dense retrievers score lower because they match similarity without checking temporal or logical coherence. Fig. 2(a) shows the empirical SRCA densities: clean turns cluster at µ=0.85, contaminated at 0.42, hallucinatory at 0.18; the threshold θ∗=0.62 separates clean from failure turns, and resid- ual C1/C2/3 overlap is resolved by the attribution classifier",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital; berlanjut ke halaman berikutnya; hyphen: 'RECON-/TRACE', 'resid-/ual' pemenggalan suku kata dibiarkan"
+ }
+]

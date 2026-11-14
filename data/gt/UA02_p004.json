@@ -1,0 +1,261 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several attention layers running in parallel.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; dua diagram berdampingan dengan satu caption, dicatat sebagai satu image; label dibaca diagram kiri lalu kanan, atas-ke-bawah; dicek: bisa juga dipecah jadi dua image"
+ },
+ {
+  "type": "text",
+  "text": "Scaled Dot-Product Attention",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; judul diagram kiri; ada di lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "MatMul",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "SoftMax",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Mask (opt.)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Scale",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "MatMul",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Q",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "K",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "V",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Multi-Head Attention",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; judul diagram kanan; ada di lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Linear",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Concat",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Scaled Dot-Product Attention",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "h",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Linear",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Linear",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Linear",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "V",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "K",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Q",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "3.2.1 Scaled Dot-Product Attention",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "We call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of queries and keys of dimension dk, and values of dimension dv. We compute the dot products of the query with all keys, divide each by √dk, and apply a softmax function to obtain the weights on the values.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subskrip ditulis rata"
+ },
+ {
+  "type": "text",
+  "text": "In practice, we compute the attention function on a set of queries simultaneously, packed together into a matrix Q. The keys and values are also packed together into matrices K and V. We compute the matrix of outputs as:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "\\mathrm{Attention}(Q, K, V) = \\mathrm{softmax}(\\frac{QK^T}{\\sqrt{d_k}})V (1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "The two most commonly used attention functions are additive attention [2], and dot-product (multi- plicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor of 1/√dk. Additive attention computes the compatibility function using a feed-forward network with a single hidden layer. While the two are similar in theoretical complexity, dot-product attention is much faster and more space-efficient in practice, since it can be implemented using highly optimized matrix multiplication code.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen; pecahan inline 1 per √dk ditulis 1/√dk"
+ },
+ {
+  "type": "text",
+  "text": "While for small values of dk the two mechanisms perform similarly, additive attention outperforms dot product attention without scaling for larger values of dk [3]. We suspect that for large values of dk, the dot products grow large in magnitude, pushing the softmax function into regions where it has extremely small gradients4. To counteract this effect, we scale the dot products by 1/√dk.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penanda catatan kaki superskrip ditulis biasa; pecahan inline ditulis 1/√dk"
+ },
+ {
+  "type": "text",
+  "text": "3.2.2 Multi-Head Attention",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Instead of performing a single attention function with dmodel-dimensional keys, values and queries, we found it beneficial to linearly project the queries, keys and values h times with different, learned linear projections to dk, dk and dv dimensions, respectively. On each of these projected versions of queries, keys and values we then perform the attention function in parallel, yielding dv-dimensional",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya; subskrip ditulis rata"
+ },
+ {
+  "type": "text",
+  "text": "4To illustrate why the dot products get large, assume that the components of q and k are independent random variables with mean 0 and variance 1. Then their dot product, q · k = ∑_{i=1}^{dk} qiki, has mean 0 and variance dk.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote; penanda superskrip ditulis biasa; dicek: batas sigma inline ditulis notasi LaTeX ringkas ∑_{i=1}^{dk}"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

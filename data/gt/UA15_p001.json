@@ -1,0 +1,275 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis hasil scan (raster 958x400); 5 seri, tanpa label nilai data, tanpa judul/judul sumbu"
+ },
+ {
+  "type": "text",
+  "text": "600",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "500",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "400",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "300",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "200",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "100",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu Y"
+ },
+ {
+  "type": "text",
+  "text": "Newyorkbrad",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "NuclearWarfare",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Worm That Turned",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Carcharoth",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Timotheus Canens",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Coren",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Salvio giuliano",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "David Fuchs",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "RegentsPark",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Elen of the Roads",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Guerillero",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Keilana",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Beeblebrox",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Richwales",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Pgallert",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Kww",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Jc37",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Jclemens",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Ks0stm",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring; dicek: 'Ks0stm' dengan angka nol, huruf 'O' juga mungkin"
+ },
+ {
+  "type": "text",
+  "text": "Count Iblis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "YOLO Swag",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu X; teks miring"
+ },
+ {
+  "type": "text",
+  "text": "Support",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "No vote[note 1]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Oppose",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Net[note 2]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Percentage [note 3]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ }
+]

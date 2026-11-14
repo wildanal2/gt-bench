@@ -1,0 +1,100 @@
+[
+ {
+  "type": "text",
+  "text": "arXiv:2103.15348v2 [cs.CV] 21 Jun 2021",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; stempel arXiv; vertikal; dicek: posisi urutan baca: stempel di tepi kiri tengah halaman, ditaruh paling awal"
+ },
+ {
+  "type": "text",
+  "text": "LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Title; 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Zejiang Shen1 (✉), Ruochen Zhang2, Melissa Dell3, Benjamin Charles Germain Lee4, Jacob Carlson3, and Weining Li5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penulis; angka superskrip ditulis sebagai angka biasa; dicek: simbol amplop (corresponding author) ditulis ✉, di lapisan teks glyph kosong '( )'"
+ },
+ {
+  "type": "text",
+  "text": "1Allen Institute for AI shannons@allenai.org",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebagai angka biasa; afiliasi + email satu blok"
+ },
+ {
+  "type": "text",
+  "text": "2Brown University ruochen_zhang@brown.edu",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebagai angka biasa; afiliasi + email satu blok; underscore terlihat di gambar, lapisan teks 'ruochen zhang'"
+ },
+ {
+  "type": "text",
+  "text": "3Harvard University {melissadell,jacob_carlson}@fas.harvard.edu",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebagai angka biasa; afiliasi + email satu blok; underscore terlihat di gambar, lapisan teks 'jacob carlson'"
+ },
+ {
+  "type": "text",
+  "text": "4University of Washington bcgl@cs.washington.edu",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebagai angka biasa; afiliasi + email satu blok"
+ },
+ {
+  "type": "text",
+  "text": "5University of Waterloo w422li@uwaterloo.ca",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebagai angka biasa; afiliasi + email satu blok"
+ },
+ {
+  "type": "text",
+  "text": "Abstract. Recent advances in document image analysis (DIA) have been primarily driven by the application of neural networks. Ideally, research outcomes could be easily deployed in production and extended for further investigation. However, various factors like loosely organized codebases and sophisticated model configurations complicate the easy reuse of im- portant innovations by a wide audience. Though there have been on-going efforts to improve reusability and simplify deep learning (DL) model development in disciplines like natural language processing and computer vision, none of them are optimized for challenges in the domain of DIA. This represents a major gap in the existing toolkit, as DIA is central to academic research across a wide range of disciplines in the social sciences and humanities. This paper introduces LayoutParser, an open-source library for streamlining the usage of DL in DIA research and applica- tions. The core LayoutParser library comes with a set of simple and intuitive interfaces for applying and customizing DL models for layout de- tection, character recognition, and many other document processing tasks. To promote extensibility, LayoutParser also incorporates a community platform for sharing both pre-trained models and full document digiti- zation pipelines. We demonstrate that LayoutParser is helpful for both lightweight and large-scale digitization pipelines in real-word use cases. The library is publicly available at https://layout-parser.github.io.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label Abstract sebaris dengan isi; hyphen: 'im- portant', 'applica- tions', 'de- tection', 'digiti- zation' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Keywords: Document Image Analysis · Deep Learning · Layout Analysis · Character Recognition · Open Source library · Toolkit.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris dengan isi"
+ },
+ {
+  "type": "text",
+  "text": "1 Introduction",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Deep Learning(DL)-based approaches are the state-of-the-art for a wide range of document image analysis (DIA) tasks including document image classification [11,",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya"
+ }
+]

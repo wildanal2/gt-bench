@@ -1,0 +1,134 @@
+[
+ {
+  "type": "text",
+  "text": "KDD ’22, August 14–18, 2022, Washington, DC, USA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Birgit Pfitzmann, Christoph Auer, Michele Dolfi, Ahmed S. Nassar, and Peter Staar",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>human</th><th colspan=\"2\">MRCNN</th><th>FRCNN</th><th>YOLO</th></tr><tr><th></th><th></th><th>R50</th><th>R101</th><th>R101</th><th>v5x6</th></tr><tr><td>Caption</td><td>84-89</td><td>68.4</td><td>71.5</td><td>70.1</td><td>77.7</td></tr><tr><td>Footnote</td><td>83-91</td><td>70.9</td><td>71.8</td><td>73.7</td><td>77.2</td></tr><tr><td>Formula</td><td>83-85</td><td>60.1</td><td>63.4</td><td>63.5</td><td>66.2</td></tr><tr><td>List-item</td><td>87-88</td><td>81.2</td><td>80.8</td><td>81.0</td><td>86.2</td></tr><tr><td>Page-footer</td><td>93-94</td><td>61.6</td><td>59.3</td><td>58.9</td><td>61.1</td></tr><tr><td>Page-header</td><td>85-89</td><td>71.9</td><td>70.0</td><td>72.0</td><td>67.9</td></tr><tr><td>Picture</td><td>69-71</td><td>71.7</td><td>72.7</td><td>72.0</td><td>77.1</td></tr><tr><td>Section-header</td><td>83-84</td><td>67.6</td><td>69.3</td><td>68.4</td><td>74.6</td></tr><tr><td>Table</td><td>77-81</td><td>82.2</td><td>82.9</td><td>82.2</td><td>86.3</td></tr><tr><td>Text</td><td>84-86</td><td>84.6</td><td>85.8</td><td>85.4</td><td>88.1</td></tr><tr><td>Title</td><td>60-72</td><td>76.7</td><td>80.4</td><td>79.9</td><td>82.7</td></tr><tr><td>All</td><td>82-83</td><td>72.4</td><td>73.5</td><td>73.4</td><td>76.8</td></tr></table>",
+  "table_caption": "Table 2: Prediction performance (mAP@0.5-0.95) of object detection networks on DocLayNet test set. The MRCNN (Mask R-CNN) and FRCNN (Faster R-CNN) models with ResNet-50 or ResNet-101 backbone were trained based on the network architectures from the detectron2 model zoo (Mask R-CNN R50, R101-FPN 3x, Faster R-CNN R101-FPN 3x), with default configurations. The YOLO implementation utilized was YOLOv5x6 [13]. All models were initialised us- ing pre-trained weights from the COCO 2017 dataset.",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; src=Table; caption tebal di atas tabel, 'detectron2' italic; header dua baris: 'FRCNN'/'R101' dan 'YOLO'/'v5x6' bertumpuk per kolom, sel header kosong <th></th>; baris All dipisah garis; hyphen: 'us-/ing'"
+ },
+ {
+  "type": "text",
+  "text": "to avoid this at any cost in order to have clear, unbiased baseline numbers for human document-layout annotation. Third, we in- troduced the feature of snapping boxes around text segments to obtain a pixel-accurate annotation and again reduce time and effort. The CCS annotation tool automatically shrinks every user-drawn box to the minimum bounding-box around the enclosed text-cells for all purely text-based segments, which excludes only Table and Picture. For the latter, we instructed annotation staff to minimise inclusion of surrounding whitespace while including all graphical lines. A downside of snapping boxes to enclosed text cells is that some wrongly parsed PDF pages cannot be annotated correctly and need to be skipped. Fourth, we established a way to flag pages as rejected for cases where no valid annotation according to the label guidelines could be achieved. Example cases for this would be PDF pages that render incorrectly or contain layouts that are impossible to capture with non-overlapping rectangles. Such rejected pages are not contained in the final dataset. With all these measures in place, experienced annotation staff managed to annotate a single page in a typical timeframe of 20s to 60s, depending on its complexity.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan; 'snapping', 'Table', 'Picture', 'rejected' italic; hyphen: 'in-/troduced'"
+ },
+ {
+  "type": "text",
+  "text": "5 EXPERIMENTS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "The primary goal of DocLayNet is to obtain high-quality ML models capable of accurate document-layout analysis on a wide variety of challenging layouts. As discussed in Section 2, object detection models are currently the easiest to use, due to the standardisation of ground-truth data in COCO format [16] and the availability of general frameworks such as detectron2 [17]. Furthermore, baseline numbers in PubLayNet and DocBank were obtained using standard object detection models such as Mask R-CNN and Faster R-CNN. As such, we will relate to these object detection methods in this paper and leave the detailed evaluation of more recent methods mentioned in Section 2 for future work.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'detectron2' italic; lintas_kolom"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 5: Prediction performance (mAP@0.5-0.95) of a Mask R-CNN network with ResNet50 backbone trained on increas- ing fractions of the DocLayNet dataset. The learning curve flattens around the 80% mark, indicating that increasing the size of the DocLayNet dataset with similar data will not yield significantly better predictions.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; src=Picture; grafik garis dengan inset sumbu-x logaritmik; pita biru horizontal dan batang galat merah tanpa teks; caption tebal; hyphen: 'increas-/ing'"
+ },
+ {
+  "type": "text",
+  "text": "mAP 0.50:0.95",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu y (vertikal); vertikal"
+ },
+ {
+  "type": "text",
+  "text": "50 55 60 65 70",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai sumbu y grafik utama"
+ },
+ {
+  "type": "text",
+  "text": "0 20 40 60 80 100",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai sumbu x grafik utama"
+ },
+ {
+  "type": "text",
+  "text": "% of DocLayNet training set",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "50 55 60 65 70",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai sumbu y inset"
+ },
+ {
+  "type": "text",
+  "text": "101 102",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai sumbu x inset (log); eksponen ditulis rata sesuai lapisan teks ('101'/'102')"
+ },
+ {
+  "type": "text",
+  "text": "In this section, we will present several aspects related to the performance of object detection models on DocLayNet. Similarly as in PubLayNet, we will evaluate the quality of their predictions using mean average precision (mAP) with 10 overlaps that range from 0.5 to 0.95 in steps of 0.05 (mAP@0.5-0.95). These scores are computed by leveraging the evaluation code provided by the COCO API [16].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Baselines for Object Detection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; subseksi tanpa nomor",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "In Table 2, we present baseline experiments (given in mAP) on Mask R-CNN [12], Faster R-CNN [11], and YOLOv5 [13]. Both training and evaluation were performed on RGB images with dimensions of 1025×1025 pixels. For training, we only used one annotation in case of redundantly annotated pages. As one can observe, the variation in mAP between the models is rather low, but overall between 6 and 10% lower than the mAP computed from the pairwise human annotations on triple-annotated pages. This gives a good indication that the DocLayNet dataset poses a worthwhile challenge for the research community to close the gap between human recognition and ML approaches. It is interesting to see that Mask R-CNN and Faster R-CNN produce very comparable mAP scores, indicating that pixel-based image segmentation derived from bounding-boxes does not help to obtain better predictions. On the other hand, the more recent Yolov5x model does very well and even out-performs humans on selected labels such as Text, Table and Picture. This is not entirely surprising, as Text, Table and Picture are abundant and the most visually distinctive in a document.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Text', 'Table', 'Picture' italic"
+ }
+]

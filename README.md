@@ -10,6 +10,7 @@ dan menghitung metrik dilakukan di luar folder `data/`.
 |---|---|---|---|
 | Dokumen Indonesia `ID01–ID25`: laporan keuangan, peraturan, formulir, jurnal, dek, infografis | 174 (158 digital, 16 scan nyata), 104 tabel | diverifikasi manusia (`verif:…`) | `null` |
 | DP-Bench `DPB…` (Upstage, Inggris/Korea) | 200, 55 tabel | GT manusia DP-Bench | ada |
+| Dokumen uji awal `UA01–UA16`: paper arXiv/IEEE, file uji tabel, scan faks dan surat (Inggris, 1 Spanyol) | 73 (61 digital, 12 scan) | diverifikasi manusia (`verif:…`) | `null` |
 | Varian scan sintetis `clean300`, `office150`, `lowres96`, `fax_skew` | 60 halaman DP-Bench × 4 | ikut halaman sumber | ikut sumber, kecuali `fax_skew` |
 
 ## Struktur
@@ -21,7 +22,7 @@ data/
   pages/             halaman uji, satu PDF per halaman: <doc_id>_p<NNN>.pdf
   gt/                GT per halaman: <doc_id>_p<NNN>.json
   scans/<profil>/    varian scan sintetis: <page_id>.pdf (GT-nya data/gt/<page_id>.json)
-  documents/         PDF utuh dokumen Indonesia, untuk uji dokumen panjang, latency, throughput
+  documents/         PDF utuh (ID01–ID25, UA01–UA16), untuk uji dokumen panjang, latency, throughput
   download_log.csv   asal unduhan dokumen Indonesia (sha256)
   NOTICE_DPBENCH.md  lisensi DP-Bench
 docs/ANOTASI.md      standar GT: skema, aturan isi, keputusan anotasi
@@ -41,7 +42,9 @@ scripts/             alat pemeliharaan dataset (tidak dibutuhkan untuk menguji p
    Catat versi tool dan pengaturannya (OCR on/off, model, bahasa) di `predictions/<tool>/README.md`.
 3. **Jangan mengubah apa pun di `data/`.** Kalau menemukan GT yang salah, catat `page_id`, nomor elemen, dan
    koreksinya, lalu laporkan ke pengelola dataset.
-4. **Laporkan skor terpisah** per sumber (`id` / `dpbench`) dan per modality. Skor scan sintetis jangan
+4. **Laporkan skor terpisah** per sumber (`id` / `dpbench` / `uji_awal`) dan per modality. Pakai hanya halaman
+   dengan `gt_status` diawali `verif:`. Lihat juga kolom `risiko`: beberapa dokumen `UA` ditulis tim Docling atau
+   berasal dari test suite publik, sehingga skornya bisa bias. Skor scan sintetis jangan
    dicampur dengan scan nyata.
 
 ## Format GT (ringkas)

@@ -170,6 +170,24 @@ Acuan: `ID01_p003.json` (slide berupa gambar), `ID04_p002.json` (newsletter/info
     di dalam kolom (±14 pt) = 3. Kicker kecil di atas judul artikel digabung dengan judulnya.
 - **Kotak sorotan/angka besar** (mis. "5,11%" + keterangan) → `text`. Kotak yang merupakan bagian dari grafik → `in_figure: true`.
 
+## Keputusan untuk dokumen uji awal `UA..` (14 Nov 2026)
+
+Paper berbahasa Inggris (UA01–UA07), file uji tabel (UA08–UA11), dan scan (UA12–UA16).
+
+- **Skala heading paper** sama dengan jurnal: judul 1, seksi utama (Abstract, `1 Introduction`, References) 2,
+  subseksi 3, sub-subseksi 4. Heading tebal yang sebaris dengan paragraf (mis. `Acknowledgements`) tetap bagian paragraf.
+- **Surat dan paket instruksi (UA16)**: judul dokumen atau halaman 1, judul bagian 2.
+- **Stempel arXiv vertikal** di tepi kiri → `text` furniture, selalu elemen pertama.
+- **Catatan kaki** → `text`, `gt_note: footnote`. Angka superskrip penanda ditulis sebagai angka biasa.
+- **Kode/listing** → satu `text` per blok, baris dipisah `\n`, `gt_note: kode`, tanpa nomor baris di margin.
+- **Matematika inline** (di teks dan sel tabel) ditulis rata mengikuti lapisan teks: subskrip/superskrip jadi
+  karakter biasa tanpa markup dan tanpa superskrip Unicode (`10−9`, `O(n2 · d)`, `β1`). Persamaan display ditulis
+  LaTeX. Parser yang mengeluarkan LaTeX inline (`$10^{-9}$`) perlu dinormalisasi dulu sebelum dibandingkan.
+- **Small caps** ditulis kapital penuh sesuai lapisan teks.
+- **Gambar berisi cuplikan halaman/screenshot** → satu `image`; teks di dalamnya yang terlalu kecil tidak ditranskripsi
+  (dicatat di `gt_note`).
+- **UA13 (linn) dan UA14 (skew)** memakai GT yang sama dengan UA12 (ccitt), karena isinya sama.
+
 ## `gt_note`
 
 Daftar penanda dipisah `; `. Penanda pertama adalah status: `draf_model` atau `verif:<siapa>:<tanggal>`. Contoh:

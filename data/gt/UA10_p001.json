@@ -1,0 +1,28 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>1</td><td>Ghfhbdhj</td><td>1</td><td>Hgfdhgjsdhjdsf</td></tr><tr><td>Vgvhgh</td><td>Hj</td><td>Hj</td><td>Hj</td></tr><tr><td>Hj</td><td>Hj</td><td>Hj</td><td>Hj</td></tr><tr><td>Hj</td><td>Hj</td><td>J</td><td>Hj</td></tr><tr><td>V</td><td>C</td><td>D</td><td>Gfhj</td></tr><tr><td>Hjb</td><td>B</td><td>Jhbh</td><td>Hj</td></tr><tr><td>Hjdhshj</td><td>Hjhjhh</td><td>Ddnj</td><td>dsxv</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; teks acak disalin verbatim; tidak ada baris header yang dibedakan secara visual, semua sel <td>"
+ },
+ {
+  "type": "text",
+  "text": "Jhghffjhhsdjhhfds bfsdjhgfuhsdag bfhwdwggfuywegayauf654378uerbjfdnbv xc chbjfgcx ndsf dfsbhjdsfyugtvhd cvxhbj tf67sdfyuehjgdsbjvzdnbxc m chjviuxiudsjhbvsd nvds cghxc yguvsdbhjvdsn svd nvjhzhgvdzbdszvnb dvzsnbdvzhvdzvhjds vb cxhgcxvbsdf dvz xvbhjx chjvx ndv",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks acak disalin verbatim; spasi ganda di sumber diringkas"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>Trtrt</td><td>H</td><td>Gh</td></tr><tr><td>Gh</td><td>V</td><td>Hv</td></tr><tr><td>Hv</td><td>Bhjb</td><td>hg</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; teks acak disalin verbatim; semua sel <td>"
+ }
+]

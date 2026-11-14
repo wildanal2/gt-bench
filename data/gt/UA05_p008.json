@@ -1,0 +1,19 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 3: Page 6 of the DocLayNet paper. If recognized, metadata such as authors are appearing first under the title. Elements recognized as page headers or footers are suppressed in Markdown to deliver uninterrupted content in reading order. Tables are inserted in reading order. The paragraph in ”5. Experiments” wrapping over the column end is broken up in two and interrupted by the table.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; gambar halaman: kiri halaman 6 PDF DocLayNet (tabel, grafik, teks dua kolom), kanan hasil Markdown; teks, tabel, dan grafik di dalam gambar terlalu kecil/banyak, tidak ditranskripsi; tanda kutip pembuka '”' di caption disalin apa adanya"
+ },
+ {
+  "type": "text",
+  "text": "8",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

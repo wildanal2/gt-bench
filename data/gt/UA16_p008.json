@@ -1,0 +1,139 @@
+[
+ {
+  "type": "text",
+  "text": "Shipping Instructions",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul halaman bergaris bawah",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per U.S. Environmental Protection Agency requirements, public water samples must be received by the laboratory and tested within 30 hours of the date and time of collection. The MSPHL and MDNR recommend you use the free Department of Health and Senior Services (DHSS) contract courier for overnight delivery to the MSPHL. This courier picks up at most local public health agency offices and hospitals (Note: Not all hospitals will accept water samples for courier pick up). For sample drop off locations and times, please go to http://www.health.mo.gov/lab/courierservices.php and click on the interactive map or the listing of drop off locations by county; or you may call the MSPHL courier liaison at (573) 751-4830, or the MDNR Public Drinking Water Branch (PDWB) at (573) 526-1124.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dua kalimat pertama tebal"
+ },
+ {
+  "type": "text",
+  "text": "Please note the courier is allowed to pick up samples within one hour of the scheduled time (before or after). The earliest pick up time is at 10:30 a.m. To ensure your samples meet the transit time requirement of 30 hours, it is important that you collect your samples in the morning and have them dropped off at the courier pickup point one hour prior to the scheduled time.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat pertama tebal"
+ },
+ {
+  "type": "text",
+  "text": "Use of the U.S. Postal Service or other commercial carriers such as Fed Ex or UPS will require additional charges and may not meet the 30 hour transit time requirement.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Samples should not be en route to the laboratory over a weekend or state holiday (New Year’s Day, Martin Luther King Day, Lincoln’s Birthday, Washington’s Birthday, Truman’s Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veteran’s Day, Thanksgiving Day, and Christmas.)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "Public water supplies may use the new MSPHL Test Results Web Portal to retrieve preliminary test results on-line. For information on how to register as a user for the web portal and to receive email notifications, please contact the MSPHL LIMS Administrator at shondra.johnson@health.mo.gov or call 573-751-3334. These preliminary test results are for informational purposes only. Official test results are available on-line within 2 or 3 business days at the MDNR Drinking Water Watch website http://dnr.mo.gov/DWW/. In addition, the official bacteriological sample reports will be mailed by MDNR within 4 or 5 business days.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "Additional sample bottles can be ordered on-line at http://www.health.mo.gov/lab/specimentestforms.php or by calling the MSPHL Central Services Unit at (573) 751-4830.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sometimes in spite of taking all of the precautions you may get a call from MDNR or results by mail notifying you that coliform or E. coli bacteria are present in your water. You will be given specific instructions that may include collection of repeat samples to confirm that the first routine sample was not a sampling error. Please call the MDNR Regional Office staff and they will discuss the procedure with you. See contact information below.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'E. coli' miring"
+ },
+ {
+  "type": "text",
+  "text": "For more information about public water systems, contact the MDNR Public Drinking Water Branch at (573) 751-5331 or your MDNR Regional Office (counties within each region are listed at http://dnr.mo.gov/regions/index.html) or visit www.dnr.mo.gov/env/wpp/dw-index.html:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; URL terpotong di akhir baris setelah 'dw-' ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Missouri Department of Natural Resources Division of Environmental Quality Water Protection Program Public Drinking Water Branch P.O. Box 176 Jefferson City, Missouri 65102 573-751-5331",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; blok alamat rata tengah; 7 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Kansas City Regional Office Department of Natural Resources 500 NE Colbern Road Lee’s Summit, MO 64086-4710 (816) 251-0700",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; blok alamat; 5 baris digabung; urutan baris pertama kiri ke kanan"
+ },
+ {
+  "type": "text",
+  "text": "Northeast Regional Office Department of Natural Resources 1709 Prospect Drive Macon, MO 63552-1930 (660) 385-6000",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; blok alamat; 5 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Southeast Regional Office Department of Natural Resources 2155 North Westwood Blvd. Poplar Bluff, MO 63901-1420 (573) 840-9750",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; blok alamat; 5 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Southwest Regional Office Department of Natural Resources 2040 West Woodland Springfield, MO 65807-5912 (417) 891-4300",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; blok alamat; 5 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "St. Louis Regional Office Department of Natural Resources 7545 South Lindbergh, Suite 210 St. Louis, MO 63125 (314) 416-2960",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; blok alamat; 5 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Page 4 of 4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "LAB 34 Public Water (R10-2015)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kode dokumen"
+ }
+]

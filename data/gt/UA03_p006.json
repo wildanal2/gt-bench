@@ -1,0 +1,180 @@
+[
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Z. Shen et al.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 2: The relationship between the three types of layout data structures. Coordinate supports three kinds of variation; TextBlock consists of the co- ordinate information and extra features like block text, types, and reading orders; a Layout object is a list of all possible layout elements, including other Layout objects. They all support the same set of transformation and operation APIs for maximum flexibility.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram struktur data (raster, tanpa lapisan teks); label kecil di panel Coordinate (start, end, (x1, y1), (x2, y2), (x3, y3), (x4, y4)) terlalu kecil pada ukuran cetak, tidak ditranskripsi; tanda '+' dan '...' dekoratif tidak ditulis; label vertikal ditulis normal; caption: hyphen 'co- ordinate' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Coordinate",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "x-interval",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "y-interval",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "Rectangle",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Quadrilateral",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "textblock",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "Coordinate",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Extra features",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Block Text",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Block Type",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Reading Order",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "layout",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "[ coordinate1 , textblock1 , ...",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; dicek: spasi di sekitar koma mengikuti tampilan"
+ },
+ {
+  "type": "text",
+  "text": "..., textblock2 , layout1 ]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; dicek: spasi di sekitar koma mengikuti tampilan"
+ },
+ {
+  "type": "text",
+  "text": "A list of the layout elements",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "The same transformation and operation APIs",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; vertikal; label di sisi kanan, ditaruh terakhir"
+ },
+ {
+  "type": "text",
+  "text": "Shown in Table 1, LayoutParser currently hosts 9 pre-trained models trained on 5 different datasets. Description of the training dataset is provided alongside with the trained models such that users can quickly identify the most suitable models for their tasks. Additionally, when such a model is not readily available, LayoutParser also supports training customized layout models and community sharing of the models (detailed in Section 3.5).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.2 Layout Data Structures",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "A critical feature of LayoutParser is the implementation of a series of data structures and operations that can be used to efficiently process and manipulate the layout elements. In document image analysis pipelines, various post-processing on the layout analysis model outputs is usually required to obtain the final outputs. Traditionally, this requires exporting DL model outputs and then loading the results into other pipelines. All model outputs from LayoutParser will be stored in carefully engineered data types optimized for further processing, which makes it possible to build an end-to-end document digitization pipeline within LayoutParser. There are three key components in the data structure, namely the Coordinate system, the TextBlock, and the Layout. They provide different levels of abstraction for the layout data, and a set of APIs are supported for transformations or operations on these classes.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ }
+]

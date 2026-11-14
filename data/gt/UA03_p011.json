@@ -1,0 +1,172 @@
+[
+ {
+  "type": "text",
+  "text": "LayoutParser: A Unified Toolkit for DL-Based DIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "11",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "focuses on precision, efficiency, and robustness. The target documents may have complicated structures, and may require training multiple layout detection models to achieve the optimal accuracy. Light-weight pipelines are built for relatively simple documents, with an emphasis on development ease, speed and flexibility. Ideally one only needs to use existing resources, and model training should be avoided. Through two exemplar projects, we show how practitioners in both academia and industry can easily build such pipelines using LayoutParser and extract high-quality structured document data for their downstream tasks. The source code for these projects will be publicly available in the LayoutParser community hub.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "5.1 A Comprehensive Historical Document Digitization Pipeline",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "The digitization of historical documents can unlock valuable data that can shed light on many important social, economic, and historical questions. Yet due to scan noises, page wearing, and the prevalence of complicated layout structures, ob-taining a structured representation of historical document scans is often extremely complicated.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen"
+ },
+ {
+  "type": "text",
+  "text": "In this example, LayoutParser was used to develop a comprehensive pipeline, shown in Figure 5, to gener-ate high-quality structured data from historical Japanese firm financial ta-bles with complicated layouts. The pipeline applies two layout models to identify different levels of document structures and two customized OCR engines for optimized character recog-nition accuracy.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen; dicek: dimulai di baris baru tanpa indentasi setelah 'complicated.', dianggap paragraf baru (efek teks yang membungkus gambar)"
+ },
+ {
+  "type": "text",
+  "text": "As shown in Figure 4 (a), the document contains columns of text written vertically 15, a common style in Japanese. Due to scanning noise and archaic printing technology, the columns can be skewed or have vari-able widths, and hence cannot be eas-ily identified via rule-based methods. Within each column, words are sepa-rated by white spaces of variable size, and the vertical positions of objects can be an indicator of their layout type.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen; superskrip catatan kaki 15 ditulis sebagai angka biasa, spasi sebelumnya sesuai tampilan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 5: Illustration of how LayoutParser helps with the historical document digi-tization pipeline.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir di sisi kanan teks; ditempatkan setelah teks kolom kiri; caption hyphen"
+ },
+ {
+  "type": "text",
+  "text": "Annotate Layout Dataset",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Layout Detection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Post-processing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Text Recognition",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Visualization & Export",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "The Japanese Document Digitization Pipeline",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kolom; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Active Learning Layout Annotation Toolkit",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Deep Learning Layout Model Training & Inference",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Handy Data Structures & APIs for Layout Data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Default and Customized OCR Models",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Layout Structure Visualization & Storage",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Helpful LayoutParser Modules",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kolom; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "15 A document page consists of eight rows like this. For simplicity we skip the row segmentation discussion and refer readers to the source code when available.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote"
+ }
+]

@@ -1,0 +1,36 @@
+[
+ {
+  "type": "text",
+  "text": "Appendix",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "In this section, we illustrate a few examples of Docling’s output in Markdown and JSON.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 2: Title page of the DocLayNet paper (arxiv.org/pdf/2206.01062) - left PDF, right rendered Markdown. If recognized, metadata such as authors are appearing first under the title. Text content inside figures is currently dropped, the caption is retained and linked to the figure in the JSON representation (not shown).",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; gambar halaman: kiri halaman judul PDF DocLayNet, kanan hasil Markdown, dipisah garis vertikal; teks di dalam gambar (halaman tersemat, termasuk stempel arXiv-nya) terlalu kecil/banyak, tidak ditranskripsi; dicek: verifikator: dua panel bisa juga dianggap dua image"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

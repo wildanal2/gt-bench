@@ -1,0 +1,27 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">States-A</th><th colspan=\"2\">Revenue</th><th colspan=\"2\">Capital</th><th rowspan=\"2\">Total Revenue &amp; Capital</th><th rowspan=\"2\">Others(1)</th><th rowspan=\"2\">Total</th></tr><tr><th>Medical &amp; Public Health</th><th>Family Welfare</th><th>Medical &amp; Public Health</th><th>Family Welfare</th></tr><tr><td>Andhra Pradesh</td><td>47,824,589</td><td>9,967,837</td><td>1,275,000</td><td>15,000</td><td>59,082,426</td><td>14,898,243</td><td>73,980,669</td></tr><tr><td>Arunachal Pradesh</td><td>2,241,609</td><td>107,549</td><td>23,000</td><td>0</td><td>2,372,158</td><td>86,336</td><td>2,458,494</td></tr><tr><td>Assam</td><td>14,874,821</td><td>2,554,197</td><td>161,600</td><td>0</td><td>17,590,618</td><td>4,408,505</td><td>21,999,123</td></tr><tr><td>Bihar</td><td>21,016,708</td><td>4,332,141</td><td>5,329,000</td><td>0</td><td>30,677,849</td><td>2,251,571</td><td>32,929,420</td></tr><tr><td>Chhattisgarh</td><td>11,427,311</td><td>1,415,660</td><td>2,366,592</td><td>0</td><td>15,209,563</td><td>311,163</td><td>15,520,726</td></tr><tr><td>Delhi</td><td>28,084,780</td><td>411,700</td><td>4,550,000</td><td>0</td><td>33,046,480</td><td>5,000</td><td>33,051,480</td></tr><tr><td>Goa</td><td>4,055,567</td><td>110,000</td><td>330,053</td><td>0</td><td>4,495,620</td><td>12,560</td><td>4,508,180</td></tr><tr><td>Gujarat</td><td>26,328,400</td><td>6,922,900</td><td>12,664,000</td><td>42,000</td><td>45,957,300</td><td>455,860</td><td>46,413,160</td></tr><tr><td>Haryana</td><td>15,156,681</td><td>1,333,527</td><td>40,100</td><td>0</td><td>16,530,308</td><td>1,222,698</td><td>17,753,006</td></tr><tr><td>Himachal Pradesh</td><td>8,647,229</td><td>1,331,529</td><td>580,800</td><td>0</td><td>10,559,558</td><td>725,315</td><td>11,284,873</td></tr><tr><td>Jammu &amp; Kashmir</td><td>14,411,984</td><td>270,840</td><td>3,188,550</td><td>0</td><td>17,871,374</td><td>166,229</td><td>18,037,603</td></tr><tr><td>Jharkhand</td><td>8,185,079</td><td>3,008,077</td><td>3,525,558</td><td>0</td><td>14,718,714</td><td>745,139</td><td>15,463,853</td></tr><tr><td>Karnataka</td><td>34,939,843</td><td>4,317,801</td><td>3,669,700</td><td>0</td><td>42,927,344</td><td>631,088</td><td>43,558,432</td></tr><tr><td>Kerala</td><td>27,923,965</td><td>3,985,473</td><td>929,503</td><td>0</td><td>32,838,941</td><td>334,640</td><td>33,173,581</td></tr><tr><td>Madhya Pradesh</td><td>28,459,540</td><td>4,072,016</td><td>3,432,711</td><td>0</td><td>35,964,267</td><td>472,139</td><td>36,436,406</td></tr><tr><td>Maharashtra</td><td>55,011,100</td><td>6,680,721</td><td>5,038,576</td><td>0</td><td>66,730,397</td><td>313,762</td><td>67,044,159</td></tr><tr><td>Manipur</td><td>2,494,600</td><td>187,700</td><td>897,400</td><td>0</td><td>3,579,700</td><td>0</td><td>3,579,700</td></tr><tr><td>Meghalaya</td><td>2,894,093</td><td>342,893</td><td>705,500</td><td>5,000</td><td>3,947,486</td><td>24,128</td><td>3,971,614</td></tr><tr><td>Mizoram</td><td>1,743,501</td><td>84,185</td><td>10,250</td><td>0</td><td>1,837,936</td><td>17,060</td><td>1,854,996</td></tr><tr><td>Nagaland</td><td>2,368,724</td><td>204,329</td><td>226,400</td><td>0</td><td>2,799,453</td><td>783,054</td><td>3,582,507</td></tr><tr><td>Odisha</td><td>14,317,179</td><td>2,552,292</td><td>1,107,250</td><td>0</td><td>17,976,721</td><td>451,438</td><td>18,428,159</td></tr><tr><td>Puducherry</td><td>4,191,757</td><td>52,249</td><td>192,400</td><td>0</td><td>4,436,406</td><td>2,173</td><td>4,438,579</td></tr><tr><td>Punjab</td><td>19,775,485</td><td>2,208,343</td><td>2,470,882</td><td>0</td><td>24,454,710</td><td>1,436,522</td><td>25,891,232</td></tr></table>",
+  "table_caption": "Table: 5 Public Health Outlay 2012-13 (Budget Estimates) (Rs. in 000)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; baris judul berlatar biru di dalam bingkai tabel dimasukkan ke table_caption dicek: bisa juga judul text; superskrip '(1)' pada Others ditulis sebaris; & ditulis &amp;; catatan (1) tidak tercetak di halaman ini"
+ },
+ {
+  "type": "text",
+  "text": "Health Sector Financing by Centre and States/UTs in India [2009-10 to 2012-13](Revised)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer; '(Revised)' huruf kecil sebaris"
+ },
+ {
+  "type": "text",
+  "text": "P a g e |23",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman; huruf berjarak ditulis seperti lapisan teks"
+ }
+]

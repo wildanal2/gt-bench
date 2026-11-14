@@ -1,0 +1,156 @@
+[
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Z. Shen et al.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 1: The overall architecture of LayoutParser. For an input document image, the core LayoutParser library provides a set of off-the-shelf tools for layout detection, OCR, visualization, and storage, backed by a carefully designed layout data structure. LayoutParser also supports high level customization via efficient layout annotation and model training functions. These improve model accuracy on the target samples. The community platform enables the easy sharing of DIA models and whole digitization pipelines to promote reusability and reproducibility. A collection of detailed documentation, tutorials and exemplar projects make LayoutParser easy to learn and use.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram arsitektur; label dibaca baris demi baris kiri ke kanan; caption di lapisan teks 'Fig.1:' tanpa spasi, tampilan visual 'Fig. 1:'"
+ },
+ {
+  "type": "text",
+  "text": "Model Customization",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Document Images",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Community Platform",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Efficient Data Annotation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "DIA Model Hub",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Customized Model Training",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Layout Detection Models",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "DIA Pipeline Sharing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "OCR Module",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Layout Data Structure",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "Storage & Visualization",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "The Core LayoutParser Library",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram"
+ },
+ {
+  "type": "text",
+  "text": "AllenNLP [8] and transformers [34] have provided the community with complete DL-based support for developing and deploying models for general computer vision and natural language processing problems. LayoutParser, on the other hand, specializes specifically in DIA tasks. LayoutParser is also equipped with a community platform inspired by established model hubs such as Torch Hub [23] and TensorFlow Hub [1]. It enables the sharing of pretrained models as well as full document processing pipelines that are unique to DIA tasks.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "There have been a variety of document data collections to facilitate the development of DL models. Some examples include PRImA [3](magazine layouts), PubLayNet [38](academic paper layouts), Table Bank [18](tables in academic papers), Newspaper Navigator Dataset [16, 17](newspaper figure layouts) and HJDataset [31](historical Japanese document layouts). A spectrum of models trained on these datasets are currently available in the LayoutParser model zoo to support different use cases.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3 The Core LayoutParser Library",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "At the core of LayoutParser is an off-the-shelf toolkit that streamlines DL-based document image analysis. Five components support a simple interface with comprehensive functionalities: 1) The layout detection models enable using pre-trained or self-trained DL models for layout detection with just four lines of code. 2) The detected layout information is stored in carefully engineered",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'DL-/based' kata majemuk berhubung ditulis utuh; 'layout detection models' italic; berlanjut ke halaman berikutnya"
+ }
+]

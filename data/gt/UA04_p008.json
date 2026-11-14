@@ -1,0 +1,206 @@
+[
+ {
+  "type": "text",
+  "text": "KDD ’22, August 14–18, 2022, Washington, DC, USA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Birgit Pfitzmann, Christoph Auer, Michele Dolfi, Ahmed S. Nassar, and Peter Staar",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th></th><th colspan=\"3\">Testing on</th></tr><tr><th>Training on</th><th>labels</th><th>PLN</th><th>DB</th><th>DLN</th></tr><tr><td rowspan=\"5\">PubLayNet (PLN)</td><td>Figure</td><td>96</td><td>43</td><td>23</td></tr><tr><td>Sec-header</td><td>87</td><td>-</td><td>32</td></tr><tr><td>Table</td><td>95</td><td>24</td><td>49</td></tr><tr><td>Text</td><td>96</td><td>-</td><td>42</td></tr><tr><td>total</td><td>93</td><td>34</td><td>30</td></tr><tr><td rowspan=\"3\">DocBank (DB)</td><td>Figure</td><td>77</td><td>71</td><td>31</td></tr><tr><td>Table</td><td>19</td><td>65</td><td>22</td></tr><tr><td>total</td><td>48</td><td>68</td><td>27</td></tr><tr><td rowspan=\"5\">DocLayNet (DLN)</td><td>Figure</td><td>67</td><td>51</td><td>72</td></tr><tr><td>Sec-header</td><td>53</td><td>-</td><td>68</td></tr><tr><td>Table</td><td>87</td><td>43</td><td>82</td></tr><tr><td>Text</td><td>77</td><td>-</td><td>84</td></tr><tr><td>total</td><td>59</td><td>47</td><td>78</td></tr></table>",
+  "table_caption": "Table 5: Prediction Performance (mAP@0.5-0.95) of a Mask R-CNN R50 network across the PubLayNet, DocBank & Do- cLayNet data-sets. By evaluating on common label classes of each dataset, we observe that the DocLayNet-trained model has much less pronounced variations in performance across all datasets.",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; src=Table; caption tebal di atas tabel; 'Training on' tercetak di baris header kedua, sel di atasnya <th></th>; nama dataset pelatihan rowspan per kelompok; hyphen: 'Do-/cLayNet'"
+ },
+ {
+  "type": "text",
+  "text": "Section-header, Table and Text. Before training, we either mapped or excluded DocLayNet’s other labels as specified in table 3, and also PubLayNet’s List to Text. Note that the different clustering of lists (by list-element vs. whole list objects) naturally decreases the mAP score for Text.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan; nama label ('Section-header', 'Table', 'Text', 'List') italic"
+ },
+ {
+  "type": "text",
+  "text": "For comparison of DocBank with DocLayNet, we trained only on Picture and Table clusters of each dataset. We had to exclude Text because successive paragraphs are often grouped together into a single object in DocBank. This paragraph grouping is incompatible with the individual paragraphs of DocLayNet. As can be seen in Table 5, DocLayNet trained models yield better performance com- pared to the previous datasets. It is noteworthy that the models trained on PubLayNet and DocBank perform very well on their own test set, but have a much lower performance on the foreign datasets. While this also applies to DocLayNet, the difference is far less pronounced. Thus we conclude that DocLayNet trained models are overall more robust and will produce better results for challenging, unseen layouts.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Picture', 'Table', 'Text' italic; hyphen: 'com-/pared'"
+ },
+ {
+  "type": "text",
+  "text": "Example Predictions",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; subseksi tanpa nomor",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "To conclude this section, we illustrate the quality of layout predic- tions one can expect from DocLayNet-trained models by providing a selection of examples without any further post-processing ap- plied. Figure 6 shows selected layout predictions on pages from the test-set of DocLayNet. Results look decent in general across docu- ment categories, however one can also observe mistakes such as overlapping clusters of different classes, or entirely missing boxes due to low confidence.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'predic-/tions', 'ap-/plied.', 'docu-/ment'"
+ },
+ {
+  "type": "text",
+  "text": "6 CONCLUSION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "In this paper, we presented the DocLayNet dataset. It provides the document conversion and layout analysis research community a new and challenging dataset to improve and fine-tune novel ML methods on. In contrast to many other datasets, DocLayNet was created by human annotation in order to obtain reliable layout ground-truth on a wide variety of publication- and typesetting-styles. Including a large proportion of documents outside the scien- tific publishing domain adds significant value in this respect.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: 'publication- and typesetting-styles': 'typesetting-/styles' di akhir baris ditulis utuh; hyphen: 'typesetting-/styles.' majemuk ditulis utuh, 'scien-/tific'"
+ },
+ {
+  "type": "text",
+  "text": "From the dataset, we have derived on the one hand reference metrics for human performance on document-layout annotation (through double and triple annotations) and on the other hand eval- uated the baseline performance of commonly used object detection methods. We also illustrated the impact of various dataset-related aspects on model performance through data-ablation experiments, both from a size and class-label perspective. Last but not least, we compared the accuracy of models trained on other public datasets and showed that DocLayNet trained models are more robust.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'eval-/uated'"
+ },
+ {
+  "type": "text",
+  "text": "To date, there is still a significant gap between human and ML accuracy on the layout interpretation task, and we hope that this work will inspire the research community to close that gap.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "REFERENCES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "[1] Max Göbel, Tamir Hassan, Ermelinda Oro, and Giorgio Orsi. Icdar 2013 table competition. In 2013 12th International Conference on Document Analysis and Recognition, pages 1449–1453, 2013.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[2] Christian Clausner, Apostolos Antonacopoulos, and Stefan Pletschacher. Ic- dar2017 competition on recognition of documents with complex layouts - rdcl2017. In 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), volume 01, pages 1404–1410, 2017.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic; hyphen: 'Ic-/dar2017'"
+ },
+ {
+  "type": "text",
+  "text": "[3] Hervé Déjean, Jean-Luc Meunier, Liangcai Gao, Yilun Huang, Yu Fang, Florian Kleber, and Eva-Maria Lang. ICDAR 2019 Competition on Table Detection and Recognition (cTDaR), April 2019. http://sac.founderit.com/.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[4] Antonio Jimeno Yepes, Peter Zhong, and Douglas Burdick. Competition on scientific literature parsing. In Proceedings of the International Conference on Document Analysis and Recognition, ICDAR, pages 605–617. LNCS 12824, Springer-Verlag, sep 2021.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic; hyphen: 'Springer-/Verlag,' majemuk ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "[5] Logan Markewich, Hao Zhang, Yubin Xing, Navid Lambert-Shirzad, Jiang Zhexin, Roy Lee, Zhi Li, and Seok-Bum Ko. Segmentation for document layout analysis: not dead yet. International Journal on Document Analysis and Recognition (IJDAR), pages 1–11, 01 2022.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[6] Xu Zhong, Jianbin Tang, and Antonio Jimeno-Yepes. Publaynet: Largest dataset ever for document layout analysis. In Proceedings of the International Conference on Document Analysis and Recognition, ICDAR, pages 1015–1022, sep 2019.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[7] Minghao Li, Yiheng Xu, Lei Cui, Shaohan Huang, Furu Wei, Zhoujun Li, and Ming Zhou. Docbank: A benchmark dataset for document layout analysis. In Proceedings of the 28th International Conference on Computational Linguistics, COLING, pages 949–960. International Committee on Computational Linguistics, dec 2020.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[8] Riaz Ahmad, Muhammad Tanvir Afzal, and M. Qadir. Information extraction from pdf sources based on rule-based system using integrated formats. In SemWe- bEval@ESWC, 2016.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic; hyphen: 'SemWe-/bEval@ESWC,'"
+ },
+ {
+  "type": "text",
+  "text": "[9] Ross B. Girshick, Jeff Donahue, Trevor Darrell, and Jitendra Malik. Rich feature hierarchies for accurate object detection and semantic segmentation. In IEEE Conference on Computer Vision and Pattern Recognition, CVPR, pages 580–587. IEEE Computer Society, jun 2014.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[10] Ross B. Girshick. Fast R-CNN. In 2015 IEEE International Conference on Computer Vision, ICCV, pages 1440–1448. IEEE Computer Society, dec 2015.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[11] Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun. Faster r-cnn: Towards real-time object detection with region proposal networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(6):1137–1149, 2017.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[12] Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross B. Girshick. Mask R-CNN. In IEEE International Conference on Computer Vision, ICCV, pages 2980–2988. IEEE Computer Society, Oct 2017.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding/jurnal italic"
+ },
+ {
+  "type": "text",
+  "text": "[13] Glenn Jocher, Alex Stoken, Ayush Chaurasia, Jirka Borovec, NanoCode012, TaoXie, Yonghye Kwon, Kalen Michael, Liu Changyu, Jiacong Fang, Abhiram V, Laughing, tkianai, yxNONG, Piotr Skalski, Adam Hogan, Jebastin Nadar, imyhxy, Lorenzo Mammana, Alex Wang, Cristi Fati, Diego Montes, Jan Hajek, Laurentiu",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; berlanjut ke halaman berikutnya"
+ }
+]

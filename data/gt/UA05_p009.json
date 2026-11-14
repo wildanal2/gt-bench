@@ -1,0 +1,51 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 4: Table 1 from the DocLayNet paper in the original PDF (A), as rendered Markdown (B) and in JSON representation (C). Spanning table cells, such as the multi-column header ”triple inter-annotator mAP@0.5-0.95 (%)”, is repeated for each column in the Markdown representation (B), which guarantees that every data point can be traced back to row and column headings only by its grid coordinates in the table. In the JSON representation, the span information is reflected in the fields of each table cell (C).",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; gambar tiga panel: A tabel PDF asli, B tabel Markdown ter-render, C screenshot JSON editor; isi tabel panel A dan B tidak ditranskripsi (tabel di dalam gambar; B terlalu kecil); dicek: verifikator: panel A cukup terbaca pada ukuran cetak, bisa dipertimbangkan sebagai teks/tabel in_figure; tanda kutip pembuka '”' di caption disalin apa adanya; hyphen: 'inter-/annotator' kata majemuk berhubung ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "A",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "B",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "C",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "\"tables\": [\n{\n\"#-cols\": 12,\n\"#-rows\": 14,\n\"data\": [\n{\n\"bbox\": [\n329.04998779296875,\n643.40185546875,\n483.39764404296875,\n651.7764892578125\n],\n\"spans\": […\n],\n\"text\": \"triple inter-annotator mAP @ 0.5-0.95 (%)\",\n\"col\": 5,\n\"col-span\": [5,12],\n\"row\": 0,\n\"row-span\": [0,1]\n},\n# ...\n]}]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kode; isi screenshot JSON panel C; nomor baris editor (2-35) dan ikon lipat tidak ditulis; indentasi tidak dipertahankan; '[…]' = penanda lipatan editor, ditulis '…'"
+ },
+ {
+  "type": "text",
+  "text": "9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

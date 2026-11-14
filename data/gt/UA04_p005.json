@@ -1,0 +1,179 @@
+[
+ {
+  "type": "text",
+  "text": "DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "KDD ’22, August 14–18, 2022, Washington, DC, USA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "the textual content of an element, which goes beyond visual layout recognition, in particular outside the Scientific Articles category.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan; 'Scientific Articles' italic"
+ },
+ {
+  "type": "text",
+  "text": "At first sight, the task of visual document-layout interpretation appears intuitive enough to obtain plausible annotations in most cases. However, during early trial-runs in the core team, we ob- served many cases in which annotators use different annotation styles, especially for documents with challenging layouts. For ex- ample, if a figure is presented with subfigures, one annotator might draw a single figure bounding-box, while another might annotate each subfigure separately. The same applies for lists, where one might annotate all list items in one block or each list item sep- arately. In essence, we observed that challenging layouts would be annotated in different but plausible ways. To illustrate this, we show in Figure 4 multiple examples of plausible but inconsistent annotations on the same pages.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'ob-/served', 'ex-/ample,', 'sep-/arately.'"
+ },
+ {
+  "type": "text",
+  "text": "Obviously, this inconsistency in annotations is not desirable for datasets which are intended to be used for model training. To min- imise these inconsistencies, we created a detailed annotation guide- line. While perfect consistency across 40 annotation staff members is clearly not possible to achieve, we saw a huge improvement in annotation consistency after the introduction of our annotation guideline. A few selected, non-trivial highlights of the guideline are:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'min-/imise', 'guide-/line.'"
+ },
+ {
+  "type": "text",
+  "text": "(1) Every list-item is an individual object instance with class label List-item. This definition is different from PubLayNet and DocBank, where all list-items are grouped together into one List object.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; 'List-item', 'List' italic"
+ },
+ {
+  "type": "text",
+  "text": "(2) A List-item is a paragraph with hanging indentation. Single-line elements can qualify as List-item if the neighbour ele- ments expose hanging indentation. Bullet or enumeration symbols are not a requirement.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; 'List-item' italic; hyphen: 'Single-/line' majemuk ditulis utuh, 'ele-/ments'"
+ },
+ {
+  "type": "text",
+  "text": "(3) For every Caption, there must be exactly one corresponding Picture or Table.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; 'Caption', 'Picture', 'Table' italic"
+ },
+ {
+  "type": "text",
+  "text": "(4) Connected sub-pictures are grouped together in one Picture object.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; 'Picture' italic"
+ },
+ {
+  "type": "text",
+  "text": "(5) Formula numbers are included in a Formula object.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; 'Formula' italic"
+ },
+ {
+  "type": "text",
+  "text": "(6) Emphasised text (e.g. in italic or bold) at the beginning of a paragraph is not considered a Section-header, unless it appears exclusively on its own line.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; 'Section-header' italic"
+ },
+ {
+  "type": "text",
+  "text": "The complete annotation guideline is over 100 pages long and a detailed description is obviously out of scope for this paper. Never- theless, it will be made publicly available alongside with DocLayNet for future reference.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'Never-/theless,'"
+ },
+ {
+  "type": "text",
+  "text": "Phase 3: Training. After a first trial with a small group of peo- ple, we realised that providing the annotation guideline and a set of random practice pages did not yield the desired quality level for lay- out annotation. Therefore we prepared a subset of pages with two different complexity levels, each with a practice and an exam part. 974 pages were reference-annotated by one proficient core team member. Annotation staff were then given the task to annotate the same subsets (blinded from the reference). By comparing the an- notations of each staff member with the reference annotations, we could quantify how closely their annotations matched the reference. Only after passing two exam levels with high annotation quality, staff were admitted into the production phase. Practice iterations were carried out over a timeframe of 12 weeks, after which 8 of the 40 initially allocated annotators did not pass the bar.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Phase 3: Training.' heading paragraf inline tebal; lintas_kolom; hyphen: 'peo-/ple,', 'lay-/out', 'an-/notations'"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 4: Examples of plausible annotation alternatives for the same page. Criteria in our annotation guideline can re- solve cases A to C, while the case D remains ambiguous.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; src=Picture; 4 baris contoh (A-D) halaman beranotasi kiri vs kanan; teks halaman contoh terlalu kecil, tidak ditranskripsi; dicek: string hash kecil di bawah tiap baris contoh (ada di lapisan teks, mis. '1ef23f5e…') terlalu kecil pada ukuran cetak, tidak dicatat; caption tebal; hyphen: 're-/solve'"
+ },
+ {
+  "type": "text",
+  "text": "Compliant with guidelines",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul kolom kiri gambar"
+ },
+ {
+  "type": "text",
+  "text": "Plausible but invalid alternative",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul kolom kanan gambar"
+ },
+ {
+  "type": "text",
+  "text": "A",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label baris"
+ },
+ {
+  "type": "text",
+  "text": "B",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label baris"
+ },
+ {
+  "type": "text",
+  "text": "C",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label baris"
+ },
+ {
+  "type": "text",
+  "text": "D",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label baris"
+ },
+ {
+  "type": "text",
+  "text": "Borderline case: Two guideline-compliant alternatives",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul baris D"
+ },
+ {
+  "type": "text",
+  "text": "Phase 4: Production annotation. The previously selected 80K pages were annotated with the defined 11 class labels by 32 annota- tors. This production phase took around three months to complete. All annotations were created online through CCS, which visualises the programmatic PDF text-cells as an overlay on the page. The page annotation are obtained by drawing rectangular bounding-boxes, as shown in Figure 3. With regard to the annotation practices, we implemented a few constraints and capabilities on the tooling level. First, we only allow non-overlapping, vertically oriented, rectangu- lar boxes. For the large majority of documents, this constraint was sufficient and it speeds up the annotation considerably in compar- ison with arbitrary segmentation shapes. Second, annotator staff were not able to see each other’s annotations. This was enforced by design to avoid any bias in the annotation, which could skew the numbers of the inter-annotator agreement (see Table 1). We wanted",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Phase 4: Production annotation.' heading paragraf inline tebal; berlanjut ke halaman berikutnya; hyphen: 'annota-/tors.', 'rectangu-/lar', 'compar-/ison'"
+ }
+]

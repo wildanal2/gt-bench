@@ -1,0 +1,300 @@
+[
+ {
+  "type": "text",
+  "text": "Bacteriological Sample Collection Procedures",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul halaman bergaris bawah",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Assemble all of the sampling supplies. Before you begin, wash your hands thoroughly before handling supplies. Go to the sampling location(s) specified in your Missouri Department of Natural Resources (MDNR) approved sampling site plan. The sample should be taken from a clean, smooth-nosed cold water faucet if possible. Avoid drinking fountains, leaky faucets, hot/cold mixing faucets and frost-proof yard hydrants since it is not practical to sterilize these fixtures. If possible, remove any aerators, strainers or hoses that are present because they may harbor bacteria. Follow the procedures below when collecting the sample. Instructions for completing the environmental sampling form are on the following page.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; sebagian kalimat tebal; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "1. Open the cold water tap for about 3 minutes before collecting the sample. This should adequately flush the water line of any debris.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. Flame-sterilize the tap and/or chemically disinfect the tap. Do not flame-sterilize if tap is plastic or if aerators are attached. Disinfect tap by thoroughly rinsing both the inside and outside of the tap with a mixture of 50% house-hold bleach (NaOCl) and 50% tap water. Take extreme care with strong bleach (oxidizing) solutions.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kata majemuk 'flame-sterilize' terpotong di akhir baris ditulis utuh; 'house-hold' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "3. Flush the tap for an additional 3 minutes with cold water, and then reduce to a gentle flow to about the width of a pencil. Do not change the water flow once you have started sampling as this could dislodge contaminants in the tap.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "4. Remove the plastic shrink wrap seal by pulling down on the red strip and pealing the shrink wrap from both the cap and bottle. Discard the shrink wrap. Do not attempt to reseal the lid with shrink wrap still attached.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; typo 'pealing' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "5. Grasp cap along top edge and remove carefully. Do not touch the inside with your fingers. Hold the bottle in one hand and the cap in the other. Do not lay the cap down or put it in a pocket! Also, take care not to contaminate the sterile bottle or cap with your fingers or permit the faucet to touch the inside of the bottle.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat terakhir miring"
+ },
+ {
+  "type": "text",
+  "text": "6. Hold the bottle so that water entering the bottle will not come in contact with your hands or the outside of the bottle.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "7. Fill the bottle until the water sample level is BETWEEN THE TWO LINES on the bottle (100 – 120 ml). Preferably, the sample level should be at or just slightly above the 100 ml line. Sample levels below the 100 ml (lower) line WILL NOT BE TESTED due to insufficient sample volume. Sample levels above the 120 ml (upper) line WILL NOT BE TESTED due to overfilled bottle. If the bottle is overfilled, you may pour off any excess water to get the sample level between the two lines. Place the cap on the bottle and screw it down tightly.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "8. Fill out the Missouri Department of Health and Senior Services (DHSS) State Public Health Lab (SPHL) Environmental Sample Collection Form using waterproof ink. See attached document for instructions on properly completing the sample collection form and for shipping instructions.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; seluruh butir tebal"
+ },
+ {
+  "type": "text",
+  "text": "9. For single samples, neatly fold the sample collection form into thirds (standard letter fold), roll around the bottle and place in the shipping box. For multiple samples, fold the forms once or more as needed, and place in the shipping box alongside the samples. If needed, use bubble pack or folded paper to fill space. Do not use shredded paper. Seal the box with a single strip of shipping tape and affix the return address label to the top of the box.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi keran mengalir; margin kiri; dicek: urutan baca: ilustrasi margin ditaruh setelah kolom teks utama"
+ },
+ {
+  "type": "text",
+  "text": "1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi botol disinfektan ke keran; margin kiri"
+ },
+ {
+  "type": "text",
+  "text": "NaOCl",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label pada botol"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi keran mengalir; margin kiri"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Bottle is clean and sterile, ready for sample (Remove and discard plastic seal)",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi botol dipegang tangan; margin kiri; dicek: keterangan di atas ilustrasi dianggap caption ilustrasi 4"
+ },
+ {
+  "type": "text",
+  "text": "Max. Fill Line",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panah"
+ },
+ {
+  "type": "text",
+  "text": "Min. Fill Line",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panah"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi tangan memegang tutup dan botol; margin kiri"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fill sample bottle until water level is between the two lines on the bottle.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi botol diisi di bawah keran; margin kanan"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi tutup dipasang pada botol; margin kanan"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor dalam lingkaran"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi hidran dicoret; margin kanan"
+ },
+ {
+  "type": "text",
+  "text": "FROST-PROOF HYDRANT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DO NOT USE.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi keran campur dicoret; margin kanan"
+ },
+ {
+  "type": "text",
+  "text": "HOT-COLD MIXING FAUCET",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DO NOT USE.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Page 2 of 4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "LAB 34 Public Water (R10-2015)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kode dokumen"
+ }
+]

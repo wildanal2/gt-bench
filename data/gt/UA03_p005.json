@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "LayoutParser: A Unified Toolkit for DL-Based DIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Dataset</th><th>Base Model1</th><th>Large Model</th><th>Notes</th></tr><tr><td>PubLayNet [38]</td><td>F / M</td><td>M</td><td>Layouts of modern scientific documents</td></tr><tr><td>PRImA [3]</td><td>M</td><td>-</td><td>Layouts of scanned modern magazines and scientific reports</td></tr><tr><td>Newspaper [17]</td><td>F</td><td>-</td><td>Layouts of scanned US newspapers from the 20th century</td></tr><tr><td>TableBank [18]</td><td>F</td><td>F</td><td>Table region on modern scientific and business document</td></tr><tr><td>HJDataset [31]</td><td>F / M</td><td>-</td><td>Layouts of history Japanese documents</td></tr></table>",
+  "table_caption": "Table 1: Current layout detection models in the LayoutParser model zoo",
+  "table_footnote": "1For each dataset, we train several models of different sizes for different needs (the trade-off between accuracy vs. computational cost). For “base model” and “large model”, we refer to using the ResNet 50 or ResNet 101 backbones [13], respectively. One can train models of different architectures, like Faster R-CNN [28] (F) and Mask R-CNN [12] (M). For example, an F in the Large Model column indicates it has a Faster R-CNN model trained using the ResNet 101 backbone. The platform is maintained and a number of additions will be made to the model zoo in coming months.",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header 'Base Model1': angka superskrip penanda catatan ditulis sebagai angka biasa; 'F / M' sesuai tampilan visual (lapisan teks 'F/M'); table_footnote: superskrip 1 ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "layout data structures, which are optimized for efficiency and versatility. 3) When necessary, users can employ existing or customized OCR models via the unified API provided in the OCR module. 4) LayoutParser comes with a set of utility functions for the visualization and storage of the layout data. 5) LayoutParser is also highly customizable, via its integration with functions for layout data annotation and model training. We now provide detailed descriptions for each component.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya; frasa komponen italic"
+ },
+ {
+  "type": "text",
+  "text": "3.1 Layout Detection Models",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "In LayoutParser, a layout model takes a document image as an input and generates a list of rectangular boxes for the target content regions. Different from traditional methods, it relies on deep convolutional neural networks rather than manually curated rules to identify content regions. It is formulated as an object detection problem and state-of-the-art models like Faster R-CNN [28] and Mask R-CNN [12] are used. This yields prediction results of high accuracy and makes it possible to build a concise, generalized interface for layout detection. LayoutParser, built upon Detectron2 [35], provides a minimal API that can perform layout detection with only four lines of code in Python:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "import layoutparser as lp\nimage = cv2.imread(\"image_file\") # load images\nmodel = lp.Detectron2LayoutModel(\n    \"lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config\")\nlayout = model.detect(image)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode; dicek: nomor baris listing 1-5 di margin tidak ditulis; spasi antar-token di lapisan teks dibuang sesuai tampilan visual; indentasi baris 4 empat spasi"
+ },
+ {
+  "type": "text",
+  "text": "LayoutParser provides a wealth of pre-trained model weights using various datasets covering different languages, time periods, and document types. Due to domain shift [7], the prediction performance can notably drop when models are ap- plied to target samples that are significantly different from the training dataset. As document structures and layouts vary greatly in different domains, it is important to select models trained on a dataset similar to the test samples. A semantic syntax is used for initializing the model weights in LayoutParser, using both the dataset name and model name lp://<dataset-name>/<model-architecture-name>.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'ap- plied' pemenggalan suku kata dibiarkan"
+ }
+]

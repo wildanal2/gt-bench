@@ -1,0 +1,205 @@
+[
+ {
+  "type": "text",
+  "text": "10",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Z. Shen et al.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 4: Illustration of (a) the original historical Japanese document with layout detection results and (b) a recreated version of the document image that achieves much better character recognition recall. The reorganization algorithm rearranges the tokens based on the their detected bounding boxes given a maximum allowed height.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; gambar raster dokumen Jepang historis; karakter Jepang di dalam gambar terlalu padat/kecil, tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "Intra-column reading order",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Column reading order",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "(a) Illustration of the original Japanese document with detected layout elements highlighted in colored boxes",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sub-caption di dalam gambar"
+ },
+ {
+  "type": "text",
+  "text": "Maximum Allowed Height",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "(b) Illustration of the recreated document with dense text structure for better OCR performance",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sub-caption di dalam gambar"
+ },
+ {
+  "type": "text",
+  "text": "Token Categories",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Title",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Address",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Text",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Number",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Variable",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Company Type",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Column Categories",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Title",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Address",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Text",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Section Header",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "4 LayoutParser Community Platform",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading; 'LayoutParser' monospace",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Another focus of LayoutParser is promoting the reusability of layout detection models and full digitization pipelines. Similar to many existing deep learning libraries, LayoutParser comes with a community model hub for distributing layout models. End-users can upload their self-trained models to the model hub, and these models can be loaded into a similar interface as the currently available LayoutParser pre-trained models. For example, the model trained on the News Navigator dataset [17] has been incorporated in the model hub.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Beyond DL models, LayoutParser also promotes the sharing of entire doc-ument digitization pipelines. For example, sometimes the pipeline requires the combination of multiple DL models to achieve better accuracy. Currently, pipelines are mainly described in academic papers and implementations are often not pub-licly available. To this end, the LayoutParser community platform also enables the sharing of layout pipelines to promote the discussion and reuse of techniques. For each shared pipeline, it has a dedicated project page, with links to the source code, documentation, and an outline of the approaches. A discussion panel is provided for exchanging ideas. Combined with the core LayoutParser library, users can easily build reusable components based on the shared pipelines and apply them to solve their unique problems.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen"
+ },
+ {
+  "type": "text",
+  "text": "5 Use Cases",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "The core objective of LayoutParser is to make it easier to create both large-scale and light-weight document digitization pipelines. Large-scale document processing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya"
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "type": "text",
+  "text": "Attention Visualizations",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; lampiran tanpa nomor",
+  "text_level": 2
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 3: An example of the attention mechanism following long-distance dependencies in the encoder self-attention in layer 5 of 6. Many of the attention heads attend to a distant dependency of the verb ‘making’, completing the phrase ‘making...more difficult’. Attentions here shown only for the word ‘making’. Different colors represent different heads. Best viewed in color.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; visualisasi attention; label 'Input-Input Layer5' ada di lapisan teks tetapi tidak terlihat di halaman, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "It is in this spirit that a majority of American governments have passed new laws since 2009 making the registration or voting process more difficult . <EOS> <pad> <pad> <pad> <pad> <pad> <pad>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; baris token atas; token teks vertikal (diputar 90°), satu elemen per baris token, token dipisah spasi"
+ },
+ {
+  "type": "text",
+  "text": "It is in this spirit that a majority of American governments have passed new laws since 2009 making the registration or voting process more difficult . <EOS> <pad> <pad> <pad> <pad> <pad> <pad>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; baris token bawah; token teks vertikal (diputar 90°), satu elemen per baris token, token dipisah spasi"
+ },
+ {
+  "type": "text",
+  "text": "13",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

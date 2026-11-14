@@ -1,0 +1,180 @@
+[
+ {
+  "type": "text",
+  "text": "ReConTrace: Retrieval Consistency Analysis for Hallucination and Memory Contamination in Long-Term LLM Agents",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Title; 3 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Sepyan Purnama Kristanto∗*, Lutfi Hakim∗, Dianni Yusuf∗, Moh Erdda Habibi†, Junaedi Adi Prasetyo‡",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penulis; simbol superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "∗Department of Software Engineering Technology, Politeknik Negeri Banyuwangi, Banyuwangi, Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; simbol superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "Email: {sepyan.kristanto, lutfi, dianniyusuf}@poliwangi.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; email"
+ },
+ {
+  "type": "text",
+  "text": "†Department of Informatics, Bina Nusantara University, Jakarta, Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; simbol superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "Email: moh.erdda@binus.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; email"
+ },
+ {
+  "type": "text",
+  "text": "‡Department of Electrical Engineering, Digital Telecommunications Network Program, Politeknik Negeri Malang, Malang, Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; 2 baris digabung; simbol superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "Email: junaedi.prasetyo@polinema.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; email"
+ },
+ {
+  "type": "text",
+  "text": "Abstract—Long-horizon LLM agents rely on episodic retrieval-augmented memory. Two failure modes compound: intrinsic hallucination and memory contamination. Errors written back into memory cause cascading epistemic decay. We propose RECONTRACE, a reference-free framework that detects and attributes both failures in real time. It combines dual-query probing with a Three-Partition Consistency Graph (TPCG) over queries, memory chunks, and atomic claims. Contradiction-attenuated edge weights yield a normalized graph Laplacian whose Fiedler eigenvalue λ2 quantifies retrieval coherence. A cal- ibrated logistic classifier maps spectral and provenance features to four states: Clean (C0), Hallucination (C1), Temporal (C2), or Cross-Session (C3). Reflection poisoning is an ingestion pathway, not a class. On LONGAGENT-RECONBENCH (1,200 trajectories, κ=0.84), RECONTRACE reaches AUROC 0.942 (F1 90.0%) on contamination and 0.938 (F1 88.6%) on hallucination detection—+10.4 pp AUROC over SelfCheckGPT—at 64.2 ms per turn, zero extra LLM calls. Active memory purification raises 100-turn task success from 63.8% to 89.2%.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris dengan isi; kapital kecil (RECONTRACE, LONGAGENT-RECONBENCH) ditulis kapital seperti lapisan teks; kata majemuk 'retrieval-/augmented', 'Contradiction-/attenuated' ditulis utuh; subskrip λ2, C0 ditulis sebaris; hyphen: 'cal-/ibrated' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Index Terms—Long-term LLM agents, episodic memory, hallu- cination detection, memory contamination, spectral graph theory, retrieval consistency.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris dengan isi; hyphen: 'hallu-/cination' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "I. INTRODUCTION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "LLM-based autonomous agents increasingly run long-horizon tasks in healthcare, law, and public administration [1], [2]. Because context windows are finite, they externalise conversational history into episodic vector memory [3], [4]. Each turn: retrieve top-k chunks by cosine similarity [5], then generate yt from them. This architecture is vulnerable. Two failure modes corrupt reasoning: (1) Intrinsic Hallucination—claims contradicting the retrieved context, from decoding noise or parametric bias [6], [7]; (2) Memory Contamination—stored chunks now obsolete, contradictory, or cross-pollinated from other sessions [8], [9]. Self-reflection compounds both: erroneous yt written back to memory becomes future ground truth [2], [4], [10], [11], causing monotonic epistemic decay (Fig. 1(a)).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kata majemuk 'long-/horizon' ditulis utuh; subskrip yt ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "*Corresponding author: sepyan.kristanto@poliwangi.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote; di bawah kolom kiri"
+ },
+ {
+  "type": "text",
+  "text": "Existing detectors (SELFCHECKGPT [12], FACTSCORE [13]) assume a single static turn. They cannot separate confabulation from reasoning over a corrupted store—and multi-sample consistency costs 3–5 extra LLM calls per turn.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital"
+ },
+ {
+  "type": "text",
+  "text": "To address these limitations, we present RECONTRACE (Retrieval Consistency Trace), an external-reference-free framework for real-time failure detection and attribution (Fig. 1(b)), organized around two research questions:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital"
+ },
+ {
+  "type": "text",
+  "text": "RQ1: Can retrieval contamination and intrinsic hallucina- tion be topologically distinguished without any external reference corpus?",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis; hyphen: 'hallucina-/tion' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "RQ2: How reliably does contradiction-attenuated spec- tral connectivity (λ2) predict downstream agent memory stability?",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis; hyphen: 'spec-/tral' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Our primary contributions are:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Three-Partition Consistency Graph (TPCG): Query probes, retrieved chunks, and atomic claims are orga- nized into a three-partition graph with non-negative, contradiction-attenuated edge weights.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis; hyphen: 'orga-/nized' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Spectral Coherence Metric: Retrieval contamination creates topological bottlenecks in the TPCG, detectable via the Fiedler eigenvalue λ2 of its normalized Laplacian.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Failure-Origin Attribution: A calibrated logistic classi- fier over spectral and provenance features distinguishes C0–C3 epistemic states.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis; hyphen: 'classi-/fier' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "We evaluate on LONGAGENT-RECONBENCH—1,200 tra- jectories / 81,370 chunks across four domains, 12 specialist annotators (κ=0.84): RECONTRACE outperforms all seven baselines at 64.2 ms/turn (zero extra LLM calls) and raises 100-turn task success by +25.4 pp.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital; hyphen: 'tra-/jectories' pemenggalan suku kata dibiarkan"
+ }
+]

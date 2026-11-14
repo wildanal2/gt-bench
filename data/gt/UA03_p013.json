@@ -1,0 +1,92 @@
+[
+ {
+  "type": "text",
+  "text": "LayoutParser: A Unified Toolkit for DL-Based DIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "13",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 6: This lightweight table detector can identify tables (outlined in red) and cells (shaded in blue) in different locations on a page. In very few cases (d), it might generate minor error predictions, e.g, failing to capture the top text line of a table.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; empat tangkapan halaman docket (a)-(d) sebagai satu gambar; teks di dalam tangkapan terlalu kecil pada ukuran cetak, tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "(a) Partial table at the bottom",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sub-caption"
+ },
+ {
+  "type": "text",
+  "text": "(b) Full page table",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sub-caption"
+ },
+ {
+  "type": "text",
+  "text": "(c) Partial table at the top",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sub-caption"
+ },
+ {
+  "type": "text",
+  "text": "(d) Mis-detected text line",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sub-caption"
+ },
+ {
+  "type": "text",
+  "text": "5.2 A light-weight Visual Table Extractor",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Detecting tables and parsing their structures (table extraction) are of central im-portance for many document digitization tasks. Many previous works [26, 30, 27] and tools 18 have been developed to identify and parse table structures. Yet they might require training complicated models from scratch, or are only applicable for born-digital PDF documents. In this section, we show how LayoutParser can help build a light-weight accurate visual table extractor for legal docket tables using the existing resources with minimal effort.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen; superskrip catatan kaki 18 ditulis sebagai angka biasa, spasi sesuai tampilan"
+ },
+ {
+  "type": "text",
+  "text": "The extractor uses a pre-trained layout detection model for identifying the table regions and some simple rules for pairing the rows and the columns in the PDF image. Mask R-CNN [12] trained on the PubLayNet dataset [38] from the LayoutParser Model Zoo can be used for detecting table regions. By filtering out model predictions of low confidence and removing overlapping predictions, LayoutParser can identify the tabular regions on each page, which significantly simplifies the subsequent steps. By applying the line detection functions within the tabular segments, provided in the utility module from LayoutParser, the pipeline can identify the three distinct columns in the tables. A row clustering method is then applied via analyzing the y coordinates of token bounding boxes in the left-most column, which are obtained from the OCR engines. A non-maximal suppression algorithm is used to remove duplicated rows with extremely small gaps. Shown in Figure 6, the built pipeline can detect tables at different positions on a page accurately. Continued tables from different pages are concatenated, and a structured table representation has been easily created.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "18 https://github.com/atlanhq/camelot, https://github.com/tabulapdf/tabula",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote"
+ }
+]

@@ -1,0 +1,243 @@
+[
+ {
+  "type": "text",
+  "text": "DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "KDD ’22, August 14–18, 2022, Washington, DC, USA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 6: Example layout predictions on selected pages from the DocLayNet test-set. (A, D) exhibit favourable results on coloured backgrounds. (B, C) show accurate list-item and paragraph differentiation despite densely-spaced lines. (E) demon- strates good table and figure distinction. (F) shows predictions on a Chinese patent with multiple overlaps, label confusion and missing boxes.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; src=Picture; gambar selebar halaman, 6 panel (A-F) halaman contoh dengan kotak prediksi berwarna; teks halaman contoh terlalu kecil, tidak ditranskripsi; dicek: string hash vertikal kecil di samping tiap panel (ada di lapisan teks, mis. '2b7b8355…') terlalu kecil pada ukuran cetak, tidak dicatat; caption tebal; hyphen: 'demon-/strates'"
+ },
+ {
+  "type": "text",
+  "text": "A",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "B",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "C",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "D",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "E",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "F",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panel"
+ },
+ {
+  "type": "text",
+  "text": "Text",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Caption",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "List-Item",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Formula",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Table",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Picture",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Section-Header",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Page-Header",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Page-Footer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Title",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Diaconu, Mai Thanh Minh, Marc, albinxavi, fatih, oleg, and wanghao yang. ul- tralytics/yolov5: v6.0 - yolov5n nano models, roboflow integration, tensorflow export, opencv dnn support, October 2021.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; lanjutan dari [13] di halaman sebelumnya; hyphen: 'ul-/tralytics/yolov5:'"
+ },
+ {
+  "type": "text",
+  "text": "[14] Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. End-to-end object detection with transformers. CoRR, abs/2005.12872, 2020.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; 'CoRR' italic"
+ },
+ {
+  "type": "text",
+  "text": "[15] Mingxing Tan, Ruoming Pang, and Quoc V. Le. Efficientdet: Scalable and efficient object detection. CoRR, abs/1911.09070, 2019.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; 'CoRR' italic"
+ },
+ {
+  "type": "text",
+  "text": "[16] Tsung-Yi Lin, Michael Maire, Serge J. Belongie, Lubomir D. Bourdev, Ross B. Gir- shick, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and C. Lawrence Zitnick. Microsoft COCO: common objects in context, 2014.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; hyphen: 'Gir-/shick,'"
+ },
+ {
+  "type": "text",
+  "text": "[17] Yuxin Wu, Alexander Kirillov, Francisco Massa, Wan-Yen Lo, and Ross Girshick. Detectron2, 2019.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[18] Nikolaos Livathinos, Cesar Berrospi, Maksym Lysak, Viktor Kuropiatnyk, Ahmed Nassar, Andre Carvalho, Michele Dolfi, Christoph Auer, Kasper Dinkla, and Peter W. J. Staar. Robust pdf document conversion using recurrent neural networks. In Proceedings of the 35th Conference on Artificial Intelligence, AAAI, pages 15137–15145, feb 2021.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding italic; rentang halaman '15137–' / '15145' terpotong di akhir baris, ditulis utuh tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "[19] Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, and Ming Zhou. Layoutlm: Pre-training of text and layout for document image understanding. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD, pages 1192–1200, New York, USA, 2020. Asso- ciation for Computing Machinery.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding italic; hyphen: 'Asso-/ciation'"
+ },
+ {
+  "type": "text",
+  "text": "[20] Shoubin Li, Xuyan Ma, Shuaiqun Pan, Jun Hu, Lin Shi, and Qing Wang. Vtlayout: Fusion of visual and text features for document layout analysis, 2021.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[21] Peng Zhang, Can Li, Liang Qiao, Zhanzhan Cheng, Shiliang Pu, Yi Niu, and Fei Wu. Vsr: A unified framework for document layout analysis combining vision, semantics and relations, 2021.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[22] Peter W J Staar, Michele Dolfi, Christoph Auer, and Costas Bekas. Corpus conversion service: A machine learning platform to ingest documents at scale. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD, pages 774–782. ACM, 2018.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; judul prosiding italic"
+ },
+ {
+  "type": "text",
+  "text": "[23] Connor Shorten and Taghi M. Khoshgoftaar. A survey on image data augmenta- tion for deep learning. Journal of Big Data, 6(1):60, 2019.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; nama jurnal italic; hyphen: 'augmenta-/tion'"
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Z. Shen et al.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "37], layout detection [38, 22], table detection [26], and scene text detection [4]. A generalized learning-based framework dramatically reduces the need for the manual specification of complicated rules, which is the status quo with traditional methods. DL has the potential to transform DIA pipelines and benefit a broad spectrum of large-scale document digitization projects.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "However, there are several practical difficulties for taking advantages of re- cent advances in DL-based methods: 1) DL models are notoriously convoluted for reuse and extension. Existing models are developed using distinct frame- works like TensorFlow [1] or PyTorch [24], and the high-level parameters can be obfuscated by implementation details [8]. It can be a time-consuming and frustrating experience to debug, reproduce, and adapt existing models for DIA, and many researchers who would benefit the most from using these methods lack the technical background to implement them from scratch. 2) Document images contain diverse and disparate patterns across domains, and customized training is often required to achieve a desirable detection accuracy. Currently there is no full-fledged infrastructure for easily curating the target document image datasets and fine-tuning or re-training the models. 3) DIA usually requires a sequence of models and other processing to obtain the final outputs. Often research teams use DL models and then perform further document analyses in separate processes, and these pipelines are not documented in any central location (and often not documented at all). This makes it difficult for research teams to learn about how full pipelines are implemented and leads them to invest significant resources in reinventing the DIA wheel.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 're- cent', 'frame- works' pemenggalan suku kata dibiarkan; sebagian kalimat italic"
+ },
+ {
+  "type": "text",
+  "text": "LayoutParser provides a unified toolkit to support DL-based document image analysis and processing. To address the aforementioned challenges, LayoutParser is built with the following components:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1. An off-the-shelf toolkit for applying DL models for layout detection, character recognition, and other DIA tasks (Section 3)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "2. A rich repository of pre-trained neural network models (Model Zoo) that underlies the off-the-shelf usage",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "3. Comprehensive tools for efficient document image data annotation and model tuning to support different levels of customization",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "4. A DL model hub and community platform for the easy sharing, distribu- tion, and discussion of DIA models and pipelines, to promote reusability, reproducibility, and extensibility (Section 4)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar; hyphen: 'distribu- tion' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "The library implements simple and intuitive Python APIs without sacrificing generalizability and versatility, and can be easily installed via pip. Its convenient functions for handling document image data can be seamlessly integrated with existing DIA pipelines. With detailed documentations and carefully curated tutorials, we hope this tool will benefit a variety of end-users, and will lead to advances in applications in both industry and academic research.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LayoutParser is well aligned with recent efforts for improving DL model reusability in other disciplines like natural language processing [8, 34] and com- puter vision [35], but with a focus on unique challenges in DIA. We show LayoutParser can be applied in sophisticated and large-scale digitization projects",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'com- puter' pemenggalan suku kata dibiarkan; berlanjut ke halaman berikutnya"
+ }
+]

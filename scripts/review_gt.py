@@ -214,7 +214,7 @@ input,select,textarea{font:inherit;border:1px solid var(--line);border-radius:5p
 <aside id="side"><div class="flt">
 <input id="q" placeholder="Cari halaman, mis. ID07">
 <select id="fs"><option value="flag">Bertanda ? (cek ulang)</option><option value="draf">Belum diverifikasi</option><option value="verif">Sudah diverifikasi</option><option value="">Semua status</option></select>
-<select id="fsrc"><option value="ID">Dokumen Indonesia</option><option value="DPB">DP-Bench</option><option value="">Semua sumber</option></select>
+<select id="fsrc"><option value="UA">Uji awal (UA)</option><option value="ID">Dokumen Indonesia</option><option value="DPB">DP-Bench</option><option value="">Semua sumber</option></select>
 </div><div id="list"></div></aside>
 <main id="view"><div id="viewbar"><button data-z="-1">−</button><button data-z="0">Pas lebar</button><button data-z="1">+</button><span id="loc"></span></div><div id="stage"><img id="img" alt=""><div id="ov"></div></div></main>
 <section id="ed"><p class="lbl">Pilih halaman di kiri.</p></section>

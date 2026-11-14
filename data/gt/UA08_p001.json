@@ -1,0 +1,111 @@
+[
+ {
+  "type": "text",
+  "text": "The sample size required for each State for various investigations among different target groups of individuals are given below:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan subseksi dari halaman sebelumnya"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Investigations</th><th>No. of HHs</th><th>Age/Sex/ Physiological Group</th><th>Preva- lence</th><th>C.I*</th><th>Relative Precision</th><th>Sample size per State</th></tr><tr><td>Anthropometry</td><td rowspan=\"3\">2400</td><td rowspan=\"3\" colspan=\"5\">All the available individuals</td></tr><tr><td>Clinical Examination</td></tr><tr><td>History of morbidity</td></tr><tr><td>Diet survey</td><td>1200</td><td colspan=\"5\">All the individuals partaking meals in the HH</td></tr><tr><td rowspan=\"2\">Blood Pressure #</td><td rowspan=\"2\">2400</td><td>Men (≥ 18yrs)</td><td rowspan=\"2\">10%</td><td rowspan=\"2\">95%</td><td rowspan=\"2\">20%</td><td>1728</td></tr><tr><td>Women (≥ 18 yrs)</td><td>1728</td></tr><tr><td rowspan=\"2\">Fasting blood glucose</td><td rowspan=\"2\">2400</td><td>Men (≥ 18 yrs)</td><td rowspan=\"2\">5%</td><td rowspan=\"2\">95%</td><td rowspan=\"2\">20%</td><td>1825</td></tr><tr><td>Women (≥ 18 yrs)</td><td>1825</td></tr><tr><td rowspan=\"2\">Knowledge &amp; Practices on HTN &amp; DM</td><td>2400</td><td>Men (≥ 18 yrs)</td><td>-</td><td>-</td><td>-</td><td>1728</td></tr><tr><td>2400</td><td>Women (≥ 18 yrs)</td><td>-</td><td>-</td><td>-</td><td>1728</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": "*CI: Confidence Interval # Design effect 2",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel tanpa judul; header multi-baris digabung spasi; 'Preva-/lence' pemenggalan suku kata dibiarkan; 'Men (≥ 18yrs)' tanpa spasi pada baris Blood Pressure seperti tercetak; & ditulis &amp;; dua catatan sebaris di bawah tabel digabung spasi"
+ },
+ {
+  "type": "text",
+  "text": "3.4.2. Measurement of blood pressure",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Earlier studies have revealed that the prevalence of hypertension among the rural adults of ≥18 years in the State of Gujarat was 10%3 which was lowest compared to other NNMB States. Assuming 10% prevalence of hypertension among rural adults, with 95% confidence interval, 20% relative precision and design effect of 2, the sample size computed for each State was 1,728 adults in each gender.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; angka superskrip ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "3.4.3. Estimation of fasting blood glucose",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Earlier studies have revealed that the overall prevalence of diabetes among the rural adults of ≥18 years was about 5%3. Assuming 5% prevalence of diabetes among rural adults, with 95% confidence interval and 20% relative precision, the sample size computed was 1,825 adults in each gender.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; angka superskrip ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "3.5. Investigations",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "The following investigations were carried out in the selected HHs:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.5.1. Socio-economic and demographic particulars of households",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Socioeconomic and demographic particulars, such as age, sex, occupation, annual family income, family size, type of family, literacy level of individuals, information about possession of agricultural land, types of crops raised, their yield during previous year, live stock, type of dwelling, environmental sanitation etc. from all the selected 20 HHs were collected using pre-tested questionnaires.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "NNMB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Rural-Third Repeat Survey 2011-12",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ }
+]

@@ -1,0 +1,173 @@
+[
+ {
+  "type": "text",
+  "text": "454",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "O. Sanni, A.P.I. Popoola / Data in Brief 22 (2019) 451–457",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 4. Anodic and cathodic polarization curve of stainless steel in 0.5 M H2SO4 solution in the presence and absence of ES.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis raster (tanpa lapisan teks); subskrip H2SO4 ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "1.5 1 0.5 0 -0.5 -1 -1.5 -2 -2.5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu y; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "Potential (V)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu y; vertikal; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "0.0000001 0.00001 0.001 0.1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu x; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "Current Density (A/cm2)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu x; superskrip tidak tampak, tercetak 'cm2'; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "10g",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "4g",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "6g",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "2g",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "Control",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; dibaca dari gambar raster"
+ },
+ {
+  "type": "text",
+  "text": "8g",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; dibaca dari gambar raster"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Inhibitor concentration (g)</th><th>bc (V/dec)</th><th>ba (V/dec)</th><th>Ecorr (V)</th><th>icorr (A/cm2)</th><th>Polarization resistance (Ω)</th><th>Corrosion rate (mm/year)</th></tr><tr><td>0</td><td>0.0335</td><td>0.0409</td><td>−0.9393</td><td>0.0003</td><td>24.0910</td><td>2.8163</td></tr><tr><td>2</td><td>1.9460</td><td>0.0596</td><td>−0.8276</td><td>0.0002</td><td>121.440</td><td>1.5054</td></tr><tr><td>4</td><td>0.0163</td><td>0.2369</td><td>−0.8825</td><td>0.0001</td><td>42.121</td><td>0.9476</td></tr><tr><td>6</td><td>0.3233</td><td>0.0540</td><td>−0.8027</td><td>5.39E-05</td><td>373.180</td><td>0.4318</td></tr><tr><td>8</td><td>0.1240</td><td>0.0556</td><td>−0.5896</td><td>5.46E-05</td><td>305.650</td><td>0.3772</td></tr><tr><td>10</td><td>0.0382</td><td>0.0086</td><td>−0.5356</td><td>1.24E-05</td><td>246.080</td><td>0.0919</td></tr></table>",
+  "table_caption": "Table 1\nPotentiodynamic polarization data for stainless steel in the absence and presence of ES in 0.5 M H2SO4 solution.",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header dua baris per sel digabung spasi; tanda minus Ecorr terlihat di gambar tetapi tidak ada di lapisan teks, ditulis '−'; superskrip cm2 dan subskrip ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "The plot of inhibitor concentration over degree of surface coverage versus inhibitor concentration gives a straight line as shown in Fig. 5. The strong correlation reveals that egg shell adsorption on stainless surface in 0.5 M H2SO4 follow Langmuir adsorption isotherm. Figs. 6–8 show the SEM/EDX surface morphology analysis of stainless steel. Figs. 7 and 8 are the SEM/EDX images of the stainless steel specimens without and with inhibitor after weight loss experiment in sulphuric acid medium. The stainless steel surface corrosion product layer in the absence of inhibitor was porous and as a result gives no corrosion protection. With the presence of ES, corrosion damage was minimized, with an evidence of ES present on the metal surface as shown in Fig. 8.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subskrip H2SO4 ditulis sebaris"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 5. Langmuir adsorption isotherm of ES.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "C/0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "12 10 8 6 4 2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu y"
+ },
+ {
+  "type": "text",
+  "text": "C/0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu y; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "2 4 6 8 10",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "Concentration (g)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu x"
+ }
+]

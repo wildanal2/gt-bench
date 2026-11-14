@@ -1,0 +1,452 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 1. Unified RECONTRACE architecture. (a) Autoregressive memory pathology: unverified generations are ingested as episodic memory and compound into contamination. (b) The reference-free framework: dual-query probing → Three-Partition Consistency Graph → normalized Laplacian λ2 → calibrated attribution C0–C3 → active purification.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram selebar halaman, dua panel (a)/(b); label dibaca per kotak, baris dalam kotak digabung spasi; panel (a) dibaca per baris kiri ke kanan; kapital kecil di caption ditulis kapital"
+ },
+ {
+  "type": "text",
+  "text": "(a) Memory Pathology & Autoregressive Contamination",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "1. Grounded Origin (t = 1) Verified facts stored in M1 World state synchronized [Clean State C0]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks; panah antar kotak tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "2. Stale Drift (t = 15) Temporal shift in context Unverified claim ỹ15 stored [Intrinsic Hallucination C1]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Autoregressive: Mt+1 ← Mt ∪ {yt}",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "4. Cascaded Failure (t > 50) Unsound reasoning actions Task accuracy drops to 28.5% [Monotonic Error Cascade]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "3. Contam. Retrieval (t = 45) Top-k search fetches stale m15 Contradictory evidence pool [Contamination C2/C3]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "(b) ReConTrace Reference-Free Verification & Disentanglement Pipeline",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Stage 1: Dual-Query Probing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Input query qt → deterministic probes",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Paraphrase: qpara (Invariance Isem)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Counterfactual: qcf (Sensitivity Scf)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "∆CPI = 1/2(Isem + Scf) (0 extra LLM calls)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Stage 2: Three-Partition Graph (TPCG)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "VQ m1 m2 c1 c2 Wij→0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks; label simpul graf digabung satu elemen dicek: "
+ },
+ {
+  "type": "text",
+  "text": "Wij = max(0, cos) · [1 − Pcontr]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Stage 3: Spectral Coherence Engine",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Lsym = J − D−1/2WD−1/2 (Regularized)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Algebraic Connectivity: Fiedler value λ2(Gt)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Conductance: λ2/2 ≤ h(Gt) ≤ √2λ2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Score: λRCA = 1 − e−βλ2 (12.3 ms sparse)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Stage 4: Attribution & Active Purification",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks; dicek: tanda ≤ tidak ada di lapisan teks, terlihat di gambar"
+ },
+ {
+  "type": "text",
+  "text": "Vector zt = [SRCA, λ2, Isem, Scf, τ̄age, Pmax contr]⊤ ∈ R6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks; dicek: lapisan teks memuat '>' dan ' 6' untuk ⊤ dan ℝ6"
+ },
+ {
+  "type": "text",
+  "text": "Logistic attribution: P(Ck|zt) ∝ exp(θ⊤k zt)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks; dicek: θ tidak ada di lapisan teks, terlihat di gambar"
+ },
+ {
+  "type": "text",
+  "text": "Action: C0 Pass | C1 Re-gen | C2 Inval. | C3 Re-scope",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Task success: 63.8% → 89.2% (+25.4%), 64.2 ms total",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "shifts under factual perturbation, where ē(M) is the mean chunk embedding. They combine into the Contextual Probing Index ∆CPI = 1/2(Isem + Scf), high when retrieval is healthy and low/unstable when contaminated.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan; matematika inline dilinearkan dari lapisan teks; pecahan ½ ditulis 1/2"
+ },
+ {
+  "type": "text",
+  "text": "2) Stage 2: Three-Partition Consistency Graph (TPCG): The epistemic context at turn t is a three-partition graph Gt = (V, E, W) with V = VQ ∪ VM ∪ VC: query probes VQ = {q, qpara, qcf}; retrieved chunks VM = {m1, . . . , mk}; atomic claims VC = {c1, . . . , cJ} from dependency parsing of yt.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul sub-subseksi sebaris (run-in) ikut paragraf; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Edge Weights. All weights satisfy Wu,v ≥ 0: query-memory edges Wql,mi = max(0, cos(E(ql), ei)); memory-claim edges Wmi,cj = Pentail(cj | mi) ∈ [0, 1] via a DeBERTa-v3 cross-encoder; intra-memory weights attenuate contradiction:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; 'cross-/encoder' ditulis utuh; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "W_{m_i,m_j} = \\max(0, \\cos(\\mathbf{e}_i, \\mathbf{e}_j)) \\cdot \\left[1 - P_{\\text{contr}}(m_i, m_j)\\right], \\quad (3)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where Pcontr ∈ [0, 1] is the cross-encoder contradiction score. When Pcontr → 1, the intra-memory edge collapses to zero without introducing illegal negative weights. Because entail- ment scores are directional, the memory–claim edges are symmetrized before spectral analysis:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan; matematika inline dilinearkan dari lapisan teks; hyphen: 'entail-/ment' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "\\widetilde{\\mathbf{W}} = \\tfrac{1}{2}\\big(\\mathbf{W} + \\mathbf{W}^{\\top}\\big), \\quad (4)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "symmetric and non-negative by construction, retaining the weaker NLI direction (an edge survives only if entailment holds on average in both readings).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan"
+ },
+ {
+  "type": "text",
+  "text": "3) Stage 3: Spectral Laplacian Decomposition: Given ad- jacency matrix W ∈ R|V|×|V| ≥0, we define diagonal degree matrix Duu = ∑v∈V Wuv. For isolated nodes (du = 0, e.g., unsupported claims), we adopt the standard regularized spectral convention [17]:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul sub-subseksi sebaris (run-in) ikut paragraf; matematika inline dilinearkan dari lapisan teks; hyphen: 'ad-/jacency' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "\\mathbf{L}_{\\text{sym}} = \\boldsymbol{\\Gamma} - \\mathbf{D}^{-1/2}\\mathbf{W}\\mathbf{D}^{-1/2}, \\quad (5)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where Γ is the diagonal indicator matrix (Γuu = 1 if du > 0, else 0; not the all-ones matrix)—equivalently, the standard Moore–Penrose pseudo-inverse convention for D−1/2 written explicitly, with D−1/2 uu = 0 for du = 0. This guarantees that isolated claim vertices induce zero eigenvalues, directly forc- ing λ2 → 0 when claims disconnect from memory. Because Wu,v ≥ 0, Lsym is positive semi-definite with real eigenvalues 0 = λ1 ≤ λ2 ≤ · · · ≤ λ|V| ≤ 2.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan; matematika inline dilinearkan dari lapisan teks; hyphen: 'forc-/ing' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Fig. 2. Detection Performance (measured on the oracle-free replication pilot, 5,391 held-out turns). (a) SRCA density by class from actual test-turn scores. (b) ROC curves: full feature pipeline (AUROC 0.871; shown via its monotone SRCA projection, 0.921), NLI-only baseline (0.889), embedding-margin baseline (0.500). On the precision–recall frontier (area under the PR curve), RECONTRACE attains 0.776 vs. 0.662/0.614 for the NLI/embedding baselines.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik dua panel (density dan ROC) di kolom kanan; 'embedding-/margin' ditulis utuh; kapital kecil di caption ditulis kapital"
+ },
+ {
+  "type": "text",
+  "text": "(a) Score Density",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel"
+ },
+ {
+  "type": "text",
+  "text": "Density",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu y"
+ },
+ {
+  "type": "text",
+  "text": "0 20",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu y"
+ },
+ {
+  "type": "text",
+  "text": "0.0 0.2 0.4 0.6 0.8 1.0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "Score (SRCA)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "(b) ROC (Contamination)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel"
+ },
+ {
+  "type": "text",
+  "text": "True Positive Rate",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu y; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "0 1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu y"
+ },
+ {
+  "type": "text",
+  "text": "0.0 0.2 0.4 0.6 0.8 1.0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; tick sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "False Positive Rate",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "Clean (C0)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Contamination (C2/3)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Hallucination (C1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "The second-smallest eigenvalue λ2(Gt)—the Fiedler value—bounds conductance [20] (λ2/2 ≤ h(Gt) ≤ √2λ2). Mutually supporting evidence yields large λ2; contradictions or unsupported claims fracture the graph, driving λ2 → 0. We map λ2 to a normalized score:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "\\lambda_{\\text{RCA}} = 1 - \\exp(-\\beta\\lambda_2), \\quad (6)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where β > 0 is calibrated on validation trajectories (β = 3.2). The composite Retrieval Consistency Score is:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan"
+ },
+ {
+  "type": "text",
+  "text": "S_{\\text{RCA}} = \\alpha\\lambda_{\\text{RCA}} + (1 - \\alpha)\\Delta_{\\text{CPI}}, \\quad (7)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "with α = 0.65 tuned on validation data; SRCA is high only when evidence is both spectrally unified and stable under probing.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan paragraf setelah persamaan"
+ },
+ {
+  "type": "text",
+  "text": "4) Stage 4: Failure-Origin Attribution Classifier: RECON- TRACE forms a 6-dimensional feature vector decoupling spec-",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul sub-subseksi sebaris (run-in) ikut paragraf; kapital kecil ditulis kapital; berlanjut ke halaman berikutnya; hyphen: 'RECON-/TRACE' pemenggalan suku kata dibiarkan"
+ }
+]

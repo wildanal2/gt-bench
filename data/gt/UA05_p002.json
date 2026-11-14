@@ -1,0 +1,149 @@
+[
+ {
+  "type": "text",
+  "text": "Here is what Docling delivers today:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Converts PDF documents to JSON or Markdown format, stable and lightning fast",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Understands detailed page layout, reading order, locates figures and recovers table struc- tures",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis; hyphen: 'struc-/tures' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Extracts metadata from the document, such as title, authors, references and language",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Optionally applies OCR, e.g. for scanned PDFs",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Can be configured to be optimal for batch-mode (i.e high throughput, low time-to-solution) or interactive mode (compromise on efficiency, low time-to-solution)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Can leverage different accelerators (GPU, MPS, etc).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda bulat tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "2 Getting Started",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "To use Docling, you can simply install the docling package from PyPI. Documentation and examples are available in our GitHub repository at github.com/DS4SD/docling. All required model assets1 are downloaded to a local huggingface datasets cache on first use, unless you choose to pre-install the model assets in advance.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; angka superskrip penanda catatan kaki ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "Docling provides an easy code interface to convert PDF documents from file system, URLs or binary streams, and retrieve the output in either JSON or Markdown format. For convenience, separate methods are offered to convert single documents or batches of documents. A basic usage example is illustrated below. Further examples are available in the Doclign code repository.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Doclign' typo di sumber disalin apa adanya"
+ },
+ {
+  "type": "text",
+  "text": "from docling.document_converter import DocumentConverter\n\nsource = \"https://arxiv.org/pdf/2206.01062\"  # PDF path or URL\nconverter = DocumentConverter()\nresult = converter.convert_single(source)\nprint(result.render_as_markdown())  # output: \"## DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis [...]\"",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode; ditulis seperti tampilan visual (lapisan teks menyisipkan spasi di sekitar token); baris kosong setelah import dipertahankan; baris terakhir dibungkus otomatis di sumber (lanjutan menjorok) dan digabung satu spasi; dicek: jumlah spasi sebelum '#' (ditulis 2) tidak pasti"
+ },
+ {
+  "type": "text",
+  "text": "Optionally, you can configure custom pipeline features and runtime options, such as turning on or off features (e.g. OCR, table structure recognition), enforcing limits on the input document size, and defining the budget of CPU threads. Advanced usage examples and options are documented in the README file. Docling also provides a Dockerfile to demonstrate how to install and run it inside a container.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3 Processing pipeline",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Docling implements a linear pipeline of operations, which execute sequentially on each given docu- ment (see Fig. 1). Each document is first parsed by a PDF backend, which retrieves the programmatic text tokens, consisting of string content and its coordinates on the page, and also renders a bitmap image of each page to support downstream operations. Then, the standard model pipeline applies a sequence of AI models independently on every page in the document to extract features and content, such as layout and table structures. Finally, the results from all pages are aggregated and passed through a post-processing stage, which augments metadata, detects the document language, infers reading-order and eventually assembles a typed document object which can be serialized to JSON or Markdown.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'docu-/ment' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "3.1 PDF backends",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Two basic requirements to process PDF documents in our pipeline are a) to retrieve all text content and their geometric coordinates on each page and b) to render the visual representation of each page as it would appear in a PDF viewer. Both these requirements are encapsulated in Docling’s PDF backend interface. While there are several open-source PDF parsing libraries available for python, we faced major obstacles with all of them for different reasons, among which were restrictive",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "1see huggingface.co/ds4sd/docling-models/",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote; angka superskrip ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

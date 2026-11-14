@@ -1,0 +1,77 @@
+[
+ {
+  "type": "text",
+  "text": "8",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Z. Shen et al.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Operation Name</th><th>Description</th></tr><tr><td>block.pad(top, bottom, right, left)</td><td>Enlarge the current block according to the input</td></tr><tr><td>block.scale(fx, fy)</td><td>Scale the current block given the ratio in x and y direction</td></tr><tr><td>block.shift(dx, dy)</td><td>Move the current block with the shift distances in x and y direction</td></tr><tr><td>block1.is_in(block2)</td><td>Whether block1 is inside of block2</td></tr><tr><td>block1.intersect(block2)</td><td>Return the intersection region of block1 and block2. Coordinate type to be determined based on the inputs.</td></tr><tr><td>block1.union(block2)</td><td>Return the union region of block1 and block2. Coordinate type to be determined based on the inputs.</td></tr><tr><td>block1.relative_to(block2)</td><td>Convert the absolute coordinates of block1 to relative coordinates to block2</td></tr><tr><td>block1.condition_on(block2)</td><td>Calculate the absolute coordinates of block1 given the canvas block2’s absolute coordinates</td></tr><tr><td>block.crop_image(image)</td><td>Obtain the image segments in the block region</td></tr></table>",
+  "table_caption": "Table 2: All operations supported by the layout elements. The same APIs are supported across different layout element classes including Coordinate types, TextBlock and Layout.",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; sel deskripsi 2 baris digabung satu spasi; underscore di is_in, relative_to, condition_on, crop_image terlihat di gambar, lapisan teks berisi spasi ('is in' dst.)"
+ },
+ {
+  "type": "text",
+  "text": "3.4 Storage and visualization",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "The end goal of DIA is to transform the image-based document data into a structured database. LayoutParser supports exporting layout data into different formats like JSON, csv, and will add the support for the METS/ALTO XML format 14. It can also load datasets from layout analysis-specific formats like COCO [38] and the Page Format [25] for training layout models (Section 3.5).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penanda catatan kaki 14 superskrip ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "Visualization of the layout detection results is critical for both presentation and debugging. LayoutParser is built with an integrated API for displaying the layout information along with the original document image. Shown in Figure 3, it enables presenting layout data with rich meta information and features in different modes. More detailed information can be found in the online LayoutParser documentation page.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.5 Customized Model Training",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Besides the off-the-shelf library, LayoutParser is also highly customizable with supports for highly unique and challenging document analysis tasks. Target document images can be vastly different from the existing datasets for train- ing layout models, which leads to low layout detection accuracy. Training data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'train- ing' pemenggalan suku kata dibiarkan; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "14https://altoxml.github.io",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote; angka superskrip ditulis sebagai angka biasa"
+ }
+]

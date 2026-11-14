@@ -1,0 +1,51 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 4: Two attention heads, also in layer 5 of 6, apparently involved in anaphora resolution. Top: Full attentions for head 5. Bottom: Isolated attentions from just the word ‘its’ for attention heads 5 and 6. Note that the attentions are very sharp for this word.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; visualisasi attention dua panel (atas, bawah) satu caption; label 'Input-Input Layer5' ada di lapisan teks tetapi tidak terlihat, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; panel atas baris atas; token teks vertikal (diputar 90°), satu elemen per baris token, token dipisah spasi"
+ },
+ {
+  "type": "text",
+  "text": "The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; panel atas baris bawah; token teks vertikal (diputar 90°), satu elemen per baris token, token dipisah spasi"
+ },
+ {
+  "type": "text",
+  "text": "The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; panel bawah baris atas; token teks vertikal (diputar 90°), satu elemen per baris token, token dipisah spasi"
+ },
+ {
+  "type": "text",
+  "text": "The Law will never be perfect , but its application should be just - this is what we are missing , in my opinion . <EOS> <pad>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; panel bawah baris bawah; token teks vertikal (diputar 90°), satu elemen per baris token, token dipisah spasi"
+ },
+ {
+  "type": "text",
+  "text": "14",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

@@ -24,7 +24,7 @@ DATA = ROOT / "data"
 ROTATED_PROFILES = {"fax_skew"}
 
 FIELDS = ["page_id", "doc_id", "sumber", "kategori", "bahasa", "varian", "modality", "pdf", "gt",
-          "gt_status", "n_elemen", "n_teks", "n_heading", "n_tabel", "n_gambar", "bbox", "lisensi"]
+          "gt_status", "n_elemen", "n_teks", "n_heading", "n_tabel", "n_gambar", "bbox", "lisensi", "risiko"]
 
 
 def has_text_layer(pdf):
@@ -62,13 +62,10 @@ def main():
             missing.append(page_id)
             continue
         info, text = gt_info(gt)
-        if meta.get("sumber") == "dpbench":
-            lang = "ko" if re.search("[가-힣]", text) else "en"
-        else:
-            lang = "id"
+        lang = meta.get("bahasa") or ("ko" if re.search("[가-힣]", text) else "en")
         base = dict(page_id=page_id, doc_id=doc_id, sumber=meta.get("sumber", "?"),
                     kategori=meta.get("kategori", "?"), bahasa=lang, gt=str(gt.relative_to(ROOT)),
-                    lisensi=meta.get("lisensi_catatan", ""), **info)
+                    lisensi=meta.get("lisensi_catatan", ""), risiko=meta.get("risiko", ""), **info)
         rows.append(dict(base, varian="asli", modality="digital" if has_text_layer(pdf) else "scan",
                          pdf=str(pdf.relative_to(ROOT))))
         for scan in sorted((DATA / "scans").glob(f"*/{page_id}.pdf")):

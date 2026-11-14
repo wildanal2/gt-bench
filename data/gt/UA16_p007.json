@@ -1,0 +1,269 @@
+[
+ {
+  "type": "text",
+  "text": "INSTRUCTIONS FOR COMPLETING ENVIRONMENTAL SAMPLE COLLECTION FORM Public Drinking Water Bacterial Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul bertumpuk 2 baris digabung; bergaris bawah",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PRINT LEGIBLY using water proof ink. A standard ink pen is sufficient. Complete ALL sample information lines on the form. Some sections of the form may already be completed by the laboratory computer system when the forms are printed. To make corrections, please draw a single line through the inaccurate information and print the corrected information behind it. The sections of the form and directions for completing each line are as follows:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; sebagian kalimat tebal"
+ },
+ {
+  "type": "text",
+  "text": "Order #: For Missouri State Public Health Lab (MSPHL) purposes only. Pages in Order and Containers in Order indicate number of forms and sample bottles shipped in the sample kit order.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label tebal sebaris dengan isi"
+ },
+ {
+  "type": "text",
+  "text": "REPORT TO: Public water system’s name and shipping address on file with Missouri Department of Natural Resources (MDNR). Please review and correct if necessary. Result reports will be mailed to this address.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "BILL TO: Section defaulted to the MDNR. There are no charges for public water testing at the MSPHL.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Requested Analysis/Tests:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading bergaris bawah",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "This section will state PUBLIC DRINKING WATER BACTERIAL ANALYSIS. If it does not, you may have the wrong collection form. Please contact the MSPHL or MDNR for the proper form. Do not use forms from a local county health agency as those forms are for private well water samples. Your MDNR Regional Office can provide blank forms for your use.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Complete or correct the following information:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading bergaris bawah",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "All lines are considered required information. Failure to complete a line may result in an invalid sample.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; seluruhnya tebal"
+ },
+ {
+  "type": "text",
+  "text": "Collected Date: Enter the date of sample collection in the format YYYY-MM-DD. Use 4 digits for year and 2 digits for month and date. November 1, 2015 would be written as 2015-11-01.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Collected Time: Enter the time of sample collection using 24-hour military format hh:mm.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "PWS ID: If blank, enter your 7-digit Public Water System ID number as assigned by MDNR (MO#######).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Facility ID: Defaulted to DS (Distribution System) for routine samples. If submitting a sample type other than Routine, enter the Facility ID number from your system’s MDNR approved sample site plan (for example DS#, WL#, WT#).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sample Type: Enter one of the following options:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Routine – Regular monthly monitoring samples.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir menjorok"
+ },
+ {
+  "type": "text",
+  "text": "Repeat – A series of 3 or 4 repeat samples (4 if you only take 1 routine per month) must be taken for each routine sample that tests positive (Present) for coliform bacteria. All repeats must be taken on the same day, within 24 hours of being notified of the coliform positive sample. Site locations are based on the approved site sampling plan. Typically these samples will consist of one from the site of the original unsafe sample location, one within 5 service connections upstream, one within 5 service connections downstream, and one from a location specified or approved by MDNR. If your system is a ground water system serving less than 1,000 people without 4 log virus inactivation, one repeat sample (the fourth repeat) may be collected from the source/well prior to treatment. See Repeat Location below.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir menjorok; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "Replacement – All samples which are not tested because they were invalid, incomplete information, outdated, broken in transit, frozen, etc., must be replaced with a single sample from the same location within 24 hours of being notified.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir menjorok"
+ },
+ {
+  "type": "text",
+  "text": "Source/Well – If your system is a ground water system without chlorine contact time (4 log virus inactivation or removal), one sample must be collected from each well/source, prior to any treatment, active at the time of the positive sample(s).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir menjorok"
+ },
+ {
+  "type": "text",
+  "text": "Special – Any sample that does not count for compliance. These may include samples to check disinfection practices on repairs or new construction or for seasonal public water systems prior to serving water to the public.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir menjorok"
+ },
+ {
+  "type": "text",
+  "text": "Sample Collection Point ID: Enter the sampling point ID number from your system’s MDNR approved sample site plan. This number is required. DO NOT LEAVE BLANK. If you have questions about your Sample Collection Point ID, please contact the MDNR.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'DO NOT LEAVE BLANK' bergaris bawah"
+ },
+ {
+  "type": "text",
+  "text": "Location: Enter the address or name of the collection location associated with the Sample Collection Point ID above. (Important Note: The Location is tied to the Sample Collection Point ID from the approved site sampling plan and will be the location printed on the final analysis report. If the location entered on the collection form does not match the final report, contact MDNR.)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Collector: Enter your last name, first name.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Collector Phone: Enter your 10-digit day time phone number.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sample Category: This will always be Bacterial and is already filled out for you.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Repeat Location: If the sample type above is Repeat, enter the repeat location for this sample: upstream, downstream, original, source or other. If other, please describe the location.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Bottle Number: Enter the number from the label on the bottle. This is used to match collection forms to samples.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Free Chlorine: Enter the free chlorine test level in mg/L (if your system is chlorinated).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Total Chlorine: Enter the total chlorine test level in mg/L (if your system is chlorinated).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Collector Signature: By signing you attest that the information provided is accurate to the best of your knowledge.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "County: Enter the county name for the collection point if it is not already filled out for you.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "All other sections of the Environmental Sample Collection Form are for MSPHL use only. If you have any questions, please contact the MSPHL Environmental Bacteriology Unit at (573) 751-3334 or your local MDNR Regional Office (see next page for phone numbers).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Page 3 of 4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "LAB 34 Public Water (R10-2015)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kode dokumen"
+ }
+]

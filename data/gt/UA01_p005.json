@@ -1,0 +1,162 @@
+[
+ {
+  "type": "text",
+  "text": "(Sec. III-B4). Fig. 2(b) confirms higher true-positive rates than all baselines at every operating point, with high precision sustained at near-full recall (AUPRC 0.916)—critical under the class imbalance of real deployments.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "B. Failure-Origin Attribution",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "The 4-class attribution attains macro F1 86.4% (C0 91.2, C1 87.5, C2 84.1, C3 82.8), and the per-component ablation (Table IIa) confirms that spectral, probing, and provenance signals each contribute independently.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "C. Computational Efficiency",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "SELFCHECKGPT costs 1,840 ms/turn (five auxiliary LLM completions) and FACTSCORE 840.2 ms; RECONTRACE runs in 64.2 ms (4.8 probing + 4.9 claim extraction + 42.1 pairwise NLI + 12.3 Laplacian + 0.1 logistic) with zero extra LLM calls. With |V| = k + 3 + J bounded per turn, total cost is O(1) in the horizon T.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital"
+ },
+ {
+  "type": "text",
+  "text": "Scalability. O(1) also holds with respect to total memory size: only the k retrieved chunks enter the TPCG, so auditing a 100-chunk or a 1,000,000-chunk store costs identically. Cost moves with retrieval depth: pairwise NLI grows quadratically (42.1 ms at k=5, ≈164 ms at k=10), and AUROC varies by less than 0.01 across k ∈ [3, 10]; for k > 50, sparse Lanczos or randomized eigensolvers recover sub-100 ms latency.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf"
+ },
+ {
+  "type": "text",
+  "text": "D. Component Ablation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Table II(a) isolates each component’s contribution. Remov- ing spectral coherence (λRCA) causes the largest single drop (−8.6% F1, AUROC 0.852), establishing algebraic connec- tivity as the primary topological discriminator. Removing probing invariance (∆CPI) costs −6.8% F1, confirming that synthetic query shifts carry essential complementary infor- mation. Omitting contradiction attenuation costs −5.2% F1 because the Laplacian can no longer reflect intra-memory conflicts. Ablating claim extraction causes the largest overall drop (−13.5% F1), underscoring the importance of atomic claim grounding.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'Remov-/ing', 'connec-/tivity', 'infor-/mation.' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "E. Downstream Agent Performance",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Table II(b) reports 100-turn task success (N=40). Unmon- itored accuracy falls from 95.0% (turn 1) to 28.5% (turn 100), inflecting at turn 50; with RECONTRACE, C2/C3 turns trigger purging or re-scoping before re-generation, holding performance across all 100 turns: task success 89.2% (+25.4 pp), violations 4.5% (six-fold reduction).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital; hyphen: 'Unmon-/itored' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Error Analysis. Two modes dominate the 13.6% of misclas- sified turns. (i) Implicit temporal entailment (4.8%): updates lacking explicit negation or dates (e.g., a silently revised commit hash) defeat the NLI detector and the timestamp heuristic—most often C2 read as C0. (ii) Segmentation failures (3.1%): compound clauses merge assertions into one claim node, diluting the C1 bottleneck. Remedies: temporal embed- dings and claim-decomposition tuning.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; hyphen: 'misclas-/sified', 'embed-/dings' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "Oracle-free replication pilot. To verify that the pipeline needs no ground-truth labels at inference, we built a fully exe- cutable stack: a deterministic 1,200-trajectory pilot benchmark (template-disjoint splits), MiniLM embeddings, a DeBERTa-v3 NLI cross-encoder, and TPCG construction driven solely by model scores. On 32,562 turns, the learned pipeline at- tains contamination AUROC 0.871 and hallucination AUROC 1.000, with 4-class macro F1 0.810; the raw SRCA threshold reaches 0.921 and the NLI-only baseline 0.889. Fig. 2 is plotted directly from these measured scores; the gap to the headline numbers reflects the pilot’s simpler templates, while the decisive observation is that no oracle information is required for the signal to emerge. The complete stack ships with the released harness.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; lintas_kolom (terpotong tabel II); 'DeBERTa-/v3' ditulis utuh; hyphen: 'exe-/cutable', 'at-/tains' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Configuration / Variant</th><th>Detection F1</th><th>AUROC</th></tr><tr><td>Full RECONTRACE</td><td>90.0%</td><td>0.942</td></tr><tr><td>w/o Spectral Coherence (λRCA)</td><td>81.4% (−8.6%)</td><td>0.852</td></tr><tr><td>w/o Probing Invariance (∆CPI)</td><td>83.2% (−6.8%)</td><td>0.871</td></tr><tr><td>w/o Contradiction Attenuation (Wmi,mj)</td><td>84.8% (−5.2%)</td><td>0.884</td></tr><tr><td>w/o Atomic Claim Extraction</td><td>76.5% (−13.5%)</td><td>0.810</td></tr></table>",
+  "table_caption": "TABLE II\n(A) COMPONENT ABLATION. (B) DOWNSTREAM 100-TURN AGENT TASK SUCCESS AND FACTUAL VIOLATION RATES BEFORE AND AFTER ACTIVE PURIFICATION (N = 40).\n(a) Component Ablation Analysis",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; Tabel II dipecah dua elemen (a)/(b) karena kolom berbeda dicek: bisa juga satu tabel; judul sub-tabel '(a) …' masuk caption; caption kapital kecil ditulis kapital; matematika inline dilinearkan dari lapisan teks"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">Domain</th><th colspan=\"2\">Task Success Rate (%) ↑</th><th colspan=\"2\">Violation Rate (%) ↓</th></tr><tr><th>Unmonitored</th><th>+ ReConTrace</th><th>Unmonitored</th><th>+ ReConTrace</th></tr><tr><td>Clinical Medicine (MED)</td><td>62.4%</td><td>89.1% (+26.7%)</td><td>28.5%</td><td>4.2% (−24.3%)</td></tr><tr><td>Municipal Admin. (MUN)</td><td>68.1%</td><td>91.4% (+23.3%)</td><td>24.1%</td><td>3.8% (−20.3%)</td></tr><tr><td>Financial Compliance (FIN)</td><td>59.7%</td><td>87.8% (+28.1%)</td><td>31.2%</td><td>4.9% (−26.3%)</td></tr><tr><td>Software Eng. (SWE)</td><td>64.9%</td><td>88.5% (+23.6%)</td><td>26.8%</td><td>5.1% (−21.7%)</td></tr><tr><td>Macro Average</td><td>63.8%</td><td>89.2% (+25.4%)</td><td>27.6%</td><td>4.5% (−23.1%)</td></tr></table>",
+  "table_caption": "(b) Downstream 100-Turn Agent Performance (N = 40)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bagian (b) Tabel II; judul sub-tabel masuk caption"
+ },
+ {
+  "type": "text",
+  "text": "Prospective validity of λ2 (RQ2). The longitudinal evidence establishes association between spectral connectivity and sta- bility, and the ablation establishes the spectral feature’s causal contribution to detection—but not yet that λ2 at turn t predicts failures at t+∆. We therefore define a prospective protocol (windowed mean λ2 preceding failure onsets, via survival analysis over purification events) in the released harness; until it is reported, RQ2 should be read as operational anticipation, not certified forecasting.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading paragraf tebal sebaris ikut paragraf; hyphen: 'sta-/bility,' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "F. Case Study: Clinical Diagnostic Trace",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "At t=1 the agent stores allergy chunk m1 (“Anaphylaxis to Cephalosporins; safe alternative: Ciprofloxacin”); at t=18 an updated guideline m18 arrives (“isolate is fluoroquinolone-resistant; switch to IV Aztreonam”). At t=24, an unmon- itored agent retrieves m1 and recommends Ciprofloxacin 500 mg PO BID. RECONTRACE detects the contradiction (Pcontr=0.74, cos=0.81, Wm1,m18=0.21), driving λ2=0.082 and SRCA=0.31 ≪ θ∗=0.62; the classifier assigns C2 (P=0.89), m1 is soft-invalidated, and the agent outputs IV Aztreonam.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital; 'fluoroquinolone-/resistant' ditulis utuh; '500 mg' berspasi tipis di gambar, lapisan teks '500mg'; matematika inline dilinearkan dari lapisan teks; hyphen: 'unmon-/itored' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "V. DISCUSSION, LIMITATIONS, & ETHICS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "The results answer RQ1: contamination and hallucination are topologically distinguishable without any external refer- ence corpus. Gating purification on λ2/SRCA prevents the 100-turn collapse in Table II(b) (63.8% → 89.2%), and its ablation (−8.6% F1) attributes this protection to the spectral signal—answering RQ2 in the operational sense defined above. Three deployment principles follow. (1) Decouple invalidation from deletion: superseded chunks are archived with provenance flags, never erased. (2) Enforce namespace scoping at the",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; '100-/turn' ditulis utuh; berlanjut ke halaman berikutnya; hyphen: 'refer-/ence' pemenggalan suku kata dibiarkan"
+ }
+]

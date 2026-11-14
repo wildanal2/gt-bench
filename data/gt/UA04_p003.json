@@ -1,0 +1,156 @@
+[
+ {
+  "type": "text",
+  "text": "DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "KDD ’22, August 14–18, 2022, Washington, DC, USA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 2: Distribution of DocLayNet pages across document categories.",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; src=Picture; grafik pai; caption tebal"
+ },
+ {
+  "type": "text",
+  "text": "Scientific 17%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik pai; label + nilai irisan; urutan searah jarum jam dari atas"
+ },
+ {
+  "type": "text",
+  "text": "Patents 8%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik pai; label + nilai irisan"
+ },
+ {
+  "type": "text",
+  "text": "Manuals 21%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik pai; label + nilai irisan"
+ },
+ {
+  "type": "text",
+  "text": "Laws 16%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik pai; label + nilai irisan"
+ },
+ {
+  "type": "text",
+  "text": "Tenders 6%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik pai; label + nilai irisan"
+ },
+ {
+  "type": "text",
+  "text": "Financial 32%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik pai; label + nilai irisan"
+ },
+ {
+  "type": "text",
+  "text": "to a minimum, since they introduce difficulties in annotation (see Section 4). As a second condition, we focussed on medium to large documents (> 10 pages) with technical content, dense in complex tables, figures, plots and captions. Such documents carry a lot of information value, but are often hard to analyse with high accuracy due to their challenging layouts. Counterexamples of documents not included in the dataset are receipts, invoices, hand-written documents or photographs showing “text in the wild\".",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "The pages in DocLayNet can be grouped into six distinct cate- gories, namely Financial Reports, Manuals, Scientific Articles, Laws & Regulations, Patents and Government Tenders. Each document cate- gory was sourced from various repositories. For example, Financial Reports contain both free-style format annual reports2 which ex- pose company-specific, artistic layouts as well as the more formal SEC filings. The two largest categories (Financial Reports and Man- uals) contain a large amount of free-style layouts in order to obtain maximum variability. In the other four categories, we boosted the variability by mixing documents from independent providers, such as different government websites or publishers. In Figure 2, we show the document categories contained in DocLayNet with their respective sizes.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama kategori dan 'free-style' italic; superskrip footnote '2' setelah 'reports' ditulis sebagai angka biasa; hyphen: 'cate-/gories,', 'cate-/gory', 'ex-/pose', 'Man-/uals)'"
+ },
+ {
+  "type": "text",
+  "text": "We did not control the document selection with regard to lan- guage. The vast majority of documents contained in DocLayNet (close to 95%) are published in English language. However, Do- cLayNet also contains a number of documents in other languages such as German (2.5%), French (1.0%) and Japanese (1.0%). While the document language has negligible impact on the performance of computer vision methods such as object detection and segmenta- tion models, it might prove challenging for layout analysis methods which exploit textual features.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'lan-/guage.', 'Do-/cLayNet', 'segmenta-/tion'"
+ },
+ {
+  "type": "text",
+  "text": "To ensure that future benchmarks in the document-layout analy- sis community can be easily compared, we have split up DocLayNet into pre-defined train-, test- and validation-sets. In this way, we can avoid spurious variations in the evaluation scores due to random splitting in train-, test- and validation-sets. We also ensured that less frequent labels are represented in train and test sets in equal proportions.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'analy-/sis'"
+ },
+ {
+  "type": "text",
+  "text": "2e.g. AAPL from https://www.annualreports.com/",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; footnote; superskrip '2' ditulis sebagai angka biasa"
+ },
+ {
+  "type": "text",
+  "text": "Table 1 shows the overall frequency and distribution of the labels among the different sets. Importantly, we ensure that subsets are only split on full-document boundaries. This avoids that pages of the same document are spread over train, test and validation set, which can give an undesired evaluation advantage to models and lead to overestimation of their prediction accuracy. We will show the impact of this decision in Section 5.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "In order to accommodate the different types of models currently in use by the community, we provide DocLayNet in an augmented COCO format [16]. This entails the standard COCO ground-truth file (in JSON format) with the associated page images (in PNG format, 1025×1025 pixels). Furthermore, custom fields have been added to each COCO record to specify document category, original document filename and page number. In addition, we also provide the original PDF pages, as well as sidecar files containing parsed PDF text and text-cell coordinates (in JSON). All additional files are linked to the primary page images by their matching filenames.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'augmented' italic"
+ },
+ {
+  "type": "text",
+  "text": "Despite being cost-intense and far less scalable than automation, human annotation has several benefits over automated ground-truth generation. The first and most obvious reason to leverage human annotations is the freedom to annotate any type of doc- ument without requiring a programmatic source. For most PDF documents, the original source document is not available. The lat- ter is not a hard constraint with human annotation, but it is for automated methods. A second reason to use human annotations is that the latter usually provide a more natural interpretation of the page layout. The human-interpreted layout can significantly devi- ate from the programmatic layout used in typesetting. For example, “invisible” tables might be used solely for aligning text paragraphs on columns. Such typesetting tricks might be interpreted by au- tomated methods incorrectly as an actual table, while the human annotation will interpret it correctly as Text or other styles. The same applies to multi-line text elements, when authors decided to space them as “invisible” list elements without bullet symbols. A third reason to gather ground-truth through human annotation is to estimate a “natural” upper bound on the segmentation accuracy. As we will show in Section 4, certain documents featuring complex layouts can have different but equally acceptable layout interpre- tations. This natural upper bound for segmentation accuracy can be found by annotating the same pages multiple times by different people and evaluating the inter-annotator agreement. Such a base- line consistency evaluation is very useful to define expectations for a good target accuracy in trained deep neural network models and avoid overfitting (see Table 1). On the flip side, achieving high annotation consistency proved to be a key challenge in human annotation, as we outline in Section 4.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Text' italic; hyphen: 'ground-/truth' majemuk ditulis utuh, 'doc-/ument', 'lat-/ter', 'devi-/ate', 'au-/tomated', 'interpre-/tations.', 'base-/line'"
+ },
+ {
+  "type": "text",
+  "text": "4 ANNOTATION CAMPAIGN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "The annotation campaign was carried out in four phases. In phase one, we identified and prepared the data sources for annotation. In phase two, we determined the class labels and how annotations should be done on the documents in order to obtain maximum con- sistency. The latter was guided by a detailed requirement analysis and exhaustive experiments. In phase three, we trained the annota- tion staff and performed exams for quality assurance. In phase four,",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya; hyphen: 'con-/sistency.', 'annota-/tion'"
+ }
+]

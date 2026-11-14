@@ -1,0 +1,243 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo DHSS"
+ },
+ {
+  "type": "text",
+  "text": "MISSOURI DEPARTMENT OF HEALTH AND SENIOR SERVICES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks melingkar di logo"
+ },
+ {
+  "type": "text",
+  "text": "DHSS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks logo"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo SPHL"
+ },
+ {
+  "type": "text",
+  "text": "MISSOURI SPHL",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks logo; teks melingkar kecil di tepi logo tidak ditranskripsi dicek: terlalu kecil"
+ },
+ {
+  "type": "text",
+  "text": "SAMPLE COLLECTION INSTRUCTIONS PUBLIC DRINKING WATER for COLIFORM BACTERIA ANALYSIS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul dan subjudul bertumpuk dalam kotak; 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Missouri Department of Natural Resources"
+ },
+ {
+  "type": "text",
+  "text": "MISSOURI DEPARTMENT OF NATURAL RESOURCES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logotype di samping ikon; 3 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "This sample kit and collection method is for public drinking water regulatory compliance and special samples. Only samples collected in bottles supplied by the Missouri State Public Health Laboratory (MSPHL) and collected in accordance with these instructions will be accepted for testing. PLEASE READ THESE INSTRUCTIONS COMPLETELY BEFORE COLLECTING SAMPLES.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sample Containers:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; heading bergaris bawah",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Sample bottles from the MSPHL contain a chlorine neutralizer that is present in powder or liquid form. The bottles are sterile and ready for use when shipped. Do not rinse the contents from the container and keep the bottle closed until it is to be filled.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat terakhir tebal"
+ },
+ {
+  "type": "text",
+  "text": "Shrink Wrap Seal:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul tebal berdiri sendiri; panah ke foto",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Remove the seal by pulling down on the red strip and pealing shrink wrap from both the cap and bottle. Discard all shrink wrap. Do not attempt to reseal lid with shrink wrap still attached.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; typo 'pealing' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Two Fill Lines:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul tebal berdiri sendiri; panah ke foto",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Fill the bottle until the water sample level is BETWEEN THE TWO LINES. Place the bottle on a level surface to check the sample level. Samples below the 100 mL (lower) line WILL NOT BE TESTED due to insufficient sample volume. Samples above the 120 mL (upper) line WILL NOT BE TESTED due to overfilled bottle. Technical protocol and EPA requirements dictate that bottles must have sufficient air space to add testing reagents and to mix the sample properly.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat pertama tebal bergaris bawah"
+ },
+ {
+  "type": "text",
+  "text": "If the bottle is overfilled past the 120 mL line, pour off water until the sample volume is between the two lines before shipping to MSPHL. MSPHL WILL NOT adjust sample volume once the sample is received at the lab.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "No Paper Label:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul tebal berdiri sendiri",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "There is no longer a label to record sample information on the bottle. DO NOT WRITE ON THE BOTTLE. Please complete a sample information form for each sample submitted for testing. DATE AND TIME OF SAMPLE COLLECTION and the BOTTLE NUMBER (from sticker on bottle) ARE REQUIRED. A form for each bottle is included in this sample kit.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto botol sampel; kolom kanan"
+ },
+ {
+  "type": "text",
+  "text": "Max. fill line",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panah di samping foto"
+ },
+ {
+  "type": "text",
+  "text": "Min. fill line",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label panah di samping foto"
+ },
+ {
+  "type": "text",
+  "text": "For More Information, please contact:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak kontak; baris tebal"
+ },
+ {
+  "type": "text",
+  "text": "Missouri Department of Health and Senior Services State Public Health Laboratory Environmental Bacteriology Unit 101 North Chestnut St., P.O. Box 570 Jefferson City, MO 65102",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak kontak; blok alamat 5 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Phone: 573-751-3334",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak kontak; label dan nilai dipisah tab"
+ },
+ {
+  "type": "text",
+  "text": "FAX: 573-522-4032",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak kontak"
+ },
+ {
+  "type": "text",
+  "text": "Email: labweb1@health.mo.gov",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak kontak"
+ },
+ {
+  "type": "text",
+  "text": "Website: www.health.mo.gov/Lab",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak kontak"
+ },
+ {
+  "type": "text",
+  "text": "Page 1 of 4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "LAB 34 Public Water (R10-2015)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kode dokumen"
+ }
+]

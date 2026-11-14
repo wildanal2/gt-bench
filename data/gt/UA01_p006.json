@@ -1,0 +1,244 @@
+[
+ {
+  "type": "text",
+  "text": "index layer, so similarity cannot override task boundaries. (3) Pre-commit spectral auditing: unverified reflections must pass the SRCA ≥ θ∗ gate—provably breaking the Proposi- tion 1 cascade. Limitations: detection inherits DeBERTa-v3 NLI bias (alternative-backbone ablations needed for model-agnosticism); TPCG edges are pairwise (hypergraph exten- sions motivated); the benchmark is synthetic (organic-trace replication open); and α, β, θ∗ are statically tuned—adaptive calibration and cross-domain transfer are the paths to zero-shot robustness. Ethics: soft invalidation archives rather than deletes superseded chunks, preserving forensic auditability for human-in-the-loop review.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya; 'model-/agnosticism', 'zero-/shot' ditulis utuh; hyphen: 'Proposi-/tion', 'exten-/sions' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "VI. CONCLUSION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "We introduced RECONTRACE, a reference-free framework that detects and attributes hallucination and memory con- tamination in long-horizon agents. Both RQs are answered: the failures are topologically separable via TPCG Fiedler analysis (RQ1), and spectral connectivity carries actionable information about memory stability (RQ2), with a prospective protocol in the released harness. The classifier distinguishes C0–C3 with 86.4% macro F1, and an oracle-free pilot (32,562 turns) confirms the signal emerges without ground-truth labels. RECONTRACE reaches AUROC 0.942 at 64.2 ms with zero extra LLM calls, raising 100-turn task success from 63.8% to 89.2%—a principled basis for runtime epistemic auditing. The benchmark, implementation, and harness will be released publicly.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil ditulis kapital; hyphen: 'con-/tamination' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "REFERENCES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kapital kecil",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "[1] L. Wang, C. Ma, X. Feng, Z. Zhang, H. Yang, J. Zhang, Z.-Y. Chen, J. Tang, X. Chen, Y. Lin et al., “A survey on large language model based autonomous agents,” Frontiers of Computer Science, vol. 18, no. 6, p. 186345, 2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[2] C. Packer, V. Fang, S. G. Patil, K. Lin, S. Wooders, J. E. Gonzalez, and I. Stoica, “MemGPT: Towards LLMs as operating systems,” arXiv preprint arXiv:2310.08560, 2023.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[3] W. Zhong, L. Guo, Q. Gao, H. Ye, and Y. Wang, “MemoryBank: Enhancing large language models with long-term memory,” in Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), vol. 38, no. 17, 2024, pp. 19 704–19 712.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; angka halaman bersela tipis (19 704) seperti tampilan, lapisan teks -raw tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "[4] N. Shinn, F. Cassano, E. Berman, A. Gopinath, K. Narasimhan, and S. Yao, “Reflexion: Language agents with verbal reinforcement learning,” in Advances in Neural Information Processing Systems (NeurIPS), vol. 36, 2023, pp. 8634–8652.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[5] P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W.-t. Yih, T. Rocktäschel, S. Riedel, and D. Kiela, “Retrieval-augmented generation for knowledge-intensive NLP tasks,” in Advances in Neural Information Processing Systems (NeurIPS), vol. 33, 2020, pp. 9459–9474.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; 'Retrieval-/augmented' ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "[6] L. Huang, W. Yu, W. Ma, W. Zhong, Z. Feng, H. Wang, Q. Chen, W. Peng, X. Feng, B. Qin, and T. Liu, “A survey on hallucination in large language mod- els: Principles, taxonomy, challenges, and open questions,” ACM Transactions on Information Systems, 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; hyphen: 'mod-/els:' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "[7] Z. Ji, N. Lee, R. Frieske, T. Yu, D. Su, Y. Xu, E. Ishii, Y. Bang, W. Dai, A. Madotto, and P. Fung, “Survey of hallucination in natural language gen- eration,” ACM Computing Surveys, vol. 55, no. 12, pp. 1–38, 2023.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; hyphen: 'gen-/eration,”' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "[8] X. Chen, X. Xie, W. Fu, J. Zhou, S. Yu, and Q. Xuan, “MemSecBench: Tracking agent memory poisoning from persistence to consequence and repair,” arXiv preprint arXiv:2607.27080, 2026.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[9] Y. Wang, D. Xue, S. Zhang, and S. Qian, “BadAgent: Inserting and activating backdoor attacks in LLM agents,” in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024, pp. 9811–9827.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[10] Z. Chen, Z. Xiang, C. Xiao, D. Song, and B. Li, “AgentPoison: Red-teaming LLM agents via poisoning memory or knowledge bases,” in Advances in Neural Information Processing Systems (NeurIPS), vol. 37, 2024, pp. 1–24.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[11] S. Pulipaka, S. Hlebik, L. Raghav, S. Abdelnabi, V. Raina, I. Sheth, and M. Fritz, “Hidden in memory: Sleeper memory poisoning in LLM agents,” arXiv preprint arXiv:2605.15338, 2026.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[12] P. Manakul, A. Liusie, and M. J. F. Gales, “SelfCheckGPT: Zero-resource black-box hallucination detection for generative large language models,” in Proceedings of the 2023 Conference on Empirical Methods in Natural Lan- guage Processing (EMNLP), 2023, pp. 6361–6384.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; hyphen: 'Lan-/guage' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "[13] S. Min, K. Krishna, X. Lyu, R. Pasunuru, W.-t. Yih, H. Hajishirzi, and L. Zettle- moyer, “FActScore: Fine-grained atomic evaluation of factual precision in long form text generation,” in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023, pp. 12 076–12 101.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; angka halaman bersela tipis (19 704) seperti tampilan, lapisan teks -raw tanpa spasi; nama 'Zettle-/moyer' terpotong di akhir baris, dibiarkan dengan tanda hubung dicek: ; hyphen: 'Zettle-/moyer,' pemenggalan suku kata dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "[14] L. Gao, X. Ma, J. Lin, and J. Callan, “Precise zero-shot dense retrieval without relevance labels,” in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023, pp. 1762–1777.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[15] A. Asai, Z. Wu, Y. Wang, A. Sil, and H. Hajishirzi, “Self-RAG: Learning to retrieve, generate, and critique through self-reflection,” in The Twelfth International Conference on Learning Representations (ICLR), 2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[16] W. Wang, H. He, P. Cao et al., “Astute RAG: Overcoming imperfect retrieval augmentation and knowledge conflicts for large language models,” in The Thirteenth International Conference on Learning Representations (ICLR), 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[17] F. R. K. Chung, Spectral Graph Theory. American Mathematical Society, 1997, vol. 92.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[18] U. von Luxburg, “A tutorial on spectral clustering,” Statistics and Computing, vol. 17, no. 4, pp. 395–416, 2007.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[19] M. Fiedler, “Algebraic connectivity of graphs,” Czechoslovak Mathematical Journal, vol. 23, no. 2, pp. 298–305, 1973.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[20] J. Cheeger, “A lower bound for the smallest eigenvalue of the Laplacian,” in Problems in Analysis: A Symposium in Honor of Salomon Bochner. Princeton University Press, 1970, pp. 195–199.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[21] D. Edge, H. Trinh, N. Cheng, J. Bradley, A. Chao, A. Mody, S. Truitt, and J. Larson, “From local to global: A graph RAG approach to query-focused summarization,” arXiv preprint arXiv:2404.16130, 2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[22] J. Binkowski, D. Janiak, A. Sawczyn, B. Gabrys, and T. J. Kajdanowicz, “Hallucination detection in LLMs using spectral features of attention maps,” in Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, pp. 24 354–24 385.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; angka halaman bersela tipis (19 704) seperti tampilan, lapisan teks -raw tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "[23] S. Robertson and H. Zaragoza, “The probabilistic relevance framework: BM25 and beyond,” Foundations and Trends in Information Retrieval, vol. 3, no. 4, pp. 333–389, 2009.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[24] G. Izacard, M. Caron, L. Hosseini, S. Riedel, P. Bojanowski, A. Joulin, and E. Grave, “Unsupervised dense information retrieval with contrastive learning,” Transactions on Machine Learning Research (TMLR), 2022.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[25] J. Chen, S. Xiao, P. Zhang, K. Luo, D. Lian, and Z. Liu, “BGE M3-Embedding: Multi-lingual, multi-functionality, multi-granularity text embeddings through self-knowledge distillation,” arXiv preprint arXiv:2402.03216, 2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi"
+ },
+ {
+  "type": "text",
+  "text": "[26] P. He, J. Gao, and W. Chen, “DeBERTaV3: Improving DeBERTa using ELECTRA-style pre-training with gradient-disentangled embedding sharing,” in Proceedings of the 11th International Conference on Learning Representa- tions (ICLR), 2023.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; referensi; hyphen: 'Representa-/tions' pemenggalan suku kata dibiarkan"
+ }
+]
