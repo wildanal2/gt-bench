@@ -5,7 +5,7 @@ Satu standar untuk semua halaman uji di `data/`, baik dokumen Indonesia (`ID..`)
 ## Berkas
 
 - Halaman: `data/pages/<page_id>.pdf` (satu halaman), `page_id` = `<doc_id>_p<NNN>` (nomor halaman di dokumen asli).
-- GT: `data/gt/<page_id>.json`, berisi array elemen **dalam urutan baca**.
+- GT: `data/gt/<page_id>.json`, berisi array elemen **dalam urutan baca**. UTF-8, Unicode NFC, indentasi 1 spasi.
 - Varian scan sintetis: `data/scans/<profil>/<page_id>.pdf`, memakai GT halaman sumbernya.
 - Validasi: `.venv/bin/python scripts/validate_gt.py data/gt`.
 
