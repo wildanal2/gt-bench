@@ -11,8 +11,8 @@ halaman-halaman ini, lalu membandingkan keluarannya dengan GT. Bahasa kerja: Ind
   `predictions/<tool>/gt_issues.md`, lalu beri tahu pengguna. Jangan membetulkannya sendiri.
 - **Semua keluaran pengujian masuk ke `predictions/`** (diabaikan git). Kode evaluasi buatan pengguna juga diletakkan
   di sana atau di `eval/`, bukan di `scripts/`.
-- **Data ini internal dan sebagian berhak cipta** (laporan keuangan bank ID07–ID12, ID25). Jangan mengunggahnya ke
-  repo publik. **Sebelum memakai parser cloud** (LlamaParse, API berbayar lain), tanyakan dulu ke pengguna, karena
+- **Sebagian data berhak cipta** (laporan keuangan bank ID07–ID12, ID25). Pakai hanya untuk pengujian parser.
+  **Sebelum memakai parser cloud** (LlamaParse, API berbayar lain), tanyakan dulu ke pengguna, karena
   halamannya akan terkirim ke pihak ketiga.
 - Jangan menebak flag CLI atau API parser. Cek dokumentasi versi yang terpasang (`--help`, docs resmi).
 

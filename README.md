@@ -80,8 +80,9 @@ Konvensi berikut perlu diputuskan sama untuk semua tool **sebelum** menghitung s
 
 ## Lisensi dan kerahasiaan
 
-- **Hanya untuk penggunaan internal. Jangan diunggah ke repo publik atau layanan pihak ketiga.**
-- Laporan keuangan bank (ID07–ID12, ID25) adalah dokumen berhak cipta milik perusahaan.
+- Dataset ini disediakan untuk riset dan benchmark parser dokumen. Hak cipta setiap dokumen tetap milik penerbitnya.
+- Laporan keuangan bank (ID07–ID12, ID25) adalah dokumen berhak cipta milik perusahaan. Dokumen ini diambil dari
+  publikasi resmi mereka dan disertakan apa adanya untuk keperluan pengujian. Pemilik hak yang keberatan dapat membuka issue.
 - DP-Bench: MIT (Upstage), lihat `data/NOTICE_DPBENCH.md`.
 - Dokumen lain: lihat kolom `lisensi_catatan` di `data/sources.csv`.
 - Mengirim halaman ke parser berbasis cloud (misalnya LlamaParse) berarti mengunggah dokumen ke pihak ketiga.
