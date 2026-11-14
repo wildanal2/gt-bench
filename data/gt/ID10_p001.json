@@ -1,0 +1,387 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo bankbanten"
+ },
+ {
+  "type": "text",
+  "text": "bankbanten",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "BANK PEMBANGUNAN DAERAH BANTEN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PEMBANGUNAN DAERAH BANTEN (PERSERODA) Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kop surat",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Ruko Sembilan No. 8b-9a Jl. Jenderal Sudirman, Lingkungan Kemang, RT.04 RW. 23, Kelurahan Sumur Pecung, Kecamatan Serang, Kota Serang, Provinsi Banten.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kop surat; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Telepon: (0254) 7917346, www.bankbanten.co.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kop surat"
+ },
+ {
+  "type": "text",
+  "text": "Laporan Posisi Keuangan Triwulan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">No.</th><th rowspan=\"2\">POS - POS</th><th colspan=\"2\">BANK</th></tr><tr><th>31-Des-24 Audit</th><th>31-Des-23 Audit</th></tr><tr><td>ASET</td><td></td><td></td><td></td></tr><tr><td>1</td><td>Kas</td><td>133.328</td><td>115.200</td></tr><tr><td>2</td><td>Penempatan pada Bank Indonesia</td><td>906.297</td><td>729.656</td></tr><tr><td>3</td><td>Penempatan pada bank lain</td><td>12.147</td><td>15.809</td></tr><tr><td>4</td><td>Tagihan spot dan derivatif/forward</td><td>-</td><td>-</td></tr><tr><td>5</td><td>Surat berharga yang dimiliki</td><td>1.053.236</td><td>599.820</td></tr><tr><td>6</td><td>Surat berharga yang dijual dengan janji dibeli kembali (repo)</td><td>-</td><td>160.000</td></tr><tr><td>7</td><td>Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo)</td><td>-</td><td>-</td></tr><tr><td>8</td><td>Tagihan akseptasi</td><td>-</td><td>-</td></tr><tr><td>9</td><td>Kredit yang diberikan</td><td>3.851.281</td><td>3.700.111</td></tr><tr><td>10</td><td>Pembiayaan syariah1)</td><td>-</td><td>-</td></tr><tr><td>11</td><td>Penyertaan modal</td><td>-</td><td>-</td></tr><tr><td>12</td><td>Aset keuangan lainnya</td><td>25.042</td><td>24.512</td></tr><tr><td>13</td><td>Cadangan kerugian penurunan nilai aset keuangan -/-</td><td></td><td></td></tr><tr><td></td><td>a. Surat berharga yang dimiliki</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Kredit yang diberikan</td><td>(243.641)</td><td>(365.754)</td></tr><tr><td></td><td>c. Lainnya</td><td>-</td><td>-</td></tr><tr><td>14</td><td>Aset tidak berwujud</td><td>121.675</td><td>100.165</td></tr><tr><td></td><td>Akumulasi amortisasi aset tidak berwujud -/-</td><td>(92.967)</td><td>(89.472)</td></tr><tr><td>15</td><td>Aset tetap dan inventaris</td><td>347.484</td><td>344.327</td></tr><tr><td></td><td>Akumulasi penyusutan aset tetap dan inventaris -/-</td><td>(319.308)</td><td>(312.007)</td></tr><tr><td>16</td><td>Aset non produktif</td><td></td><td></td></tr><tr><td></td><td>a. Properti terbengkalai</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Agunan yang diambil alih setealah dikurangkan CKPN</td><td>2.371</td><td>2.371</td></tr><tr><td></td><td>c. Rekening tunda</td><td>-</td><td>-</td></tr><tr><td></td><td>d. Aset antarkantor 2)</td><td>-</td><td>-</td></tr><tr><td>17</td><td>Aset lainnya</td><td>1.754.170</td><td>1.776.082</td></tr><tr><td></td><td>TOTAL ASET</td><td>7.551.114</td><td>6.800.821</td></tr><tr><td>LIABILITAS DAN EKUITAS</td><td></td><td></td><td></td></tr><tr><td></td><td>LIABILITAS</td><td></td><td></td></tr><tr><td>1</td><td>Giro</td><td>667.094</td><td>240.026</td></tr><tr><td>2</td><td>Tabungan</td><td>711.622</td><td>529.918</td></tr><tr><td>3</td><td>Deposito</td><td>3.477.125</td><td>2.968.371</td></tr><tr><td>4</td><td>Uang Elektronik</td><td>-</td><td>-</td></tr><tr><td>5</td><td>Liabilitas kepada Bank Indonesia</td><td>-</td><td>-</td></tr><tr><td>6</td><td>Liabilitas kepada bank lain</td><td>694.028</td><td>751.649</td></tr><tr><td>7</td><td>Liabilitas spot dan derivatif/forward</td><td>-</td><td>-</td></tr><tr><td>8</td><td>Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali (repo)</td><td>-</td><td>150.880</td></tr><tr><td>9</td><td>Liabilitas akseptasi</td><td>-</td><td>-</td></tr><tr><td>10</td><td>Surat berharga yang diterbitkan</td><td>-</td><td>-</td></tr><tr><td>11</td><td>Pinjaman/Pembiayaan yang diterima</td><td>-</td><td>-</td></tr><tr><td>12</td><td>Setoran jaminan</td><td>647</td><td>533</td></tr><tr><td>13</td><td>Liabilitas antarkantor 2)</td><td>-</td><td>-</td></tr><tr><td>14</td><td>Liabilitas lainnya</td><td>296.900</td><td>490.380</td></tr><tr><td>15</td><td>Kepentingan minoritas (minority interest)</td><td>-</td><td>-</td></tr><tr><td></td><td>TOTAL LIABILITAS</td><td>5.847.417</td><td>5.131.756</td></tr><tr><td></td><td>EKUITAS</td><td></td><td></td></tr><tr><td>16</td><td>Modal disetor</td><td>-</td><td>-</td></tr><tr><td></td><td>a. Modal dasar</td><td>8.000.000</td><td>8.000.000</td></tr><tr><td></td><td>b. Modal yang belum disetor -/-</td><td>(3.691.136)</td><td>(3.691.136)</td></tr><tr><td></td><td>c. Saham yang dibeli kembali (treasury stock) -/-</td><td>-</td><td>-</td></tr><tr><td>17</td><td>Tambahan modal disetor</td><td></td><td></td></tr><tr><td></td><td>a. Agio</td><td>241.474</td><td>241.474</td></tr><tr><td></td><td>b. Disagio -/-</td><td>-</td><td>-</td></tr><tr><td></td><td>c. Dana setoran modal</td><td>-</td><td>-</td></tr><tr><td></td><td>d. Lainnya</td><td>-</td><td>-</td></tr><tr><td>18</td><td>Penghasilan komprehensif lain</td><td></td><td></td></tr><tr><td></td><td>a. Keuntungan</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Kerugian -/-</td><td>(15.871)</td><td>(11.173)</td></tr><tr><td>19</td><td>Cadangan</td><td></td><td></td></tr><tr><td></td><td>a. Cadangan umum</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Cadangan tujuan</td><td>-</td><td>-</td></tr><tr><td>20</td><td>Laba/rugi</td><td></td><td></td></tr><tr><td></td><td>a. Tahun-tahun lalu</td><td>(2.870.100)</td><td>(2.896.692)</td></tr><tr><td></td><td>b. Tahun berjalan 3)</td><td>39.330</td><td>26.592</td></tr><tr><td></td><td>c. Dividen yang dibayarkan -/-</td><td>-</td><td>-</td></tr><tr><td></td><td>TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK</td><td>1.703.697</td><td>1.669.065</td></tr><tr><td></td><td>TOTAL EKUITAS</td><td>1.703.697</td><td>1.669.065</td></tr><tr><td></td><td>TOTAL LIABILITAS DAN EKUITAS</td><td>7.551.114</td><td>6.800.821</td></tr></table>",
+  "table_caption": "(dalam jutaan rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; kolom No. terpisah; baris seksi ASET dan LIABILITAS DAN EKUITAS tercetak melintasi kolom No.+POS, ditulis di sel pertama tanpa colspan; label 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN TRIWULAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">No.</th><th rowspan=\"2\">POS - POS</th><th colspan=\"2\">BANK</th></tr><tr><th>31-Des-24 Audit</th><th>31-Des-23 Audit</th></tr><tr><td>PENDAPATAN DAN BEBAN OPERASIONAL</td><td></td><td></td><td></td></tr><tr><td>A.</td><td>Pendapatan dan Beban Bunga</td><td></td><td></td></tr><tr><td>1</td><td>Pendapatan Bunga</td><td>491.804</td><td>452.759</td></tr><tr><td>2</td><td>Beban Bunga</td><td>302.443</td><td>256.489</td></tr><tr><td></td><td>Pendapatan (Beban) Bunga Bersih</td><td>189.362</td><td>196.270</td></tr><tr><td>B.</td><td>Pendapatan dan Beban Operasional Lainnya</td><td></td><td></td></tr><tr><td>1</td><td>Pendapatan Operasional Lainnya</td><td>515.953</td><td>147.680</td></tr><tr><td></td><td>a. Peningkatan Nilai Wajar Aset Keuangan</td><td>-</td><td>1.244</td></tr><tr><td></td><td>b. Penurunan Nilai Wajar Liabilitas Keuangan</td><td>-</td><td>-</td></tr><tr><td></td><td>c. Keuntungan Penjualan Aset Keuangan</td><td>-</td><td>-</td></tr><tr><td></td><td>d. Keuntungan Transaksi spot dan derivatif</td><td>-</td><td>-</td></tr><tr><td></td><td>e. Keuntungan Transaksi spot dan forward</td><td>-</td><td>-</td></tr><tr><td></td><td>f. Dividen</td><td>-</td><td>-</td></tr><tr><td></td><td>g. Keuntungan dari penyertaan equity method</td><td>-</td><td>-</td></tr><tr><td></td><td>h. Provisi / Fee dan Administrasi</td><td>38.942</td><td>31.137</td></tr><tr><td></td><td>i. Penerimaan Kredit Hapus Buku</td><td>12.827</td><td>19.929</td></tr><tr><td></td><td>j. Keuntungan Penjabaran Transaksi Valuta Asing</td><td>-</td><td>-</td></tr><tr><td></td><td>k. Koreksi Cadangan Kerugian Penurunan Nilai</td><td>459.876</td><td>71.755</td></tr><tr><td></td><td>l. Pendapatan Lainnya</td><td>4.308</td><td>23.616</td></tr><tr><td>2</td><td>Beban Operational Lainnya</td><td>609.161</td><td>314.850</td></tr><tr><td></td><td>a. Penurunan Nilai Wajar Aset Keuangan</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Peningkatan Nilai Wajar Liabilitas Keuangan</td><td>-</td><td>-</td></tr><tr><td></td><td>c. Kerugian Penjualan Aset Keuangan</td><td>-</td><td>386</td></tr><tr><td></td><td>d. Kerugian Transaksi spot dan derivatif</td><td>-</td><td>-</td></tr><tr><td></td><td>e. Kerugian Transaksi spot dan forward</td><td>-</td><td>-</td></tr><tr><td></td><td>f. Kerugian Penurunan Nilai Aset Keuangan (impairment)</td><td>338.043</td><td>54.261</td></tr><tr><td></td><td>g. Kerugian Terkait Risiko Operational</td><td>-</td><td>6</td></tr><tr><td></td><td>h. Kerugian dari penyertaan equity method</td><td>-</td><td>-</td></tr><tr><td></td><td>i. Provisi / Fee dan Administrasi</td><td>-</td><td>-</td></tr><tr><td></td><td>j. Penyusutan / Amortisasi</td><td>19.388</td><td>26.391</td></tr><tr><td></td><td>k. Kerugian Penurunan Nilai Aset Lainnya (non-keuangan)</td><td>-</td><td>-</td></tr><tr><td></td><td>l. Kerugian Penjabaran Transaksi Valuta Asing</td><td>-</td><td>-</td></tr><tr><td></td><td>m. Beban Tenaga Kerja</td><td>147.728</td><td>140.628</td></tr><tr><td></td><td>n. Beban Promosi</td><td>6.621</td><td>3.213</td></tr><tr><td></td><td>o. Beban Lainnya</td><td>97.381</td><td>89.964</td></tr><tr><td></td><td>Pendapatan dan (Beban) Operasional Lainnya</td><td>(93.208)</td><td>(167.170)</td></tr><tr><td></td><td>Laba (Rugi) Operasional</td><td>96.154</td><td>29.099</td></tr><tr><td>C.</td><td>Pendapatan dan Beban Non Operational</td><td></td><td></td></tr><tr><td>1</td><td>Pendapatan Non Operasional</td><td>29</td><td>91.804</td></tr><tr><td></td><td>a. Keuntungan penjualan aset tetap dan inventaris</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Pendapatan non operasional lainnya</td><td>29</td><td>91.804</td></tr><tr><td>2</td><td>Beban Non Operasional</td><td>21.185</td><td>70.368</td></tr><tr><td></td><td>a. Kerugian penjualan aset tetap dan inventaris</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Beban non operasional lainnya</td><td>21.185</td><td>70.368</td></tr><tr><td></td><td>LABA (RUGI) NON OPERASIONAL</td><td>(21.156)</td><td>21.436</td></tr><tr><td></td><td>LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK</td><td>74.998</td><td>50.535</td></tr><tr><td></td><td>Pajak penghasilan</td><td></td><td></td></tr><tr><td></td><td>a. Taksiran pajak tahun berjalan</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Pendapatan (beban) pajak tangguhan</td><td>(35.667)</td><td>(23.944)</td></tr><tr><td></td><td>LABA (RUGI) BERSIH TAHUN BERJALAN</td><td>39.330</td><td>26.591</td></tr><tr><td></td><td>LABA (RUGI) KEPENTINGAN MINORITAS</td><td></td><td></td></tr><tr><td>D.</td><td>Penghasilan Komprehensif Lain</td><td></td><td></td></tr><tr><td>1</td><td>Pos-Pos yang Tidak Akan Direklasifikasi ke Laba Rugi</td><td></td><td></td></tr><tr><td></td><td>a. Keuntungan (kerugian) aktuarial</td><td>(1.583)</td><td>3.181</td></tr><tr><td></td><td>b. Pajak penghasilan terkait dengan komponen penghasilan komprehensif lainnya</td><td>348</td><td>(700)</td></tr><tr><td></td><td>c. Lainnya</td><td>-</td><td></td></tr><tr><td>2</td><td>Pos-Pos yang Akan Direklasifikasi ke Laba Rugi</td><td></td><td></td></tr><tr><td></td><td>a. Keuntungan (kerugian) atas perubahan nilai wajar dari efek-efek dalam kelompok tersedia untuk dijual - bersih</td><td>(6.724)</td><td>(2.284)</td></tr><tr><td></td><td>b. Pajak penghasilan terkait dengan komponen penghasilan komprehensif lainnya</td><td>1.479</td><td>502</td></tr><tr><td></td><td>PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN SETELAH PAJAK</td><td>(6.480)</td><td>699</td></tr><tr><td></td><td>TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN</td><td>32.850</td><td>27.290</td></tr><tr><td></td><td>Laba (Rugi) Bersih Tahun Berjalan yang dapat diatribusikan kepada :</td><td></td><td></td></tr><tr><td></td><td>- Pemilik</td><td>39.330</td><td>26.591</td></tr><tr><td></td><td>- Kepentingan Non Pengendali</td><td></td><td></td></tr><tr><td></td><td>TOTAL LABA (RUGI) BERSIH TAHUN BERJALAN</td><td>39.330</td><td>26.591</td></tr><tr><td></td><td>Total Laba (Rugi) Komprehensif Tahun Berjalan yang dapat diatribusikan kepada :</td><td></td><td></td></tr><tr><td></td><td>- Pemilik</td><td>(6.480)</td><td>699</td></tr><tr><td></td><td>- Kepentingan Non Pengendali</td><td></td><td></td></tr><tr><td></td><td>TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN</td><td>32.850</td><td>27.290</td></tr><tr><td></td><td>DIVIDEN</td><td></td><td></td></tr><tr><td></td><td>LABA BERSIH PER SAHAM (dalam satuan rupiah) 2)</td><td>0,76</td><td>0,51</td></tr></table>",
+  "table_caption": "(dalam jutaan)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; baris seksi PENDAPATAN DAN BEBAN OPERASIONAL melintasi kolom No.+POS, ditulis di sel pertama; sel nilai Kepentingan Non Pengendali diblok hitam di sumber, ditulis kosong; D.1.c Lainnya hanya bernilai \"-\" di kolom 31-Des-24; label 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Laporan Kualitas Aset Produktif dan Informasi Lain Triwulan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"3\">No.</th><th rowspan=\"3\">POS - POS</th><th colspan=\"12\">BANK</th></tr><tr><th colspan=\"6\">31-Des-24 (Audit)</th><th colspan=\"6\">31-Des-23 (Audit)</th></tr><tr><th>L</th><th>DPK</th><th>KL</th><th>D</th><th>M</th><th>JUMLAH</th><th>L</th><th>DPK</th><th>KL</th><th>D</th><th>M</th><th>JUMLAH</th></tr><tr><td>I.</td><td>PIHAK TERKAIT</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Penempatan pada bank lain</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>Tagihan spot dan derivatif/forward</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>Surat berharga yang dimiliki</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>Surat berharga yang dijual dengan janji dibeli kembali (Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (Reverse Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>Tagihan akseptasi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>Kredit yang diberikan dan pembiayaan yang diberikan</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>a. Debitur Usaha Mikro. Kecil dan Menengah (UMKM)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Bukan debitur UMKM</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>c. Kredit yang direstrukturisasi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>Penyertaan modal</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>Tagihan lainnya*</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>Komitmen dan kontinjensi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>II</td><td>PIHAK TIDAK TERKAIT</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Penempatan pada bank lain</td><td>12.147</td><td>-</td><td>-</td><td>-</td><td>-</td><td>12.147</td><td>15.809</td><td>-</td><td>-</td><td>-</td><td>-</td><td>15.809</td></tr><tr><td>2</td><td>Tagihan spot dan derivatif/forward</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>Surat berharga yang dimiliki</td><td>1.053.236</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.053.236</td><td>599.820</td><td>-</td><td>-</td><td>-</td><td>-</td><td>599.820</td></tr><tr><td>4</td><td>Surat berharga yang dijual dengan janji dibeli kembali (Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>160.000</td><td>-</td><td>-</td><td>-</td><td>-</td><td>160.000</td></tr><tr><td>5</td><td>Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (Reverse Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>Tagihan akseptasi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>Kredit yang diberikan dan pembiayaan yang diberikan</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>a. Debitur Usaha Mikro. Kecil dan Menengah (UMKM)</td><td>339.511</td><td>140</td><td>-</td><td>-</td><td>468</td><td>340.119</td><td>7.614</td><td>788</td><td>-</td><td>403</td><td>1.146</td><td>9.951</td></tr><tr><td></td><td>b. Bukan debitur UMKM</td><td>3.098.771</td><td>91.561</td><td>6.148</td><td>16.987</td><td>231.926</td><td>3.445.393</td><td>3.281.393</td><td>63.820</td><td>7.954</td><td>20.129</td><td>316.865</td><td>3.690.161</td></tr><tr><td></td><td>c. Kredit yang direstrukturisasi</td><td>27.338</td><td>3.931</td><td>-</td><td>780</td><td>33.720</td><td>65.769</td><td>35.464</td><td>2.896</td><td>1.541</td><td>163</td><td>28.104</td><td>68.168</td></tr><tr><td></td><td>d. Kredit Properti</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.485</td><td>1.726</td><td>79</td><td>42</td><td>599</td><td>3.931</td></tr><tr><td>8</td><td>Penyertaan modal</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>Tagihan lainnya*</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>Komitmen dan kontinjensi</td><td>14.186</td><td>-</td><td>-</td><td>-</td><td>-</td><td>14.186</td><td>8.457</td><td>-</td><td>-</td><td>-</td><td>-</td><td>8.457</td></tr><tr><td>III</td><td>INFORMASI LAIN</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Total aset bank yang dijaminkan :</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>a. Pada Bank Indonesia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>b. Pada pihak lain</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>Agunan yang diambil alih</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.371</td><td>2.371</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2.371</td><td>2.371</td></tr><tr><td>3</td><td>CKPN atas agunan yang diambil alih</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.252</td><td>1.252</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.252</td><td>1.252</td></tr></table>",
+  "table_caption": "(dalam jutaan rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; label 2 baris digabung; lapisan teks baris II.9 hanya 11 tanda \"-\", visual 12"
+ },
+ {
+  "type": "text",
+  "text": "CADANGAN KERUGIAN PENURUNAN NILAI DAN PENYISIHAN PENILAIAN KUALITAS ASET",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"3\">No.</th><th rowspan=\"3\">POS - POS</th><th colspan=\"5\">31 Desember 2024</th><th colspan=\"5\">31 Desember 2023</th></tr><tr><th colspan=\"3\">CKPN</th><th colspan=\"2\">PPKA wajib dibentuk</th><th colspan=\"3\">CKPN</th><th colspan=\"2\">PPA wajib dibentuk</th></tr><tr><th>Stage 1</th><th>Stage 2</th><th>Stage 3</th><th>Umum</th><th>Khusus</th><th>Stage 1</th><th>Stage 2</th><th>Stage 3</th><th>Umum</th><th>Khusus</th></tr><tr><td>1</td><td>Penempatan pada bank lain</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>Tagihan spot dan derivatif/forward</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>Surat berharga yang dimiliki</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>Surat berharga yang dijual dengan janji dibeli kembali (Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (Reverse Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>Tagihan akseptasi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>Kredit yang diberikan dan pembiayaan yang diberikan</td><td>26.977</td><td>3.172</td><td>213.492</td><td>32.321</td><td>234.667</td><td>46.158</td><td>8.239</td><td>311.357</td><td>31.851</td><td>318.993</td></tr><tr><td>8</td><td>Penyertaan modal</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>Tagihan lainnya*</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>Komitmen dan kontinjensi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; label 2 baris digabung; header 2023 tercetak \"PPA wajib dibentuk\" (2024: \"PPKA\"), disalin verbatim"
+ },
+ {
+  "type": "text",
+  "text": "PENGURUS BANK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>DEWAN KOMISARIS</td><td></td><td></td></tr><tr><td>Komisaris Utama</td><td>:</td><td>Hoiruddin Hasibuan</td></tr><tr><td>Komisaris Independen</td><td>:</td><td>Deden Riki Hayatul Firman</td></tr><tr><td>Komisaris</td><td>:</td><td>Usman Asshiddiqi Qohara*</td></tr><tr><td>DIREKSI</td><td></td><td></td></tr><tr><td>Direktur Utama</td><td>:</td><td>Muhammad Busthami</td></tr><tr><td>Direktur</td><td>:</td><td>Bambang Widyatmoko</td></tr><tr><td>Direktur</td><td>:</td><td>Rodi Judo Dahono</td></tr><tr><td>Direktur</td><td>:</td><td>Eko Virgianto</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": "* Efektif setelah mendapatkan Persetujuan Penilaian Kemampuan dan Kepatutan dari Otoritas Jasa Keuangan (OJK)",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel tanpa garis kisi, tanpa baris header; titik dua sebagai kolom sendiri; DEWAN KOMISARIS bergaris bawah"
+ },
+ {
+  "type": "text",
+  "text": "PEMEGANG SAHAM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>Pemegang Saham Pengendali Terakhir</td><td>:</td><td>Pemerintah Provinsi Banten</td></tr><tr><td>Pemegang Saham Pengendali</td><td>:</td><td>Pemerintah Provinsi Banten 66.11%</td></tr><tr><td>Pemegang Saham Bukan PSP melalui pasar modal (≥ 5%)</td><td>:</td><td>Tidak Ada</td></tr><tr><td>Pemegang Saham Bukan PSP tidak melalui pasar modal (≥ 5%)</td><td>:</td><td>Tidak Ada</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel tanpa garis kisi, tanpa baris header; label 2 baris digabung; baris terakhir tercetak \": Tidak Ada\" (titik dua menempel), dipisah ke kolom titik dua"
+ },
+ {
+  "type": "text",
+  "text": "Catatan :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1 Informasi keuangan per tanggal 31 Desember 2024 dan 2023. serta untuk periode dua belas bulan yang berakhir pada tanggal tersebut. yang telah diaudit oleh Kantor Akuntan Publik",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2 Laporan Publikasi ini disusun untuk memenuhi kewajiban sebagaimana diatur dalam Peraturan Otoritas Jasa Keuangan Nomor 37/POJK.03/2019 tentang Transparansi dan Publikasi Laporan Bank",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Serang, 17 Februari 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "PT Bank Pembangunan Daerah Banten (Perseroda) Tbk.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan"
+ },
+ {
+  "type": "text",
+  "text": "Muhammad Busthami",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bergaris bawah"
+ },
+ {
+  "type": "text",
+  "text": "Direktur Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN KOMITMEN DAN KONTIJENSI TRIWULAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; typo sumber KONTIJENSI disalin verbatim",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">No.</th><th rowspan=\"2\">POS - POS</th><th colspan=\"2\">BANK</th></tr><tr><th>31-Des-24 Audit</th><th>31-Des-23 Audit</th></tr><tr><td>I</td><td>TAGIHAN KOMITMEN</td><td></td><td></td></tr><tr><td></td><td>1 Fasilitas pinjaman/pembiayaan yang belum ditarik</td><td>-</td><td>-</td></tr><tr><td></td><td>2 Posisi valas yang akan diterima dari transaksi spot dan derivatif/forward</td><td>-</td><td>-</td></tr><tr><td></td><td>3 Lainnya</td><td>1.719</td><td>153.409</td></tr><tr><td>II</td><td>KEWAJIBAN KOMITMEN</td><td></td><td></td></tr><tr><td>1</td><td>Fasilitas kredit/pembiayaan yang belum ditarik</td><td></td><td></td></tr><tr><td></td><td>a. Committed</td><td>14.186</td><td>5.888</td></tr><tr><td></td><td>b. Uncommitted</td><td>-</td><td></td></tr><tr><td></td><td>2 Irrevocable L/C yang masih berjalan</td><td>-</td><td>-</td></tr><tr><td></td><td>3 Posisi valas yang akan diserahkan untuk transaksi spot dan derivatif/forward</td><td>-</td><td>-</td></tr><tr><td></td><td>4 Lainnya</td><td>-</td><td>-</td></tr><tr><td>III.</td><td>TAGIHAN KONTINJENSI</td><td></td><td></td></tr><tr><td></td><td>1 Garansi yang diterima</td><td>-</td><td>-</td></tr><tr><td></td><td>2 Lainnya</td><td>2.685.279</td><td>2.693.847</td></tr><tr><td>IV.</td><td>KEWAJIBAN KONTINJENSI</td><td></td><td></td></tr><tr><td></td><td>1 Garansi yang diberikan</td><td>2.398</td><td>2.559</td></tr><tr><td></td><td>2 Lainnya</td><td>10</td><td>10</td></tr></table>",
+  "table_caption": "(dalam jutaan)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; nomor butir 1-4 tercetak di kolom POS (kecuali \"1\" Fasilitas kredit di kolom No.), disalin sesuai posisi; b. Uncommitted hanya bernilai \"-\" di kolom 31-Des-24; label 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN KEWAJIBAN PENYEDIAAN MODAL MINIMUM TRIWULAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">No.</th><th rowspan=\"2\">POS - POS</th><th colspan=\"2\">BANK</th></tr><tr><th>31-Des-24 Audit</th><th>31-Des-23 Audit</th></tr><tr><td>I</td><td>Modal Inti (Tier 1)</td><td>1.274.849</td><td>1.256.665</td></tr><tr><td></td><td>1 Modal Inti Utama (CET 1)</td><td>1.274.849</td><td>1.256.665</td></tr><tr><td></td><td>1.1 Modal Disetor (setelah dikurangi Treasury Stock)</td><td>4.308.864</td><td>4.308.864</td></tr><tr><td></td><td>1.2 Cadangan Tambahan Modal *)</td><td>(2.621.726)</td><td>(2.633.281)</td></tr><tr><td></td><td>1.2.1 Faktor Penambah</td><td>280.805</td><td>268.065</td></tr><tr><td></td><td>1.2.1.1 Pendapatan komprehensif lainnya</td><td></td><td></td></tr><tr><td></td><td>1.2.1.1.1 Selisih lebih penjabaran laporan keuangan</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.1.1.2 Potensi keuntungan dari peningkatan nilai wajar aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.1.1.3 Saldo surplus revaluasi aset tetap</td><td></td><td></td></tr><tr><td></td><td>1.2.1.2 Cadangan tambahan modal lainnya (other disclosed reserves)</td><td>280.805</td><td>268.065</td></tr><tr><td></td><td>1.2.1.2.1 Agio</td><td>241.474</td><td>241.474</td></tr><tr><td></td><td>1.2.1.2.2 Cadangan umum</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.1.2.3 Laba tahun-tahun lalu</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.1.2.4 Laba tahun berjalan</td><td>39.330</td><td>26.591</td></tr><tr><td></td><td>1.2.1.2.5 Dana setoran modal</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.1.2.6 Lainnya</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.2 Faktor Pengurang</td><td>2.902.531</td><td>2.901.347</td></tr><tr><td></td><td>1.2.2.1 Pendapatan komprehensif lainnya</td><td>6.724</td><td>2.284</td></tr><tr><td></td><td>1.2.2.1.1 Selisih kurang penjabaran laporan keuangan</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.2.1.2 Potensi kerugian dari penurunan nilai wajar aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>6.724</td><td>2.284</td></tr><tr><td></td><td>1.2.2.2 Cadangan tambahan modal lainnya (other disclosed reserves)</td><td>2.895.807</td><td>2.899.062</td></tr><tr><td></td><td>1.2.2.2.1 Disagio</td><td></td><td></td></tr><tr><td></td><td>1.2.2.2.2 Rugi tahun-tahun lalu</td><td>2.870.100</td><td>2.896.692</td></tr><tr><td></td><td>1.2.2.2.3 Rugi tahun berjalan</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.2.2.4 Selisih kurang antara Penyisihan Penilaian Kualitas Aset (PPKA) dan Cadangan Kerugian Penurunan Nilai (CKPN) atas aset produktif</td><td>23.336</td><td>-</td></tr><tr><td></td><td>1.2.2.2.5 Selisih kurang jumlah penyesuaian nilai wajar dari instrumen keuangan dalam Trading Book</td><td>-</td><td>-</td></tr><tr><td></td><td>1.2.2.2.6 PPKA non-produktif</td><td>2.371</td><td>2.371</td></tr><tr><td></td><td>1.2.2.2.7 Lainnya</td><td>-</td><td>-</td></tr><tr><td></td><td>1.3 Kepentingan Non-Pengendali yang dapat diperhitungkan</td><td></td><td></td></tr><tr><td></td><td>1.4 Faktor Pengurang Modal Inti Utama *)</td><td>(412.289)</td><td>(418.918)</td></tr><tr><td></td><td>1.4.1 Pajak tangguhan</td><td>(383.581)</td><td>(408.225)</td></tr><tr><td></td><td>1.4.2 Goodwill</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.3 Aset tidak berwujud</td><td>(28.708)</td><td>(10.693)</td></tr><tr><td></td><td>1.4.4 Penyertaan yang diperhitungkan sebagai faktor pengurang</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.5 Kekurangan modal pada perusahaan anak asuransi</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.6 Eksposur sekuritisasi</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.7 Faktor pengurang modal inti utama lainnya</td><td></td><td></td></tr><tr><td></td><td>1.4.7.1 Penempatan dana pada instrumen AT 1 dan/atau Tier 2 pada bank lain</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.7.2 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum. hibah. atau hibah wasiat</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.7.3 Eksposur yang menimbulkan Risiko Kredit akibat kegagalan settlement (settlement risk) - Non Delivery Versus Payment</td><td>-</td><td>-</td></tr><tr><td></td><td>1.4.7.4 Eksposur di Perusahaan Anak yang melakukan kegiatan usaha berdasarkan prinsip syariah (apabila ada)</td><td>-</td><td>-</td></tr><tr><td></td><td>2 Modal Inti Tambahan/Additional Tier 1 (AT 1) *)</td><td></td><td></td></tr><tr><td></td><td>2.1 Instrumen yang memenuhi persyaratan AT 1</td><td>-</td><td>-</td></tr><tr><td></td><td>2.2 Agio/Disagio</td><td>-</td><td>-</td></tr><tr><td></td><td>2.3 Faktor Pengurang Modal Inti Tambahan *)</td><td></td><td></td></tr><tr><td></td><td>2.3.1 Penempatan dana pada instrumen AT 1 dan/atau Tier 2 pada bank lain</td><td>-</td><td>-</td></tr><tr><td></td><td>2.3.2 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat</td><td>-</td><td>-</td></tr><tr><td>II</td><td>Modal Pelengkap (Tier 2)</td><td>32.310</td><td>31.693</td></tr><tr><td></td><td>1 Instrumen modal dalam bentuk saham atau lainnya yang memenuhi persyaratan Tier 2</td><td>-</td><td>-</td></tr><tr><td></td><td>2 Agio/Disagio</td><td>-</td><td>-</td></tr><tr><td></td><td>3 Cadangan umum PPKA atas aset produktif yang wajib dihitung (paling tinggi 1.25% ATMR Risiko Kredit)</td><td>32.310</td><td>31.693</td></tr><tr><td></td><td>4 Faktor Pengurang Modal Pelengkap *)</td><td></td><td></td></tr><tr><td></td><td>4.1 Sinking Fund</td><td>-</td><td>-</td></tr><tr><td></td><td>4.2 Penempatan dana pada instrumen Tier 2 pada bank lain</td><td>-</td><td>-</td></tr><tr><td></td><td>4.3 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat</td><td>-</td><td>-</td></tr><tr><td>TOTAL MODAL</td><td></td><td>1.307.160</td><td>1.288.358</td></tr><tr><th colspan=\"2\">KETERANGAN</th><th>31-Des-24</th><th>31-Des-23</th></tr><tr><td>ASET TERTIMBANG MENURUT RISIKO</td><td></td><td></td><td></td></tr><tr><td>ATMR RISIKO KREDIT</td><td></td><td>2.761.720</td><td>2.688.191</td></tr><tr><td>ATMR RISIKO PASAR</td><td></td><td>-</td><td>-</td></tr><tr><td>ATMR RISIKO OPERASIONAL</td><td></td><td>278.888</td><td>193.061</td></tr><tr><td>TOTAL ATMR</td><td></td><td>3.040.607</td><td>2.881.251</td></tr><tr><td>RASIO KPMM SESUAI PROFIL RISIKO (%)</td><td></td><td>11.00%</td><td>11,00%</td></tr><tr><td>ALOKASI PEMENUHAN KPMM SESUAI PROFIL RISIKO</td><td></td><td></td><td></td></tr><tr><td>Dari CET 1 (%)</td><td></td><td>9,94%</td><td>9,90%</td></tr><tr><td>Dari AT 1 (%)</td><td></td><td>0,00%</td><td>0,00%</td></tr><tr><td>Dari Tier 2 (%)</td><td></td><td>1,06%</td><td>1,10%</td></tr><tr><td>RASIO KPMM</td><td></td><td></td><td></td></tr><tr><td>Rasio CET 1 (%)</td><td></td><td>41,93%</td><td>43,62%</td></tr><tr><td>Rasio Tier 1 (%)</td><td></td><td>41,93%</td><td>43,62%</td></tr><tr><td>Rasio Tier 2 (%)</td><td></td><td>1,06%</td><td>1,10%</td></tr><tr><td>Rasio KPMM (%)</td><td></td><td>42,99%</td><td>44,72%</td></tr><tr><td>CET 1 UNTUK BUFFER (%)</td><td></td><td>31,99%</td><td>33,72%</td></tr><tr><td>PERSENTASE BUFFER YANG WAJIB DIPENUHI OLEH BANK (%)</td><td></td><td>2,50%</td><td>2,50%</td></tr><tr><td>Capital Conservation Buffer (%)</td><td></td><td>0,00%</td><td>0,00%</td></tr><tr><td>Countercyclical Buffer (%)</td><td></td><td>2,50%</td><td>2,50%</td></tr><tr><td>Capital Surcharge untuk Bank Sistemik (%)</td><td></td><td>0,00%</td><td>0,00%</td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; nomor hierarkis (1, 1.1, 1.2.1.1.1 dst.) tercetak di kolom POS, ikut di label; baris TOTAL MODAL dan bagian bawah (setelah header kedua KETERANGAN) tercetak melintasi kolom No.+POS, label ditulis di sel pertama tanpa colspan; header kedua KETERANGAN di tengah tabel ditulis th; \"11.00%\" (titik) vs \"11,00%\" verbatim; label multi-baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN RASIO KEUANGAN TRIWULAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Per 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No.</th><th>Rasio (%)</th><th>31-Des-24 Audit</th><th>31-Des-23 Audit</th></tr><tr><td>Rasio Kinerja</td><td></td><td></td><td></td></tr><tr><td>1</td><td>Kewajiban Penyediaan Modal Minimum (KPMM)</td><td>42,99%</td><td>44,72%</td></tr><tr><td>2</td><td>Aset produktif bermasalah dan aset non- produktif bermasalah terhadap total aset produktif dan aset non-produktif</td><td>5,45%</td><td>7,10%</td></tr><tr><td>3</td><td>Aset produktif bermasalah terhadap total aset produktif</td><td>5,40%</td><td>7,27%</td></tr><tr><td>4</td><td>Cadangan Kerugian Penurunan Nilai (CKPN) aset keuangan terhadap aset produktif</td><td>4,54%</td><td>7,67%</td></tr><tr><td>5</td><td>NPL gross</td><td>7,53%</td><td>9,36%</td></tr><tr><td>6</td><td>NPL net</td><td>1,98%</td><td>1,09%</td></tr><tr><td>7</td><td>Return on Asset (ROA)</td><td>1,02%</td><td>0,72%</td></tr><tr><td>8</td><td>Return on Equity (ROE)</td><td>3,16%</td><td>2,14%</td></tr><tr><td>9</td><td>Net Interest Margin (NIM)</td><td>3,51%</td><td>4,05%</td></tr><tr><td>10</td><td>Beban Operasional terhadap Pendapatan Operasional (BOPO)</td><td>90,46%</td><td>95,15%</td></tr><tr><td>11</td><td>Cost to Income Ratio (CIR)</td><td>112,20%</td><td>84,50%</td></tr><tr><td>12</td><td>Loan to Deposit Ratio (LDR)</td><td>79,31%</td><td>98,98%</td></tr><tr><td>Kepatuhan (Compliance)</td><td></td><td></td><td></td></tr><tr><td>1</td><td>a. Persentase pelanggaran BMPK</td><td></td><td></td></tr><tr><td></td><td>i. Pihak terkait</td><td>0,00%</td><td>0,00%</td></tr><tr><td></td><td>ii. Pihak tidak terkait</td><td>0,00%</td><td>0,00%</td></tr><tr><td></td><td>b. Persentase pelampauan BMPK</td><td></td><td></td></tr><tr><td></td><td>i. Pihak terkait</td><td>0,00%</td><td>0,00%</td></tr><tr><td></td><td>ii. Pihak tidak terkait</td><td>0,00%</td><td>0,00%</td></tr><tr><td>2</td><td>GWM</td><td></td><td></td></tr><tr><td></td><td>a. GWM utama Rupiah harian</td><td>8,92%</td><td>6,54%</td></tr><tr><td></td><td>b. GWM utama Rupiah Rata-rata</td><td>7,71%</td><td>8,09%</td></tr><tr><td></td><td>c. GWM valuta asing</td><td>0,00%</td><td>0,00%</td></tr><tr><td>3</td><td>Posisi Devisa Neto (PDN) secara keseluruhan</td><td>0,00%</td><td>0,00%</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; baris seksi Rasio Kinerja dan Kepatuhan (Compliance) melintasi kolom No.+Rasio, ditulis di sel pertama; \"aset non- produktif\" (spasi setelah tanda hubung) verbatim; label 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN TRANSAKSI SPOT DAN DERIVATIF/FORWARD TRIWULAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Posisi 31 Desember 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"3\">No.</th><th rowspan=\"3\">TRANSAKSI</th><th colspan=\"5\">Bank</th></tr><tr><th rowspan=\"2\">Nilai Notional</th><th colspan=\"2\">Tujuan</th><th colspan=\"2\">Tagihan dan Liabilitas Derivatif</th></tr><tr><th>Trading</th><th>Hedging</th><th>Tagihan</th><th>Liabilitas</th></tr><tr><td>A.</td><td>Terkait dengan Nilai Tukar</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Spot</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>Forward</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>Option</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>a. Jual</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Beli</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>Future</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>Swap</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>Lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>B.</td><td>Terkait dengan Suku Bunga</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Forward</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>Option</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>a. Jual</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td></td><td>b. Beli</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>Future</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>Swap</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>Lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>C.</td><td>Lainnya</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>J U M L A H</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; \"J U M L A H\" tercetak berjarak huruf (lapisan teks: \"J U M LAH\"), ditulis sesuai visual"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN ARUS KAS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Untuk Periode Yang Berakhir pada Tanggal 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">Pos-pos Arus Kas</th><th colspan=\"2\">BANK</th></tr><tr><th>31-Des-24 Audit</th><th>31-Des-23 Audit</th></tr><tr><td>ARUS KAS DARI AKTIVITAS OPERASI</td><td></td><td></td></tr><tr><td>Penerimaan bunga</td><td>491.275</td><td>455.067</td></tr><tr><td>Pembayaran bunga</td><td>(300.686)</td><td>(256.308)</td></tr><tr><td>Penghasilan operasional lainnya - bersih</td><td>56.077</td><td>74.681</td></tr><tr><td>Pembayaran beban umum dan administrasi</td><td>(129.413)</td><td>(117.612)</td></tr><tr><td>Pembayaran beban tenaga kerja dan tunjangan</td><td>(122.952)</td><td>(117.280)</td></tr><tr><td>Pendapatan non operasional - bersih</td><td>97.553</td><td>39.691</td></tr><tr><td>Arus Kas Sebelum Perubahan Aset dan Liabilitas Operasi</td><td>91.853</td><td>78.238</td></tr><tr><td>Penurunan (kenaikan) aset operasi:</td><td></td><td></td></tr><tr><td>Efek-efek</td><td>(297.855)</td><td>36.222</td></tr><tr><td>Efek Repo</td><td>-</td><td>-</td></tr><tr><td>Kredit</td><td>(273.282)</td><td>(19.218)</td></tr><tr><td>Biaya dibayar dimuka</td><td>21.480</td><td>(141.924)</td></tr><tr><td>Agunan yang diambil alih dan aset lain-lain</td><td>(51.422)</td><td>154.201</td></tr><tr><td>Kenaikan (penurunan) liabilitas operasi:</td><td>-</td><td>-</td></tr><tr><td>Liabilitas segera</td><td>(182.601)</td><td>(25.969)</td></tr><tr><td>Simpanan dari nasabah</td><td>1.117.527</td><td>(427.707)</td></tr><tr><td>Simpanan dari bank lain</td><td>(57.621)</td><td>(172.864)</td></tr><tr><td>Utang pajak</td><td>(81)</td><td>124</td></tr><tr><td>Liabilitas lain-lain</td><td>(16.411)</td><td>26.093</td></tr><tr><td>Liabilitas atas efek-efek yang dijual dengan janji dibeli kembali</td><td>(150.880)</td><td>150.880</td></tr><tr><td>Kas Bersih Digunakan untuk Aktivitas Operasi</td><td>108.854</td><td>(420.162)</td></tr><tr><td>ARUS KAS DARI AKTIVITAS INVESTASI</td><td></td><td></td></tr><tr><td>Perolehan aset tetap</td><td>(2.906)</td><td>(2.298)</td></tr><tr><td>Perolehan aset sewa guna usaha</td><td>(6.695)</td><td>(15.082)</td></tr><tr><td>Kas Bersih Digunakan untuk Aktivitas Investasi</td><td>(9.601)</td><td>(17.380)</td></tr><tr><td>ARUS KAS DARI AKTIVITAS PENDANAAN</td><td></td><td></td></tr><tr><td>Penerbitan saham baru</td><td>-</td><td>-</td></tr><tr><td>Biaya emisi saham</td><td>-</td><td></td></tr><tr><td>Kas Bersih Diperoleh dari Aktivitas Pendanaan</td><td>-</td><td>-</td></tr><tr><td>PENURUNAN KAS DAN SETARA KAS</td><td>191.106</td><td>(359.304)</td></tr><tr><td>KAS DAN SETARA KAS AWAL PERIODE</td><td>860.665</td><td>1.219.969</td></tr><tr><td>KAS DAN SETARA KAS AKHIR PERIODE</td><td>1.051.772</td><td>860.665</td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanpa kolom No.; Biaya emisi saham hanya bernilai \"-\" di kolom 31-Des-24"
+ }
+]

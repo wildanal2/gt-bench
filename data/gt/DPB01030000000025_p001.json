@@ -1,0 +1,119 @@
+[
+ {
+  "type": "text",
+  "text": "2. The Lost Homeland",
+  "page_idx": 0,
+  "bbox": [
+   0.6777,
+   0.08551,
+   0.85276,
+   0.09689
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "gesture in honour of local culture. Few of the artefacts were authentically\npart of this area. It told us nothing of any interest or with any authority.\nWe wondered whose culture we were looking at.",
+  "page_idx": 0,
+  "bbox": [
+   0.13077,
+   0.11679,
+   0.84624,
+   0.17509
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "At the central railway station, we tried to question officials, in German and\nEnglish, about the location of Steinkirche. But only Polish was spoken at\nthe information office and other counters. Nor could we locate the correct\ntrain line on the information screens.",
+  "page_idx": 0,
+  "bbox": [
+   0.1286,
+   0.19144,
+   0.84624,
+   0.26719
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "On our walk back to the centre of town, past the dilapidated theatre where\nmy mother had attended performances, John spotted another bookshop.\nSurprisingly it was trading busily on a Polish Catholic Sunday. It sold old\nand books. We found old pictures of Breslau labelled in Polish and\nmaps\nEnglish. We found descriptions in both Polish and English of Neumarkt\nPlatz (Novi Targ). Various maps showed clear plans of its location. They\nalso showed the Neptune fountain I had been seeking. For centuries it had\na conspicuous place in town maps as a well drawing water from the Oder,\nwhose tributaries flowed together and separated the town into different\nquarters, spanned by a multitude of bridges.",
+  "page_idx": 0,
+  "bbox": [
+   0.12642,
+   0.28173,
+   0.84515,
+   0.48292
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "I was thrilled. Before this find, my family had begun to question whether\nthe fountain had actually existed. 'You and your fountain!' they cried.\nand beyond.\nBut I always knew it was there, in my memory",
+  "page_idx": 0,
+  "bbox": [
+   0.1286,
+   0.495,
+   0.84624,
+   0.55259
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "When we walked to Novi Targ, we found the old houses by the\nsquare\nhad been destroyed totally by the War. So, to my disappointment, had\nthe Neptune fountain . In Microcosm, his history of Wroclaw, Norman\nDavies tells how, after the War, the rubble of Breslau had been removed\nin trainloads to rebuild Warsaw in its original style. Some fine Breslau\nbuildings left standing by War were even knocked down for their\nold bricks.",
+  "page_idx": 0,
+  "bbox": [
+   0.12642,
+   0.56752,
+   0.84624,
+   0.7033
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "I viewed this horrible information as being akin to the punishment Dante\ndished out to sinners in his Purgatory. Atonement was to be made only\nby suffering punishment that fitted the spirit of a crime.",
+  "page_idx": 0,
+  "bbox": [
+   0.12751,
+   0.71965,
+   0.84841,
+   0.77866
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We then looked for the air-raid shelters in which grandmother and\nmy\naunt Else had sheltered from the fire-bombs that rained down on the city\nin early 1945.",
+  "page_idx": 0,
+  "bbox": [
+   0.12534,
+   0.79217,
+   0.85059,
+   0.85189
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "11",
+  "page_idx": 0,
+  "bbox": [
+   0.88987,
+   0.92991,
+   0.9081,
+   0.94183
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

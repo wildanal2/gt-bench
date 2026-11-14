@@ -1,0 +1,121 @@
+[
+ {
+  "type": "text",
+  "text": "Figure 1.10. Migrant remittances inflows (in US$ billion)",
+  "page_idx": 0,
+  "bbox": [
+   0.16443,
+   0.08288,
+   0.66423,
+   0.09882
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16443,
+   0.11097,
+   0.85917,
+   0.36064
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: World Bank and KNOMAD (2021)",
+  "page_idx": 0,
+  "bbox": [
+   0.16443,
+   0.37602,
+   0.48249,
+   0.38901
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Table 1.4. Growth in migrant remittance inflows",
+  "page_idx": 0,
+  "bbox": [
+   0.16443,
+   0.40493,
+   0.61293,
+   0.42086
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td rowspan=\"2\">AMS</td><td colspan=\"5\">Average Annual Growth</td><td rowspan=\"2\">Remittance inflows in 2020 (US$ Million)</td></tr><tr><td>2000-2004</td><td>2004-2009</td><td>2009-2014</td><td>2014-2019</td><td>2019-2020</td></tr><tr><td>Cambodia</td><td>7.5%</td><td>-0.7%</td><td>50.6%</td><td>6.7%</td><td>-16.6%</td><td>1,272</td></tr><tr><td>Indonesia</td><td>9.4%</td><td>29.5%</td><td>4.7%</td><td>6.4%</td><td>-17.3%</td><td>9,651</td></tr><tr><td>Lao PDR</td><td>4.0%</td><td>115.7%</td><td>38.0%</td><td>9.5%</td><td>-10.6%</td><td>265</td></tr><tr><td>Malaysia</td><td>18.6%</td><td>7.1%</td><td>6.9%</td><td>0.7%</td><td>-11.2%</td><td>1,454</td></tr><tr><td>Myanmar</td><td>2.7%</td><td>-14.1%</td><td>102.7%</td><td>5.4%</td><td>-7.1%</td><td>2,250</td></tr><tr><td>Philippines</td><td>10.6%</td><td>11.7%</td><td>7.5%</td><td>4.2%</td><td>-0.7%</td><td>34,913</td></tr><tr><td>Thailand</td><td>-0.9%</td><td>18.6%</td><td>11.4%</td><td>4.6%</td><td>-1.2%</td><td>8,067</td></tr><tr><td>Viet Nam</td><td>11.5%</td><td>21.1%</td><td>14.8%</td><td>7.2%</td><td>1.2%</td><td>17,200</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16443,
+   0.42647,
+   0.85917,
+   0.6382
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Source: World Bank and KNOMAD (2021)",
+  "page_idx": 0,
+  "bbox": [
+   0.1719,
+   0.64631,
+   0.48996,
+   0.65929
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In the Philippines, of the returning Filipino migrant workers in 2020, 55 percent\nearned a monthly income of between PHP20,000 and PHP50,000, and 19\npercent earned between PHP5000 and PHP20,000. Before their return, 50\npercent reported remitting amounts ranging from PHP10,000 to PHP20,000\n(US$200 to US$400) monthly. It is highly unlikely that the families of these\nmigrant workers would have savings to rely on after they lost their jobs.\nAdditionally, 83 percent of these workers were still unemployed after three\nmonths, resulting in a 60 percent drop in household income for 48 percent of\nthe returned migrant workers.",
+  "page_idx": 0,
+  "bbox": [
+   0.16443,
+   0.67456,
+   0.85917,
+   0.82824
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "26",
+  "page_idx": 0,
+  "bbox": [
+   0.0468,
+   0.95182,
+   0.07168,
+   0.96458
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "ASEAN Migration Outlook",
+  "page_idx": 0,
+  "bbox": [
+   0.57847,
+   0.95182,
+   0.85846,
+   0.967
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

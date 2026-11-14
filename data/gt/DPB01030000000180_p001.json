@@ -1,0 +1,96 @@
+[
+ {
+  "type": "text",
+  "text": "Version History",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11306,
+   0.07749,
+   0.3609,
+   0.10521
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "This page provides a record of edits and changes made to this book since its initial publication.\nWhenever edits or updates are made in the text, we provide a record and description of those\nchanges here. If the change is minor, the version number increases by 0.1. If the edits involve\nsubstantial updates, the edition number increases to the next whole number.",
+  "page_idx": 0,
+  "bbox": [
+   0.11438,
+   0.17346,
+   0.88615,
+   0.24873
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The files posted alongside this book always reflect the most recent version. If you find an error in\nthis book, please let us know in the Rebus Community forum, where reported errors will be visible\nto others.",
+  "page_idx": 0,
+  "bbox": [
+   0.11438,
+   0.26662,
+   0.88615,
+   0.31922
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We will contact the author, make the necessary changes, and replace all file types as soon as\npossible. Once we receive the updated files, this Version History page will be updated to reflect\nthe edits made.",
+  "page_idx": 0,
+  "bbox": [
+   0.11438,
+   0.34005,
+   0.88615,
+   0.39266
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Version History",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11306,
+   0.42335,
+   0.29881,
+   0.447
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Version History",
+  "page_idx": 0,
+  "bbox": [
+   0.44063,
+   0.46517,
+   0.55779,
+   0.47834
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Version</td><td>Date</td><td>Change</td><td>Affected Sections</td></tr><tr><td>1.0</td><td>April 30, 2022</td><td>Original</td><td></td></tr><tr><td>1.0</td><td>June 3, 2022</td><td>Small edits for clarity on Creative Commons licensing and attribution.</td><td>1. Introduction to Open Educational Resources</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11489,
+   0.48287,
+   0.88493,
+   0.59695
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ }
+]

@@ -1,0 +1,220 @@
+[
+ {
+  "type": "text",
+  "text": "Ikhsan Zuhriyanto, Anton Yudhana, Imam Riadi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 5 (2020) 829 – 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "2.1. Skenario Kasus",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Skenario kasus dibutuhkan untuk melakukan proses digital forensik dengan bantuan beberapa variabel untuk mendapatkan hasil yang maksimal. Skenario kasus dapat dilihat pada Gambar 2.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 2. Flowchart Digital Forensik",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Mulai",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan atas-ke-bawah"
+ },
+ {
+  "type": "text",
+  "text": "Identifikasi Tools dan alat Foernsic",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan atas-ke-bawah"
+ },
+ {
+  "type": "text",
+  "text": "Metode DFRWS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan atas-ke-bawah"
+ },
+ {
+  "type": "text",
+  "text": "Indeks Akurasi Tools Forensic",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan atas-ke-bawah"
+ },
+ {
+  "type": "text",
+  "text": "Selesai",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan atas-ke-bawah"
+ },
+ {
+  "type": "text",
+  "text": "Pelaku melakukan tindak kejahatan dengan menggunakan aplikasi Twitter yang ada pada smartphone. Setelah smartphone berhasil didapatkan kemudian dilakukan langkah digital forensic untuk mendapatkan bukti tindak kejahatan. Hasil dari bukti tersebut akan di presentasikan sebagai tambahan bukti di persidangan. Dalam memudahkan pencarian barang bukti maka difokuskan untuk pembuatan variabel pencarian bukti digital seperti pada Tabel 1.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No</th><th>Variabel</th></tr><tr><td>1.</td><td>Application info</td></tr><tr><td>2.</td><td>Account info</td></tr><tr><td>3.</td><td>Twitter ID</td></tr><tr><td>4.</td><td>Friends</td></tr><tr><td>5.</td><td>User/ Follower/Following</td></tr><tr><td>6.</td><td>Conversation/Direst Messages</td></tr><tr><td>7.</td><td>Cached Search</td></tr><tr><td>8.</td><td>Audio</td></tr><tr><td>9.</td><td>Video</td></tr><tr><td>10.</td><td>Text</td></tr><tr><td>11.</td><td>Picture</td></tr><tr><td>12.</td><td>Deleted Messages/Tweets</td></tr><tr><td>13.</td><td>IP Adress</td></tr><tr><td>14.</td><td>url</td></tr><tr><td>15.</td><td>Email/Phone Number</td></tr><tr><td>16.</td><td>Location</td></tr></table>",
+  "table_caption": "Tabel 1. Variabel yang Digunakan",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Melalui tabel variabel tersebut akan dilakukan proses forensik digital untuk mendapatkan barang bukti yang sesuai.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.2. MOBILedit Forensic Express",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit Forensic Express merupakan tools forensic yang memungkinkan penyidik memperoleh secara logic. mencari dan memeriksa ponsel menggunakan beberapa mekanisme konektivitas terutama nirkabel, cukup baik digunakan untuk memperoleh informasi sistem telepon dan informasi lain seperti kontak dan pesan [16].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "2.3. Belkasoft Evidence Center",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Belkasoft Evience Center dapat digunakan untuk mendapatkan, mencari, menganalisa dan menyimpan berbagai bukti digital yang ada pada perangkat komputer atau mobile, tools ini untuk mengekstrak bukti digital dari berbagai sumber dengan menganalisis penyimpanan hard drive, memory dump, iOs BlackBerry dan android backup kemudian secara otomatis menganalisis sumber data dan menyimpannya dalam sebuah laporan [19].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3. Hasil dan Pembahasan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "3.1. Tahapan Identification",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Metode Digital Forensik Research Workshop (DFRWS) merupakan salah satu metode yang memiliki tahapan cukup lengkap dalam menjalakan proses forensic dan banyak digunakan oleh penyidik dalam mengumpulkan barang bukti. Proses mendapatkan barang bukti pada smartphone Android menggunakan software forensik Mobiledit Forensic Express dan Belkasoft Evidence Center. Berikut adalah Tabel 2 dan 3 informasi tentang hardware dan software yang diperlukan pada penelitian ini.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No</th><th>Alat Penelitian</th><th>Deskripsi</th></tr><tr><td>1.</td><td>Laptop</td><td>Asus A450L, Windows 10 64 bit</td></tr><tr><td>2.</td><td>Smartphone</td><td>Evercross Y3+, Android Lolipop 5.0.1</td></tr><tr><td>3.</td><td>Twitter</td><td>Aplikasi media sosial</td></tr><tr><td>4.</td><td>Kabel USB</td><td>Konektor dari hp ke laptop</td></tr></table>",
+  "table_caption": "Tabel 2. Alat Penelitian",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No</th><th>Forensic Tools</th><th>Deskripsi</th></tr><tr><td>1.</td><td>Mobiledit Forensic Express</td><td>Berbasis Windows aplikasi yang dapat digunakan untuk memperoleh bukti digital pada smartphone.</td></tr><tr><td>2.</td><td>Belkasoft Evidence Center</td><td>Berbasis Windows aplikasi yang dapat digunakan untuk memperoleh bukti digital pada smartphone</td></tr></table>",
+  "table_caption": "Tabel 3. Forensic Tools",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; baris dalam sel digabung"
+ },
+ {
+  "type": "text",
+  "text": "Tahapan pertama yang dilakukan adalah proses identifikasi untuk dijadikan bahan acuan pada pencarian barang bukti berdasarkan kasus yang telah terjadi sebelumnya. Barang bukti yang akan di identifikasi adalah sebuah smartphone dengan merk Evercross seperti pada Gambar 3.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 3. Smartphone Penelitian",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto; teks layar ponsel terlalu kecil, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 5 (2020) 829 – 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "831",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

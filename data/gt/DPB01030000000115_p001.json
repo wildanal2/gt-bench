@@ -1,0 +1,161 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.13049,
+   0.04854,
+   0.4158,
+   0.06842
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.81011,
+   0.05138,
+   0.88603,
+   0.06842
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "5. Sample problem: If the ocular has a 10x lens and the objective has a 45x lens the total\nmagnification is 10 x 45 = 450x",
+  "page_idx": 0,
+  "bbox": [
+   0.14273,
+   0.09207,
+   0.8444,
+   0.1281
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Changing objectives:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11457,
+   0.13938,
+   0.29702,
+   0.15926
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. When changing objectives from scanning power to lower power to high power the\nfollowing changes will occur:",
+  "page_idx": 0,
+  "bbox": [
+   0.14273,
+   0.16872,
+   0.8297,
+   0.20373
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "a. The size of the field of view decreases\nb. The field of view becomes darker\nc. The size of the image increases\nd. The resolution (ability to see detail) increases\ne. The working distance between the slide and the objective lens decreases\nf. The depth of focus (thickness of the specimen that is visible) is reduced",
+  "page_idx": 0,
+  "bbox": [
+   0.20273,
+   0.20657,
+   0.81011,
+   0.32674
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "2. When changing from scanning to low power the field of view gets smaller. In fact, every\ntime you increase the power of the objective, the field gets smaller.",
+  "page_idx": 0,
+  "bbox": [
+   0.14151,
+   0.32863,
+   0.87011,
+   0.36554
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Steps for Using the Microscope:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.10967,
+   0.40433,
+   0.39254,
+   0.4242
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. Place the slide on the stage lining it up with the rectangle and using the stage clip to hold\nit in place.",
+  "page_idx": 0,
+  "bbox": [
+   0.13906,
+   0.43366,
+   0.87501,
+   0.46962
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.17457,
+   0.47435,
+   0.50887,
+   0.66928
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "2. Click the nosepiece to the lowest (shortest) setting, the scanning objective lens or 4x.\n3. Look into the eyepiece.\n4. Use the coarse adjustment knob to bring the specimen into view. The specimen must be\nin focus before moving to the next steps.\n5. Rotate the nosepiece to the low-power objective or 10x.\n6. Refocus using the coarse adjustment knob.\n7. Move the slide to get a centered view.\n8. Now use the fine adjustment knob to get the specimen in perfect focus.\n9. Your slide MUST be focused on low power before attempting this next step.",
+  "page_idx": 0,
+  "bbox": [
+   0.14438,
+   0.70884,
+   0.88113,
+   0.89105
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "20",
+  "page_idx": 0,
+  "bbox": [
+   0.48875,
+   0.92348,
+   0.512,
+   0.93805
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

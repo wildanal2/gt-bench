@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "The Data Journey",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.13829,
+   0.10183,
+   0.67925,
+   0.14038
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "To get started, let's consider the data visualization1 in Figure 1.1\nbelow.",
+  "page_idx": 0,
+  "bbox": [
+   0.13829,
+   0.17589,
+   0.858,
+   0.22256
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.15867,
+   0.24032,
+   0.70433,
+   0.43613
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1.1.\nProduction\nof apples,\nblueberries,\ncranberries,\ngraphs,\nand\nstrawberrie\ns in British\nColumbia,\n2016-2020.",
+  "page_idx": 0,
+  "bbox": [
+   0.73177,
+   0.23423,
+   0.85565,
+   0.40417
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The underlying raw data went through many stages before it\nwas presented to you in this data visualization. The information\nhad to be:",
+  "page_idx": 0,
+  "bbox": [
+   0.13829,
+   0.51953,
+   0.858,
+   0.58051
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Collected via surveys\n· Inputted into a database\n· Stored on secure servers\n· Cleaned for accuracy and consistency\n· Analyzed to understand the trends\n· Presented as a bar graph",
+  "page_idx": 0,
+  "bbox": [
+   0.15867,
+   0.60898,
+   0.61808,
+   0.74057
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "1. Statistics Canada. Table 32-10-0364-01 Area, production and farm gate\nvalue of marketed fruits. Data is reproduced and distributed on an \"as\nis\" basis with the permission of Statistics Canada. Retrieved January\n9th, 2022. DOI: https://doi.org/10.25318/3210036401-eng. Statistics\nCanada Open Licence: https://www.statcan.gc.ca/en/reference/licence",
+  "page_idx": 0,
+  "bbox": [
+   0.12356,
+   0.80811,
+   0.85078,
+   0.9061
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "4 | The Data Journey",
+  "page_idx": 0,
+  "bbox": [
+   0.14136,
+   0.93483,
+   0.36271,
+   0.94979
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

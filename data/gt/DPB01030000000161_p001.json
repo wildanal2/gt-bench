@@ -1,0 +1,41 @@
+[
+ {
+  "type": "text",
+  "text": "of any individual to color their decisions, even when\nthey're acting in good faith.",
+  "page_idx": 0,
+  "bbox": [
+   0.23821,
+   0.12972,
+   0.80267,
+   0.17758
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Credentials: Academic credentials tend to\nrepresent a significant commitment of time towards\ngaining mastery of a subject, and therefore requiring\na particular degree may increase the likelihood of\naccurate information. However, not all groups are\nequally represented in higher education. Degree\ncompletion is uneven across race and income factors\n(among others), making academia not\ndemographically representative of our society as a\nwhole. Some perspectives are therefore\nsystematically underrepresented in groups with\nadvanced degrees.\n· Peer Review: Peer review sometimes only results in\ncollaborative improvements to a work. It can also\nprevent the publication of very obviously flawed or\npoorly executed or analyzed research. Very new or\nradical ideas may be initially rejected because they\nare such a departure from existing dogma. Peer\nreview is largely a practice of academia, therefore has\nthe same exclusionary problems mentioned in the\ncredentials section. It is possible for individual\nreviewers to act in a biased or unethical way to\nprevent the publication of some works.\n· Fact Checking: Not a lot of downside here. Let me\nknow if your students come up with anything good.\n· Domains: For some top level domains (mostly just\n.gov and .edu) looking at the domain provides some\nassurance that the web content there is an official\ncommunication of a particular institution. There\nreally isn't any problem with domains excluding",
+  "page_idx": 0,
+  "bbox": [
+   0.20706,
+   0.18136,
+   0.81386,
+   0.86505
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "106 | Instructor Resources",
+  "page_idx": 0,
+  "bbox": [
+   0.12921,
+   0.92191,
+   0.41144,
+   0.94081
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.19077,
+   0.09113,
+   0.77438,
+   0.38119
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 12.8: Top tuna fishing nations based on landings of seven tuna species in 2018. Long description.",
+  "page_idx": 0,
+  "bbox": [
+   0.16245,
+   0.4002,
+   0.8104,
+   0.41691
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Today most tuna are captured in purse seines, and longlines are the second-most-common gear. Indonesia\nand Japan are consistently the top-two fishing nations (Figure 12.8). Five of the top tuna fishing nations-Japan,\nTaiwan (Republic of China), Spain, Korea, and the USA-have large fishing fleets that operate far from their home\nwaters, whereas the others have large local or regional fleets. New technologies, such as sonar, have made tuna\nfishing much more effective. In response, the use of spotter planes is banned for fishing Atlantic Bluefin Tuna in\nthe Mediterranean (Di Natale 2020). Many recreational tuna boats also use spotter planes in the eastern Atlantic\nOcean, although the traditionalist harpoon fishers shun the technology (Whynott 1995; Decker 2016).",
+  "page_idx": 0,
+  "bbox": [
+   0.09723,
+   0.47862,
+   0.90319,
+   0.61028
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The Pacific Ocean has consistently had the highest landings, about 66% of the world's tuna catch. The western\nand central Pacific Ocean is where many artisanal and industrial fisheries overlap. For the small island nations,\nfishing provides a major source of income, jobs, and food security (Bell et al. 2019). Yet, Pacific island nations\nhave not fully realized the economic potential with the global tuna industry, despite the fact that 80% of it is\ncaught within their exclusive economic zones (EEZs, i.e., within 200 miles). The 1982 United Nations Convention\non the Law of the Sea awarded coastal states sovereign rights to (1) exploit and manage all living resources\nwithin their EEZ, (2) exclude distant water fleets in favor of developing their own fleets, and (3) charge distant\nwater fleets rent for access. Eight island nations-the Federated States of Micronesia, Kiribati, Marshall Islands,\nNauru, Palau, Papua New Guinea, Solomon Islands and Tuvalu, which support 80% of the purse-seine catch in\ntheir waters-formed an alliance and require collective bargaining to set rents for access by foreign vessels. The\nalliance also prioritized domestic over foreign vessels and set limits on the number of purse-seine vessels. The\nissue of sovereignty over tuna that migrate freely among EEZs remains a concern for small island nations (Bailey\net al. 2012). Working to establish fair and equitable allocations of total allowable catches to the many parties will\nrequire more equitable sharing with the larger tuna-fishing nations.",
+  "page_idx": 0,
+  "bbox": [
+   0.09723,
+   0.62685,
+   0.90319,
+   0.8955
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "282 | Conserving Tuna: The Most Commercially Valuable Fish on Earth",
+  "page_idx": 0,
+  "bbox": [
+   0.09723,
+   0.93445,
+   0.558,
+   0.94832
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

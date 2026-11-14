@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "LAW\nLIBRARY\nLIBRARY OF CONGRESS",
+  "page_idx": 0,
+  "bbox": [
+   0.11176,
+   0.09477,
+   0.29,
+   0.21872
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Restrictions on Land Ownership\nby Foreigners in Selected\nJurisdictions",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.1748,
+   0.34103,
+   0.81769,
+   0.45661
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "June 2023",
+  "page_idx": 0,
+  "bbox": [
+   0.44182,
+   0.49618,
+   0.55758,
+   0.51833
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "LL File No. 2023-022255\nLRA-D-PUB-002612",
+  "page_idx": 0,
+  "bbox": [
+   0.40287,
+   0.78367,
+   0.60101,
+   0.8156
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The Law Library of Congress, Global Legal Research Directorate\n(202) 707-5080 · law@loc.gov · http://www.law.gov",
+  "page_idx": 0,
+  "bbox": [
+   0.25188,
+   0.9229,
+   0.75038,
+   0.95629
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

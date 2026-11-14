@@ -1,0 +1,262 @@
+[
+ {
+  "type": "text",
+  "text": "Combinatorial Cosmology\nDOI: http://dx.doi.org/10.5772/intechopen.90696",
+  "page_idx": 0,
+  "bbox": [
+   0.14495,
+   0.02699,
+   0.49025,
+   0.0566
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "As for the normal phase, the choice will, to start with, be the simplest possible\none: each path is either possible or not, corresponding to the probability weights 1\nand 0. During the extreme phases, this assumption is no longer reasonable. Again\nthe model will be extremely simplified, but still it is based on physical intuition and,\nmost importantly, completely time symmetric. Assume that the only types of edges\nhaving a non-neglectable chance of occurring during the extreme phase\n[-m - 1, -m] are of the following two kinds: The first scenario is that the universe\npasses through the extreme phase into a state of zero entropy. The other scenario is\nthat it passes into a state with high entropy (equal to 2m). Universes of one of these\ntwo types will be given the (un-normalized) probability 1 or p, respectively. Here\np> 0 should be thought of as a very small number, at least when the size of the\nmodel becomes large. During the other extreme phase [m, m + 1], near the Big\nCrunch, we make the completely symmetric assumption.",
+  "page_idx": 0,
+  "bbox": [
+   0.14495,
+   0.07392,
+   0.85087,
+   0.28485
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Remark 3. These assumptions may perhaps seem somewhat arbitrary. And to a\ncertain extent, this may be so. However, they do represent the following viewpoint\nof what may happen at the full cosmological scale: we may think of the Big Bang and\nthe Big Crunch as states of complete order with zero volume and entropy. Such\nstates can very well be metastable, very much like an oversaturated gas at a tem-\nperature below the point of condensation. If no disturbance takes place, such meta-\nstable states can very well continue to exist for a substantial period of time. In\nparticular, a low-entropy state can have a very good chance of surviving the intense\nbut extremely short extreme phase. On the other hand, if a sufficiently large dis-\nturbance occurs, then the metastable state may almost immediately decay into a\nvery disordered state of high entropy.",
+  "page_idx": 0,
+  "bbox": [
+   0.14495,
+   0.28485,
+   0.85087,
+   0.4627
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "It is not my intension to further argue in favor of this viewpoint here. The main\nthing in this chapter is to show that completely symmetric boundary conditions at\nthe endpoints may give rise to a broken time symmetry.",
+  "page_idx": 0,
+  "bbox": [
+   0.14495,
+   0.4627,
+   0.85087,
+   0.51177
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The multiverse now splits up into four different kinds of paths:",
+  "page_idx": 0,
+  "bbox": [
+   0.17429,
+   0.51177,
+   0.70902,
+   0.52772
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· LL: The entropy is low (=0) at both ends ( -m and m).",
+  "page_idx": 0,
+  "bbox": [
+   0.16901,
+   0.54427,
+   0.64576,
+   0.56018
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· LH: The entropy is 0 at -m and 2m at m.",
+  "page_idx": 0,
+  "bbox": [
+   0.16901,
+   0.57684,
+   0.53245,
+   0.59275
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· HL: The entropy is 2m at -m and 0 at m.",
+  "page_idx": 0,
+  "bbox": [
+   0.16901,
+   0.60977,
+   0.53245,
+   0.62569
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· HH: The entropy is high (= 2m) at both ends (-m and m).",
+  "page_idx": 0,
+  "bbox": [
+   0.16901,
+   0.6416,
+   0.68264,
+   0.65751
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "If we now denote by NLL, NLH, NHL and NHH the number of paths of the\nindicated kinds, then with the above assumptions we also get the corresponding\nprobability weights for the corresponding types as",
+  "page_idx": 0,
+  "bbox": [
+   0.14495,
+   0.67369,
+   0.82277,
+   0.72276
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "P_{LL}=N_{LL},\\quadP_{LH}=pN_{LH},\\quadP_{HL}=pN_{HL},\\quadP_{HH}=p^2N_{HH}.",
+  "page_idx": 0,
+  "bbox": [
+   0.21778,
+   0.73275,
+   0.71992,
+   0.75068
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(10)",
+  "page_idx": 0,
+  "bbox": [
+   0.79398,
+   0.73504,
+   0.82901,
+   0.74844
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "We can now consider the following two types of broken time symmetry:\nDefinition 4. A multiverse is said to exhibit a weak broken time symmetry if",
+  "page_idx": 0,
+  "bbox": [
+   0.17312,
+   0.76602,
+   0.82586,
+   0.80038
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "P_{LL}\\llP_{LH}+P_{HL}.",
+  "page_idx": 0,
+  "bbox": [
+   0.42448,
+   0.80985,
+   0.57116,
+   0.82531
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(11)",
+  "page_idx": 0,
+  "bbox": [
+   0.79581,
+   0.81075,
+   0.82901,
+   0.82414
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Definition 5. A multiverse is said to exhibit a strong broken time symmetry if",
+  "page_idx": 0,
+  "bbox": [
+   0.17312,
+   0.84034,
+   0.82786,
+   0.85809
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "P_{LL}+P_{HH}\\llP_{LH}+P_{HL}.",
+  "page_idx": 0,
+  "bbox": [
+   0.39492,
+   0.86894,
+   0.59844,
+   0.8844
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(12)",
+  "page_idx": 0,
+  "bbox": [
+   0.79531,
+   0.86936,
+   0.82901,
+   0.88276
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Both these definitions should of course be made more precise when applied to\nspecific models for the multiverse, e.g., by showing that the corresponding limits",
+  "page_idx": 0,
+  "bbox": [
+   0.14573,
+   0.89935,
+   0.83363,
+   0.93372
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "317",
+  "page_idx": 0,
+  "bbox": [
+   0.14573,
+   0.95803,
+   0.17115,
+   0.96883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

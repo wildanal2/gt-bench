@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "The original financial statements included herein are in Indonesian language.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama entitas di atas judul laporan; berulang tiap halaman laporan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN POSISI KEUANGAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "STATEMENTS OF FINANCIAL POSITION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DECEMBER 2024 AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan/ Notes</th><th>2024</th><th>2023</th><th></th></tr><tr><td>LIABILITAS DAN EKUITAS</td><td></td><td></td><td></td><td>LIABILITIES AND EQUITY</td></tr><tr><td>LIABILITAS</td><td></td><td></td><td></td><td>LIABILITIES</td></tr><tr><td>LIABILITAS SEGERA</td><td>2h,18,40, 43,51</td><td>1.965.829</td><td>354.731</td><td>LIABILITIES PAYABLE ON DEMAND</td></tr><tr><td>SIMPANAN DARI NASABAH</td><td></td><td></td><td></td><td>DEPOSITS FROM CUSTOMERS</td></tr><tr><td>Giro</td><td>2g,2h,2u, 19,40,42, 43</td><td></td><td></td><td>Demand deposits</td></tr><tr><td>Pihak ketiga</td><td></td><td>61.291.174</td><td>64.166.818</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>992</td><td>4.163</td><td>Related parties</td></tr><tr><td>Tabungan</td><td>2g,2h,2u, 20,40,42, 43</td><td></td><td></td><td>Savings</td></tr><tr><td>Pihak ketiga</td><td></td><td>41.179.196</td><td>39.329.147</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>82.816</td><td>91.341</td><td>Related parties</td></tr><tr><td>Deposito berjangka</td><td>2g,2h,2u, 21,40,42, 43</td><td></td><td></td><td>Time deposits</td></tr><tr><td>Pihak ketiga</td><td></td><td>83.148.238</td><td>84.882.967</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>141.037</td><td>112.126</td><td>Related parties</td></tr><tr><td>SIMPANAN DARI BANK-BANK LAIN</td><td>2g,2h,2u, 22,40,42, 43</td><td></td><td></td><td>DEPOSITS FROM OTHER BANKS</td></tr><tr><td>Pihak ketiga</td><td></td><td>4.401.588</td><td>4.434.070</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>27.983</td><td>35.105</td><td>Related parties</td></tr><tr><td>LIABILITAS KEUANGAN UNTUK DIPERDAGANGKAN</td><td>2g,2h,2k, 9,40,42,43</td><td></td><td></td><td>FINANCIAL LIABILITIES HELD FOR TRADING</td></tr><tr><td>Pihak ketiga</td><td></td><td>479.930</td><td>286.079</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>-</td><td>188</td><td>Related parties</td></tr><tr><td>UTANG AKSEPTASI</td><td>2g,2h,2m, 11,40,42,43</td><td></td><td></td><td>ACCEPTANCE PAYABLES</td></tr><tr><td>Pihak ketiga</td><td></td><td>4.061.102</td><td>4.532.704</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>7.748</td><td>25.192</td><td>Related parties</td></tr><tr><td>UTANG PAJAK</td><td>2r,23b,51</td><td>317.457</td><td>603.106</td><td>TAXES PAYABLE</td></tr><tr><td>UTANG ATAS EFEK-EFEK YANG DIJUAL DENGAN JANJI DIBELI KEMBALI</td><td>2h,2l,10,40</td><td></td><td></td><td>SECURITIES SOLD UNDER REPURCHASE AGREEMENTS PAYABLE</td></tr><tr><td>Pihak ketiga</td><td></td><td>4.176.825</td><td>3.396.556</td><td>Third parties</td></tr><tr><td>PINJAMAN YANG DITERIMA</td><td>2h,40,43</td><td></td><td></td><td>BORROWINGS</td></tr><tr><td>Pihak ketiga</td><td></td><td>-</td><td>350</td><td>Third parties</td></tr><tr><td>BEBAN MASIH HARUS DIBAYAR</td><td>2h,24,40</td><td>2.035.239</td><td>2.043.583</td><td>ACCRUALS</td></tr><tr><td>LIABILITAS LAIN-LAIN</td><td>2h,2af,40,43</td><td>1.692.806</td><td>2.406.345</td><td>OTHER LIABILITIES</td></tr><tr><td>LIABILITAS IMBALAN PASCAKERJA</td><td>2g,2v,25,42</td><td>549.118</td><td>394.299</td><td>OBLIGATION FOR POST-EMPLOYMENT BENEFITS</td></tr><tr><td>PROVISI</td><td>2w,26</td><td>55.914</td><td>74.003</td><td>PROVISIONS</td></tr><tr><td>SURAT UTANG SUBORDINASI MODAL INTI TAMBAHAN TIER-1</td><td>1d,2g,2h, 2x,27,40, 42,43</td><td></td><td></td><td>ADDITIONAL TIER-1 CAPITAL SUBORDINATED NOTES</td></tr><tr><td>Pihak berelasi</td><td></td><td>10.849.329</td><td>10.278.952</td><td>Related parties</td></tr><tr><td>JUMLAH LIABILITAS</td><td></td><td>216.464.321</td><td>217.451.825</td><td>TOTAL LIABILITIES</td></tr></table>",
+  "table_caption": "(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan secara khusus)\n(Expressed in millions of Rupiah, unless otherwise stated)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual; kolom 1 label ID, kolom 5 label EN (berpasangan per baris); header kolom label kosong; label/catatan multi-baris dalam satu sel digabung spasi; baris seksi diberi sel nilai kosong; nomor catatan yang tercetak tersebar di baris pos induk dan sub-baris (Pihak ketiga/berelasi) ditaruh utuh di baris pos induk; POST-/EMPLOYMENT ditulis utuh POST-EMPLOYMENT (kata majemuk, bukan pemenggalan suku kata)"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan merupakan bagian yang tidak terpisahkan dari laporan keuangan secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "The accompanying notes to financial statements form an integral part of these financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran - 1/3 - Schedule",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

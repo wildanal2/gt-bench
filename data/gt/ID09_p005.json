@@ -1,0 +1,69 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "CCB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "中国建设银行",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "印度尼西亚",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "China Construction Bank Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN KUALITAS ASET PRODUKTIF DAN INFORMASI LAINNYA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Periode 31 Desember 2024 dan 31 Desember 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"3\">Pos-Pos</th><th colspan=\"12\">Individual</th></tr><tr><th colspan=\"6\">Des 2024</th><th colspan=\"6\">Des 2023</th></tr><tr><th>L</th><th>DPK</th><th>KL</th><th>D</th><th>M</th><th>Jumlah</th><th>L</th><th>DPK</th><th>KL</th><th>D</th><th>M</th><th>Jumlah</th></tr><tr><td>I. PIHAK TERKAIT</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Penempatan pada bank lain</td><td>47,288</td><td>-</td><td>-</td><td>-</td><td>-</td><td>47,288</td><td>30,695</td><td>-</td><td>-</td><td>-</td><td>-</td><td>30,695</td></tr><tr><td>a.Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Valuta Asing</td><td>47,288</td><td>-</td><td>-</td><td>-</td><td>-</td><td>47,288</td><td>30,695</td><td>-</td><td>-</td><td>-</td><td>-</td><td>30,695</td></tr><tr><td>2. Tagihan spot dan derivatif / forward</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>a.Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3. Surat berharga yang dimiliki</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>a.Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4. Surat Berharga yang dijual dengan janji dibeli kembali (Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>a.Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5. Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (Reverse Repo)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>a. Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6. Tagihan Akseptasi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7. Kredit yang diberikan dan pembiayaan syariah yang diberikan</td><td>5,631</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5,631</td><td>6,569</td><td>-</td><td>-</td><td>-</td><td>-</td><td>6,569</td></tr><tr><td>a. Debitur Usaha Mikro, Kecil dan Menengah (UMKM)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>i. Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>ii.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Bukan debitur UMKM</td><td>5,631</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5,631</td><td>6,569</td><td>-</td><td>-</td><td>-</td><td>-</td><td>6,569</td></tr><tr><td>i. Rupiah</td><td>5,631</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5,631</td><td>6,569</td><td>-</td><td>-</td><td>-</td><td>-</td><td>6,569</td></tr><tr><td>ii.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>c. Kredit yang direstrukturisasi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>i. Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>ii. Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8. Penyertaan Modal</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9.Tagihan lainnya *)</td><td>29,449</td><td>-</td><td>-</td><td>-</td><td>-</td><td>29,449</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10.Komitmen dan Kontinjensi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>a.Rupiah</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b.Valuta Asing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>",
+  "table_caption": "(Jutaan)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header 3 baris: Pos-Pos rowspan=3, Individual colspan=12, Des 2024/Des 2023 colspan=6; baris seksi I. PIHAK TERKAIT diberi sel nilai kosong; label butir 5 terpotong batas sel di tampilan ('(Reverse Rep…'), ditulis utuh sesuai lapisan teks dicek: ; spasi setelah 'a.'/'b.'/'9.'/'10.' mengikuti cetakan; tabel berlanjut ke halaman berikut"
+ }
+]

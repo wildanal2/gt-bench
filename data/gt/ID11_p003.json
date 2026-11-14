@@ -1,0 +1,356 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo allobank; furniture"
+ },
+ {
+  "type": "text",
+  "text": "allobank",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "PT Allo Bank Indonesia Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; teks di bawah logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kantor Pusat : Menara Bank Mega 5th & 6th Floor Jl. Kapten P. Tendean Kav. 12-14A Jakarta 12790 Telp. : 62-21 5098 1399 (Hunting)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kop surat; tanpa lapisan teks (pindaian), ditranskripsi dari gambar; 5 baris digabung; th tercetak superskrip"
+ },
+ {
+  "type": "text",
+  "text": "SURAT PERNYATAAN DIREKSI TENTANG TANGGUNG JAWAB ATAS LAPORAN KEUANGAN UNTUK TAHUN-TAHUN YANG TERAKHIR PADA TANGGAL 31 DESEMBER 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; judul 5 baris digabung; tanpa lapisan teks (pindaian), ditranskripsi dari gambar",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "DIRECTORS’ STATEMENT REGARDING THE RESPONSIBILITY FOR THE FINANCIAL STATEMENTS FOR THE YEARS ENDED DECEMBER 31, 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; judul 5 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PT ALLO BANK INDONESIA TBK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; subjudul di atas garis",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "PT ALLO BANK INDONESIA TBK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; subjudul di atas garis",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Kami yang bertanda tangan di bawah ini:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "We, the undersigned:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "1. Nama : Indra Utoyo Alamat Kantor : Menara Bank Mega Lt.5-6 Jl. Kapten P. Tendean No.12-14A Jakarta selatan 12790 Alamat Domisili : Jl. Badak Singa No,17 RT006 RW004, Lebak Siliwangi, Bandung Telepon : 021-50981339 Jabatan : Direktur Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bernomor berisi pasangan label : isian (tanpa garis kisi); label dan isian dibaca per baris lalu digabung satu spasi; \"selatan\" huruf kecil dan \"No,17\" dengan koma sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "1. Name : Indra Utoyo Office Address : Menara Bank Mega 5th-6th floor Jl. Kapten P. Tendean No.12-14A JakartaSelatan 12790 Address of Domicile : Jl. Badak Singa No.17 RT006 RW004, Lebak Siliwangi, Bandung Telephone : 021-50981339 Title : President Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bernomor berisi pasangan label : isian; th superskrip; \"JakartaSelatan\" tanpa spasi sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "2. Nama : Ari Yanuanto Asah Alamat Kantor : Menara Bank Mega Lt.5-6 Jl. Kapten P. Tendean No.12-14A Jakarta Selatan 12790 Alamat Domisili : Graha Bintaro GR28/06 RT010 RW007, Pondok Kacang Barat, Pondok Aren, Tangerang Selatan Telepon : 021-50981399 Jabatan : Direktur",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bernomor berisi pasangan label : isian; label dan isian dibaca per baris lalu digabung satu spasi"
+ },
+ {
+  "type": "text",
+  "text": "2. Name : Ari Yanuanto Asah Office Address : Menara Bank Mega 5th-6thfloor Jl. Kapten P. Tendean No.12-14A Jakarta Selatan 12790 Address of Domicile : Graha Bintaro GR28/06 RT010 RW007, Pondok Kacang Barat, Pondok Aren, Tangerang Selatan Telephone : 021-50981399 Title : Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bernomor berisi pasangan label : isian; th superskrip; \"6thfloor\" tanpa spasi sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Menyatakan bahwa:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Declared that:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "1. Kami bertanggung jawab atas penyusunan dan penyajian laporan keuangan PT Allo Bank Indonesia Tbk;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; cetakan pudar pada \"keuangan PT\""
+ },
+ {
+  "type": "text",
+  "text": "1. We are responsible for the preparation and presentation of the financial statements of the PT Allo Bank Indonesia Tbk;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "2. Laporan keuangan PT Allo Bank Indonesia Tbk telah disusun dan disajikan sesuai dengan Standar Akuntansi Keuangan di Indonesia;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "2. The financial statements of the PT Allo Bank Indonesia Tbk have been prepared and presented in accordance with Indonesian Financial Accounting Standards;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "3. a. Semua informasi dalam laporan keuangan PT Allo Bank Indonesia Tbk telah dimuat secara lengkap dan benar;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir 3 dengan sub-butir a; nomor butir induk ikut di elemen sub-butir pertama"
+ },
+ {
+  "type": "text",
+  "text": "3. a. All information contained in the financial statements of the PT Allo Bank Indonesia Tbk have been disclosed in a complete and truthful manner;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir 3 dengan sub-butir a"
+ },
+ {
+  "type": "text",
+  "text": "b. Laporan keuangan PT Allo Bank Indonesia Tbk tidak mengandung informasi atau fakta material yang tidak benar, dan tidak menghilangkan informasi atau fakta material; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; sub-butir"
+ },
+ {
+  "type": "text",
+  "text": "b. The financial statements of the PT Allo Bank Indonesia Tbk do not contain any incorrect material information or facts, nor do they omit information or material facts; and",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; sub-butir"
+ },
+ {
+  "type": "text",
+  "text": "4. Kami bertanggung jawab atas sistem pengendalian internal PT Allo Bank Indonesia Tbk.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "4. We are responsible for the internal control system of the PT Allo Bank Indonesia Tbk.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Demikian pernyataan ini dibuat dengan sebenarnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "This statement is made truthfully.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; paraf; di kiri baris tempat/tanggal"
+ },
+ {
+  "type": "text",
+  "text": "Jakarta, 18 Februari 2025 /February 18, 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; ID dan EN satu baris"
+ },
+ {
+  "type": "text",
+  "text": "Atas nama dan mewakili Direksi/For and on behalf of the Board of Directors",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; ID dan EN satu baris"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; stempel; meterai tempel Rp10.000 (lambang Garuda), tertimpa tanda tangan dan stempel perusahaan"
+ },
+ {
+  "type": "text",
+  "text": "10000",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; vertikal; angka nominal meterai"
+ },
+ {
+  "type": "text",
+  "text": "METERAI TEMPEL",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks meterai, tertimpa tanda tangan"
+ },
+ {
+  "type": "text",
+  "text": "B7E2EAMX148547419",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nomor seri meterai; dicek: karakter \"7E\" sebagian tertutup pita hitam"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; stempel; stempel perusahaan allobank (oranye), sebagian tertutup meterai dan tanda tangan"
+ },
+ {
+  "type": "text",
+  "text": "allobank",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks stempel perusahaan; dicek: sebagian tertutup meterai, dibaca dari bentuk logo"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan; tanda tangan Indra Utoyo di atas meterai"
+ },
+ {
+  "type": "text",
+  "text": "Indra Utoyo",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama penanda tangan (tebal, bergaris bawah)"
+ },
+ {
+  "type": "text",
+  "text": "Direktur Utama/President Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; ID dan EN satu baris"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan; tanda tangan Ari Yanuanto Asah"
+ },
+ {
+  "type": "text",
+  "text": "Ari Yanuanto Asah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama penanda tangan (tebal, bergaris bawah)"
+ },
+ {
+  "type": "text",
+  "text": "Direktur/Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; ID dan EN satu baris"
+ }
+]

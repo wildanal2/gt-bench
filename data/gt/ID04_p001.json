@@ -1,0 +1,78 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto sampul gedung perkotaan dengan masthead newsletter; header berjalan '| Edisi Februari 2026' dan nomor halaman '1' hanya ada di lapisan teks, tidak terlihat, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "NEWSLETTER",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; masthead; teks di atas foto (gambar, tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; masthead; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "KINERJA DAN FAKTA | FEBRUARI | 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; masthead; teks di atas foto (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "Foto: Pexels-Pamanjoe",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kredit foto tercetak di atas foto; dicek: spasi di sekitar tanda hubung sempit, dibaca tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "KINERJA FISKAL KUAT DAN BERDAMPAK NYATA, APBN 2026 Adaptif Menjaga Stabilitas dan Mendorong Pertumbuhan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul sampul; dua baris pertama bold kapital, dua baris berikutnya reguler; digabung satu elemen"
+ },
+ {
+  "type": "text",
+  "text": "#KATAMENTERIKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul kotak kutipan"
+ },
+ {
+  "type": "text",
+  "text": "APBN tetap solid, sehat, dan adaptif dalam mendukung pertumbuhan ekonomi yang kuat dan berkelanjutan. APBN akan terus menjalankan perannya menjaga stabilitas ekonomi, mendukung pertumbuhan yang berkelanjutan, serta melindungi daya beli masyarakat. Program-program prioritas pemerintah berjalan efektif dan terukur, dengan tetap menjaga ruang fiskal agar tetap aman.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kutipan; italic; tanda kutip dekoratif tidak ditulis"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto menteri dalam bingkai lingkaran"
+ }
+]

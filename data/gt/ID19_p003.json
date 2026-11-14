@@ -1,0 +1,338 @@
+[
+ {
+  "type": "text",
+  "text": "yang dibayarkannya oleh Wajib Pajak yang bersangkutan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini dapat diisi dengan jumlah pengurangan yang tercantum pada bukti pemotongan PPh 1721-A1 angka 13 atau 1721-A2 angka 13.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda diringkas; kode 1721-/A1 terpotong di akhir baris, ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Catatan:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Tidak termasuk pengurangan atas penghasilan isteri yang semata-mata diterima atau diperoleh dari satu pemberi kerja yang telah dipotong PPh Pasal 21 apabila pemenuhan kewajiban pajaknya dilakukan oleh Wajib Pajak sebagai kepala keluarga (KK).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3. Penghasilan Tidak Kena Pajak (PTKP)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi dengan jumlah PTKP yang tercantum pada bukti pemotongan PPh 1721-A1 angka 17 atau 1721-A2 angka 16.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "TK : tidak kawin",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir label : keterangan"
+ },
+ {
+  "type": "text",
+  "text": "K : kawin",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir label : keterangan"
+ },
+ {
+  "type": "text",
+  "text": "K/I : kawin, isteri mempunyai penghasilan yang digabung dengan penghasilan suami",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir label : keterangan"
+ },
+ {
+  "type": "text",
+  "text": "Berdasarkan status Anda, isilah kotak yang terdapat pada sebelah kanan status tersebut dengan angka banyaknya jumlah tanggungan, paling banyak tiga orang untuk setiap keluarga.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Berikut ini tabel besarnya PTKP dalam setiap status dan banyaknya tanggungan:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Status</th><th>PTKP</th></tr><tr><td>TK/0</td><td>24.300.000</td></tr><tr><td>TK/1</td><td>26.325.000</td></tr><tr><td>TK/2</td><td>28.350.000</td></tr><tr><td>TK/3</td><td>30.375.000</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel PTKP 1 dari 3 (berbingkai terpisah)"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Status</th><th>PTKP</th></tr><tr><td>K/0</td><td>26.325.000</td></tr><tr><td>K/1</td><td>28.350.000</td></tr><tr><td>K/2</td><td>30.375.000</td></tr><tr><td>K/3</td><td>32.400.000</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel PTKP 2 dari 3 (berbingkai terpisah)"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Status</th><th>PTKP</th></tr><tr><td>K/I/0</td><td>50.625.000</td></tr><tr><td>K/I/1</td><td>52.650.000</td></tr><tr><td>K/I/2</td><td>54.675.000</td></tr><tr><td>K/I/3</td><td>56.700.000</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel PTKP 3 dari 3 (berbingkai terpisah)"
+ },
+ {
+  "type": "text",
+  "text": "PTKP bagi masing-masing suami- isteri yang telah hidup berpisah (HB) untuk diri masing-masing Wajib Pajak diperlakukan seperti Wajib Pajak Tidak Kawin sedangkan tanggungan sesuai dengan kenyataan sebenarnya yang diperkenankan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'suami- isteri' dengan spasi sesuai sumber; kata ulang masing-/masing ditulis utuh; lapisan teks 'W ajib' tetapi visual 'Wajib'"
+ },
+ {
+  "type": "text",
+  "text": "4. Penghasilan Kena Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi dengan hasil penghitungan atas kolom pada angka 1 - 2 - 3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanpa titik akhir"
+ },
+ {
+  "type": "text",
+  "text": "Untuk keperluan penghitungan tarif pajak, jumlah penghasilan kena pajak dibulatkan ke bawah dalam ribuan rupiah penuh.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "5. Pajak Penghasilan Terutang (PPh Terutang)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi dengan penerapan tarif Pasal 17 ayat (1) huruf a UU PPh atas Penghasilan Kena Pajak, sebagai berikut:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Penghasilan Kena Pajak</th><th>tarif Pajak</th></tr><tr><td>Sampai dengan Rp50.000.000</td><td>5%</td></tr><tr><td>Di atas Rp50.000.000 s.d. Rp250.000.000</td><td>15%</td></tr><tr><td>Di atas Rp250.000.000 s.d. Rp500.000.000</td><td>25%</td></tr><tr><td>Di atas Rp500.000.000</td><td>30%</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel tarif; header 'tarif Pajak' 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Jika penghasilan hanya dari satu pemberi kerja, kolom ini diisi dengan jumlah PPh terutang yang tercantum pada bukti pemotongan PPh 1721-A1 angka 13 atau 1721-A2 angka 18.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "6. Pajak Penghasilan yang sudah dipotong oleh pihak lain",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi dengan jumlah Pajak Penghasilan yang sudah dipotong yang tercantum pada bukti pemotongan PPh 1721-A1 angka 22, 1721-A2 angka 19 dan/atau bukti pemotongan PPh Pasal 21 (yang tidak bersifat final).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; awal kolom kanan; isi butir 6"
+ },
+ {
+  "type": "text",
+  "text": "7. Pajak Penghasilan yang harus dibayar sendiri atau Pajak Penghasilan yang lebih dipotong",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Beri tanda silang pada kotak Pajak Penghasilan yang harus dibayar sendiri dan lampirkan asli SSP lembar ke-3 apabila nilai pada angka 5 lebih besar dibandingkan dengan nilai pada kolom 6.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Beri tanda silang pada kotak Pajak Penghasilan yang lebih dipotong apabila nilai pada angka 6 lebih besar dibandingkan nilai pada kolom 5. Kolom rupiah diisi dengan selisih antara nilai pada angka 5 - 6.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "B. Penghasilan Yang Dikenakan PPh Final dan yang Dikecualikan dari Objek Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "8. Dasar Pengenaan Pajak/Penghasilan Bruto Penghasilan Final",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Jenis-jenis penghasilan yang dikenakan PPh final meliputi bunga deposito dan tabungan, hadiah undian, penghasilan dari honorarium atas beban APBN/APBD, uang pesangon, uang manfaat pensiun, tunjangan hari tua, dan jaminan hari tua yang dibayarkan sekaligus, penghasilan dari pengalihan hak atas tanah dan/atau bangunan, penghasilan dari persewaan atas tanah dan/atau bangunan, bunga simpanan yang dibayarkan oleh koperasi kepada anggota koperasi, dividen, penghasilan isteri dari satu pemberi kerja, penghasilan penjualan saham yang diperdagangkan di bursa efek.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "9. Pajak Penghasilan Final terutang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi dengan jumlah PPh Final yang terutang.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "10.Penghasilan yang Dikecualikan dari Objek Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; tanpa spasi setelah '10.' sesuai sumber",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Jenis-jenis penghasilan yang dikecualikan dari objek pajak meliputi bantuan/sumbangan/hibah, warisan, bagian laba yang diterima atau diperoleh anggota dari perseroan komanditer yang modalnya tidak terbagi atas saham-saham, persekutuan, perkumpulan, firma, dan kongsi, termasuk pemegang unit penyertaan kontrak investasi kolektif, penggantian atau santunan asuransi kesehatan, kecelakaan, jiwa, dwiguna, beasiswa, penggantian atau imbalan dalam bentuk natura atau kenikmatan, beasiswa.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "C. Daftar Harta dan Kewajiban",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "11.Jumlah Keseluruhan Harta yang Dimiliki pada Akhir Tahun Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung; tanpa spasi setelah '11.'",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi dengan jumlah nilai perolehan dari seluruh harta yang dimiliki/dikuasai Wajib Pajak dan anggota keluarganya sesuai dengan ketentuan perundang-undangan perpajakan yang berlaku. Contoh : rumah, kendaraan bermotor, kebun, sawah, deposito, tabungan dan lain-lain.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "12.Jumlah Keseluruhan Kewajiban/utang pada Akhir Tahun Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung; tanpa spasi setelah '12.'",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Diisi dengan jumlah seluruh utang yang diperoleh/dimiliki Wajib Pajak dan anggota keluarganya, termasuk utang bunga. Contoh: pinjaman bank atau koperasi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dalam hal Isteri telah hidup berpisah berdasarkan keputusan hakim (HB), harta dan kewajiban/utang usaha serta harta dan kewajiban/utang non-usaha pada akhir Tahun Pajak yang dimiliki atau dikuasai isteri, dilaporkan secara terpisah dalam SPT Tahunan PPh Orang Pribadi isteri sebagai Wajib Pajak Orang Pribadi tersendiri.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ }
+]

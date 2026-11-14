@@ -1,0 +1,207 @@
+[
+ {
+  "type": "text",
+  "text": "Terakreditasi SINTA Peringkat 2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Surat Keputusan Dirjen Penguatan Riset dan Pengembangan Ristek Dikti No. 10/E/KPT/2019",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "masa berlaku mulai Vol. 1 No. 1 tahun 2017 s.d Vol. 5 No. 3 tahun 2021",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Terbit online pada laman web jurnal: http://jurnal.iaii.or.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; furniture; logo"
+ },
+ {
+  "type": "text",
+  "text": "IAII",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "JURNAL RESTI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "(Rekayasa Sistem dan Teknologi Informasi)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Vol. 4 No. 4 (2020) 730 - 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "ISSN Media Elektronik: 2580-0760",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Investigasi Cyberbullying pada WhatsApp Menggunakan Digital Forensics Research Workshop",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Imam Riadi1, Sunardi2, Panggah Widiandana3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penulis; angka superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "1Program Studi Sistem Informasi, Universitas Ahmad Dahlan 2Program Studi Teknik Elektro, Universitas Ahmad Dahlan 3Program Studi Teknik Informatika, Universitas Ahmad Dahlan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "1imam.riadi@is.uad.ac.id, 2sunardi@mti.uad.ac.id, 3panggah1808048029@webmail.uad.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; email; angka superskrip ditulis biasa"
+ },
+ {
+  "type": "text",
+  "text": "Abstract",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Cyberbullying in group conversations in one of the instant messaging applications is one of the conflicts that occur due to social media, specifically WhatsApp. This study conducted digital forensics to find evidence of cyberbullying by obtaining work in the Digital Forensic Research Workshop (DFRWS). The evidence was investigated using the MOBILedit Forensic Express tool as an application for evidence submission and the Cosine Similarity method to approve the purchase of cyberbullying cases. This research has been able to conduct procurement to reveal digital evidence on the agreement in the Group's features using text using MOBILedit. Identification using the Cosine method. Similarities have supported actions that lead to cyberbullying with different levels Improved Sqrt-Cosine (ISC) value, the largest 0.05 and the lowest 0.02 based on conversations against requests.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Keywords: Digital Forensic, Instant Messaging, DFRWS, Cosine Similarity, MOBILedit Forensic Express.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Abstrak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Cyberbullying dalam percakapan group pada salah satu aplikasi instant messaging merupakan salah satu konflik yang terjadi akibat dampak negatif penggunaan media sosial khususnya WhatsApp. Penelitian ini melakukan forensik digital untuk menemukan barang bukti cyberbullying dengan kerangka kerja Digital Forensics Research Workshop (DFRWS). Barang bukti dilakukan investigasi menggunakan tools MOBILedit Forensic Express sebagai aplikasi pengangkatan barang bukti dan metode Cosine Similarity untuk mengidentifikasi terjadinya kasus cyberbullying. Penelitian ini telah dapat melakukan akuisisi untuk mengungkap bukti digital pada pelaku di fitur Group berupa teks menggunakan MOBILedit. Identifikasi menggunakan metode Cosine Similarity telah mampu mengidentifikasi tindakan yang mengarah pada cyberbullying dengan tingkat yang berbeda, nilai Improved Sqrt-Cosine (ISC) terbesar 0,05 dan nilai ISC terendah 0,02 berdasar pada percakapan terhadap query.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kata kunci: Digital Forensic, Instant Messaging, DFRWS, Cosine Similarity, MOBILedit Forensic Express.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1. Pendahuluan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Perkembangan teknologi dan informasi saat ini semakin pesat dan diikuti oleh meningkatnya penggunaan media sosial yang merupakan teknologi yang banyak digunakan terutama perangkat di platform android [1]. Cyberbullying merupakan salah satu masalah yang sering terjadi [2] terutama percakapan group dalam aplikasi instant messaging. Berdasarkan survei [3] menyatakan bahwa 97,24% responden menggunakan aplikasi WhatsApp, LINE 88,49%, BBM 85,82%, Facebook 77,26%, dan Telegram 76. Pengguna WhatsApp yang sangat besar tersebut didukung temuan website statista [4] yang menunjukkan sebesar 1,6 miliar pengguna mengakses messenger WhatsApp secara bulanan. Hal ini dikarenakan fitur-fitur pada WhatsApp cukup memenuhi kebutuhan manusia untuk mempermudah komunikasi antara satu dengan yang lain dengan jarak yang begitu jauh.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Banyaknya pengguna media sosial khususnya WhatsApp membuka peluang adanya kejahatan siber (cybercrime). Kasus-kasus kejahatan di Indonesia yang melibatkan aplikasi WhatsApp banyakmenjadi rujukan dalam forensika digital [5]. WhatsApp Group (WAG) merupakan salah satu fitur yang dapat membantu komunitas untuk melakukan komunikasi secara intensif, disisi lain fitur tersebut juga membuka peluang adanya bully dalam group tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Diterima Redaksi : 15-07-2020 | Selesai Revisi : 12-08-2020 | Diterbitkan Online : 20-08-2020",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; info artikel"
+ },
+ {
+  "type": "text",
+  "text": "730",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

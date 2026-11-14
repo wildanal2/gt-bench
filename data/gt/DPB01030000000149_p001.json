@@ -1,0 +1,81 @@
+[
+ {
+  "type": "text",
+  "text": "ECO\nCircle",
+  "page_idx": 0,
+  "bbox": [
+   0.03827,
+   0.03019,
+   0.12828,
+   0.07174
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Co-funded by\nthe European Union",
+  "page_idx": 0,
+  "bbox": [
+   0.76194,
+   0.03063,
+   0.91313,
+   0.05765
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "With this in mind, here we have the 7 key competence areas selected to form a part of Eco-\nCircle's Competence Framework:",
+  "page_idx": 0,
+  "bbox": [
+   0.14235,
+   0.2099,
+   0.83139,
+   0.24134
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Eco-Circle Competence Framework</td></tr><tr><td>#1: The 3 Rs: Recycle-Reuse-Reduce</td></tr><tr><td>#2: Lifecycle of Circular Economy</td></tr><tr><td>#3: Social Entrepreneurship and Circular Economy</td></tr><tr><td>#4: Corporate Environmental Sustainability</td></tr><tr><td>#5: Embodying Sustainable Values</td></tr><tr><td>#6: Environmental Engagement</td></tr><tr><td>#7: Supporting Local Eco-friendly and Green Activities</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.23879,
+   0.25046,
+   0.77412,
+   0.48072
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "This project has been funded with the support of the European Commission. This publication reflects the views only of the author\nand the Commission cannot be held responsible for any use which may be made of the information contained therein.",
+  "page_idx": 0,
+  "bbox": [
+   0.15164,
+   0.90429,
+   0.86025,
+   0.92716
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Project No: : 2021-2-FR02-KA220-YOU-000048126",
+  "page_idx": 0,
+  "bbox": [
+   0.36711,
+   0.93905,
+   0.64566,
+   0.94872
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

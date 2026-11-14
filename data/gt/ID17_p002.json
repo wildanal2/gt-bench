@@ -1,0 +1,106 @@
+[
+ {
+  "type": "text",
+  "text": "2022, No.236",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "-2-",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "ketentuan mengenai pelaksanaan fungsi pengawasan Menteri Keuangan sebagai pengelola fiskal dan wakil pemerintah dalam kepemilikan kekayaan negara yang dipisahkan;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan; sisa butir c. Menimbang"
+ },
+ {
+  "type": "text",
+  "text": "d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Keuangan tentang Pelaksanaan Fungsi Pengawasan Menteri Keuangan sebagai Pengelola Fiskal dan Wakil Pemerintah dalam Kepemilikan Kekayaan Negara yang Dipisahkan;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "Mengingat :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label dasar hukum; butir 1.-7. jadi elemen terpisah"
+ },
+ {
+  "type": "text",
+  "text": "1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "2. Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 47, Tambahan Lembaran Negara Republik Indonesia Nomor 4286);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "3. Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor 4355);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "4. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "5. Undang-Undang Nomor 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dengan Pemerintah Daerah (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 4, Tambahan Lembaran Negara Republik Indonesia Nomor 6757);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "6. Peraturan Pemerintah Nomor 8 Tahun 2006 tentang Pelaporan Keuangan dan Kinerja Instansi Pemerintah (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 4614);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "7. Peraturan Pemerintah Nomor 60 Tahun 2008 tentang Sistem Pengendalian Intern Pemerintah (Lembaran",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "www.peraturan.go.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; URL repositori"
+ }
+]

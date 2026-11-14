@@ -1,0 +1,238 @@
+[
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": [
+   0.15046,
+   0.0863,
+   0.16028,
+   0.0967
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Numerical Methods for Ordinary Differential Equations",
+  "page_idx": 0,
+  "bbox": [
+   0.48129,
+   0.0863,
+   0.86278,
+   0.09972
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "also plays an important role in error analysis (investigating the difference between the numerical\napproximation and the solution).",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.12319,
+   0.86364,
+   0.15255
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Calculating with only a finite subset of the rational numbers has many consequences. For exam-\nple: a computer cannot distinguish between two polynomials of sufficiently high degree. Conse-\nquently, methods based on the main theorem of algebra (i.e. that an nth degree polynomial has\nexactly n complex zeros) cannot be trusted. Errors that follow from the use of finitely many digits\nare called rounding errors (Section 1.4).",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.15732,
+   0.86364,
+   0.22822
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "An important aspect of numerical mathematics is the emphasis on efficiency. Contrary to or-\ndinary mathematics, numerical mathematics considers an increase in efficiency, i.e. a decrease\nof the number of operations and / or amount of storage required, as an essential improvement.\nProgress in this aspect is of great practical importance and the end of this development has not\nbeen reached yet. Here, the creative mind will meet many challenges. On top of that, revolutions\nin computer architecture will overturn much conventional wisdom.",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.23388,
+   0.86364,
+   0.32056
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1.3 Why numerical mathematics?",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.34211,
+   0.53243,
+   0.36191
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "A big advantage of numerical mathematics is that it can provide answers to problems that do not\nadmit closed-form solutions. Consider for example the integral",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.37234,
+   0.86364,
+   0.40118
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\int_0^\\pi\\sqrt{1+\\cos^2x}dx\\text{.}",
+  "page_idx": 0,
+  "bbox": [
+   0.44085,
+   0.41228,
+   0.57231,
+   0.45354
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "This is an expression for the arc length of one arc of the curve y(x) = sin x, which does not have\na solution in closed form. A numerical method, however, can approximate this integral in a very\nsimple way (Chapter 5). An additional advantage is that a numerical method only uses stan-\ndard function evaluations and the operations addition, subtraction, multiplication and division.\nBecause these are exactly the operations a computer can perform, numerical mathematics and\ncomputers form a perfect combination.",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.45922,
+   0.86364,
+   0.54483
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "An advantage of analytical methods is that the solution is given by a mathematical formula.\nFrom this, insight in the behavior and the properties of the solution can be gained. For numerical\napproximations, however, this is not the case. In that case, visualization tools may be used to gain\ninsight in the behavior of the solution. Using a numerical method to draw a graph of a function\nis usually a more useful tool than evaluating the solution at a large number of points.",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.55073,
+   0.86364,
+   0.62242
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1.4 Rounding errors",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.64356,
+   0.38829,
+   0.66337
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "A computer uses a finite representation of the all numbers in R. These are stored in a computer\nin the form",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.67497,
+   0.86364,
+   0.7015
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\pm0.d_1d_2\\ldotsd_n\\cdot\\beta^e\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.44011,
+   0.70287,
+   0.57435,
+   0.71729
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(1.1)",
+  "page_idx": 0,
+  "bbox": [
+   0.82995,
+   0.70287,
+   0.86264,
+   0.71621
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "in which, by definition, d1 > 0 and 0 ≤ di < �. The normalization is needed in order to prevent a\nwaste of digits and to make the representation unambiguous. We call the value in equation (1.1)\na floating point number (representation) in which 0.d1d2 . . . dn is called the mantissa, � the base and\ne (integer) the exponent, where L < e < U. Characteristic values for |L| and U are in the range\n[100,1000], often, � = 2 (binary representation) and n = 24 (single precision) or n = 53 (double\nprecision). Most computers and software packages (Matlab) satisfy the IEEE-754 standard, and\nhence provide single-1 and double-precision2 computations.",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.72298,
+   0.86364,
+   0.82232
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Let for x ∈ R",
+  "page_idx": 0,
+  "bbox": [
+   0.14869,
+   0.82856,
+   0.24932,
+   0.84021
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "0.d_1\\ldotsd_n\\cdot\\beta^e\\leqx<0.d_1d_2\\ldots\\left(d_n+1\\right)\\cdot\\beta^e\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.34781,
+   0.84189,
+   0.666,
+   0.8563
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "1http://en.wikipedia.org/wiki/Single-precision_floating-point_format\n2http://en.wikipedia.org/wiki/Double-precision_floating-point_format",
+  "page_idx": 0,
+  "bbox": [
+   0.16802,
+   0.86375,
+   0.65488,
+   0.88938
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

@@ -1,0 +1,120 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.1147,
+   0.04824,
+   0.39635,
+   0.06527
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.7931,
+   0.05013,
+   0.8678,
+   0.06527
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Sickle cell hemoglobin and normal hemoglobin differ in only a single amino acid out of more than 100\namino acids in the complete hemoglobin protein. This difference in a single amino acid results in the\ndifferent properties of sickle cell hemoglobin compared to normal hemoglobin.",
+  "page_idx": 0,
+  "bbox": [
+   0.1147,
+   0.09271,
+   0.8678,
+   0.14381
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Hemoglobin is carried inside red blood cells. Normal hemoglobin dissolves in the watery cytosol of red\nblood cells. Sickle cell hemoglobin is less soluble in the cytosol because:",
+  "page_idx": 0,
+  "bbox": [
+   0.11225,
+   0.18071,
+   0.8678,
+   0.21478
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Valine (Val) is much less water-soluble than glutamic acid (Glu).\n· Amino acid 6 is in a crucial location on the outer surface of the hemoglobin protein.",
+  "page_idx": 0,
+  "bbox": [
+   0.14409,
+   0.22992,
+   0.7882,
+   0.26209
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "The chart on the next page shows how the lower solubility of sickle cell hemoglobin results in the\nsymptoms of sickle cell anemia.",
+  "page_idx": 0,
+  "bbox": [
+   0.1147,
+   0.26114,
+   0.82984,
+   0.29994
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Genes in DNA</td><td>→</td><td>Protein</td><td>→</td><td>Characteristics</td></tr><tr><td>2 copies of the allele that codes for normal hemoglobin (SS)</td><td>→</td><td>Normal hemoglobin dissolves in the cytosol of red blood cells.</td><td>→</td><td>Disk-shaped red blood cells can squeeze through the smallest blood vessels → normal health</td></tr><tr><td>2 copies of the allele that codes for sickle cell hemoglobin (ss)</td><td>→</td><td>Sickle cell hemoglobin can clump in long rods in red blood cells.</td><td>→</td><td>If sickle cell hemoglobin clumps in long rods → sickle-shaped red blood cells → clogged small blood vessels + fragile red blood cells → pain, damage to body organs + anemia = sickle cell anemia</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.08042,
+   0.33684,
+   0.91801,
+   0.82699
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "29a. Circle the arrows in the chart that represent transcription + translation.",
+  "page_idx": 0,
+  "bbox": [
+   0.11225,
+   0.85349,
+   0.70371,
+   0.86957
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "115",
+  "page_idx": 0,
+  "bbox": [
+   0.48574,
+   0.92256,
+   0.51758,
+   0.93865
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

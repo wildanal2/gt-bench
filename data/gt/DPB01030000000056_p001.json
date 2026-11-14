@@ -1,0 +1,94 @@
+[
+ {
+  "type": "text",
+  "text": "scheme helped the biomass power capacity to increase by more than double in 7 years.\nUnder the FIT scheme, biomass fuels for power generation are grouped into six categories.",
+  "page_idx": 0,
+  "bbox": [
+   0.14133,
+   0.10333,
+   0.81129,
+   0.135
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· General wood: sawmill residues, import wood such as pellets and chips, palm kernel\nshell (PKS) and palm trunk\n· Liquid biomass: palm oil\n· Unutilised wood: domestic thinned wood\n· Construction wood waste: wood waste salvaged from construction and other wood\nmaterials\n· Waste materials and other biomass: pruned branched, paper, food waste, waste\ncooking oil, and black liquor\n· Biogas: methane derived from sewage sludge, manure, and food waste.",
+  "page_idx": 0,
+  "bbox": [
+   0.14133,
+   0.14702,
+   0.81129,
+   0.31163
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "While inexpensive biomass sources such as wood waste from construction and waste\nmaterials, were the main fuels under the RPS, the domestic unutilised wood and the\ngeneral wood whose tariff rates are set higher increased specifically (Figure 4.1, 4.2).",
+  "page_idx": 0,
+  "bbox": [
+   0.14133,
+   0.32263,
+   0.81129,
+   0.37462
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 4.1. Approved Capacity under the FIT Scheme",
+  "page_idx": 0,
+  "bbox": [
+   0.27479,
+   0.40392,
+   0.67784,
+   0.41762
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.17421,
+   0.4304,
+   0.78044,
+   0.59989
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "FIT = feed-in-tariff.\nNote: Liquid biomass approved under the FIT scheme between FY2012 and FY2017 is included in general wood\nand no liquid biomass has been approved since FY2018.\nSource: METI (2021a).",
+  "page_idx": 0,
+  "bbox": [
+   0.14133,
+   0.61388,
+   0.81129,
+   0.67079
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "30",
+  "page_idx": 0,
+  "bbox": [
+   0.46639,
+   0.94487,
+   0.48591,
+   0.95473
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

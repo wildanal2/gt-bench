@@ -1,0 +1,70 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "3. Perbedaan Utama antara Nilai Tercatat sesuai Standart Akuntansi Keuangan dengan Nilai Eksposure sesuai dengan Ketentuan OJK (LI2)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th colspan=\"2\" rowspan=\"2\"></th><th rowspan=\"2\">Total</th><th colspan=\"4\">Item sesuai:</th></tr><tr><th>Kerangka Risiko Kredit</th><th>Kerangka Sekuritisasi</th><th>Kerangka Counterparty credit risk</th><th>Kerangka risiko pasar</th></tr><tr><td>Nilai tercatat aset sesuai dengan cakupan konsolidasi ketentuan kehati-hatian (sebagaimana dilaporkan pada template LI1)</td><td>Asset carrying value amount under scope of regulatory consolidation (as per template LI1)</td><td>469,614,502</td><td>428,388,710</td><td>102,843</td><td>0</td><td>21,222,175</td></tr><tr><td>Nilai tercatat liabilitas sesuai lingkup sesuai dengan cakupan konsolidasi ketentuan kehati-hatian (sebagaimana dilaporkan pada template LI1)</td><td>Liabilities carrying value amount under regulatory scope of consolidation (as per template LI1)</td><td>469,614,502</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Total nilai bersih sesuai dengan cakupan konsolidasi ketentuan kehati-hatian</td><td>Total net amount under regulatory scope of consolidation</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nilai rekening administratif</td><td>Off-balance sheet amounts</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Perbedaan valuasi</td><td>Differences in valuations</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Perbedaan antara netting rules , selain dari yang termasuk pada baris 2.</td><td>Differences due to different netting rules, other than those already included in row 2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Perbedaan provisi</td><td>Differences due to consideration of provisions</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Perbedaan prudential filters</td><td>Differences due to prudential filters</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Nilai eksposur yang dipertimbangkan, sesuai dengan cakupan konsolidasi ketentuan kehati-hatian</td><td>Exposure amounts considered for regulatory purposes</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+  "table_caption": "(dalam jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual: kolom label ID dan EN terpisah di sumber; sel header kiri kosong (colspan=2, rowspan=2); baris label beberapa baris digabung dengan spasi; teks verbatim (sesuai lingkup sesuai dengan ..., rules ,)"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor halaman; furniture"
+ }
+]

@@ -1,0 +1,185 @@
+[
+ {
+  "type": "text",
+  "text": "· Adjust the point gauge to read 10 mm greater than the datum.",
+  "page_idx": 0,
+  "bbox": [
+   0.12368,
+   0.0701,
+   0.64478,
+   0.08933
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Record the reading as h.",
+  "page_idx": 0,
+  "bbox": [
+   0.12576,
+   0.09802,
+   0.34204,
+   0.11496
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Turn on the pump, and slightly adjust the flow until the water level coincides with the point\ngauge. Check that the level has stabilized before taking readings.",
+  "page_idx": 0,
+  "bbox": [
+   0.12368,
+   0.12221,
+   0.88893,
+   0.16171
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Measure the flow rate using the volumetric tank.",
+  "page_idx": 0,
+  "bbox": [
+   0.12368,
+   0.16945,
+   0.54415,
+   0.18804
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Observe the shape of the nappe and take pictures of it.",
+  "page_idx": 0,
+  "bbox": [
+   0.12368,
+   0.19578,
+   0.58524,
+   0.21515
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Note: The surface of the water will fall as it approaches the weir. This is particularly noticeable at high\nflow rates by high heads. To obtain an accurate measurement of the undisturbed water level above the\ncrest of the weir, it is necessary to place the measuring gauge at a distance of at least three times the\nhead above the weir.",
+  "page_idx": 0,
+  "bbox": [
+   0.08867,
+   0.22853,
+   0.91173,
+   0.30485
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Increase the flow by opening the bench regulating valve to set the heads above the datum level\nin 10 mm increments until the regulating valve is fully open. Take care not to allow spillage to\noccur over the plate top that is adjacent to the notch. At each condition, measure the flow rate\nand observe the shape of the nappe.",
+  "page_idx": 0,
+  "bbox": [
+   0.1225,
+   0.31898,
+   0.90807,
+   0.39813
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Note: To obtain a sufficiently accurate result, collect around 25 liters of water each time, or collect the\nwater for at least 120 seconds.",
+  "page_idx": 0,
+  "bbox": [
+   0.08775,
+   0.41297,
+   0.90899,
+   0.45183
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Close the regulating valve, stop the pump, and then replace the weir with the V-notch.",
+  "page_idx": 0,
+  "bbox": [
+   0.11885,
+   0.46597,
+   0.84267,
+   0.48215
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Repeat the experiment with the V-notch weir plate, but with 5 mm increments in water\nsurface elevation.",
+  "page_idx": 0,
+  "bbox": [
+   0.11885,
+   0.49164,
+   0.85289,
+   0.52957
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Collect seven head and discharge readings for each weir.",
+  "page_idx": 0,
+  "bbox": [
+   0.11885,
+   0.53905,
+   0.60542,
+   0.55643
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.36394,
+   0.56914,
+   0.63463,
+   0.84615
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 9.3: Position of the notch and Vernier height gauge to set the datum.",
+  "page_idx": 0,
+  "bbox": [
+   0.18195,
+   0.85746,
+   0.62183,
+   0.87371
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "80 APPLIED FLUID MECHANICS LAB MANUAL",
+  "page_idx": 0,
+  "bbox": [
+   0.08684,
+   0.93873,
+   0.374,
+   0.95357
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

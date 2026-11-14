@@ -1,0 +1,118 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto gedung Menara Bank BTN"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo di fasad gedung dalam foto"
+ },
+ {
+  "type": "text",
+  "text": "DESEMBER 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks putih pada pita biru"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN PUBLIKASI EKSPOSURE RISIKO & PERMODALAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul sampul 3 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PT Bank Tabungan Negara (Persero) Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks putih pada pita biru"
+ },
+ {
+  "type": "text",
+  "text": "Telp. (021) 6336789",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kontak; ikon telepon tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Fax. (021) 6336719",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kontak"
+ },
+ {
+  "type": "text",
+  "text": "btncontactcenter@btn.co.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kontak; ikon surel tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Menara Bank BTN Jl. Gajah Mada No.1 Jakarta 10130",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; alamat 3 baris digabung; ikon rumah tidak dicatat"
+ }
+]

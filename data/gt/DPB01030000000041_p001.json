@@ -1,0 +1,133 @@
+[
+ {
+  "type": "text",
+  "text": "tweets, videos) inciting violence towards\nreligious minorities, ethnic minorities, the\nLGBTI community, and women and girls.\nForty-four per cent of respondents had\n\"sometimes\" seen extremist social media\ncontent inciting violence towards religious\nminorities, with 31% seeing this content\n\"very often\".",
+  "page_idx": 0,
+  "bbox": [
+   0.10471,
+   0.0838,
+   0.48349,
+   0.22442
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Both men and women acknowledged that\nthey had \"sometimes\" seen this content on\nsocial media (62% and 41%, respectively).\nIndonesia was the country from which most\nrespondents had viewed this content \"very\noften\" (50%). When collapsing the \"always\"\nand \"very often\" categories, 41% of Instagram\nusers had often seen intolerant content,\nfollowed by 36% of WhatsApp users and\n34% of Facebook users. Among the Twitter\nusers in the sample, 48% had seen intolerant\ncontent towards religious minorities.",
+  "page_idx": 0,
+  "bbox": [
+   0.10471,
+   0.25065,
+   0.48349,
+   0.46158
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "When asked about how often social media\ncontent was inciting violence towards\nethnic minorities, 46% of respondents had\n\"sometimes\" seen this type of extremist\nsocial media content inciting violence\ntowards ethnic minorities whereas only\n27% have seen this content rarely or\nnever. Women have seen such content\nmore frequently than men (90%), and\nIndonesia was the country from which most",
+  "page_idx": 0,
+  "bbox": [
+   0.10471,
+   0.48837,
+   0.48349,
+   0.66359
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "respondents had seen this content \"very\noften\" (58%). Users of Facebook, WhatsApp\nand Instagram acknowledged that they had\nseen this content \"very often\" (26%, 31% and\n35% respectively).",
+  "page_idx": 0,
+  "bbox": [
+   0.52128,
+   0.0838,
+   0.90006,
+   0.17216
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Thirty-nine per cent of respondents\nacknowledged that they had \"sometimes\"\nseen social media content inciting violence\ntowards the LGBTI community. Women saw\nthis type of content more frequently than\nmen (84%), and Indonesia was the country\nfrom which more respondents saw this\ncontent with a higher frequency (53% saw\nsuch content \"always\" and \"very often\").\nParticipantsin thesurvey observed intolerant\ncontent directed towards the LGBTI\ncommunity. For example, one participant\nfrom the Philippines observed that,",
+  "page_idx": 0,
+  "bbox": [
+   0.52128,
+   0.19878,
+   0.90006,
+   0.42761
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\"\nThere were instances when women\nwere humiliated in public and on\nsocial media after they were labelled\nas part of the LGBTQ+ community. The\ncomments on posts regarding them\nwere mostly commending their public\nhumiliation (cutting their hair) instead\nof condemning the act\".\n\"",
+  "page_idx": 0,
+  "bbox": [
+   0.5464,
+   0.45306,
+   0.8867,
+   0.67537
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 3: Frequency of viewing extremist social media inciting violence toward women and girls",
+  "page_idx": 0,
+  "bbox": [
+   0.07447,
+   0.69911,
+   0.92442,
+   0.71496
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14092,
+   0.72171,
+   0.89073,
+   0.94159
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Gender Analysis of Violent Extremism and the Impact of COVID-19 on Peace and Security in ASEAN",
+  "page_idx": 0,
+  "bbox": [
+   0.03214,
+   0.97399,
+   0.71826,
+   0.98681
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "29",
+  "page_idx": 0,
+  "bbox": [
+   0.92696,
+   0.97567,
+   0.94492,
+   0.98447
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

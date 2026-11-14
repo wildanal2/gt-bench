@@ -1,0 +1,342 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto konferensi pers di depan tumpukan uang; papan bertuliskan nominal"
+ },
+ {
+  "type": "text",
+  "text": "Rp6.625.294.190.469,74",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks papan di foto; terbilang kecil di bawahnya terlalu kecil untuk dibaca pada ukuran cetak, dilewati"
+ },
+ {
+  "type": "text",
+  "text": "Penerimaan kepabeanan dan cukai terealisasi sebesar Rp300,3 triliun, stabil di tengah volatilitas harga komoditas dan gejolak perdagangan global.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Berdasarkan komponennya, penerimaan cukai yang masih menjadi penopang utama mengalami kontraksi dampak penurunan produksi hasil tembakau. Sementara bea keluar tumbuh kuat didorong kenaikan harga dan volume ekspor CPO dan produk turunannya. Di sisi lain, bea masuk terkontraksi sejalan dengan moderasi pertumbuhan impor dan peningkatan pemanfaatan fasilitas perdagangan internasional (FTA).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kinerja kepabeanan dan cukai selain sebagai sumber penerimaan negara juga beperan dalam aspek layanan (fasilitasi) perdagangan dan pengawasan. Peningkatan fasilitasi perdagangan antara lain ditunjukkan oleh perbaikan dwelling time dan customs clearance. Dwelling time merupakan waktu yang diperlukan oleh peti kemas mulai dari proses penimbunan sampai dengan keluar kawasan Pelabuhan. Dwelling time impor turun dari 3,52 hari di 2024 menjadi 3,02 hari di tahun 2025. Sementara customs clearance (waktu penyelesaian proses kepabeanan) dapat dipercepat dari 0,49 hari menjadi 0,42 hari.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: dwelling time, customs clearance; 'beperan' sesuai cetakan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; infografis dua panel (penurunan dwelling time dan custom clearance, panah 2024 ke 2025)"
+ },
+ {
+  "type": "text",
+  "text": "Peningkatan Fasilitasi Impor",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul infografis"
+ },
+ {
+  "type": "text",
+  "text": "DWELLING TIME",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel kiri"
+ },
+ {
+  "type": "text",
+  "text": "3,52",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data 2024"
+ },
+ {
+  "type": "text",
+  "text": "3,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data 2025"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu"
+ },
+ {
+  "type": "text",
+  "text": "CUSTOM CLEARANCE",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel kanan"
+ },
+ {
+  "type": "text",
+  "text": "0,49",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data 2024"
+ },
+ {
+  "type": "text",
+  "text": "0,42",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data 2025"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu"
+ },
+ {
+  "type": "text",
+  "text": "Pengawasan kepabeanan dan cukai terus diperkuat sepanjang tahun 2025 sebagai bagian dari upaya menjaga kepatuhan dan melindungi masyarakat. Sepanjang tahun, telah dilakukan 36.453 kali penindakan, yang didominasi oleh penindakan di bidang cukai sebanyak 21.470 kasus. Sementara itu, dari sisi nilai barang hasil penindakan (BHP) mencapai Rp9,9 triliun, kontribusi terbesar berasal dari impor dengan nilai mencapai Rp7,1 triliun dengan 266 kasus penyidikan dan penerimaan Uang Rampasan sebesar Rp211 miliar. Penindakan rokok ilegal juga meningkat signifikan, dengan jumlah rokok ilegal yang berhasil diamankan mencapai 1,4 miliar batang (2024: 792 juta), termasuk pengungkapan gudang dengan temuan sekitar 160 juta batang rokok ilegal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Selain itu, dalam rangka menjaga daya beli masyarakat dan daya saing dunia usaha, Pemerintah terus menyalurkan insentif perpajakan dan kepabeanan secara terukur. Belanja perpajakan difokuskan untuk mendukung rumah tangga, UMKM, sektor transportasi, pendidikan, kesehatan, serta investasi, dengan manfaat langsung dirasakan oleh masyarakat dan pelaku usaha. Sementara itu, berbagai insentif kepabeanan diluncurkan untuk menurunkan biaya logistik dan input produksi, sehingga membantu dunia usaha beroperasi lebih efisien di tengah tekanan global.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "PNBP terealisasi sebesar Rp534,1 triliun (104,0 persen dari APBN), melampaui target meskipun dihadapkan pada tekanan moderasi harga komoditas dan penurunan volume produksi batubara. Kontribusi PNBP antara lain berasal dari SDA migas sebesar Rp105,0 triliun, SDA nonmigas Rp140,3 triliun, PNBP Kekayaan Negara Dipisahkan (KND) Rp12,7 triliun, PNBP K/L Rp172,5 triliun, serta PNBP Badan Layanan Umum (BLU) Rp103,7 triliun. Kinerja PNBP SDA relatif tertekan sepanjang tahun akibat pergerakan harga komoditas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Selain itu, pengalihan setoran dividen BUMN ke BPI Danantara sejak berlakunya Undang-Undang Nomor 1 Tahun 2025 tentang BUMN juga memengaruhi PNBP KND. Perubahan ini merupakan penyesuaian kelembagaan dalam rangka penguatan peran investasi negara, dan tidak menggambarkan penurunan kinerja BUMN secara fundamental.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah tekanan tersebut, kinerja PNBP tetap ditopang oleh PNBP K/L yang mencapai 200,5% dari APBN, terutama didorong oleh penegakan hukum (setoran TPK TPPU ganti rugi korupsi CPO dan gula, serta satgas PKH), optimalisasi penerimaan dari spektrum frekuensi radio dan penertiban kawasan hutan. Selain itu, pendapatan BLU terealisasi sebesar 133,0% dari APBN, yang terutama ditopang pendapatan BLU Sawit dan BLU Rumah Sakit.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (APBN vs Realisasi Sementara PNBP per komponen)"
+ },
+ {
+  "type": "text",
+  "text": "Realisasi PNBP Melampaui Target",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul grafik"
+ },
+ {
+  "type": "text",
+  "text": "Ditopang PNBP K/L dan PNBP BLU yang jauh di atas target APBN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; subjudul grafik, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Triliun Rp",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; satuan"
+ },
+ {
+  "type": "text",
+  "text": "SDA Migas 125,5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang APBN; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "SDA Migas 105,0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang Realisasi Sementara; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "SDA Nonmigas 134,2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang APBN; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang; label kategori dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "SDA Nonmigas 140,3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang Realisasi Sementara; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "KND 90,0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang APBN; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "KND 12,7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang Realisasi Sementara; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "PNBP KL 86,0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang APBN; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "PNBP KL 172,5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang Realisasi Sementara; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "BLU 77,9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang APBN; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "BLU 103,7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; batang Realisasi Sementara; label kategori dipakai bersama dua batang; nilai ditulis vertikal di dalam batang"
+ },
+ {
+  "type": "text",
+  "text": "APBN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Realisasi Sementara",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ }
+]

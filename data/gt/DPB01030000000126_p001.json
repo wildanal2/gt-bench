@@ -1,0 +1,82 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16158,
+   0.11027,
+   0.68329,
+   0.36352
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 4.3-\nOntario\narea (in\nsquare feet)\nused to\nharvest\nmushroom\nS over the\nyears.",
+  "page_idx": 0,
+  "bbox": [
+   0.73158,
+   0.09232,
+   0.85836,
+   0.23462
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Closure",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14063,
+   0.44906,
+   0.28531,
+   0.47119
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Closure refers to our mind completing missing portions of a\ndesign. There must be enough parts available for the image\nto be \"filled in\"; if the image is too abstract, there are minimal\nreference points for the mind to complete it. See Figure 4.44\nfor an example of how our mind automatically imagine a line\nconnecting the 2 broken ones.",
+  "page_idx": 0,
+  "bbox": [
+   0.14063,
+   0.51224,
+   0.86063,
+   0.6442
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4. Statistics Canada. Table 18-10-0002-01 Monthly average retail prices for\nfood and other selected products. Data is reproduced and distributed\non an \"as is\" basis with the permission of Statistics Canada. Retrieved\nFebruary 2nd, 2022. DOI: https://doi.org/10.25318/1810000201-eng.\nStatistics Canada Open Licence: https://www.statcan.gc.ca/en/\nreference/licence",
+  "page_idx": 0,
+  "bbox": [
+   0.11809,
+   0.78849,
+   0.85386,
+   0.90519
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "Gestalt's Principles | 89",
+  "page_idx": 0,
+  "bbox": [
+   0.6141,
+   0.93443,
+   0.85804,
+   0.94937
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,250 @@
+[
+ {
+  "type": "text",
+  "text": "Probability, Combinatorics and Control",
+  "page_idx": 0,
+  "bbox": [
+   0.14547,
+   0.02675,
+   0.43621,
+   0.04136
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "between this and the fact that the development of the underlying wave function for\nthe whole universe is unique.",
+  "page_idx": 0,
+  "bbox": [
+   0.14547,
+   0.07308,
+   0.85142,
+   0.10605
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Summarizing:",
+  "page_idx": 0,
+  "bbox": [
+   0.17352,
+   0.10605,
+   0.29404,
+   0.12199
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Definition 1. A universe U is a chain of states (one state Ut for each moment of\ntime t), with the property that the transition between adjacent states is always\npossible.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.12245,
+   0.83968,
+   0.17152
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Definition 2. A multiverse M is the set of all possible universes U in the sense of\nDefinition 1 together with a probability measure on this set.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.17152,
+   0.84657,
+   0.2035
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "It may of course be said that quantum mechanics should allow for transitions\nbetween all kinds of states, although the probability for most such transitions may be\nextremely small. In this extremely simplified treatment, I will assume that for a given\nstate at a given moment of time t, the dynamical laws will only permit transitions to a\nvery limited number of states at the previous and next moments, which will make the\nprobabilistic part of the investigation particularly simple. However, modifications are\ncalled for near the endpoints (the Big Bang and the Big Crunch); see Section 5.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.2035,
+   0.84657,
+   0.31693
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "As it stands, the model presented so far is too simple to generate any results. In\nfact, there are no observable differences at all between the states, which mean that\nthere are no measurable variables which could be related to the (so far non-\nspecified) dynamics.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.31693,
+   0.84657,
+   0.38139
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "There are of course many different variables which we can choose to enrich this\nstructure, and which ones to choose must depend on what properties we want to\nexplain. For explaining the second law of thermodynamics, the obvious choice is the\nentropy.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.38184,
+   0.84657,
+   0.4463
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4. Entropy",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14594,
+   0.48368,
+   0.25303,
+   0.49974
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "According to Boltzmann, the total entropy of a certain macro-state at a certain\ntime is given by",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.51497,
+   0.8383,
+   0.54791
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "S=k_B\\ln\\Omega,",
+  "page_idx": 0,
+  "bbox": [
+   0.44608,
+   0.56253,
+   0.54649,
+   0.57699
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(2)",
+  "page_idx": 0,
+  "bbox": [
+   0.80497,
+   0.56305,
+   0.82803,
+   0.57654
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "or inversely",
+  "page_idx": 0,
+  "bbox": [
+   0.17443,
+   0.59414,
+   0.27521,
+   0.60883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\Omega=W^S,\\text{with}W=e^{1/k_B},",
+  "page_idx": 0,
+  "bbox": [
+   0.37354,
+   0.62427,
+   0.61953,
+   0.64103
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(3)",
+  "page_idx": 0,
+  "bbox": [
+   0.80497,
+   0.62715,
+   0.82803,
+   0.64064
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "where � denotes the number of corresponding micro-states and kB is\nBoltzmann's constant.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.65545,
+   0.75815,
+   0.68839
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "This formula was from the beginning derived for simple cases, like an ideal gas.\nNevertheless, it does represent a kind of universal truth in statistical mechanics: the\nnumber of possible micro-states corresponding to a given macro-state grows expo-\nnentially with the entropy. Although there are many complications when one tries\nto consider the entropy of the universe as a whole, I will still take it as the starting\npoint for the discussion that the entropy (at a given time t) is an exponential\nfunction of the total entropy as in (3). A more difficult question is if and how the\nconstant W may vary with time, but for the purpose of the present paper, I will\nsimply let it be constant.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.68988,
+   0.8514,
+   0.83546
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "One may of course argue that this can only be true when the universe is still\nquite ordered and the entropy is very far from reaching its maximum. But this is\ncertainly what the situation is like in our universe today, and according to the\ncomputations in [10, 11], it would take an almost incredibly long time to reach such\na state of maximal entropy. Thus, it will in the following be taken for granted that\nthis time is much longer than the life-span of our universe.",
+  "page_idx": 0,
+  "bbox": [
+   0.14464,
+   0.83622,
+   0.8514,
+   0.93368
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "312",
+  "page_idx": 0,
+  "bbox": [
+   0.14626,
+   0.95866,
+   0.17158,
+   0.96793
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

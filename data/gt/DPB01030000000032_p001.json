@@ -1,0 +1,121 @@
+[
+ {
+  "type": "text",
+  "text": "Prologue",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14127,
+   0.08481,
+   0.31798,
+   0.11185
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Programming and Understanding",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14127,
+   0.13984,
+   0.60102,
+   0.15919
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "One way to become aware of the precision required to unam-\nbiguously communicate a mathematical idea is to program it for\na computer. Rather than using canned programs purely as an\naid to visualization or numerical computation, we use computer\nprogramming in a functional style to encourage clear thinking.\nProgramming forces us to be precise and unambiguous, without\nforcing us to be excessively rigorous. The computer does not toler-\nate vague descriptions or incomplete constructions. Thus the act\nof programming makes us keenly aware of our errors of reasoning\nor unsupported conclusions.1",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.17793,
+   0.86372,
+   0.37678
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Although this book is about differential geometry, we can show\nhow thinking about programming can help in understanding in a\nmore elementary context. The traditional use of Leibniz's notation\nand Newton's notation is convenient in simple situations, but in\nmore complicated situations it can be a serious handicap to clear\nreasoning.",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.37678,
+   0.86372,
+   0.49578
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "A mechanical system is described by a Lagrangian function of\nthe system state (time, coordinates, and velocities). A motion of\nthe system is described by a path that gives the coordinates for\neach moment of time. A path is allowed if and only if it satisfies\nthe Lagrange equations. Traditionally, the Lagrange equations are\nwritten",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.49655,
+   0.86372,
+   0.61555
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{d}{dt}\\frac{\\partialL}{\\partial\\dot{q}}-\\frac{\\partialL}{\\partialq}=0.",
+  "page_idx": 0,
+  "bbox": [
+   0.14263,
+   0.62465,
+   0.32722,
+   0.6671
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "What could this expression possibly mean?",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.67983,
+   0.61917,
+   0.69927
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Let's try to write a program that implements Lagrange equa-\ntions. What are Lagrange equations for? Our program must take\na proposed path and give a result that allows us to decide if the\npath is allowed. This is already a problem; the equation shown\nabove does not have a slot for a path to be tested.",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.7004,
+   0.86372,
+   0.799
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1The idea of using computer programming to develop skills of clear thinking\nwas originally advocated by Seymour Papert. An extensive discussion of this\nidea, applied to the education of young children, can be found in Papert [13].",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.82453,
+   0.86538,
+   0.87441
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

@@ -1,0 +1,285 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon bola lampu"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir SPT 1770 (bagian atas halaman 1, terpotong); resolusi rendah: butir di bawah MEMPUNYAI PENGHASILAN, baris PERHATIAN, catatan *), petunjuk dalam kurung di bawah butir 1-3, serta BL/TH/s.d dilewati karena terlalu kecil/buram"
+ },
+ {
+  "type": "text",
+  "text": "FORMULIR",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "SPT TAHUNAN PPh WAJIB PAJAK ORANG PRIBADI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "TAHUN PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; digit dalam kotak terpisah"
+ },
+ {
+  "type": "text",
+  "text": "MEMPUNYAI PENGHASILAN :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "EPARTEMEN KEUANGAN RI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; huruf awal tertutup ikon bola lampu"
+ },
+ {
+  "type": "text",
+  "text": "DIREKTORAT JENDERAL PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "NORMA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "PEMBUKUAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "IDENTITAS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "NPWP :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "NAMA WAJIB PAJAK :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "JENIS USAHA/PEKERJAAN BEBAS :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "KLU :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "NO. TELEPON/FAKSIMILI :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "PERUBAHAN DATA :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "LAMPIRAN TERSENDIRI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "TIDAK ADA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "RUPIAH *)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir"
+ },
+ {
+  "type": "text",
+  "text": "SILAN NETO",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; vertikal; terpotong tepi screenshot (PENGHASILAN NETO)"
+ },
+ {
+  "type": "text",
+  "text": "*1. PENGHASILAN NETO DALAM NEGERI DARI USAHA DAN/ATAU PEKERJAAN BEBAS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; dicek: teks buram"
+ },
+ {
+  "type": "text",
+  "text": "1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; nomor kotak isian"
+ },
+ {
+  "type": "text",
+  "text": "*2. PENGHASILAN NETO DALAM NEGERI SEHUBUNGAN DENGAN PEKERJAAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; dicek: teks buram"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; nomor kotak isian"
+ },
+ {
+  "type": "text",
+  "text": "*3. PENGHASILAN DALAM NEGERI LAINNYA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; dicek: teks buram"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; nomor kotak isian"
+ },
+ {
+  "type": "text",
+  "text": "*4. PENGHASILAN NETO LUAR NEGERI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; dicek: teks buram"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir; nomor kotak isian; terpotong"
+ },
+ {
+  "type": "text",
+  "text": "Surat Pemberitahuan (SPT) Tahunan Pajak Penghasilan (PPh) merupakan formulir yang digunakan Wajib Pajak untuk melaporkan penghitungan dan/atau pembayaran PPh, objek pajak PPh, bukan objek pajak PPh, harta dan kewajiban.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

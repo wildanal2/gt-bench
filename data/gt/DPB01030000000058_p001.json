@@ -1,0 +1,95 @@
+[
+ {
+  "type": "text",
+  "text": "3. Perspective of supply and demand balance of wood pellets and cost\nstructure in Japan",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14058,
+   0.10344,
+   0.81055,
+   0.14136
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "According to a survey taken by the Japan Woody Bioenergy Association in FY2018 (from\nApril 2018 to March 2019) with 55 biomass power generators, more than half of fuel for\nbiomass power generation is domestically produced wood biomass at present in Japan in\nterms of weight (Figure 4.5).",
+  "page_idx": 0,
+  "bbox": [
+   0.14058,
+   0.1536,
+   0.81055,
+   0.22282
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 4.5. Breakdown of Biomass Power Generation Fuel in Japan",
+  "page_idx": 0,
+  "bbox": [
+   0.22061,
+   0.25231,
+   0.73279,
+   0.26666
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.29045,
+   0.27872,
+   0.61956,
+   0.4697
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "PKS = palm kernel shell.\nNote: The share of fuel calculated in terms of biomass fuel weight ('Wood pellets', 'Construction wood waste',\n'Waste materials', 'Others': tonne; others: dry tonne).\nSource: Depicted by IEEJ based on Japan Woody Bioenergy Association (JWBA), 2020.",
+  "page_idx": 0,
+  "bbox": [
+   0.14058,
+   0.48561,
+   0.81055,
+   0.54227
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "When translating the survey result into energy form, it is estimated that, within biomass\npower generation using wood biomass ('Unutilised wood', 'General wood', and\n'Construction wood waste'), around 30% of input fuel is met by import biomass fuel\n(Figure 4.6).",
+  "page_idx": 0,
+  "bbox": [
+   0.14058,
+   0.57119,
+   0.81055,
+   0.64005
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "38",
+  "page_idx": 0,
+  "bbox": [
+   0.4664,
+   0.94505,
+   0.48573,
+   0.95492
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,179 @@
+[
+ {
+  "type": "text",
+  "text": "GENERAL INSTRUCTIONS FOR THE COMPLETION SPT 1770 S DIGITAL FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "1. This form is in compliance with the regulations the Director General of Taxes Number PER-34/PJ/2010 about Income Tax Annual Return Form and General Instructions as amended by regulation the Director General of Taxes Number PER-36/PJ/2015. This form is used for completion income tax annual tax return for Taxable Year 2014 and onwards;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. Print this form in 98% scale (not printed in mode \"fit size\" or \"shrink size\"). This printing results must be signed and must not be folded or crumpled. Use HVS paper size:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; sebagian tebal; teks dalam kurung merah"
+ },
+ {
+  "type": "text",
+  "text": "a. F4/Folio/US Folio/Government Legal (8,5 X 13 inch);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. Minimum weight 70 gr;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3. To be able to use this form optimally, use the application Adobe Reader version 8 or newer;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "4. Complete the Taxable Year, the identity of the Taxpayer and the other mandatory information properly. Taxpayers can contact the tax office where the Taxpayer is registered to ensure their Taxpayer Indentity Number (TIN) or through applications on the site www.pajak.go.id.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; typo 'Indentity' sesuai sumber; URL bergaris bawah biru"
+ },
+ {
+  "type": "text",
+  "text": "Description of status of married individual are as follows:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; paragraf lanjutan di dalam butir 4"
+ },
+ {
+  "type": "text",
+  "text": "a. KK : Tax rights and obligations undertaken by the head of the family;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. HB : Spouse have lived separated based on a court decision;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "c. PH : It is requested in writing by both the husband and wife on the basis of an agreement for the separation of property and income; and",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "d. MT : It is requested by the wife who chooses to meet her tax right and obligation separately.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "5. Complete the attachments form first. Summation formulas, reduction, connection with certain parts and others have been available in this form, so that Taxpayers do not need to do a recount;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "6. <AUTO> sign shows the calculation results automatically. There are times when automatic calculation is too late to execute, to make sure it runs well, point the cursor pointer to the field where the calculation formula should be run, block the numbers there, then press DELETE key followed by ENTER. However, Taxpayer is expected to keep doing re-checking the results of calculations on this tax return, especially in the field <AUTO> ;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; <AUTO> merah tebal"
+ },
+ {
+  "type": "text",
+  "text": "7. If additional form of 1770S-I and 1770S-II are needed because the information to be loaded is more than one page, that forms now are available in the directory (folder). These files can be reproduced to adjust the needs in a way to copy and replace file name (rename), for example: 1770S-I-1, 1770S-I-2 etc;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "8. After all attachments completed, then complete the main form up to the box \"Total Net Income after Zakat/ Obligated Charity\",",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "a. in terms of Taxpayer status KK or HB, then fill the box \"Personal Exemption\" and the next boxes;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. in terms of Taxpayer status MT or PH, then the box \"Personal Exemption\" and \"Taxable Income\" is automatically filled with symbols 0. Next, Taxpayer complete “Workpaper of Income Tax Payable Calculation for Taxpayers with PH and MT Status”. After the workpaper completed, complete the main form on the \"Adjustment for Foreign Tax Credits Refunded and had been Credited in The Previous Year Return (Income Tax Article 24)\" and the next boxes.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kutip lengkung “…” sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "9. The SHOW button used to show calculation formulas in completing digital tax return;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; SHOW berwarna kuning"
+ },
+ {
+  "type": "text",
+  "text": "10. The RESET button used to clear the data of digital tax return form that have been loaded previously. After completing the tax return and print it, do not forget to save it to another file (Save-as and name different from the original file), then use the RESET button to clear the file;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; RESET merah"
+ },
+ {
+  "type": "text",
+  "text": "11. The HIDE button used to hide the calculation formula so that it can be printed blank form if you want to complete it manually;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; HIDE hijau"
+ },
+ {
+  "type": "text",
+  "text": "12. Detailed description of the completing income tax annual tax return please read the Instruction Book.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ }
+]

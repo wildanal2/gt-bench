@@ -1,0 +1,175 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Model</td><td>Alpaca-GPT4</td><td>OpenOrca</td><td>Synth. Math-Instruct</td><td>H6 (Avg.)</td><td>ARC</td><td>HellaSwag</td><td>MMLU</td><td>TruthfulQA</td><td>Winogrande</td><td>GSM8K</td></tr><tr><td>SFT v1</td><td>O</td><td>X</td><td>X</td><td>69.15</td><td>67.66</td><td>86.03</td><td>65.88</td><td>60.12</td><td>82.95</td><td>52.24</td></tr><tr><td>SFT v2</td><td>O</td><td>O</td><td>X</td><td>69.21</td><td>65.36</td><td>85.39</td><td>65.93</td><td>58.47</td><td>82.79</td><td>57.32</td></tr><tr><td>SFT v3</td><td>O</td><td>O</td><td>O</td><td>70.03</td><td>65.87</td><td>85.55</td><td>65.31</td><td>57.93</td><td>81.37</td><td>64.14</td></tr><tr><td>SFT v4</td><td>O</td><td>X</td><td>O</td><td>70.88</td><td>67.32</td><td>85.87</td><td>65.87</td><td>58.97</td><td>82.48</td><td>64.75</td></tr><tr><td>SFT v3 + v4</td><td>O</td><td>O</td><td>O</td><td>71.11</td><td>67.32</td><td>85.96</td><td>65.95</td><td>58.80</td><td>2.08</td><td>66.57</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.1586,
+   0.0828,
+   0.84142,
+   0.15244
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 3: Ablation studies on the different datasets used for instruction tuning. 'SFT v3+v4' indicates that the model\nis merged from 'SFT v3' and 'SFT v4' by simply averaging the model weights. The best scores for H6 and the\nindividual tasks are shown in bold.",
+  "page_idx": 0,
+  "bbox": [
+   0.1149,
+   0.16258,
+   0.88251,
+   0.20317
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Model</td><td>Ultrafeedback Clean</td><td>Synth. Math-Alignment</td><td>H6 (Avg.)</td><td>ARC</td><td>HellaSwag</td><td>MMLU</td><td>TruthfulQA</td><td>Winogrande</td><td>GSM8K</td></tr><tr><td>DPO v1</td><td>O</td><td>X</td><td>73.06</td><td>71.42</td><td>88.49</td><td>66.14</td><td>72.04</td><td>81.45</td><td>58.83</td></tr><tr><td>DPO v2</td><td>O</td><td>O</td><td>73.42</td><td>71.50</td><td>88.28</td><td>65.97</td><td>71.71</td><td>82.79</td><td>60.27</td></tr><tr><td>DPO v1 + v2</td><td>O</td><td>O</td><td>73.21</td><td>71.33</td><td>88.36</td><td>65.92</td><td>72.65</td><td>82.79</td><td>58.23</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.1586,
+   0.21885,
+   0.84142,
+   0.26912
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 4: Ablation studies on the different datasets used during the direct preference optimization (DPO) stage.\n'SFT v3' is used as the SFT base model for DPO. We name ablated models with the 'DPO' prefix to indicate the\nalignment tuning stage. 'DPO v1+v2' indicates that the model is merged from 'DPO v1' and 'DPO v2' by simply\naveraging the model weights. The best scores for H6 and the individual tasks are shown in bold.",
+  "page_idx": 0,
+  "bbox": [
+   0.1149,
+   0.27972,
+   0.88381,
+   0.33645
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Model</td><td>Base SFT Model</td><td>H6 (Avg.)</td><td>ARC</td><td>HellaSwag</td><td>MMLU</td><td>TruthfulQA</td><td>Winogrande</td><td>GSM8K</td></tr><tr><td>DPO v2</td><td>SFT v3</td><td>73.42</td><td>71.50</td><td>88.28</td><td>65.97</td><td>71.71</td><td>82.79</td><td>60.27</td></tr><tr><td>DPO v3</td><td>SFT v3 + v4</td><td>73.58</td><td>71.33</td><td>88.08</td><td>65.39</td><td>72.45</td><td>81.93</td><td>62.32</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.21534,
+   0.34936,
+   0.78468,
+   0.39363
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 5: Ablation studies on the different SFT base models used during the direct preference optimization (DPO)\nstage. Ultrafeedback Clean and Synth. Math-Alignment datasets are used. We name ablated models with the 'DPO'\nprefix to indicate the alignment tuning stage. The best scores for H6 and the individual tasks are shown in bold.",
+  "page_idx": 0,
+  "bbox": [
+   0.1149,
+   0.40378,
+   0.88381,
+   0.44713
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "indicate that using OpenOrca results in a model that\nbehaves differently from using only Alpaca-GPT4.",
+  "page_idx": 0,
+  "bbox": [
+   0.1149,
+   0.47249,
+   0.49055,
+   0.50385
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Second, we investigate whether Synth. Math-\nInstruct dataset is beneficial. For 'SFT v3', we\nadd the Synth. Math-Instruct dataset, which boosts\nGSM8K scores to 64.14 and achieves comparable\nscores for the other tasks. Interestingly, when we\nadd the Synth. Math-Instruct dataset to 'SFT v1'\nto train 'SFT v4', we get our highest H6 score of\n70.88 with higher scores than 'SFT v3' for all tasks.\nFrom the above, we can see that adding the Synth.\nMath-Instruct dataset is helpful.",
+  "page_idx": 0,
+  "bbox": [
+   0.1149,
+   0.52,
+   0.49055,
+   0.68002
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Lastly, we see whether merging models trained\nwith and without OpenOrca can boost performance.\nIn the first analysis, we saw that using OpenOrca re-\nsulted in a model that behaved differently from the\nmodel that was trained without OpenOrca. Build-\ning on this intuition, we merge 'SFT v3' and 'SFT\nv4' as they are the best-performing models with\nand without OpenOrca. To our surprise, the result-\ning merged model 'SFT v3+v4' retains the high\nscores for non-GSM8K tasks from 'SFT v4' but\nalso achieves a higher GSM8K score than 'SFT v3'\nor 'SFT v4'. Thus, we see that merging models\nthat specialize in different tasks is a promising way\nto obtain a model that performs well generally.",
+  "page_idx": 0,
+  "bbox": [
+   0.1149,
+   0.69663,
+   0.49055,
+   0.91984
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4.3.2 Alignment Tuning",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.51208,
+   0.47249,
+   0.7136,
+   0.48771
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "As we utilize DPO for practical alignment tuning,\nthere are additional aspects to ablate such as the\nSFT base models used. Thus, we present ablations\nfor the different training datasets used for training,\nthe different SFT base models to initialize the DPO\nmodel, and finally, the model merging strategy to\nobtain the final alignment-tuned model.",
+  "page_idx": 0,
+  "bbox": [
+   0.51077,
+   0.49279,
+   0.88642,
+   0.60393
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Ablation on the training datasets. We ablate on\nthe different alignment datasets used during DPO\nin Tab. 4. We use 'SFT v3' as the SFT base model\nfor DPO. 'DPO v1' only uses the Ultrafeedback\nClean dataset while 'DPO v2' also used the Synth.\nMath-Alignment dataset.",
+  "page_idx": 0,
+  "bbox": [
+   0.51077,
+   0.61408,
+   0.88642,
+   0.71
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "First, we test how Ultrafeedback Clean and\nSynth. Math-Alignment impacts model perfor-\nmance. For 'DPO v1', it achieves 73.06 in H6,\nwhich is a substantial boost from the SFT base\nmodel score of 70.03. However, we note that while\nscores for tasks like ARC, HellaSwag, and Truth-\nfulQA all improved by good margins, the score\nfor GSM8K is 58.83, which is lower than the\nSFT base model score of 64.14. Adding Synth.\nMath-Alignment to train 'DPO v2', we see that\nthe GSM8k score improves to 60.27, which is\nlower than the SFT base model but still higher\nthan 'DPO v1'. Other task scores are also not nega-",
+  "page_idx": 0,
+  "bbox": [
+   0.51077,
+   0.71184,
+   0.88642,
+   0.91984
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

@@ -1,0 +1,276 @@
+[
+ {
+  "type": "text",
+  "text": "the jet velocity can be assumed to remain constant. Therefore, the horizontal distance traveled by jet\n(x) in time (t) is equal to:",
+  "page_idx": 0,
+  "bbox": [
+   0.08747,
+   0.07177,
+   0.91208,
+   0.11098
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "x=v.t",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.12601,
+   0.16196,
+   0.14074
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(7)",
+  "page_idx": 0,
+  "bbox": [
+   0.20199,
+   0.12159,
+   0.23058,
+   0.14516
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The vertical component of the trajectory of the jet will have a constant acceleration downward due to\nthe force of gravity. Therefore, at any time, t, the y-position of the jet may be calculated as:",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.15679,
+   0.91034,
+   0.19498
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "y=\\frac{1}{2}gt^2",
+  "page_idx": 0,
+  "bbox": [
+   0.08747,
+   0.20598,
+   0.17626,
+   0.23337
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(8)",
+  "page_idx": 0,
+  "bbox": [
+   0.21642,
+   0.21041,
+   0.24532,
+   0.23156
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Rearranging Equation (8) gives:",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.2459,
+   0.3492,
+   0.26322
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "t=\\left(\\frac{2y}{g}\\right)^{0.5}",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.27853,
+   0.19147,
+   0.30384
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(9)",
+  "page_idx": 0,
+  "bbox": [
+   0.23543,
+   0.27987,
+   0.26042,
+   0.30051
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Substitution of t and v from Equations 9 and 2 into Equation 7 results in:",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.3165,
+   0.6819,
+   0.33315
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "x=C_v\\sqrt{2gh}\\left(\\frac{2y}{g}\\right)^{0.5}",
+  "page_idx": 0,
+  "bbox": [
+   0.09149,
+   0.34647,
+   0.27335,
+   0.37444
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(10)",
+  "page_idx": 0,
+  "bbox": [
+   0.31645,
+   0.3498,
+   0.35437,
+   0.37045
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Equations (10) can be rearranged to find Cv:",
+  "page_idx": 0,
+  "bbox": [
+   0.09149,
+   0.38643,
+   0.45177,
+   0.40375
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "C_v=\\frac{x}{2\\sqrt{yh}}",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.41906,
+   0.19492,
+   0.44571
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(11)",
+  "page_idx": 0,
+  "bbox": [
+   0.2337,
+   0.41773,
+   0.2768,
+   0.44104
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Therefore, for steady flow conditions (i.e., constant h in the head tank), the value of Cv can be\ndetermined from the x, y coordinates of the jet trajectory. A graph of x plotted against √ will have\nyh\na slope of 2Cv.",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.45822,
+   0.91208,
+   0.51395
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "7.2. DETERMINATION OF THE COEFFICIENT OF DISCHARGE",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.52948,
+   0.6735,
+   0.54775
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "If Cd is assumed to be constant, then a graph of Q plotted against √h (Equation 6) will be linear, and\nthe slope of this graph will be:",
+  "page_idx": 0,
+  "bbox": [
+   0.08747,
+   0.56329,
+   0.91208,
+   0.60257
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "s=C_dA_o\\sqrt{2g}",
+  "page_idx": 0,
+  "bbox": [
+   0.08952,
+   0.61628,
+   0.22776,
+   0.6382
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(12)",
+  "page_idx": 0,
+  "bbox": [
+   0.26474,
+   0.61628,
+   0.30558,
+   0.63712
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "EXPERIMENT #6: ORIFICE AND FREE JET FLOW 53",
+  "page_idx": 0,
+  "bbox": [
+   0.59488,
+   0.93927,
+   0.91034,
+   0.95226
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

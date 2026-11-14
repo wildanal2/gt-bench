@@ -1,0 +1,94 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11742,
+   0.07422,
+   0.87982,
+   0.38076
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "(Kaza et al. 2018)",
+  "page_idx": 0,
+  "bbox": [
+   0.11189,
+   0.39793,
+   0.21852,
+   0.41086
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Canada is currently the world's largest producer of MSW per capita. At slightly more than 36 metric\ntons per person per year, Canadians generate roughly 10 tons more MSW per person annually than\nthe next highest garbage producers, Bulgarians and Americans (Tiseo, 2021). Summiting a list like this\nis obviously not in any country's best interest-there are no kudos for reaching the top of the heap,\nso to speak. Is it therefore possible that those nations reaching the top will take the lead in reversing\ncourse?",
+  "page_idx": 0,
+  "bbox": [
+   0.0912,
+   0.42436,
+   0.90902,
+   0.53704
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Halifax is one Canadian city that apparently has. On August 1st, 2015, the city began providing a\n\"green nudge\" to citizens living in its urban core area with the introduction of the Clear Bag Policy, a\npolicy designed to nudge households toward more responsible sorting of their waste, which, in turn,\nwould result in an overall reduction in the total amount of waste generated. As Akbulut-Yuksel and\nBoulatoff point out, under the new policy, households were mandated to replace their black garbage\nbags, traditionally used for the disposal of their refuse, with clear, transparent bags. The Clear Bag\nPolicy allowed households to put out the same number of garbage bags at the curb (six every other\nweek), but all waste destined for the landfill was required to be disposed of in a clear bag (except for\none dark bag permitted for privacy's sake). This allowed waste collectors to screen and refuse any bags\ncontaining materials that should otherwise have been diverted from the landfill, such as recyclables,\nfood waste, and hazardous waste. Clear bags also made apparent to everyone, neighbors and passersby\nalike, a given household's waste-generation and disposal habits.33",
+  "page_idx": 0,
+  "bbox": [
+   0.0912,
+   0.53998,
+   0.90902,
+   0.77123
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "To test the Clear Bag Policy's impact on a typical household's generation of MSW, Akbulut-Yuksel\nand Boulatoff designed a quasi-experiment spanning the period from January 6, 2014, to July 28,\n2017, with January 6, 2014, to July 31, 2015, serving as the pre-treatment period and August 1, 2015,\nto July 28, 2017, serving as the post-treatment period. MSW data collected during this time span",
+  "page_idx": 0,
+  "bbox": [
+   0.0912,
+   0.773,
+   0.90902,
+   0.85186
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "33. As Akbulut-Yuksel and Boulatoff point out, Halifax households are required to sort waste in four ways: (1) recyclable\ncontainers (plastics, glass, and aluminum) are put in a transparent blue bag, (2) paper and cardboard are put in a separate\nbag, (3) organic food waste goes in a green bin provided by the city, and (4) the remaining waste (refuse) goes into garbage\nbags. Recyclable materials are collected each week, while garbage and organic waste are each collected every other week on\nopposite weeks (except in the summer months when, thank goodness, organic waste is collected on a weekly basis).",
+  "page_idx": 0,
+  "bbox": [
+   0.06818,
+   0.86668,
+   0.90559,
+   0.94554
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "234 ARTHUR J. CAPLAN",
+  "page_idx": 0,
+  "bbox": [
+   0.0912,
+   0.9508,
+   0.23852,
+   0.95948
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

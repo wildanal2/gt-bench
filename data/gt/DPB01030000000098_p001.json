@@ -1,0 +1,94 @@
+[
+ {
+  "type": "text",
+  "text": "one of the two players is allowed to communicate with the other player (i.e., there is \"one-way\ncommunication \") the players coordinate their choices 96% of the time! However, with\nsimultaneous two-way communication between the two players, they coordinate only 42% of\nthe time! Explain what happened.",
+  "page_idx": 0,
+  "bbox": [
+   0.14385,
+   0.07095,
+   0.90415,
+   0.14968
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "10. We demonstrated how to solve for the Penalty Kick game's mixed-strategy equilibrium.\nSuppose you were new to the game of soccer (or football) and assigned to play the goalie\nposition. After watching the following YouTube video, what strategy might make the most\nsense for you to adopt on penalty kicks: https://www.youtube.com/watch?v=3yWZZR9ZodI.",
+  "page_idx": 0,
+  "bbox": [
+   0.10829,
+   0.17122,
+   0.90415,
+   0.24995
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "11. The map below identifies (with red markers) the locations of gas stations in Salt Lake City,\nUtah (Utah's capital city). Do these gas station locations depict a pure strategy equilibrium for\nthe Hotelling Game? Explain.",
+  "page_idx": 0,
+  "bbox": [
+   0.10829,
+   0.27047,
+   0.90196,
+   0.32807
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16946,
+   0.34745,
+   0.58337,
+   0.72166
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Source: Google Maps",
+  "page_idx": 0,
+  "bbox": [
+   0.29685,
+   0.73344,
+   0.45648,
+   0.74834
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "12. In this chapter, we learned that when an individual acquires private information about\nsomething, this added information does not necessarily make the individual better off. In\nparticular, when an individual (say, Player 1) acquires private information about something of\ncommon interest to both himself and another individual (say, Player 2), and Player 2 knows\nPlayer 1 has acquired this private information, Player 1 could actually be made worse off as a\nresult of Player 2 changing her strategy in response to the fact that she knows Player 1 now\nhas additional information. Whew! Can you think of a real-life example where the acquisition",
+  "page_idx": 0,
+  "bbox": [
+   0.10829,
+   0.78146,
+   0.90407,
+   0.91806
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "BEHAVIORAL ECONOMICS PRACTICUM 175",
+  "page_idx": 0,
+  "bbox": [
+   0.63989,
+   0.95057,
+   0.90754,
+   0.9606
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

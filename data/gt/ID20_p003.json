@@ -1,0 +1,146 @@
+[
+ {
+  "type": "text",
+  "text": "FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770 S - I",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode formulir; huruf besar tebal"
+ },
+ {
+  "type": "text",
+  "text": "MINISTRY OF FINANCE OF THE REPUBLIC OF INDONESIA DIRECTORATE GENERAL OF TAXES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 3 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "ATTACHMENT - I ANNUAL INDIVIDUAL INCOME TAX RETURN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "OTHER DOMESTIC NET INCOMES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "NON TAXABLE INCOME",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "LIST OF INCOME TAX WITHHELD BY OTHER PARTIES, PAID/WITHHELD IN FOREIGN AND BORNED BY THE GOVERNMENT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; 2 baris digabung; 'BORNED' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "TAXABLE YEAR 2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label vertikal, huruf terakhir terpotong tepi ('YEAF' tampak); ditulis utuh dicek: ; digit 2 dan 0 dalam kotak terpisah; 2 kotak lain kosong"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>TIN</td><td>:</td><td></td></tr><tr><td>TAXPAYER'S NAME</td><td>:</td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom: label | : | kotak isian kosong; tanpa baris header"
+ },
+ {
+  "type": "text",
+  "text": "PART A : OTHER DOMESTIC NET INCOME (NOT INCLUDING INCOME SUBJECT TO FINAL INCOME TAX AND/OR FINAL IN NATURE)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel; 3 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th colspan=\"3\">TYPES OF INCOME</th><th>TOTAL NET INCOME (Rupiah)</th></tr><tr><th>(1)</th><th colspan=\"3\">(2)</th><th>(3)</th></tr><tr><td>1.</td><td colspan=\"3\">INTEREST</td><td></td></tr><tr><td>2.</td><td colspan=\"3\">ROYALTIES</td><td></td></tr><tr><td>3.</td><td colspan=\"3\">RENT</td><td></td></tr><tr><td>4.</td><td colspan=\"3\">AWARDS AND PRIZES</td><td></td></tr><tr><td>5.</td><td colspan=\"3\">GAIN FROM THE SALE/TRANSFER OF PROPERTY</td><td></td></tr><tr><td>6.</td><td colspan=\"3\">OTHER INCOMES</td><td></td></tr><tr><td></td><td>TOTAL PART A</td><td>&lt;AUTO&gt;</td><td>TPA</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": "Copy Total Part A to Form 1770 S Part A line 2",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom: no | jenis penghasilan | <AUTO> | kode | nilai; kotak nilai kosong; <AUTO> merah"
+ },
+ {
+  "type": "text",
+  "text": "PART B : NON TAXABLE INCOME",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th colspan=\"3\">TYPES OF INCOME</th><th>GROSS INCOME (Rupiah)</th></tr><tr><th>(1)</th><th colspan=\"3\">(2)</th><th>(3)</th></tr><tr><td>1.</td><td colspan=\"3\">AIDS/DONATIONS/GIFTS</td><td></td></tr><tr><td>2.</td><td colspan=\"3\">INHERITANCE</td><td></td></tr><tr><td>3.</td><td colspan=\"3\">DISTRIBUTION OF PROFIT RECEIVED BY A MEMBER OF A LIMITED PARTNERSHIP WHOSE CAPITAL DOES NOT CONSIST OF SHARES, PARTNERSHIP, ASSOCIATION, FIRM AND KONGSI</td><td></td></tr><tr><td>4.</td><td colspan=\"3\">CLAIM ON HEALTH, ACCIDENT, LIFE, DUAL PURPOSES AND EDUCATION INSURANCE</td><td></td></tr><tr><td>5.</td><td colspan=\"3\">SCHOLARSHIP</td><td></td></tr><tr><td>6.</td><td colspan=\"3\">OTHER NON TAXABLE INCOME</td><td></td></tr><tr><td></td><td>TOTAL PART B</td><td>&lt;AUTO&gt;</td><td>TPB</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom: no | jenis penghasilan | <AUTO> | kode | nilai; kotak nilai kosong; <AUTO> merah"
+ },
+ {
+  "type": "text",
+  "text": "PART C : LIST OF INCOME TAX WITHHELD BY OTHER PARTIES, PAID/WITHHELD IN FOREIGN COUNTRIES AND BORNE BY THE GOVERNMENT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">NO</th><th rowspan=\"2\">NAME OF WITHHOLDING AGENT</th><th rowspan=\"2\">TIN OF WITHHOLDING AGENT</th><th colspan=\"2\">WITHHOLDING TAX RECEIPT</th><th rowspan=\"2\" colspan=\"2\">TYPES OF TAX : INCOME TAX ARTICLE 21/22/23/24/26/DTP *)</th><th rowspan=\"2\">TOTAL OF INCOME TAX WITHHELD (Rupiah)</th></tr><tr><th>NUMBER</th><th>DATE</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th colspan=\"2\">(6)</th><th>(7)</th></tr><tr><td>1.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>2.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>3.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>4.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>5. etc</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td></td><td colspan=\"4\">TOTAL PART C</td><td></td><td>TPC</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": "Copy Total Part C to Form 1770 S Part D Line 12\nCatatan :\n*) - DTP : BORNE BY THE GOVERNMENT\n- Fill column (6) with following options: 21/22/23/24/26/DTP (Example: 21, 22, 23, 24, 26, DTP)\n- If there is a Tax Credit of Income Tax Article 24, the column should be filled with maximum creditable amount according to separate attachment (Follow the Instruction related to Part C of Attachment I and Annual Tax Return line 3)",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; 8 kolom efektif (kolom (6) terbelah di baris total: sel abu-abu kosong | TPC); baris isian kosong; catatan '*)' di bawah tabel dimasukkan ke table_footnote (merujuk header kolom (6)); 'Catatan' sesuai sumber walau halaman berbahasa Inggris"
+ },
+ {
+  "type": "text",
+  "text": "IF NEEDED, ADDITIONAL PAGES MAY BE ADDED",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dalam kotak berbingkai"
+ },
+ {
+  "type": "text",
+  "text": "Page from pages Attachment-I",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; label nomor halaman dengan kotak isian kosong"
+ }
+]

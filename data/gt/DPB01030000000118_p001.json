@@ -1,0 +1,192 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.12591,
+   0.04905,
+   0.40898,
+   0.07
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.81026,
+   0.05072,
+   0.88509,
+   0.07
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Cellular Replication",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.3938,
+   0.09346,
+   0.60311,
+   0.11525
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.06193,
+   0.12363,
+   0.72567,
+   0.44126
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Growth and the Creation of Life",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.1129,
+   0.46137,
+   0.49574,
+   0.484
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "One of the characteristics of living things is the ability\nto replicate and passon genetic information to the next\ngeneration. Cell division in individual bacteria and\narchaea usually occurs by binary fission. Mitochondria\nand chloroplasts also replicate by binary fission, which\nis evidence of the evolutionary relationship between\nthese organelles and prokaryotes.\nCell division in eukaryotes is more complex. It requires\nthe cell to manage acomplicated process of duplicating\nthe nucleus, other organelles, and multiple linear\nchromosomes. It is controlled in the cell cycle, which is\ndivided into three parts: interphase, mitosis, and\ncytokinesis. We spilt those further for ease of study.\nLet's start with interphase, which is broken into three\nstages. In the first growth phase (G1), the cell grows and\nprepares to duplicate its DNA. In the synthesis phase\n(S), the chromosomes are replicated. In the second\ngrowth phase (G2), the cell prepares to divide.",
+  "page_idx": 0,
+  "bbox": [
+   0.12483,
+   0.49741,
+   0.65409,
+   0.90721
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.76993,
+   0.13562,
+   0.91245,
+   0.24851
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Cellular Cycle\nand Replication",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.74842,
+   0.30669,
+   0.90259,
+   0.34201
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.76545,
+   0.37249,
+   0.90797,
+   0.4833
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "A step by step\nguide to growing a\nhuman!",
+  "page_idx": 0,
+  "bbox": [
+   0.75022,
+   0.51586,
+   0.91514,
+   0.59481
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.76456,
+   0.61351,
+   0.91066,
+   0.72225
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Mitosis and\nMeiosis",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.74842,
+   0.7271,
+   0.86763,
+   0.75688
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Similiar processes\nwith VERY different\nresults!",
+  "page_idx": 0,
+  "bbox": [
+   0.74932,
+   0.76935,
+   0.91245,
+   0.82961
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "66",
+  "page_idx": 0,
+  "bbox": [
+   0.49118,
+   0.97159,
+   0.51448,
+   0.98752
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

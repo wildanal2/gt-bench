@@ -1,0 +1,95 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Garuda Pancasila; teks pita terlalu kecil, tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "BERITA RESMI STATISTIK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; masthead sampul; tiga baris digabung; berupa vektor (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor dan tanggal rilis"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto dekoratif sampul (interior mal) dengan overlay lingkaran oranye/kuning; papan nama toko terlalu kecil, tidak ditranskripsi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; QR code"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul rilis; dua baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia Tahun 2025 Tumbuh 5,11 Persen (C-to-C).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); C-to-C miring"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia Triwulan IV-2025 Tumbuh 5,39 Persen (Y-on-Y).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); Y-on-Y miring"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia Triwulan IV-2025 Tumbuh 0,86 Persen (Q-to-Q).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); Q-to-Q miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BPS; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BADAN PUSAT STATISTIK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ }
+]

@@ -1,0 +1,94 @@
+[
+ {
+  "type": "text",
+  "text": "322",
+  "page_idx": 0,
+  "bbox": [
+   0.14075,
+   0.0554,
+   0.17282,
+   0.06485
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "YARROW",
+  "page_idx": 0,
+  "bbox": [
+   0.80486,
+   0.0554,
+   0.88541,
+   0.06485
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "observer model with three parameters captures PSS, sensory noise and an in-\nterval bias (i.e., a tendency to select one interval in preference to the other\nunder uncertainty).",
+  "page_idx": 0,
+  "bbox": [
+   0.1394,
+   0.09123,
+   0.88541,
+   0.14992
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The 2xSJ task provides estimates that correlate fairly well with equivalent\nparameters estimated using TOJs, SJs, and ternary tasks. However, each trial\ntakes longer than in those single-presentation tasks, which makes experi-\nments more onerous. There are a few reasons why the roving-standard 2xSJ is\nstill worth considering. Firstly, it asks about synchrony explicitly (unlike the\nTOJ) and by requiring relative judgements it reveals a point of maximal syn-\nchrony perception (whereas the SJ and ternary tasks often reveal a range of\nSOA values that are classified as synchronous). Secondly, it can be added in\nto a single-presentation task (as a follow-up question every two trials), which\nsomewhat mitigates the burden of additional experimental time. Finally, a case\ncan be made that it will be more resistant to some forms of decision-level bias\n(Morgan, Grant, Melmoth, & Solomon, 2015; Morgan, Melmoth, & Solomon,\n2013). As with the other tasks I have described, code to fit data from the 2xSJ\naccompanies this chapter.23 For further information, read the comments there\nand consult Yarrow et al. (2016).",
+  "page_idx": 0,
+  "bbox": [
+   0.1394,
+   0.15297,
+   0.88541,
+   0.45296
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "12 Conclusion",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14075,
+   0.49584,
+   0.3341,
+   0.51105
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "In this chapter, I have outlined the benefits of fitting formal observer models\nto judgements about simultaneity, and described how this can be achieved us-\ning Matlab code (see book's GitHub repository). In doing so, I have presented\none particular observer model in some detail, and highlighted the fundamen-\ntally subjective nature of the SJ task, which requires us to think carefully about\nhow both the strategic decisions and perceptual sensitivity of a participant\ncan affect their psychometric function. I have gone on to supply a brief over-\nview of appropriate models for several closely related timing tasks. I hope I\nhave also provided enough of a tutorial regarding bespoke model fitting and\nevaluation to allow the interested reader to go forward and explore their own\nmodels of perceived simultaneity. Modelling may seem intimidating, but in\nfact, a good understanding of just a few basic concepts (which is best gained\nthrough practical exploration) will take you a long way, providing tools to\nengage more fully with the timing literature. This is an endeavour I would very\nmuch encourage!",
+  "page_idx": 0,
+  "bbox": [
+   0.1394,
+   0.53573,
+   0.88541,
+   0.83572
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "23 <TwoAFCSimulanety_3PEq_Multistart_rawdata>.",
+  "page_idx": 0,
+  "bbox": [
+   0.14018,
+   0.86172,
+   0.59097,
+   0.87583
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

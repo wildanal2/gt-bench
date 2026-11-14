@@ -1,0 +1,162 @@
+[
+ {
+  "type": "text",
+  "text": "ECO\nCircle",
+  "page_idx": 0,
+  "bbox": [
+   0.03858,
+   0.03052,
+   0.12848,
+   0.07204
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Co-funded by\nthe European Union",
+  "page_idx": 0,
+  "bbox": [
+   0.76321,
+   0.03099,
+   0.9129,
+   0.0577
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "As seen in this chart of responses, we were very satisfied to reach diversity in age groups, with\nall groups being represented by over 10%. The main group reached was of ages 36-45, and the\nleast represented was the youngest age group of 18-25.",
+  "page_idx": 0,
+  "bbox": [
+   0.14043,
+   0.10333,
+   0.86651,
+   0.15187
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Education Level\n122 responses",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.16314,
+   0.2058,
+   0.27956,
+   0.23342
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.29182,
+   0.25292,
+   0.77749,
+   0.38255
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Regarding the education level of responders, we were satisfied to receive a very high level of\nresponses with Bachelor's or higher degrees, with the significant share of others coming from",
+  "page_idx": 0,
+  "bbox": [
+   0.14043,
+   0.41595,
+   0.8456,
+   0.44953
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Upper Secondary-educated participants. There was also a small representation of non-formal\ntraining, as well as >1% representation for other options.",
+  "page_idx": 0,
+  "bbox": [
+   0.14043,
+   0.56825,
+   0.8456,
+   0.60183
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Profession\n122 responses",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.16427,
+   0.62776,
+   0.2474,
+   0.65538
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.29182,
+   0.67451,
+   0.76699,
+   0.80414
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "For responders' profession, the most common answers representing 19.7% equally, were Youth\nWorkers and Project Managers, although practising Social Entrepreneurs were also well\nrepresented, along with an 8% response rate from self-declared circular economy experts.",
+  "page_idx": 0,
+  "bbox": [
+   0.14043,
+   0.82975,
+   0.86128,
+   0.87824
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "This project has been funded with the support of the European Commission. This publication reflects the views only of the author\nand the Commission cannot be held responsible for any use which may be made of the information contained therein.",
+  "page_idx": 0,
+  "bbox": [
+   0.15064,
+   0.90352,
+   0.86076,
+   0.92716
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Project No: : 2021-2-FR02-KA220-YOU-000048126",
+  "page_idx": 0,
+  "bbox": [
+   0.36612,
+   0.93919,
+   0.64493,
+   0.94923
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

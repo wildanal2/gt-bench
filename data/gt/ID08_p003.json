@@ -1,0 +1,161 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN AUDITOR INDEPENDEN KEPADA PARA PEMEGANG SAHAM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PT BANK CENTRAL ASIA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama penerima laporan di bawah judul",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Opini",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Kami telah mengaudit laporan keuangan konsolidasian PT Bank Central Asia Tbk dan entitas anaknya (“Grup”), yang terdiri dari laporan posisi keuangan konsolidasian tanggal 31 Desember 2024, serta laporan laba rugi dan penghasilan komprehensif lain konsolidasian, laporan perubahan ekuitas konsolidasian dan laporan arus kas konsolidasian untuk tahun yang berakhir pada tanggal tersebut, serta catatan atas laporan keuangan konsolidasian, kebijakan akuntansi yang material.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Menurut opini kami, laporan keuangan konsolidasian terlampir menyajikan secara wajar, dalam semua hal yang material, posisi keuangan konsolidasian Grup tanggal 31 Desember 2024, serta kinerja keuangan konsolidasian dan arus kas konsolidasiannya untuk tahun yang berakhir pada tanggal tersebut, sesuai dengan Standar Akuntansi Keuangan di Indonesia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Basis opini",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Kami melaksanakan audit kami berdasarkan Standar Audit yang ditetapkan oleh Institut Akuntan Publik Indonesia. Tanggung jawab kami menurut standar tersebut diuraikan lebih lanjut dalam paragraf \"Tanggung jawab auditor terhadap audit atas laporan keuangan konsolidasian\" pada laporan kami. Kami independen terhadap Grup berdasarkan ketentuan etika yang relevan dalam audit kami atas laporan keuangan konsolidasian di Indonesia, dan kami telah memenuhi tanggung jawab etika lainnya berdasarkan ketentuan tersebut. Kami yakin bahwa bukti audit yang telah kami peroleh adalah cukup dan tepat untuk menyediakan suatu basis bagi opini audit kami.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanda kutip lurus \"...\" sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "Hal audit utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Hal audit utama adalah hal-hal yang, menurut pertimbangan profesional kami, merupakan hal yang paling signifikan dalam audit kami atas laporan keuangan konsolidasian periode kini. Hal-hal tersebut disampaikan dalam konteks audit kami atas laporan keuangan konsolidasian secara keseluruhan, dan dalam merumuskan opini kami atas laporan keuangan konsolidasian terkait, kami tidak menyatakan suatu opini terpisah atas hal audit utama tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Hal audit utama yang teridentifikasi dalam audit kami diuraikan sebagai berikut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1. Kerugian Kredit Ekspektasian (“KKE”) – perhitungan cadangan kerugian penurunan nilai atas kredit yang diberikan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul bernomor (tebal); 2 baris digabung",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Mengacu pada Catatan 2g (Kebijakan Akuntansi yang Material), Catatan 3 (Penggunaan estimasi dan pertimbangan), dan Catatan 12 (Kredit yang diberikan) atas laporan keuangan konsolidasian, cadangan kerugian penurunan nilai atas kredit yang diberikan merupakan estimasi terbaik Grup atas model KKE berdasarkan PSAK 109, “Instrumen Keuangan”. Pada tanggal 31 Desember 2024, cadangan kerugian penurunan nilai kredit yang diberikan pada laporan keuangan konsolidasian Grup adalah sebesar Rp 32.624.643 juta.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kantor Akuntan Publik Rintis, Jumadi, Rianto & Rekan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kaki halaman KAP"
+ },
+ {
+  "type": "text",
+  "text": "WTC 3, Jl. Jend. Sudirman Kav. 29-31, Jakarta 12920 – Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "T: +62 (21) 5099 2901 / 3119 2901, F: +62 (21) 5290 5555 / 5290 5050, www.pwc.com/id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Nomor Izin Usaha: KEP-315/KM.1/2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "00015/2.1457/AU.1/07/0222-1/1/I/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan; 'I' dibaca angka Romawi"
+ }
+]

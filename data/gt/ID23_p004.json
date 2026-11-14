@@ -1,0 +1,401 @@
+[
+ {
+  "type": "text",
+  "text": "Ikhsan Zuhriyanto, Anton Yudhana, Imam Riadi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 5 (2020) 829 – 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Spesifikasi lebih detail dapat dilihat pada Tabel 4 seperti berikut:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Spesifikasi</th><th>Type</th></tr><tr><td>Manufacture</td><td>EVERCROSS</td></tr><tr><td>Product</td><td>B75</td></tr><tr><td>HW Revision</td><td>LMY47D</td></tr><tr><td>Platform</td><td>Android</td></tr><tr><td>SW Revision</td><td>5.1(22)</td></tr><tr><td>Serial Number</td><td>0123456789ABCDEF</td></tr><tr><td>Unlocking Pattern</td><td>3452</td></tr><tr><td>IMEI</td><td>358441061746404</td></tr><tr><td>Rooted</td><td>Yes</td></tr><tr><td>SIM Card</td><td>Yes</td></tr><tr><td>Operator</td><td>3, MCC:510, MNC:89</td></tr><tr><td>IMSI</td><td>510897263097260</td></tr><tr><td>ICCID</td><td>89628990007753870152</td></tr></table>",
+  "table_caption": "Tabel 4. Spesifikasi Smartphone",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.2. Preservation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Tahap preservation, yaitu tahap pemeliharaan barang bukti digital dan memastikan keadaan barang bukti asli. Proses penjagaan integritas dilakukan untuk menjaga barang bukti itu asli dan tidak rusak. Tahap yang dilakukan adalah melakukan isolasi perangkat smartphone dari komunikasi data masuk dan keluar. Teknik isolasi perlu dilakukan untuk menghindari hal-hal yang dapat merusak barang bukti digital atau mempengaruhi integritas data didalamnya. Kegiatan isolasi barang bukti yang dilakukan adalah merubah status perangkat kedalam mode pesawat seperti pada Gambar 4.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 4. Isolasi Data dengan Mode Pesawat",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto layar ponsel; teks layar terlalu kecil, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Proses isolasi diperlukan untuk mengurangi kemungkinan data pada smartphone berubah. Bisa disebabkan oleh penambahan atau pengurangan data dari luar yang menyebabkan barang bukti hilang atau rusak saat dilakukan proses forensik pencarian barang bukti.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.3. Collection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Tahap pengumpulan barang bukti digital pada smartphone memiliki resiko yang tinggi, dikarenakan jika terjadi kesalahan fatal, data dan bukti digital yang ada pada smartphone dapat hilang atau corrupted sehingga tidak data tidak terbaca. Gambar 5. merupakan proses collection data pada smartphone dengan MOBILedit Forensic Express sedang berjalan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 5. Proses Collection Data pada Smartphone",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto layar ponsel"
+ },
+ {
+  "type": "text",
+  "text": "Forensic Connector",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks layar ponsel"
+ },
+ {
+  "type": "text",
+  "text": "Now you can connect to MOBILedit running on your PC using USB.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks layar ponsel"
+ },
+ {
+  "type": "text",
+  "text": "Waiting for a PC...",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks layar ponsel; dicek: teks buram"
+ },
+ {
+  "type": "text",
+  "text": "How to connect",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks layar ponsel; dicek: teks buram"
+ },
+ {
+  "type": "text",
+  "text": "Kemampuan tools MOBILedit Forensic Express adalah dapat membuat sebuah backup sistem dan collection data pada smartphone kemudian mengekstraksinya seperti pada Gambar 6.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 6. Backup dan Collection Data",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit Forensic Express",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit FORENSIC EXPRESS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Version: 5.1.1.12189 (64-bit)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; dicek: teks sangat kecil"
+ },
+ {
+  "type": "text",
+  "text": "Scripts: 2018-02-13-00",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; dicek: teks sangat kecil, 2018/2016"
+ },
+ {
+  "type": "text",
+  "text": "Select a phone or data and press Next",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "CONNECTED PHONES AND IMPORTED DATA:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "EVERCOSS B75",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Physical image - EVERCOSS B75",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Searching for devices...",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Physical image - EVERCOSS B75",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Remove from list",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Browse phone",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "File: E:\\MobileEditForensicExpress\\EVERCOSS B75.img",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Wi-Fi connection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Bluetooth connection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Import data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Connect iCloud",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Hack phone",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "How to connect",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Next",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Hasil dari proses backup data ini berupa dokumen image dari smartphone dengan ekstensi .img dengan ukuran dokumen yang bervariasi tergantung banyaknya data yang disimpan pada smartphone tersebut. Gambar 7 merupakan hasil dari proses backup dan collection yang sudah selesai dilakukan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 7. Physical Image",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar daftar berkas"
+ },
+ {
+  "type": "text",
+  "text": "Name Date modified Type Size",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "EVERCOSS B75 (2019-07-09 17h01m00s) 7/9/2019 5:30 PM File folder",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G130H (2019-07-08 22h03... 7/8/2019 10:29 PM File folder",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "EVERCOSS B75 7/9/2019 4:53 PM Disc Image File 15,267,840 ...",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "EVERCOSS B75.img_info 7/9/2019 4:53 PM WinRAR ZIP archive 3 KB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G130H 7/8/2019 9:58 PM Disc Image File 3,817,472 KB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G130H.img_info 7/8/2019 9:58 PM WinRAR ZIP archive 2 KB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks tangkapan layar; satu elemen per baris daftar"
+ },
+ {
+  "type": "text",
+  "text": "Setelah dilakukan backup dan collection data, langkah selanjutnya adalah melakukan ekstraksi data dengan menggunakan tools MOBILedit Forensic Express yang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bersambung ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 5 (2020) 829 – 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "832",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

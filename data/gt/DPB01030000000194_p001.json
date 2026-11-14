@@ -1,0 +1,210 @@
+[
+ {
+  "type": "text",
+  "text": "Peihao Wang, Rameswar Panda, Lucas Torroba Hen-\nnigen, Philip Greengard, Leonid Karlinsky, Roge-\nrio Feris, David Daniel Cox, Zhangyang Wang, and\nYoon Kim. 2023. Learning to grow pretrained mod-\nels for efficient transformer training. arXiv preprint\narXiv:2303.00980.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.08628,
+   0.49035,
+   0.1644
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Al-\nisa Liu, Noah A Smith, Daniel Khashabi, and Han-\nnaneh Hajishirzi. 2022. Self-instruct: Aligning lan-\nguage model with self generated instructions. arXiv\npreprint arXiv:2212.10560.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.17445,
+   0.49035,
+   0.24197
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Jason Wei, Maarten Bosma, Vincent Y Zhao, Kelvin\nGuu, Adams Wei Yu, Brian Lester, Nan Du, An-\ndrew M Dai, and Quoc V Le. 2021. Finetuned lan-\nguage models are zero-shot learners. arXiv preprint\narXiv:2109.01652.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.24978,
+   0.49035,
+   0.31674
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel,\nBarret Zoph, Sebastian Borgeaud, Dani Yogatama,\nMaarten Bosma, Denny Zhou, Donald Metzler, et al.\n2022a. Emergent abilities of large language models.\narXiv preprint arXiv:2206.07682.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.32567,
+   0.49035,
+   0.39263
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten\nBosma, Fei Xia, Ed Chi, Quoc V Le, Denny Zhou,\net al. 2022b. Chain-of-thought prompting elicits rea-\nsoning in large language models. Advances in Neural\nInformation Processing Systems, 35:24824-24837.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.401,
+   0.49035,
+   0.46797
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Thomas Wolf, Lysandre Debut, Victor Sanh, Julien\nChaumond, Clement Delangue, Anthony Moi, Pier-\nric Cistac, Tim Rault, Remi Louf, Morgan Funtowicz,\net al. 2019. Huggingface's transformers: State-of-\nthe-art natural language processing. arXiv preprint\narXiv:1910.03771.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.47578,
+   0.49035,
+   0.55446
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Prateek Yadav, Derek Tam, Leshem Choshen, Colin\nRaffel, and Mohit Bansal. 2023. Ties-merging: Re-\nsolving interference when merging models. In Thirty-\nseventh Conference on Neural Information Process-\ning Systems.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.56506,
+   0.49035,
+   0.63203
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu,\nQuoc V Le, Denny Zhou, and Xinyun Chen. 2023.\nLarge language models as optimizers. arXiv preprint\narXiv:2309.03409.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.63984,
+   0.49035,
+   0.69229
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Yiqun Yao, Zheng Zhang, Jing Li, and Yequan\nWang. 2023. 2x faster language model pre-training\nvia masked structural growth. arXiv preprint\narXiv:2305.02869.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.70234,
+   0.49035,
+   0.75479
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu,\nZhengying Liu, Yu Zhang, James T Kwok, Zhen-\nguo Li, Adrian Weller, and Weiyang Liu. 2023.\nMetamath: Bootstrap your own mathematical ques-\ntions for large language models. arXiv preprint\narXiv:2309.12284.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.76595,
+   0.49035,
+   0.84296
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang,\nSongfang Huang, and Fei Huang. 2023. Rrhf:\nRank responses to align language models with\nhuman feedback without tears. arXiv preprint\narXiv:2304.05302.",
+  "page_idx": 0,
+  "bbox": [
+   0.11631,
+   0.85356,
+   0.49035,
+   0.91885
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali\nFarhadi, and Yejin Choi. 2019. Hellaswag: Can a\nmachine really finish your sentence? In Proceedings\nof the 57th Annual Meeting of the Association for\nComputational Linguistics, pages 4791-4800.",
+  "page_idx": 0,
+  "bbox": [
+   0.51057,
+   0.08628,
+   0.88462,
+   0.15355
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang,\nXiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu, Tian-\nwei Zhang, Fei Wu, et al. 2023. Instruction tuning\nfor large language models: A survey. arXiv preprint\narXiv:2308.10792.",
+  "page_idx": 0,
+  "bbox": [
+   0.51057,
+   0.163,
+   0.88462,
+   0.2265
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang,\nXiaolei Wang, Yupeng Hou, Yingqian Min, Beichen\nZhang, Junjie Zhang, Zican Dong, et al. 2023. A\nsurvey of large language models. arXiv preprint\narXiv:2303.18223.",
+  "page_idx": 0,
+  "bbox": [
+   0.51057,
+   0.23847,
+   0.88462,
+   0.30196
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Kun Zhou, Yutao Zhu, Zhipeng Chen, Wentong Chen,\nWayne Xin Zhao, Xu Chen, Yankai Lin, Ji-Rong\nWen, and Jiawei Han. 2023. Don't make your llm\nan evaluation benchmark cheater. arXiv preprint\narXiv:2311.01964.",
+  "page_idx": 0,
+  "bbox": [
+   0.51057,
+   0.31435,
+   0.88462,
+   0.37785
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Daniel M Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B\nBrown, Alec Radford, Dario Amodei, Paul Chris-\ntiano, and Geoffrey Irving. 2019. Fine-tuning lan-\nguage models from human preferences. arXiv\npreprint arXiv:1909.08593.",
+  "page_idx": 0,
+  "bbox": [
+   0.51057,
+   0.38982,
+   0.88462,
+   0.45583
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

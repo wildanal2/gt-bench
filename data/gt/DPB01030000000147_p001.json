@@ -1,0 +1,95 @@
+[
+ {
+  "type": "text",
+  "text": "ECO\nCircle",
+  "page_idx": 0,
+  "bbox": [
+   0.03757,
+   0.02901,
+   0.12939,
+   0.07213
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Co-funded by\nthe European Union",
+  "page_idx": 0,
+  "bbox": [
+   0.76178,
+   0.03129,
+   0.91431,
+   0.05846
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "3. RECOLLECTION OF NATIONAL INITIATIVES",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.20189,
+   0.10315,
+   0.58228,
+   0.12032
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Partners were also asked to recollect initiatives from their respective countries that represented\nthe core values and practices of a Circular Economy or Social Entrepreneurship:",
+  "page_idx": 0,
+  "bbox": [
+   0.14158,
+   0.12526,
+   0.86605,
+   0.15643
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Source (doc, report, etc.)</td><td>Year</td><td>Description of the initiative</td><td>Circular Economy issues addressed</td></tr><tr><td>Eco-Ecole Program https://www.ec o-ecole.org/le- programme/</td><td>2005</td><td>Eco-Ecole is the French version of Eco-Schools, an international program for education in sustainable development (ESD), developed by the Foundation for Environmental Education. The Teragir association launched the Eco-School program in 2005. The program aims to help students better understand the world around them in order to flourish and participate in it.</td><td>Eco-Ecole offers instructions for teaching teams to effectively deploy sustainable development from kindergarten to high school.</td></tr><tr><td>Horsnormes https://horsnor mes.co/</td><td>2020</td><td>Horsnormes is a website which provide baskets of fruits and vegetables that are directly collected from farmers. It helps farmers to gain money while the consumers pay a faire price in exchange of the product, which foster the reduction of food waste.</td><td>Waste reduction of fruits and vegetables.</td></tr><tr><td>Fondation Terre Solidaire (Solidarity Earth Foundation) https://fondatio n- terresolidaire.o rg/quest-ce- que-</td><td>2016</td><td>The Terre Solidaire Foundation was created in 2016 by CCFD-Terre Solidaire to act, particularly in France, in the face of the two major challenges of our time: the massive degradation of our environment (including biodiversity and climate), and the need to building a fairer and more ecologically responsible society. The association remains mobilized on its</td><td>Support and encourage initiatives carried out by citizen mobilizations and actors of the social and solidarity economy in the design, implementation, dissemination and experimentation of</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.13116,
+   0.25264,
+   0.86075,
+   0.88393
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "This project has been funded with the support of the European Commission. This publication reflects the views only of the author\nand the Commission cannot be held responsible for any use which may be made of the information contained therein.",
+  "page_idx": 0,
+  "bbox": [
+   0.1502,
+   0.90394,
+   0.86075,
+   0.92671
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Project No: : 2021-2-FR02-KA220-YOU-000048126",
+  "page_idx": 0,
+  "bbox": [
+   0.36785,
+   0.93968,
+   0.64492,
+   0.94886
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

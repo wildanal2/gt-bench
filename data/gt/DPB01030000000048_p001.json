@@ -1,0 +1,55 @@
+[
+ {
+  "type": "text",
+  "text": "8 Encinas Franco and Laguna",
+  "page_idx": 0,
+  "bbox": [
+   0.10177,
+   0.05738,
+   0.40929,
+   0.07205
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Filipino Women in Electoral Politics",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.10368,
+   0.11095,
+   0.58111,
+   0.13288
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The nature and extent of Filipino women's political participation\nis a product of the country's colonial history, martial law, and\ndemocratization post-1986. Historians argue that Spain's strong\nCatholic traditions ushered in patriarchal norms and practices that were\nnot present in the pre-Hispanic period. National hero, Jose Rizal, has\ndocumented this in his \"Letter to the Women of Malolos,\" praising the\nwomen for advocating their right to education. Historians also found\nproof of women's contribution to the Philippine revolution (Camagay\n1998). Decades later, the suffragist movement ushered in one of the first\nnational issues to have brought Filipino women together. It was a hard-\nfought battle; the movement had to contend with staunch opposition\nfrom antisuffragists in the Constitutional Convention that drafted the\n1935 Constitution. The reluctance was expected because only 21-year-\nold Filipino men had been allowed to vote during the time. They framed\ntheir opposition based on traditional notions of womanhood and their\nrole in the private sphere, foremost of which is motherhood. Another\nkey argument against female suffrage was the idea that politics is\nsupposed to be \"dirty\" and that this would taint families if women took\npart in politics. The assumptions catered to the age-old public-private\ndivide, strongly suggesting that only men are qualified to occupy the\nformer.",
+  "page_idx": 0,
+  "bbox": [
+   0.10177,
+   0.156,
+   0.85671,
+   0.60349
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Eventually, the 1935 Constitution granted women suffrage on the\ncondition that more than 300,000 women would vote affirmatively in a\nplebiscite. When signing the law paving the way for the said plebiscite,\nPresident Manuel Quezon had this to say to Filipino men: \"Are you\ngoing to deprive our women of the opportunity to say how their lives\nare going to be regulated and is it fair for us to presume that men can\nalways speak in this country for women?\" (Official Gazette 1936). In\nApril 1937, more than 400,000 women voted in favor of their right to\nvote and participate in political life. In 1946 and 1947, Filipinos elected\nthe first woman member of the House of Representatives, and senator,\nrespectively. Nonetheless, data from 1946 to 1992 indicate an uphill\nclimb. For instance, in the 1949 and 1953 elections for the House of\nRepresentatives, only one woman was elected out of the 100 positions.",
+  "page_idx": 0,
+  "bbox": [
+   0.10177,
+   0.62424,
+   0.85671,
+   0.90162
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.33427,
+   0.07919,
+   0.66848,
+   0.2666
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "(Niederle and Vesterlund 2007)",
+  "page_idx": 0,
+  "bbox": [
+   0.31675,
+   0.28935,
+   0.50238,
+   0.3015
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In other words, while women shy away from competition, men are drawn to it.",
+  "page_idx": 0,
+  "bbox": [
+   0.08936,
+   0.31509,
+   0.72982,
+   0.33387
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Turning to Task 4, recall that although this choice is very similar to that of Task 3, Task 4's choice\neliminates the prospect of having to subsequently participate in a competition. Thus, only in Task 3\ncould a gender gap in preference for competition have played a role in the choice of compensation\nscheme. As the figure below shows, there is no statistically significant gender gap in the choice of\ncompensation scheme in Task 4 based upon perceived ranking in Task 1. A higher percentage of\nwomen than men who guessed their Task 1 ranking to be low (i.e., at level \"3\") chose the tournament\nscheme in Task 4, while the percentages were reversed for those participants who guessed their Task 1\nrankings to be high (at levels \"1\" and \"2\"). But because the two lines in the figure remain close together,\nthese differences are not statistically significant (i.e., we should treat the groups' respective choices as\nbeing no different from one another).",
+  "page_idx": 0,
+  "bbox": [
+   0.08936,
+   0.33504,
+   0.91038,
+   0.5287
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.32877,
+   0.54786,
+   0.65426,
+   0.7389
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "(Niederle and Vesterlund 2007)",
+  "page_idx": 0,
+  "bbox": [
+   0.3191,
+   0.75548,
+   0.50473,
+   0.76763
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "This result from Task 4 cements the authors' finding that women shy away from actual competition\nslated to occur at a future point in time, not implicit competition based upon their interpretations of\n10\nhow their past performance compares with others.",
+  "page_idx": 0,
+  "bbox": [
+   0.08936,
+   0.78071,
+   0.91131,
+   0.83786
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "10. In a related study of the performances of men and women in professional judo fights for bronze medals (of all things!),\nCohen-Zada et al. (2017) find that men's performances are significantly affected by what the authors' call \"psychological\nmomentum\", while women's is not. Psychological momentum is defined as the tendency of an outcome (such as a win in an\ninitial judo match) to be followed by a similar outcome (a win in a subsequent match) that is not caused by any strategic\nincentives of the players. The authors point out that this result is consistent with evidence in the biological literature that",
+  "page_idx": 0,
+  "bbox": [
+   0.06752,
+   0.86646,
+   0.90097,
+   0.94526
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "BEHAVIORAL ECONOMICS PRACTICUM 111",
+  "page_idx": 0,
+  "bbox": [
+   0.63995,
+   0.95035,
+   0.90789,
+   0.95957
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

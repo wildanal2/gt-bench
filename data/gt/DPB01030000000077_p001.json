@@ -1,0 +1,147 @@
+[
+ {
+  "type": "text",
+  "text": "decline in 2020 in absolute numbers and as a percentage of 2019 deployment\n(Figure 1.9b).9",
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.08316,
+   0.88179,
+   0.11715
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1.9b. Deployment of Overseas Foreign Workers by sex, new hires only\n(in thousands)",
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.13084,
+   0.88179,
+   0.16483
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.17498,
+   0.88179,
+   0.40833
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Philippine Statistics Authority (2022)",
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.41949,
+   0.5263,
+   0.4337
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1.5. Migrant Workers More at Risk of COVID-19 Infection",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14178,
+   0.45564,
+   0.69357,
+   0.47147
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "COVID-19 infection among migrants appears to be higher than among\nnon-migrant groups (Hintermeier et al., 2020). Migrant workers are\ndisproportionately exposed to COVID-19 because of the nature of their\nwork and their living conditions. Many migrant workers performed essential\nservices, including jobs in healthcare, selected manufacturing, transportation,\nlogistics, construction, and maintenance, which continued during periods of\nmovement restrictions (OECD, ADBI and ILO, 2021). Many migrant workers\nalso have less access to personal protective equipment and testing and\ntreatment facilities (OECD, ADBI and ILO, 2021). The lack of access was\nespecially true for undocumented migrants.",
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.4857,
+   0.88179,
+   0.65693
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Additionally, migrant workers employed in plantations far away from urban\ncentres had limited access to information and testing. High rates of infection\nwere also linked to overcrowded housing conditions, including shared facilities\nand sleeping areas, which increase the risk of transmission (ASEAN MP, 2021).\nMany workers in processing or assembly plants worked in conditions where\nphysical distancing was rarely observed.",
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.67059,
+   0.88179,
+   0.77306
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In Malaysia, out of 2,188 positive cases recorded nationwide on 25 November\n2020, 1,511 were foreign workers employed by Top Glove Corporation Bhd.,\none of the world's largest personal protective equipment (PPE) manufacturers\n(The Straits Times, 2020; Ngui, 2020). Many other migrant workers were\nemployed as delivery agents, public transport drivers, or restaurant waiters,\nand are in constant contact with the general public. Infection risk is also higher",
+  "page_idx": 0,
+  "bbox": [
+   0.18879,
+   0.78714,
+   0.88179,
+   0.88902
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "9 Keeping in mind that for 2020 the figures are only up to October of the year.",
+  "page_idx": 0,
+  "bbox": [
+   0.14058,
+   0.90675,
+   0.68142,
+   0.91924
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "ASEAN Migration Outlook",
+  "page_idx": 0,
+  "bbox": [
+   0.14058,
+   0.95174,
+   0.42085,
+   0.96745
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "21",
+  "page_idx": 0,
+  "bbox": [
+   0.92826,
+   0.95204,
+   0.95001,
+   0.96453
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

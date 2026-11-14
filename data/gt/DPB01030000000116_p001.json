@@ -1,0 +1,135 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.12858,
+   0.05033,
+   0.40733,
+   0.06652
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.81028,
+   0.05253,
+   0.88255,
+   0.06687
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "· Transfer pipettes\n· Test tube rack\n· 4 large (20 ml) test tubes or small Erlenmeyer flasks for larger volumes\n· Large plastic tray\n· Masking tape or lab tape\n· Large weigh boat (4/group)\n· Metric ruler\n· Electronic balance\n· Spatula\n· Weigh paper\n· Red food coloring (optional)",
+  "page_idx": 0,
+  "bbox": [
+   0.13956,
+   0.09319,
+   0.73861,
+   0.28413
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11588,
+   0.29864,
+   0.39712,
+   0.58781
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 3. Saccharometer",
+  "page_idx": 0,
+  "bbox": [
+   0.39659,
+   0.57636,
+   0.59054,
+   0.59192
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Table 2. Contents of Saccharometers when testing fermentation with various yeast\nconcentrations.",
+  "page_idx": 0,
+  "bbox": [
+   0.17336,
+   0.64852,
+   0.82474,
+   0.68167
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Saccharometer</td><td>DI Water</td><td>Glucose Solution</td><td>Yeast Suspension</td></tr><tr><td>1</td><td>*8 ml</td><td>*6 ml</td><td>0 ml</td></tr><tr><td>2</td><td>*12 ml</td><td>0 ml</td><td>*2 ml</td></tr><tr><td>3</td><td>*6 ml</td><td>*6 ml</td><td>*2 ml</td></tr><tr><td>4</td><td>*2 ml</td><td>*6 ml</td><td>*6 ml</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11934,
+   0.68596,
+   0.84618,
+   0.78847
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "*Double these amounts if using saccharometers that have a 15-cm vertical tube. See table\nbelow",
+  "page_idx": 0,
+  "bbox": [
+   0.11448,
+   0.80792,
+   0.86507,
+   0.84438
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Saccharometer</td><td>DI Water</td><td>Glucose Solution</td><td>Yeast Suspension</td></tr><tr><td>1</td><td>16 ml</td><td>12 ml</td><td>0 ml</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11934,
+   0.86489,
+   0.63002,
+   0.90245
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "58",
+  "page_idx": 0,
+  "bbox": [
+   0.49639,
+   0.97295,
+   0.51118,
+   0.98612
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

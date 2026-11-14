@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "PT DANAREKSA (PERSERO) DAN ENTITAS ANAKNYA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; nama entitas di atas judul laporan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN KONSOLIDASIAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Untuk Tahun-tahun yang Berakhir Pada Tanggal 31 Desember 2024 dan 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; periode"
+ },
+ {
+  "type": "text",
+  "text": "PT DANAREKSA (PERSERO) AND ITS SUBSIDIARIES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; nama entitas di atas judul laporan"
+ },
+ {
+  "type": "text",
+  "text": "CONSOLIDATED STATEMENTS OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "For the Years Ended December 31, 2024 and 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; periode"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan/ Notes</th><th>31 Des 2024/ Dec 31, 2024</th><th>31 Des 2023/ Dec 31, 2023</th><th></th></tr><tr><td>PENDAPATAN USAHA</td><td>2.ah, 37</td><td></td><td></td><td>OPERATING REVENUE</td></tr><tr><td>Pendapatan penjualan</td><td></td><td>457,831</td><td>515,254</td><td>Sales revenue</td></tr><tr><td>Pendapatan jasa keuangan</td><td></td><td>3,176,183</td><td>2,917,025</td><td>Financial service fee revenue</td></tr><tr><td>Pendapatan jasa konstruksi</td><td></td><td>5,659,188</td><td>5,883,499</td><td>Construction fee revenue</td></tr><tr><td>Pendapatan manufaktur</td><td></td><td>228,458</td><td>196,368</td><td>Manufacturing revenue</td></tr><tr><td>Pendapatan pengembangan dan pengelolaan kawasan</td><td></td><td>2,267,764</td><td>1,766,697</td><td>Land and property development and management revenue</td></tr><tr><td>Pendapatan usaha lainnya</td><td></td><td>766,352</td><td>544,852</td><td>Other operating revenue</td></tr><tr><td>Jumlah Pendapatan Usaha</td><td></td><td>12,555,776</td><td>11,823,695</td><td>Total operating revenue</td></tr><tr><td>BEBAN POKOK PENDAPATAN</td><td>2.ah, 38</td><td></td><td></td><td>COST OF REVENUE</td></tr><tr><td>Beban pokok penjualan</td><td></td><td>(313,390)</td><td>(354,530)</td><td>Cost of sales</td></tr><tr><td>Beban pokok pendapatan jasa keuangan</td><td></td><td>(1,479,183)</td><td>(1,248,224)</td><td>Cost of financial service fee</td></tr><tr><td>Beban pokok pendapatan jasa konstruksi</td><td></td><td>(5,305,148)</td><td>(5,419,252)</td><td>Cost of construction fee</td></tr><tr><td>Beban pokok pendapatan manufaktur</td><td></td><td>(225,394)</td><td>(172,022)</td><td>Cost of manufacturing</td></tr><tr><td>Beban pokok pendapatan pengembangan dan pengelolaan lahan dan properti</td><td></td><td>(745,250)</td><td>(615,479)</td><td>Cost of land and property development and management</td></tr><tr><td>Beban pokok pendapatan lainnya</td><td></td><td>(90,915)</td><td>(76,964)</td><td>Other cost of revenue</td></tr><tr><td>Jumlah Beban Pokok Pendapatan</td><td></td><td>(8,159,280)</td><td>(7,886,471)</td><td>Total cost of revenue</td></tr><tr><td>LABA KOTOR</td><td></td><td>4,396,496</td><td>3,937,224</td><td>GROSS PROFIT</td></tr><tr><td>Beban operasional</td><td>39</td><td>(2,285,027)</td><td>(2,175,666)</td><td>Operating expense</td></tr><tr><td>Beban pemasaran dan penjualan</td><td>40</td><td>(53,835)</td><td>(65,624)</td><td>Marketing and sales expense</td></tr><tr><td>Pendapatan lainnya</td><td>41</td><td>308,247</td><td>220,429</td><td>Other income</td></tr><tr><td>Beban lainnya</td><td>42</td><td>(384,130)</td><td>(212,899)</td><td>Other expenses</td></tr><tr><td>LABA SEBELUM BEBAN PAJAK FINAL DAN PAJAK PENGHASILAN</td><td></td><td>1,981,751</td><td>1,703,464</td><td>PROFIT BEFORE INCOME TAX AND INCOME TAX EXPENSES</td></tr><tr><td>Beban pajak penghasilan final</td><td>29.c</td><td>(352,249)</td><td>(378,324)</td><td>Final income tax expenses</td></tr><tr><td>LABA SEBELUM BEBAN PAJAK PENGHASILAN</td><td></td><td>1,629,502</td><td>1,325,140</td><td>PROFIT BEFORE INCOME TAX EXPENSE</td></tr><tr><td>Beban pajak penghasilan</td><td>29.c</td><td>(65,528)</td><td>(24,990)</td><td>Income tax expense</td></tr><tr><td>LABA SETELAH PAJAK PENGHASILAN</td><td></td><td>1,563,974</td><td>1,300,150</td><td>PROFIT AFTER INCOME TAX</td></tr><tr><td>Penghasilan (beban) komprehensif lain:</td><td></td><td></td><td></td><td>Other comprehensive income (expense)</td></tr><tr><td>Pos yang tidak akan direklasifikasi ke laba rugi:</td><td></td><td></td><td></td><td>Items that will not be reclassified subsequently to profit and loss:</td></tr><tr><td>(Penurunan) kenaikan revaluasi aset tetap</td><td>19</td><td>(252,049)</td><td>332,827</td><td>(Decrease) increase on revaluation of fixed asset</td></tr><tr><td>Bagian penghasilan komprehensif lain dari entitas asosiasi</td><td>15</td><td>813</td><td>(6,477)</td><td>Share of other comprehensive income of associates</td></tr><tr><td>Kerugian pengukuran kembali program imbalan pasti - setelah pajak</td><td>32</td><td>(6,587)</td><td>(10,106)</td><td>Loss from remeasurement of defined benefits plans after tax</td></tr><tr><td>Keuntungan belum direalisasi dari perubahan nilai wajar melalui penghasilan komprehensif lainnya</td><td></td><td>419,488</td><td>2,727,530</td><td>Unrealized gain from changes in fair value through other comprehensive income</td></tr><tr><td>Pos yang akan direklasifikasi ke laba rugi:</td><td></td><td></td><td></td><td>Items that will be reclassified subsequently to profit and loss:</td></tr><tr><td>Keuntungan belum direalisasi dari perubahan nilai wajar melalui penghasilan komprehensif lainnya</td><td></td><td>(5,080)</td><td>(252,541)</td><td>Unrealized gain from changes in fair value through other comprehensive income</td></tr><tr><td>Jumlah penghasilan komprehensif lain</td><td></td><td>156,585</td><td>2,791,233</td><td>Total other comprehensive income</td></tr><tr><td>JUMLAH LABA KOMPREHENSIF TAHUN BERJALAN</td><td></td><td>1,720,559</td><td>4,091,383</td><td>TOTAL COMPREHENSIVE INCOME CURRENT YEAR</td></tr><tr><td>JUMLAH LABA TAHUN BERJALAN YANG DAPAT DIATRIBUSIKAN:</td><td></td><td></td><td></td><td>TOTAL INCOME FOR THE YEAR ATTRIBUTABLE TO:</td></tr><tr><td>Pemilik entitas induk</td><td></td><td>1,092,316</td><td>933,600</td><td>Owner of the Parent Entity</td></tr><tr><td>Kepentingan non-pengendali</td><td></td><td>471,658</td><td>366,550</td><td>Non-Controlling Interests</td></tr><tr><td></td><td></td><td>1,563,974</td><td>1,300,150</td><td></td></tr><tr><td>JUMLAH LABA KOMPREHENSIF TAHUN BERJALAN YANG DAPAT DIATRIBUSIKAN:</td><td></td><td></td><td></td><td>TOTAL COMPREHENSIVE INCOME FOR THE YEAR ATTRIBUTABLE TO:</td></tr><tr><td>Pemilik entitas induk</td><td></td><td>1,380,346</td><td>3,574,757</td><td>Owner of the Parent Entity</td></tr><tr><td>Kepentingan non-pengendali</td><td></td><td>340,213</td><td>516,626</td><td>Non-Controlling Interests</td></tr><tr><td></td><td></td><td>1,720,559</td><td>4,091,383</td><td></td></tr></table>",
+  "table_caption": "(Disajikan dalam jutaan Rupiah, kecuali dinyatakan lain)\n(Expressed in million Rupiah, unless otherwise stated)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual: kolom label ID kiri dan label EN kanan sebagai kolom tersendiri; header kolom label ID/EN kosong; label multi-baris digabung satu spasi; baris seksi diberi sel nilai kosong; baris subtotal tanpa label diberi sel label kosong; format angka sumber pakai koma ribuan, disalin verbatim; lapisan teks memuat 'BEBAN USAHA / OPERATING EXPENSES', 'Approval for Printing', 'paraf:' dan 'fvenru af' yang tidak terlihat/tidak terbaca di halaman, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Catatan terlampir merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian secara keseluruhan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The accompanying notes form an integral part of these consolidated financial statements taken as whole",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

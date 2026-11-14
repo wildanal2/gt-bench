@@ -1,0 +1,385 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Permata Bank; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Permata Bank",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "SURAT PERNYATAAN DIREKSI TENTANG TANGGUNG JAWAB ATAS LAPORAN KEUANGAN PADA TANGGAL 31 DESEMBER 2024 DAN 2023 SERTA UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; judul bertumpuk 6 baris",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "DIRECTORS’ STATEMENT REGARDING THE RESPONSIBILITY FOR THE FINANCIAL STATEMENTS AS AT 31 DECEMBER 2024 AND 2023 AND FOR THE YEARS ENDED 31 DECEMBER 2024 AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; judul bertumpuk 6 baris; miring",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Kami yang bertanda tangan dibawah ini:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "1. Nama : Meliza Musa Rusli Alamat Kantor : Gedung WTC II, Jl. Jend. Sudirman Kav. 29-31 Jakarta 12920 Alamat Domisili/ sesuai KTP atau kartu identitas lain : Jl. Lebak Bulus IV No. 7A RT. 007 RW. 004, Cilandak Barat Cilandak Jakarta Selatan Nomor Telepon : (021) 5237788 Jabatan : Direktur Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; label/nilai multi-baris digabung spasi; blok identitas satu elemen per butir (konvensi ID08_p002)"
+ },
+ {
+  "type": "text",
+  "text": "2. Nama : Rudy Basyir Ahmad Alamat Kantor : Gedung WTC II, Jl. Jend. Sudirman Kav. 29-31 Jakarta 12920 Alamat Domisili/ sesuai KTP atau kartu identitas lain : Komp. Turi Jl. Monitor No. 36 RT. 001 RW. 013, Palmerah, Palmerah Jakarta Barat Nomor Telepon : (021) 5237788 Jabatan : Direktur Keuangan dan Unit Usaha Syariah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; label/nilai multi-baris digabung spasi; blok identitas satu elemen per butir (konvensi ID08_p002)"
+ },
+ {
+  "type": "text",
+  "text": "We, the undersigned:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "1. Name : Meliza Musa Rusli Office Address : Gedung WTC II, Jl. Jend. Sudirman Kav. 29-31 Jakarta 12920 Residential Address/ according to identity card or other identity : Jl. Lebak Bulus IV No. 7A RT. 007 RW. 004, Cilandak Barat Cilandak Jakarta Selatan Telephone Number : (021) 5237788 Title : President Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; label/nilai multi-baris digabung spasi; miring; blok identitas satu elemen per butir (konvensi ID08_p002)"
+ },
+ {
+  "type": "text",
+  "text": "2. Name : Rudy Basyir Ahmad Office Address : Gedung WTC II, Jl. Jend. Sudirman Kav. 29-31 Jakarta 12920 Residential Address/ according to identity card or other identity : Komp. Turi Jl. Monitor No. 36 RT. 001 RW. 013, Palmerah, Palmerah Jakarta Barat Telephone Number : (021) 5237788 Title : Finance and Sharia Business Unit Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; label/nilai multi-baris digabung spasi; miring; blok identitas satu elemen per butir (konvensi ID08_p002)"
+ },
+ {
+  "type": "text",
+  "text": "menyatakan bahwa:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "1. Kami bertanggung jawab atas penyusunan dan penyajian laporan keuangan PT Bank Permata Tbk (“Bank”);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "2. Laporan keuangan Bank telah disusun dan disajikan sesuai dengan Standar Akuntansi Keuangan yang berlaku di Indonesia;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "3. a. Semua informasi dalam laporan keuangan Bank telah dimuat secara lengkap dan benar; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "b. Laporan keuangan Bank tidak mengandung informasi atau fakta material yang tidak benar dan tidak menghilangkan informasi atau fakta material;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "4. Kami bertanggung jawab atas sistem pengendalian internal dalam Bank.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "declare that:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "1. We are responsible for the preparation and presentation of the financial statements of PT Bank Permata Tbk (the “Bank”);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "2. The financial statements of the Bank have been prepared and presented in accordance with Indonesian Financial Accounting Standards;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "3. a. All information in the financial statements of the Bank has been completely and correctly disclosed; and",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "b. The financial statements of the Bank do not contain misleading material information and not omitted any information or facts that would be material;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "4. We are responsible for the internal control system of the Bank.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Demikian pernyataan ini telah dibuat dengan sebenarnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The statement has been made truthfully.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; paraf; di kiri baris tanggal"
+ },
+ {
+  "type": "text",
+  "text": "Jakarta, 14 Februari/February 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; February miring"
+ },
+ {
+  "type": "text",
+  "text": "Atas nama dan mewakili Dewan Direksi/For and on behalf of Board of Directors;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; bagian EN miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan; Meliza Musa Rusli"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; stempel; meterai tempel Rp10.000"
+ },
+ {
+  "type": "text",
+  "text": "SEPULUH RIBU RUPIAH",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; meterai; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "10000",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; meterai; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "METERAI TEMPEL",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; meterai; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "75BEEAMX049454329",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; meterai; dicek: dua karakter awal tertutup tanda tangan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan; Rudy Basyir Ahmad; melintasi meterai"
+ },
+ {
+  "type": "text",
+  "text": "Meliza Musa Rusli",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama penanda tangan; tebal bergaris bawah"
+ },
+ {
+  "type": "text",
+  "text": "Direktur Utama/President Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; President Director miring"
+ },
+ {
+  "type": "text",
+  "text": "Rudy Basyir Ahmad",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama penanda tangan; tebal bergaris bawah"
+ },
+ {
+  "type": "text",
+  "text": "Direktur Keuangan dan Unit Usaha Syariah/ Finance and Sharia Business Unit Director",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; 3 baris digabung; bagian EN miring"
+ },
+ {
+  "type": "text",
+  "text": "PT Bank Permata Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "WTC II",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jl. Jend. Sudirman Kav 29 - 31",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jakarta 12920",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Telp +62 21 523 7788",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "www.permatabank.com",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

@@ -1,0 +1,160 @@
+[
+ {
+  "type": "text",
+  "text": "2. General Profile of MSMEs",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.26769,
+   0.08638,
+   0.84002,
+   0.11409
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "In July 2020, the survey established a general profile\nof the MSMEs interviewed. The respondents updated\nthe interviewers on the status of their business in each\nsubsequent phase. Respondents whose business\nhad permanently closed were only asked the reasons\nfor closing (Section 2.4) and about government\nassistance programs (Section 7). The demographics\nof respondents and business characteristics (i.e., the\nproportions) remained roughly the same across all\nthree survey phases.",
+  "page_idx": 0,
+  "bbox": [
+   0.06593,
+   0.14634,
+   0.44904,
+   0.2883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Business characteristics. Business size was\ndetermined by the number of staff at the time of\ninterview. Following Government Decree number 25/\nGOV, firms with five or less staff are microenterprises,\nthose with six - 50 staff are small, and those with 51\n- 99 staff are medium.",
+  "page_idx": 0,
+  "bbox": [
+   0.46016,
+   0.14634,
+   0.84327,
+   0.23116
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Micro and small enterprises made up most of\nthe respondents. Approximately 58% were\nmicroenterprises, 40% were small, and only two",
+  "page_idx": 0,
+  "bbox": [
+   0.46016,
+   0.24645,
+   0.84327,
+   0.28929
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 2.1: Surveyed MSMEs by size across sectors (%)",
+  "page_idx": 0,
+  "bbox": [
+   0.06711,
+   0.30283,
+   0.48078,
+   0.31635
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.19769,
+   0.32786,
+   0.71044,
+   0.55815
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "percent were medium. The tourism MSME sample\nincluded a higher percentage of microenterprises than\nthe othertwo sectors. All of the tourism and handicraft/\ntextile MSMEs interviewed were registered, orformal,\nconstituting approximately 71 % of the sample. The\nremainder (agriculture MSMEs) were informal, as they\nwere individual farmers.",
+  "page_idx": 0,
+  "bbox": [
+   0.06593,
+   0.57409,
+   0.44904,
+   0.67134
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The geographic focus of sampling sought to emulate\nthe concentration of businesses nationwide.\nInterviewed MSMEs in the tourism and handicraft/\ntextile sectors were mainly based in Vientiane Capital,\nLuang Prabang, and Champasack provinces. For the\nagriculture sector, MSMEs were based in 12 provinces\nand the capital. Annex 1 provides the locations of\nrespondents who participated in all three phases.",
+  "page_idx": 0,
+  "bbox": [
+   0.06593,
+   0.68772,
+   0.44904,
+   0.8011
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The tourism sub-sectors interviewed included\nlodging, restaurants and bars, and tour operators.\nMost handicraft/textile respondents were involved\nin production, with the remaining in sales. The",
+  "page_idx": 0,
+  "bbox": [
+   0.06593,
+   0.81605,
+   0.44904,
+   0.8724
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "main products are silk and cotton products such as\nbags, clothes, and scarves, bamboo wicker, pottery,\ncarvings, and mulberry paper products. MSMEs\ninterviewed in the agriculture sector focused on the\ncultivation and trade of cash crops such as vegetables,\ncassava, banana, sugar cane, tea and coffee, livestock\nor fish, and rice.",
+  "page_idx": 0,
+  "bbox": [
+   0.46016,
+   0.57409,
+   0.84327,
+   0.67134
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Demographics of respondents. The overall gender\nratio of interviewees was slightly skewed towards\nmen (52%). Within the handicraft/textile sector,\n80% were women, while the agriculture sector\nwas dominated by male representatives (74%). The\ntourism sector respondents were 51% men. Most\nof the interviewees were MSME owners (80%),\nfollowed by managers (17%), while the other three\npercent comprised positions such as accountant,\nassistant, and deputy manager. More than half (58%)\nof interviewees were 36 to 55 years old; the youngest\nrespondent was 23 and the eldest was 83.",
+  "page_idx": 0,
+  "bbox": [
+   0.46016,
+   0.68772,
+   0.84327,
+   0.85821
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": [
+   0.92713,
+   0.93982,
+   0.93436,
+   0.94816
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

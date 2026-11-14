@@ -1,0 +1,42 @@
+[
+ {
+  "type": "text",
+  "text": "III.\nRegulatory\ncholesterol",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.16474,
+   0.1151,
+   0.45358,
+   0.25399
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "T his report defines\n'regulatory cholesterol'\nas the policy actions of\nthe three arms of the State, i.e. the\nexecutive, the legislature, and the\njudiciary, using the instruments of\nlegislations, rules, regulations or\norders, to create or raise barriers to\na smooth flow of ideas, organisation,\nmoney and most importantly, the flow\nof the entrepreneurial spirit. In India,\na wrong political choice in the early\ndecades of Independence has created a\npolicy fraternity that shuns data and\ncausalities and leans on rhetoric and\nideologies to frame economic policies.\nInflation in the 1970s, for instance, was\nnot caused by hoarders and speculators;\nit was a matter of supply and demand.\n\"Excoriating, coercing, or imprisoning\nthe hoarders and speculators changes\nnothing in terms of creating new\nsupply,\" write Vijay Kelkar and Ajay\nShah.28 \"The economic theory of people\nhostile to economic forces is wrong.\"",
+  "page_idx": 0,
+  "bbox": [
+   0.51135,
+   0.11584,
+   0.83651,
+   0.60827
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "By taking one policy tool -\nimprisonment - this report highlights\nthe excesses of overregulation and\nthe resultant regulatory cholesterol\nwhile doing business in India.\nAlthough the biggest constituency\nat the receiving end of these laws\nis that of entrepreneurs running for-\nprofit firms and corporations, this\nregulatory overreach also impacts\nnot-for-profits such as schools and\nhospitals-both necessary institutions\nfor India with a huge demand. Step",
+  "page_idx": 0,
+  "bbox": [
+   0.51135,
+   0.62814,
+   0.83651,
+   0.87278
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

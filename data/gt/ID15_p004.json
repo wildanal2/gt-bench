@@ -1,0 +1,74 @@
+[
+ {
+  "type": "text",
+  "text": "2. Jabatan Fungsional Pemeriksa adalah jabatan yang mempunyai ruang lingkup, tugas, tanggung jawab, dan wewenang untuk memeriksa pengelolaan dan tanggung jawab keuangan negara yang diduduki oleh Pegawai Negeri Sipil (PNS) di lingkungan BPK.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; daftar definisi Pasal 1 dimulai di halaman sebelumnya (butir baru)"
+ },
+ {
+  "type": "text",
+  "text": "3. Pemeriksa adalah PNS yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh oleh pejabat yang berwenang untuk melakukan kegiatan pemeriksaan pengelolaan dan tanggung jawab keuangan negara untuk dan atas nama BPK sesuai dengan peraturan perundang-undangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'berwenang' glif r cacat di pindaian"
+ },
+ {
+  "type": "text",
+  "text": "4. Pengendali Mutu adalah peran yang dimiliki oleh Pemeriksa dengan tanggung jawab terhadap mutu hasil pemeriksaan dan disandang oleh Pemeriksa Madya atau Pemeriksa Utama.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "5. Pengendali Teknis adalah peran yang dimiliki oleh Pemeriksa dengan tanggung jawab terhadap teknis pelaksanaan pemeriksaan dan disandang oleh Pemeriksa Muda atau Pemeriksa Madya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lapisan OCR 'Tekr~is' dikoreksi dari gambar"
+ },
+ {
+  "type": "text",
+  "text": "6. Ketua Tim Senior adalah peran yang dimiliki oleh Pemeriksa dengan tanggung jawab memimpin pelaksanaan tugas pemeriksaan dengan kompleksitas tinggi serta disandang oleh Pemeriksa Muda atau Pemeriksa Madya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "7. Ketua Tim Yunior adalah peran yang dimiliki oleh Pemeriksa dengan tanggung jawab memimpin pelaksanaan tugas pemeriksaan dengan kompleksitas rendah dan disandang oleh Pemeriksa Pertama atau Pemeriksa Muda.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "8. Anggota Tim Senior adalah peran yang dimiliki oleh Pemeriksa dengan tanggung jawab melaksanakan pemeriksaan dengan kompleksitas tinggi dan disandang oleh Pemeriksa Pertama atau Pemeriksa Muda.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "9. Anggota Tim Yunior adalah peran yang dimiliki oleh Pemeriksa dengan tanggung jawab melaksanakan pemeriksaan dengan kompleksitas rendah dan disandang oleh Pemeriksa Pertama.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "10. Pemeriksaan adalah proses identifikasi masalah, analisis, dan evaluasi yang dilakukan secara independen, objektif, dan profesional berdasarkan standar pemeriksaan, untuk menilai kebenaran, kecerrnatan, kredibilitas, dan keandalan informasi mengenai pengelolaan dan tanggung jawab keuangan negara.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: 'kecerrnatan' tercetak begitu di halaman (glif hasil OCR yang dirender), alternatif bacaan sumber asli: kecermatan; tidak ada nomor halaman tercetak"
+ }
+]

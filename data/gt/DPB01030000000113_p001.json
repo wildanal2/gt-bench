@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.07503,
+   0.02765,
+   0.35595,
+   0.04607
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.87248,
+   0.03058,
+   0.94727,
+   0.04607
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Table of Contents",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.05336,
+   0.09516,
+   0.24673,
+   0.10991
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Measurement Lab worksheet...................................................................................... 3\nScientific Method Lab.................................................................................................. 6\nChemistry of the Cell ~ But this is biology!........................................... 9\nBiological Macromolecules and Their Indicators............................. 10\nWorksheet for Chemistry of the Cell ....................................................... 12\nHow molecules move in a liquid............................................................................. 12\nHow molecules move in a solid.............................................................................. 12\nIntroduction to Light Microscopes:........................................................................... 16\nCellularBiology.........................................................................................................32\nA cell is the smallest unit of life known to our planet................... 33\nCellular Microscopy ......................................................................................... 34\nViewing prepared slides under a microscope. ................................ 34\nViewing live cells under a microscope. .............................................. 34\nCellular Biology Worksheet ....................................................................................... 35\nOsmosis and Diffusion ............................................................................................... 39\nEnzymatic Activity Lab.............................................................................................. 45\nCellular Respiration Lab............................................................................................ 49\nPhotosynthesis Lab ................................................................................................... 61\nObserving Stomata, Guard Cells and Chloroplasts............................................. 65\nCellular Replication ................................................................................................... 66\nGrowth and the Creation of Life......................................................................... 66\nVisualizing the Cell Cycle, Mitosis, and Meiosis............................................. 67\nWhen it all goes wrong........................................................................................ 68\nCellular Replication Worksheet ......................................................................... 69\nMammalian Gametogenesis ..............................................................................\n72\nGenetic Crosses......................................................................................................... 75\nMENDELIAN GENETICS, PROBABILITY, PEDIGREES AND CHI-SQUARE STATISTICS . 80\nChi-Square Data Table................................................................................................... 92",
+  "page_idx": 0,
+  "bbox": [
+   0.04921,
+   0.1367,
+   0.95122,
+   0.95539
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ },
+ {
+  "type": "text",
+  "text": "1",
+  "page_idx": 0,
+  "bbox": [
+   0.49538,
+   0.96849,
+   0.50347,
+   0.9802
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

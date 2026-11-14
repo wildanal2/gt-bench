@@ -1,0 +1,69 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "CCB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "中国建设银行",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "印度尼西亚",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "China Construction Bank Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN POSISI KEUANGAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Periode 31 Desember 2024 dan 31 Desember 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">Pos-Pos</th><th colspan=\"2\">Individual</th><th colspan=\"2\">Konsolidasian</th></tr><tr><th>Des 2024</th><th>Des 2023</th><th>Des 2024</th><th>Des 2023</th></tr><tr><td>ASET</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Kas</td><td>169,338</td><td>212,839</td><td>-</td><td>-</td></tr><tr><td>2. Penempatan pada Bank Indonesia</td><td>1,587,169</td><td>1,552,681</td><td>-</td><td>-</td></tr><tr><td>3. Penempatan pada bank lain</td><td>407,051</td><td>184,142</td><td>-</td><td>-</td></tr><tr><td>4. Tagihan spot dan derivatif / forward</td><td>3,076</td><td>12,832</td><td>-</td><td>-</td></tr><tr><td>5. Surat berharga yang dimiliki</td><td>5,247,450</td><td>4,412,259</td><td>-</td><td>-</td></tr><tr><td>6. Surat berharga yang dijual dengan janji dibeli kembali (repo)</td><td>1,565,533</td><td>94,360</td><td>-</td><td>-</td></tr><tr><td>7. Tagihan atas surat berharga yang dibeli dengan janji dijual kembali (reverse repo)</td><td>-</td><td>1,055,336</td><td>-</td><td>-</td></tr><tr><td>8. Tagihan akseptasi</td><td>12,262</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9. Kredit yang diberikan</td><td>23,463,801</td><td>19,359,978</td><td>-</td><td>-</td></tr><tr><td>10. Pembiayaan syariah *)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11. Penyertaan modal</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12. Aset keuangan lainnya</td><td>161,467</td><td>112,357</td><td>-</td><td>-</td></tr><tr><td>13. Cadangan kerugian penurunan nilai aset keuangan -/-</td><td>(451,198)</td><td>(513,840)</td><td>-</td><td>-</td></tr><tr><td>a. Surat berharga yang dimiliki</td><td>(104)</td><td>(152)</td><td>-</td><td>-</td></tr><tr><td>b. Kredit yang diberikan dan pembiayaan syariah *)</td><td>(450,922)</td><td>(513,561)</td><td>-</td><td>-</td></tr><tr><td>c. Lainnya</td><td>(172)</td><td>(127)</td><td>-</td><td>-</td></tr><tr><td>14. Aset tidak berwujud</td><td>259,797</td><td>255,279</td><td>-</td><td>-</td></tr><tr><td>Akumulasi amortisasi aset tidak berwujud -/-</td><td>(50,340)</td><td>(42,055)</td><td>-</td><td>-</td></tr><tr><td>15. Aset tetap dan inventaris</td><td>1,179,170</td><td>1,196,648</td><td>-</td><td>-</td></tr><tr><td>Akumulasi penyusutan aset tetap dan inventaris -/-</td><td>(403,616)</td><td>(398,071)</td><td>-</td><td>-</td></tr><tr><td>16. Aset non produktif</td><td>207,885</td><td>215,914</td><td>-</td><td>-</td></tr><tr><td>a. Properti terbengkalai</td><td>127,801</td><td>107,608</td><td>-</td><td>-</td></tr><tr><td>b. Agunan yang diambil alih</td><td>80,084</td><td>108,306</td><td>-</td><td>-</td></tr><tr><td>c. Rekening tunda</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>d. Aset antarkantor **)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>17. Aset Lainnya</td><td>186,616</td><td>141,287</td><td>-</td><td>-</td></tr><tr><td>TOTAL ASET</td><td>33,545,461</td><td>27,851,946</td><td>-</td><td>-</td></tr><tr><td>LIABILITAS DAN EKUITAS</td><td></td><td></td><td></td><td></td></tr><tr><td>LIABILITAS</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Giro</td><td>4,009,871</td><td>3,126,957</td><td>-</td><td>-</td></tr><tr><td>2. Tabungan</td><td>1,164,249</td><td>1,087,415</td><td>-</td><td>-</td></tr><tr><td>3. Deposito</td><td>18,183,353</td><td>15,772,440</td><td>-</td><td>-</td></tr><tr><td>4. Uang Elektronik</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5. Liabilitas kepada Bank Indonesia</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6. Liabilitas kepada bank lain</td><td>844,673</td><td>324,650</td><td>-</td><td>-</td></tr><tr><td>7. Liabilitas spot dan derivatif / forward</td><td>20,350</td><td>2,023</td><td>-</td><td>-</td></tr><tr><td>8. Liabilitas atas surat berharga yang dijual dengan janji dibeli kembali (repo)</td><td>1,545,444</td><td>94,085</td><td>-</td><td>-</td></tr><tr><td>9. Liabilitas akseptasi</td><td>12,262</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10. Surat berharga yang diterbitkan</td><td>-</td><td>461,910</td><td>-</td><td>-</td></tr><tr><td>11. Pinjaman / pembiayaan yang diterima</td><td>482,850</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12. Setoran jaminan</td><td>10,330</td><td>9,382</td><td>-</td><td>-</td></tr><tr><td>13. Liabilitas antarkantor **)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14. Liabilitas lainnya</td><td>430,283</td><td>432,527</td><td>-</td><td>-</td></tr><tr><td>15. Kepentingan minoritas (minority interest)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>TOTAL LIABILITAS</td><td>26,703,665</td><td>21,311,389</td><td>-</td><td>-</td></tr><tr><td>EKUITAS</td><td></td><td></td><td></td><td></td></tr><tr><td>16. Modal disetor</td><td>3,791,973</td><td>3,791,973</td><td>-</td><td>-</td></tr><tr><td>a. Modal dasar</td><td>6,000,000</td><td>6,000,000</td><td>-</td><td>-</td></tr><tr><td>b. Modal yang belum disetor -/-</td><td>(2,208,027)</td><td>(2,208,027)</td><td>-</td><td>-</td></tr><tr><td>c. Saham yang dibeli kembali (treasury stock) -/-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>17. Tambahan modal disetor</td><td>1,267,378</td><td>1,267,378</td><td>-</td><td>-</td></tr><tr><td>a. Agio</td><td>1,267,378</td><td>1,267,378</td><td>-</td><td>-</td></tr><tr><td>b. Disagio -/-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>c. Dana setoran modal</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>d. Lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>18. Penghasilan komprehensif lain</td><td>361,356</td><td>355,519</td><td>-</td><td>-</td></tr><tr><td>a. Keuntungan</td><td>361,356</td><td>355,519</td><td>-</td><td>-</td></tr><tr><td>b. Kerugian</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>19. Cadangan</td><td>5,500</td><td>5,000</td><td>-</td><td>-</td></tr><tr><td>a. Cadangan umum</td><td>5,500</td><td>5,000</td><td>-</td><td>-</td></tr><tr><td>b. Cadangan tujuan</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>20. Laba/rugi</td><td>1,415,589</td><td>1,120,687</td><td>-</td><td>-</td></tr><tr><td>a. Tahun-tahun lalu</td><td>1,120,187</td><td>879,396</td><td>-</td><td>-</td></tr><tr><td>b. Tahun berjalan ***)</td><td>295,402</td><td>241,291</td><td>-</td><td>-</td></tr><tr><td>c. Dividen yang dibayarkan -/-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>TOTAL EKUITAS YANG DAPAT DIATRIBUSIKAN KEPADA PEMILIK</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>TOTAL EKUITAS</td><td>6,841,796</td><td>6,540,557</td><td>-</td><td>-</td></tr><tr><td>TOTAL LIABILITAS DAN EKUITAS</td><td>33,545,461</td><td>27,851,946</td><td>-</td><td>-</td></tr></table>",
+  "table_caption": "(Jutaan)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header Pos-Pos digabung rowspan=2 (garis pemisah tipis di sumber); baris seksi (ASET, LIABILITAS DAN EKUITAS, LIABILITAS, EKUITAS) diberi sel nilai kosong; format angka sumber pakai koma ribuan, disalin verbatim"
+ }
+]

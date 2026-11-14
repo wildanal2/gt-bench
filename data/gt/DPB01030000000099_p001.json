@@ -1,0 +1,95 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.22884,
+   0.08478,
+   0.77147,
+   0.50544
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "(Pope and Schweitzer 2011)",
+  "page_idx": 0,
+  "bbox": [
+   0.20974,
+   0.51764,
+   0.37798,
+   0.53159
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "To reiterate, this study's main econometric results reveal a negative effect on sinking a putt when\nthe typical golfer is putting for birdie, and a positive effect on putting for bogey. Consistent with the\nprevious graphs, these numerical results suggest that the typical professional golfer is more likely to\nsink a put for bogey and less likely to sink the putt for birdie (i.e., the typical golfer is indeed loss\naverse).10",
+  "page_idx": 0,
+  "bbox": [
+   0.08983,
+   0.54508,
+   0.90882,
+   0.63883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "ARE CIGARETTE SMOKERS HYPERBOLIC TIME DISCOUNTERS?",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08983,
+   0.65903,
+   0.68805,
+   0.67298
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Recall from Chapter 4 the distinction between time-consistent exponential time discounters (Homo\neconomicus) and potentially time-inconsistent hyperbolic discounters (Homo sapiens). The discounting\ntime paths for exponential versus hyperbolic discounting looked like this:",
+  "page_idx": 0,
+  "bbox": [
+   0.08983,
+   0.68925,
+   0.90882,
+   0.74641
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "10. A negative effect associated with putting for double bogey suggests that the typical golfer suppresses his inclination for loss\naversion when putting for a score worse than bogey.",
+  "page_idx": 0,
+  "bbox": [
+   0.06978,
+   0.91446,
+   0.90539,
+   0.94529
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "BEHAVIORAL ECONOMICS PRACTICUM 193",
+  "page_idx": 0,
+  "bbox": [
+   0.63996,
+   0.95058,
+   0.9074,
+   0.95982
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

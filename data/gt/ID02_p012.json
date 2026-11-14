@@ -1,0 +1,140 @@
+[
+ {
+  "type": "text",
+  "text": "3 Isi Tahun Pajak dan Status SPT yang akan dibuat. Klik kirim permintaan, maka dokumen e-Form akan ter-download secara otomatis dan token masuk ke email.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; langkah bernomor; nomor dari ikon pin di kiri, teks di atas; slide tanpa judul; 'ter-download' tercetak dengan tanda hubung, bukan pemenggalan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; screenshot Data Formulir; nama pengguna disensor kotak hitam"
+ },
+ {
+  "type": "text",
+  "text": "Beranda",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; menu"
+ },
+ {
+  "type": "text",
+  "text": "Buat SPT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; menu"
+ },
+ {
+  "type": "text",
+  "text": "Download",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; menu"
+ },
+ {
+  "type": "text",
+  "text": "Data Formulir",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Tahun Pajak :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; isian dropdown kosong"
+ },
+ {
+  "type": "text",
+  "text": "Status SPT :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Normal",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi terpilih"
+ },
+ {
+  "type": "text",
+  "text": "Pembetulan Ke-",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi"
+ },
+ {
+  "type": "text",
+  "text": "Pembetulan Ke :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; nilai isian"
+ },
+ {
+  "type": "text",
+  "text": "Hanya kirim token",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; kotak centang"
+ },
+ {
+  "type": "text",
+  "text": "Kirim Permintaan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; tombol"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

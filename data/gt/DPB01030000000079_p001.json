@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "Executive\nSummary",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.16022,
+   0.11119,
+   0.43193,
+   0.20628
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "I ndia suffers from 'regulatory\ncholesterol' that is getting in\nthe way of doing business. The\nlegislations, rules and regulations\nenacted by the Union and State\ngovernments have over time created\nbarriers to the smooth flow of ideas,\norganisation, money, entrepreneurship\nand through them the creation of jobs,\nwealth and GDP.",
+  "page_idx": 0,
+  "bbox": [
+   0.50402,
+   0.11217,
+   0.83812,
+   0.32196
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The presence of hostile clauses in these\nlaws, rules and regulations has grown\nsince Independence, surviving three\ndecades of economic reforms initiated in\n1991. The biggest challenges come from\nthe continuance of impriscoment as a tool\nof control. As automation increases in\nthe coming years, the pre-Independence\n1940s-style administrative controls\nmeant to protect labour will prove\ncounter-productive in 21st-century India.",
+  "page_idx": 0,
+  "bbox": [
+   0.50957,
+   0.3396,
+   0.83673,
+   0.54939
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "There are 1,536 laws that govern\ndoing business in India, of which 678\nare implemented at the Union level.\nWithin these laws is a web of 69,233\ncompliances, of which 25,537 are at the\nUnion level. These compliances need to\nbe communicated to the governments\nthrough 6,618 annual filings, 2,282\n(34.5 percent) at the Union level and at\nthe states, 4,336.",
+  "page_idx": 0,
+  "bbox": [
+   0.50957,
+   0.56998,
+   0.83812,
+   0.76114
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "These changes in compliance\nrequirements occur constantly and\nadd to business uncertainty. In the 12\nmonths up to 31 December 2021, there\nhave been 3,577 regulatory changes;",
+  "page_idx": 0,
+  "bbox": [
+   0.50957,
+   0.78014,
+   0.83969,
+   0.87483
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

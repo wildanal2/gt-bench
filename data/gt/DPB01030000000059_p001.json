@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "Figure 4.6. Input Biomass Fuel for Each Type of Biomass Power Generation",
+  "page_idx": 0,
+  "bbox": [
+   0.19001,
+   0.10351,
+   0.76123,
+   0.11735
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.21688,
+   0.13316,
+   0.7396,
+   0.35244
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "PKS = palm kernel shell.\nHeat value used: Domestic logs and wood chips: 19.4 MJ/kg; Domestic wood pellets, Import pellets, chips:\n15.5 MJ/kg; PKS: 18 MJ/kg; Construction wood waste, Other waste, and Others: assuming the same with wood\npellets.\nSource: Depicted by IEEJ based on Japan Woody Bioenergy Association, 2020.",
+  "page_idx": 0,
+  "bbox": [
+   0.14134,
+   0.37114,
+   0.81072,
+   0.43563
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "According to Japan's trade statistics, its import of wood pellets has increased around 16\ntimes from 2014 to 2019. Viet Nam and Canada are the largest suppliers of Japan's wood\npellet imports (Figure 4.7). On the other hand, domestic wood pellet production stayed\nalmost the same over the same period (Figure 4.8).",
+  "page_idx": 0,
+  "bbox": [
+   0.14134,
+   0.46278,
+   0.81072,
+   0.53132
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 4.7. Wood Pellets Import",
+  "page_idx": 0,
+  "bbox": [
+   0.35315,
+   0.56358,
+   0.59917,
+   0.57741
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.22695,
+   0.59172,
+   0.72663,
+   0.81099
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Trade Statistics of Japan.",
+  "page_idx": 0,
+  "bbox": [
+   0.14134,
+   0.83029,
+   0.36353,
+   0.84287
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "39",
+  "page_idx": 0,
+  "bbox": [
+   0.46729,
+   0.94504,
+   0.48553,
+   0.95507
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

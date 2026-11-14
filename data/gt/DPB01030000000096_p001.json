@@ -1,0 +1,94 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.15351,
+   0.07553,
+   0.66508,
+   0.32106
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "8. Suppose Evelyn the Environmental Economist is presenting her case in a public meeting for\nwhy raising the price of municipal water in the face of persistent drought conditions would be\na good thing for the community, when someone in the audience yells out, \"That's unfair for\nseniors and others living on fixed incomes.\" How might Evelyn frame her response in a way\nthat dispels the audience's concerns about the fairness of a price increase?",
+  "page_idx": 0,
+  "bbox": [
+   0.11697,
+   0.35236,
+   0.90656,
+   0.44996
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "9. How would the indifference curve in Figure 6.1 change when drawn for a person who suffers\nfrom guilt but not envy? Draw the curve.",
+  "page_idx": 0,
+  "bbox": [
+   0.11697,
+   0.47267,
+   0.90021,
+   0.5095
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "10. Can you recall an example from your own life where you exhibited an Endowment Effect that\nultimately led to regret?",
+  "page_idx": 0,
+  "bbox": [
+   0.10982,
+   0.53344,
+   0.90497,
+   0.57027
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "11. The Gender Gap experiment discussed in this chapter measured gender differences in terms\nof how males and females deal with competitive situations. Think of another situation where\na gender gap may exist and design an experiment to test for it.",
+  "page_idx": 0,
+  "bbox": [
+   0.10982,
+   0.59421,
+   0.89703,
+   0.65252
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "12. It was shown in this chapter that a Homo economicus who exhibits convex-shaped indifference\ncurves exhibits an Endowment Effect. Does this result still hold if Homo economicus exhibits\nlinearly shaped indifference curves, as depicted in the figure below? Show your result using\nthis graph.",
+  "page_idx": 0,
+  "bbox": [
+   0.10982,
+   0.67401,
+   0.89703,
+   0.75319
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "BEHAVIORAL ECONOMICS PRACTICUM 117",
+  "page_idx": 0,
+  "bbox": [
+   0.63982,
+   0.9501,
+   0.90822,
+   0.95984
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

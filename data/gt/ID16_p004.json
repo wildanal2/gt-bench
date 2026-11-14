@@ -1,0 +1,166 @@
+[
+ {
+  "type": "text",
+  "text": "-4-",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "5. Sertifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam transaksi elektronik yang dikeluarkan oleh Penyelenggara Sertifikasi Elektronik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar Pasal 1; butir 1-4 di halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "6. Penyelenggara Sertifikasi Elektronik adalah badan hukum yang berfungsi sebagai pihak yang layak dipercaya, yang memberikan dan mengaudit Sertifikat Elektronik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "7. Naskah Dinas adalah informasi tertulis sebagai alat komunikasi yang dibuat oleh pejabat yang berwenang di lingkungan BPK untuk penyelenggaraan tugas dan fungsi BPK.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 5,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Ruang lingkup Peraturan Badan ini meliputi:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat pengantar daftar"
+ },
+ {
+  "type": "text",
+  "text": "a. penerbitan Sertifikat Elektronik;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "b. penerapan Tanda Tangan Elektronik; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "c. pemantauan dan evaluasi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "BAB II PENERBITAN SERTIFIKAT ELEKTRONIK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; BAB + judul, 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 5,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Penerbitan Sertifikat Elektronik dapat dilakukan oleh:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat pengantar daftar"
+ },
+ {
+  "type": "text",
+  "text": "a. BPK; atau",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "b. Penyelenggara Sertifikasi Elektronik lain.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 5,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Penerbitan Sertifikat Elektronik meliputi tahapan sebagai berikut:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kalimat pengantar daftar"
+ },
+ {
+  "type": "text",
+  "text": "a. permohonan Sertifikat Elektronik;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "b. validasi permohonan Sertifikat Elektronik;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "c. aktivasi Sertifikat Elektronik; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "d. pemberian Sertifikat Elektronik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ }
+]

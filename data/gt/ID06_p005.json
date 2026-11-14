@@ -1,0 +1,285 @@
+[
+ {
+  "type": "text",
+  "text": "B. PDB Menurut Pengeluaran",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "1. Pertumbuhan Ekonomi Tahun 2025 Terhadap 2024 (C-to-C)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; C-to-C miring",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia tahun 2025 tumbuh sebesar 5,11 persen (c-to-c). Pertumbuhan terjadi pada seluruh komponen pengeluaran. Pertumbuhan tertinggi dicapai oleh Komponen Ekspor Barang dan Jasa sebesar 7,03 persen; diikuti Komponen Pengeluaran Konsumsi LNPRT (PK-LNPRT) sebesar 5,13 persen; Komponen Pembentukan Modal Tetap Bruto (PMTB) sebesar 5,09 persen; Komponen Pengeluaran Konsumsi Rumah Tangga (PK-RT) sebesar 4,98 persen; dan Komponen Pengeluaran Konsumsi Pemerintah (PK-P) sebesar 2,50 persen. Komponen Impor Barang dan Jasa (yang merupakan faktor pengurang dalam PDB menurut Pengeluaran) tumbuh sebesar 4,77 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; c-to-c miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 4 Pertumbuhan PDB Beberapa Komponen Pengeluaran (C-to-C) (persen), 2023–2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (3 seri per kategori); dibaca per kategori kiri ke kanan, nilai per seri, lalu legenda"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi Rumah Tangga",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,83",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "4,94",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi LNPRT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "10,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "12,48",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "5,13",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi Pemerintah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "3,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "6,76",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "2,50",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Pembentukan Modal Tetap Bruto",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "3,76",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "4,61",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "5,09",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Ekspor Barang & Jasa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "1,73",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "6,85",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "7,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Impor Barang & Jasa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "-1,24",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "8,15",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,77",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Struktur PDB Indonesia menurut pengeluaran atas dasar harga berlaku pada tahun 2025 tidak menunjukkan perubahan yang signifikan. Perekonomian Indonesia masih didominasi oleh Komponen PK-RT yang mencakup lebih dari separuh PDB Indonesia yaitu sebesar 53,88 persen; diikuti oleh Komponen PMTB sebesar 28,77 persen; Komponen Ekspor Barang dan Jasa sebesar 22,85 persen; Komponen PK-P sebesar 7,53 persen; Komponen Perubahan Inventori sebesar 1,85 persen; dan Komponen PK-LNPRT sebesar 1,35 persen. Sementara itu, Komponen Impor Barang dan Jasa sebagai faktor pengurang dalam PDB Pengeluaran memiliki peran sebesar 20,54 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

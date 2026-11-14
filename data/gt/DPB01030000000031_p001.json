@@ -1,0 +1,173 @@
+[
+ {
+  "type": "text",
+  "text": "Probability, Combinatorics and Control",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.02689,
+   0.43542,
+   0.04106
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "\\lim\\frac{P_{LL}}{P_{LH}+P_{HL}}\\quad\\text{and}\\quad\\lim\\frac{P_{LL}+P_{HH}}{P_{LH}+P_{HL}}",
+  "page_idx": 0,
+  "bbox": [
+   0.33988,
+   0.07414,
+   0.66016,
+   0.10658
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(13)",
+  "page_idx": 0,
+  "bbox": [
+   0.79573,
+   0.08264,
+   0.82894,
+   0.0965
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "equal zero when certain parameters tend to infinity in some well-defined way.\nHowever, it is worthwhile at this stage to note their implications for cosmology.",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.12153,
+   0.83629,
+   0.15391
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The strong broken symmetry in Definition 5 actually means that a monotonic\nbehavior of the entropy is far more probable than a non-monotonic one. In the case\nof a weak broken symmetry, this is not necessarily so; it could very well be that the\nmost probable scenario would be high entropy at both ends. Thus, this is definitely a\nweaker statement, but it can nevertheless be argued that it can be used to explain\nthe time asymmetry that we observe, referring to a kind of anthropic principle: it is\nan obvious observational fact that we live in a universe with low entropy at at least\none end. If the statement in Definition 4 is fulfilled, then clearly among such\nscenarios, the monotonic ones (LH and HL) are the by far most probable ones.\nThus, since universes with high entropy at both ends would seem to be quite\nuninhabitable, one can argue that given the existence of an observer, then with\nalmost certainty he must live in a universe with monotonic entropy.",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.15436,
+   0.85188,
+   0.34823
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Summing up, both limits above can be used to argue in favor of time asymmetry.\nNevertheless, at least to the mind of the author, the strong broken symmetry is the\npreferable one. This alternative will be further studied in Section 9.",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.34823,
+   0.85058,
+   0.39771
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "8. Numerical computations in the combinatorial multiverse",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.42911,
+   0.73104,
+   0.44682
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "With the setup in Sections 6 and 7, we can now use Mathematica or MATLAB to\ngenerate instances of the combinatorial multiverse for small values of m and W and\nthen compute the corresponding probability weights PLL, PLH, PHL and PHH. It is\nimportant to note that the matrices here can be treated as sparse, rather than as full\nmatrices, which make the computations considerably faster.",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.46222,
+   0.85058,
+   0.54284
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In particular, in the case m = 2 in Section 6 and with a randomly generated\ndynamics which is manifested by an adjacency matrix A, we can compute the\npower A4 and read of the first row, which contains all the information we need\nabout the paths from the state at t = -2 with S = 0. So what do we find?",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.54358,
+   0.81681,
+   0.60858
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In Figure 3, I have plotted the ratio NLL/(NLH + NHL) for the cases m = 2 (light\ngray) and m = 3 (dark gray) for values of W ranging from 3 to 30. What is actually\ndisplayed are the mean values of 1000 randomly generated matrices as above for\neach value of W. Although the picture clearly supports the claim that",
+  "page_idx": 0,
+  "bbox": [
+   0.14426,
+   0.60858,
+   0.85058,
+   0.67359
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.27334,
+   0.70486,
+   0.72193,
+   0.89406
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 3·\nThe ratio NLL/(NLH + NHL) as a function of W for the cases m = 2 (light gray) and m = 3 (dark gray) [4].",
+  "page_idx": 0,
+  "bbox": [
+   0.14582,
+   0.90615,
+   0.84337,
+   0.93295
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "318",
+  "page_idx": 0,
+  "bbox": [
+   0.14582,
+   0.95815,
+   0.17119,
+   0.9682
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

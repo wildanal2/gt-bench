@@ -1,0 +1,286 @@
+[
+ {
+  "type": "text",
+  "text": "SHOW RESET ALL HIDE",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tombol formulir digital berwarna (kuning/merah/hijau)"
+ },
+ {
+  "type": "text",
+  "text": "FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770 S",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode formulir; huruf besar tebal"
+ },
+ {
+  "type": "text",
+  "text": "MINISTRY OF FINANCE OF THE REPUBLIC OF INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "DIRECTORATE GENERAL OF TAXES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "ANNUAL INDIVIDUAL INCOME TAX RETURN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "FOR TAXPAYER WHO HAVE INCOME:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "FROM ONE OR MORE EMPLOYER;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "OTHER DOMESTIC INCOME; AND/OR",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "SUBJECTED TO FINAL AND/OR FINALIZED TAX.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "TAXABLE YEAR 2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label vertikal; digit 2 dan 0 tercetak dalam kotak terpisah; 2 kotak lain kosong"
+ },
+ {
+  "type": "text",
+  "text": "ST/ND/RD/TH AMENDED RETURN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak pilihan kosong di kiri; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "ATTENTION:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "FOLLOW INSTRUCTION IN THE INSTRUCTION BOOK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "PRINT OR TYPE WITH CAPITAL LETTER AND BLACK INK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "MARK \" X \" IN THE APPROPRIATE BOX",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; ada kotak kosong di antara THE dan APPROPRIATE"
+ },
+ {
+  "type": "text",
+  "text": "IDENTITY",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal; judul blok berbingkai"
+ },
+ {
+  "type": "text",
+  "text": "TAXPAYER IDENTIFICATION NUMBER (TIN) :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian 2 baris digabung; kotak isian kosong tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "TAXPAYER'S NAME :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "OCCUPATION :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "KLU :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian di kanan baris OCCUPATION"
+ },
+ {
+  "type": "text",
+  "text": "PHONE NUMBER :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; pemisah '-' di antara kotak tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "FAX. NUMBER :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; pemisah '-' di antara kotak tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "TAX LIABILITY STATUS OF MARRIED INDIVIDUAL : KK HB PH MT RESET",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label 2 baris digabung; KK/HB/PH/MT masing-masing didahului kotak pilihan kosong; RESET = tombol"
+ },
+ {
+  "type": "text",
+  "text": "SPOUSE'S TIN :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "Data changes application submitted apart from this Tax Return, by using the Taxpayer Data Change Form and attached with the required documents.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tebal; 2 baris digabung; baris terakhir blok IDENTITY"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th colspan=\"3\">*) The filing columns of Rupiah value must be without decimal value (see example in page 3 of instructions)</th><th colspan=\"2\">RUPIAH *)</th><th></th></tr><tr><td rowspan=\"6\">A. NET INCOME</td><td>1</td><td>DOMESTIC NET INCOME IN RESPECT OF EMPLOYMENT [Total net income from each Form 1721-A1 and/or 1721-A2 attached or other Withholding Tax Receipt]</td><td>1</td><td></td><td></td></tr><tr><td>2</td><td>OTHER DOMESTIC NET INCOME [From Form 1770 S-I Total Part A ]</td><td>2</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>3</td><td>OFFSHORE NET INCOME [Complete it from separate attachment, if any foreign income, see instruction book]</td><td>3</td><td></td><td></td></tr><tr><td>4</td><td>TOTAL NET INCOME (1+2+3)</td><td>4</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>5.</td><td>ZAKAT/COMPULSORY RELIGIOUS DONATION</td><td>5</td><td></td><td></td></tr><tr><td>6</td><td>TOTAL NET INCOME AFTER ZAKAT/COMPULSORY RELIGIOUS DONATION (4-5)</td><td>6</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"2\">B.TAXABLE INCOME</td><td>7</td><td>PERSONAL EXEMPTIONS TK / K / K / I /</td><td>7</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>8</td><td>TAXABLE INCOME (6-7)</td><td>8</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"3\">C. TAX PAYABLE</td><td>9</td><td>INCOME TAX PAYABLE (TAX RATE ON ARTICLE 17 X LINE 8) [For Taxpayers with status PH/MT filled from Attachment Calculation of Income Tax Payable as referred to in Section G: Attachments letter d]</td><td>9</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>10</td><td>ADJUSTMENT FOR FOREIGN TAX CREDITS REFUNDED AND HAD BEEN CREDITED IN THE PREVIOUS YEAR RETURN (Income Tax Article 24)</td><td>10</td><td></td><td></td></tr><tr><td>11</td><td>TOTAL INCOME TAX PAYABLE (9+10)</td><td>11</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"5\">D. TAX CREDIT</td><td>12</td><td>TAX WITHHELD BY OTHER PARTIES, PAID/WITHHELD IN FOREIGN AND BORNE BY THE GOVERNMENT [From Form 1770 S-I Total Part C column (7)]</td><td>12</td><td></td><td></td></tr><tr><td>13</td><td>a. TAX DUE AFTER CREDIT b. TAX OVERLY WITHHELD (11-12)</td><td>13</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"2\">14</td><td>PREPAID TAX: a. MONTHLY INSTALLMENT OF INCOME TAX ARTICLE 25</td><td>14a</td><td></td><td></td></tr><tr><td>b. NOTICE6 OF TAX COLLECTION ON INCOME TAX ARTICLE 25 (PRINCIPAL ONLY)</td><td>14b</td><td></td><td></td></tr><tr><td>15</td><td>TOTAL TAX CREDIT (14a + 14b)</td><td>15</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"2\">E. INCOME TAX OVER/UNDER PAID</td><td>16</td><td>a. UNDERPAID TAX (INCOME TAX ARTICLE 29) b. OVERPAID TAX (INCOME TAX ARTICLE 28 A) (13-15) SETTLED ON DD MM YY</td><td>16</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>17</td><td>REQUEST: Overpaid amount stated in 16.b would be : a. REFUNDED b. COMPENSATED WITH OUTSTANDING TAX PAYABLE c. REFUNDED WITH SKPPKP ARTICLE 17 C (COMPLIANCE TAXPAYER) d. REFUNDED WITH SKPPKP ARTICLE 17 D (TAXPAYER: +,&amp;+0((76 &amp;(57$,15(48,5(0(176)</td><td colspan=\"2\">RESET</td><td></td></tr><tr><td>F. MONTHLY INSTALLMENT OF INCOME TAX ARTICLE 25 FOR THE SUBSEQUENT YEAR</td><td>18</td><td>MONTHLY INSTALLMENT FOR THE SUBSEQUENT YEAR THE AMOUNT IS CALCULATED BY: a. 1/12 X THE TOTAL OF LINE 13 b. CALCULATION IN SEPARATE ATTACHMENT RESET</td><td>18</td><td></td><td></td></tr><tr><td>G. ATTACH- MENTS</td><td colspan=\"4\">a. Copy of Form 1721-A1 and/or 1721-A2 or Withholding Receipt of Income Tax Art.21 b. Tax Payment 6OLS of Income Tax Article 29 c. Power of Attorney (If Needed) d. Income Tax Calculation For Married Taxpayer with Separation of Property and Income (PH) or Has Her Own TIN (MT) e.</td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; satu tabel seksi A-G mengikuti ID20_p007; kolom: seksi (teks vertikal, rowspan) | no | uraian | no kotak | kotak nilai | penanda <AUTO> merah di luar bingkai; titik-titik penuntun tidak ditranskripsi; nilai 0 tercetak di kotak; butir 13/16/17/18/G berkotak pilihan kosong (17b kotak hitam terisi); butir 17 dan G dua kolom dibaca kolom kiri dulu (a,b[,c]) lalu kanan; RESET = tombol (butir 17 di kolom kotak, butir 18 di uraian); seksi G vertikal 'ATTACH-' / 'MENTS' (pemenggalan, hyphen); G e. tanpa teks; dicek: glyph rusak (font tergeser) ditulis sesuai cetakan: NOTICE6 = NOTICES, '+,&+0((76' = WHICH MEETS, '&(57$,15(48,5(0(176)' = CERTAIN REQUIREMENTS), '6OLS' = Slip; glyph kotak kosong setelah 'ONLY)' dan 'TAXPAYER:' tidak ditranskripsi; dicek: kolom <AUTO> berada di luar bingkai, dimasukkan sebagai kolom ke-6 supaya sejajar baris"
+ },
+ {
+  "type": "text",
+  "text": "DECLARATION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; pita abu-abu",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Understanding all consequencesincluding all penalties imposed by the prevailing law and regulations, I hereby declare that the information on this tax return, including all attachments provided, are correct, complete, and clear.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung; tanpa spasi 'consequencesincluding' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "SIGNATURE",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label kotak tanda tangan kosong (tidak ada tanda tangan)"
+ },
+ {
+  "type": "text",
+  "text": "TAXPAYER 352;<",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak pilihan kosong sebelum TAXPAYER dan sebelum 352;<; dicek: '352;<' glyph rusak = PROXY"
+ },
+ {
+  "type": "text",
+  "text": "DATE DD MM YY",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian tanggal; kotak kosong"
+ },
+ {
+  "type": "text",
+  "text": ")8// NAME :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; dicek: ')8//' glyph rusak = FULL"
+ },
+ {
+  "type": "text",
+  "text": "TIN :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak kosong"
+ },
+ {
+  "type": "text",
+  "text": "F.1.1.32.18",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kode cetak formulir"
+ }
+]

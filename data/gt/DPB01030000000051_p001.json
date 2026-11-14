@@ -1,0 +1,95 @@
+[
+ {
+  "type": "text",
+  "text": "12 Encinas Franco and Laguna",
+  "page_idx": 0,
+  "bbox": [
+   0.0941,
+   0.05354,
+   0.41352,
+   0.07382
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Table 1: Percentage of Government Positions Held by Women During the\nPresidencies of Corazon Aquino and Fidel Ramos",
+  "page_idx": 0,
+  "bbox": [
+   0.09866,
+   0.10729,
+   0.85767,
+   0.14683
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Government Position</td><td>No. of Seats</td><td>Aquino Administration (1986-1992)</td><td>Ramos Administration (1992-1998)</td></tr><tr><td>Senate</td><td>24</td><td>8.3</td><td>16.7</td></tr><tr><td>House of Representatives</td><td>202</td><td>9.4</td><td>10.4</td></tr><tr><td>Cabinet</td><td>20</td><td>15.0</td><td>5.0</td></tr><tr><td>Governor</td><td>73</td><td>5.4</td><td>5.4</td></tr><tr><td>Provincial Board Member</td><td>626</td><td>9.9</td><td>10.9</td></tr><tr><td>City/Municipal Mayor</td><td>1,578</td><td>7.4</td><td>11.2</td></tr><tr><td>City/Municipal Vice Mayor</td><td>1,578</td><td>6.5</td><td>14.9</td></tr><tr><td>City Municipal Councilor</td><td>12,406</td><td>10.5</td><td>N/A</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10051,
+   0.17598,
+   0.85767,
+   0.51539
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Source: Tancangco 1991 as cited in Valte (1992).",
+  "page_idx": 0,
+  "bbox": [
+   0.09674,
+   0.52796,
+   0.55431,
+   0.54556
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Current Situation: 2001-2019",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09674,
+   0.59082,
+   0.51032,
+   0.61512
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Filipino women are still very much a minority in the formal\npolitical sphere. It can also be observed that in executive positions such\nas the cabinet, few women are appointed, especially during President\nFidel Ramos's time, compared to Cory Aquino's administration\n(Table 1). As mentioned above, the Philippines has made significant\nstrides in legislating for women's rights. However, 35 years after re-\ndemocratization and 84 years after the grant of suffrage, participation\nof women in politics is still a work in progress, as in most countries.",
+  "page_idx": 0,
+  "bbox": [
+   0.09866,
+   0.63607,
+   0.85767,
+   0.80955
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In 2019, the overall percentage of women in all elective posts in\nthe country was only about 20 percent (PCW 2021), barely reaching\nthe 30 percent international requirement for women's political",
+  "page_idx": 0,
+  "bbox": [
+   0.09674,
+   0.82296,
+   0.85767,
+   0.89168
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

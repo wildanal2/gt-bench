@@ -1,0 +1,70 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "TABLE OF CONTENTS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>UMUM</td><td>1</td></tr><tr><td>PERMODALAN</td><td>4</td></tr><tr><td>MANAJEMEN RISIKO BANK</td><td>15</td></tr><tr><td>RASIO PENGUNGKIT</td><td>20</td></tr><tr><td>RISIKO KREDIT</td><td>23</td></tr><tr><td>RISIKO PASAR</td><td>44</td></tr><tr><td>INTEREST RATE RISK IN BANKING BOOK</td><td>46</td></tr><tr><td>RISIKO LIKUIDITAS</td><td>49</td></tr><tr><td>RISIKO OPERASIONAL</td><td>56</td></tr><tr><td>RISIKO HUKUM</td><td>58</td></tr><tr><td>RISIKO REPUTASI</td><td>59</td></tr><tr><td>RISIKO STRATEJIK</td><td>60</td></tr><tr><td>RISIKO KEPATUHAN</td><td>61</td></tr><tr><td>TATA KELOLA</td><td>62</td></tr><tr><td>UNIT USAHA SYARIAH</td><td>75</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; daftar isi; garis pemandu (____) tidak ditranskripsi; tanpa baris header; INTEREST RATE RISK IN BANKING BOOK tercetak miring"
+ },
+ {
+  "type": "text",
+  "text": "“Karena Hidup Gak Cuma Tentang Hari Ini, Ada Hari Esok Yang Masih Menanti.”",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kutipan/slogan; 2 baris digabung"
+ }
+]

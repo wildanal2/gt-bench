@@ -1,0 +1,61 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon palu hakim"
+ },
+ {
+  "type": "text",
+  "text": "PMK NOMOR 243/PMK.03/2014 Bentuk dan Isi Surat Pemberitahuan, serta Tata Cara Pengambilan, Pengisian, Penandatanganan, dan Penyampaian Surat Pemberitahuan”",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir tanpa nomor (penanda ikon); nomor peraturan + judul digabung; tanda kutip pembuka tidak tercetak"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon palu hakim"
+ },
+ {
+  "type": "text",
+  "text": "PERDIRJEN NOMOR PER-34/PJ/2010 s.t.d.t.d. PER-36/PJ/2015 “Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya”",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir tanpa nomor (penanda ikon); nomor peraturan + judul digabung; spasi rata kanan-kiri diringkas"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

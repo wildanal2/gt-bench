@@ -1,0 +1,241 @@
+[
+ {
+  "type": "text",
+  "text": "Chapter 4",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.20333,
+   0.30515,
+   0.22885
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Nonlinear equations",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.25877,
+   0.54332,
+   0.28963
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "4.1 Introduction",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.33619,
+   0.34627,
+   0.35125
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The pressure drop in a fluid in motion is examined. For a flow in a pipe with a circular cross\nsection of diameter D (meter), the Reynolds number, Re, is given by",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.36657,
+   0.86406,
+   0.39347
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\operatorname{Re}=\\frac{Dv}{v}\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.46943,
+   0.40309,
+   0.54413,
+   0.43013
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "in which v (m/s) is the average flow velocity and v (m2/s) is the viscosity of the fluid. The flow is\ncalled laminar if Re < 2100 (low flow velocity) and turbulent if Re > 3000. For 2100 ≤ Re ≤ 3000,\nthe flow is neither laminar nor turbulent.",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.43903,
+   0.86406,
+   0.47974
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "For turbulent flows, the pressure drop between inflow and outflow is given by",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.48884,
+   0.73276,
+   0.50332
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "P_{\\text{out}}-P_{\\text{in}}=\\frac{\\rhowLv^2}{2gD}\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.4314,
+   0.51151,
+   0.58236,
+   0.54273
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "in which w is a friction coefficient, p (kg/m3) is the fluid density, L (m) is the length and 8 (m/s2)\nis the acceleration of gravity. If the fluid contains particles (sand, paper fibers), then the friction\ncoefficient w satisfies the equation",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.55198,
+   0.86406,
+   0.59595
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{1}{\\sqrt{w}}=\\frac{\\ln(\\operatorname{Re}\\sqrt{w})+14-\\frac{5.6}{k}}{k}\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.39892,
+   0.60384,
+   0.61606,
+   0.63759
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "in which k is a parameter known from experiments.",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.64647,
+   0.53452,
+   0.66095
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In this chapter, numerical methods will be discussed that can be used to determine w if the values\nof Re and k are known.",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.66579,
+   0.86406,
+   0.6925
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4.2 Definitions",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.71689,
+   0.33075,
+   0.73195
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "In this chapter, various iterative methods will be considered to solve nonlinear equations of the\nform f(p) = 0. The point p is called a zero of the function f, or a root of the equation f(x) = 0.\nFirst, some useful definitions and concepts are introduced.",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.74796,
+   0.86406,
+   0.78867
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Convergence",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.79691,
+   0.25166,
+   0.80985
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Each numerical method generates a sequence {pn} = p0, p1, p2,... which should converge to p:\nlimn→∞ Pn = p. Assume that the sequence indeed converges, with Pn ≠ p for all n. If there exist\npositive constants � and a satisfying",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.80985,
+   0.86406,
+   0.85364
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\lim_{n\\rightarrow\\infty}\\frac{\\left|p-p_{n+1}\\right|}{\\left|p-p_n\\right|^\\alpha}=\\lambda\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.42923,
+   0.86168,
+   0.58439,
+   0.8929
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(4.1)",
+  "page_idx": 0,
+  "bbox": [
+   0.83003,
+   0.87102,
+   0.86224,
+   0.88284
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ }
+]

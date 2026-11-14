@@ -1,0 +1,135 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td colspan=\"2\">Fish species on IUCN Red List</td></tr><tr><td>Potosi Pupfish</td><td>Cyprinodon alvarezi</td></tr><tr><td>La Palma Pupfish</td><td>Cyprinodon longidorsalis</td></tr><tr><td>Butterfly Splitfin</td><td>Ameca splendens</td></tr><tr><td>Golden Skiffia</td><td>Skiffia francesae</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.09691,
+   0.07776,
+   0.39786,
+   0.19476
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 6.1: Four fish species on IUCN Red List \"Extinct in the Wild\" held in public aquariums.",
+  "page_idx": 0,
+  "bbox": [
+   0.09608,
+   0.21551,
+   0.63367,
+   0.22976
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Public aquariums, because of their in-\nhouse expertise, can act quickly to collect\nand breed rare fish. Actions to prevent the\nextinction of the Barrens Topminnow\ninclude monitoring populations and\npropagating and stocking juveniles into\nexisting or newly created spring habitats.\nThe Tennessee Aquarium assisted with\npropagations and developed a program\ncalled \"Keeper Kids,\" where students on\nspring break help feed the Barrens\nTopminnows in a behind-the-scenes\nexperience.",
+  "page_idx": 0,
+  "bbox": [
+   0.09691,
+   0.27788,
+   0.40702,
+   0.52857
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.41859,
+   0.26842,
+   0.90243,
+   0.48853
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 6.3: Photo of the critically endangered Butterfly Splitfin (Ameca\nspendens).",
+  "page_idx": 0,
+  "bbox": [
+   0.41902,
+   0.49441,
+   0.86104,
+   0.52045
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The breeding colonies of the Butterfly Splitfin (Figure 6.3) at the London Zoo and elsewhere serve as ark\npopulations essential to the survival of this species. Butterfly Splitfins are endemic to the Rio Ameca in\nwestern Mexico and almost extinct in the wild. Actions such as nonnative fish removal, stream restoration, and\nsanctuary designation may take decades before eventual introduction and survival in the wild. The Tennessee\nAquarium is part of a large partnership to guide hatchery augmentation and recovery of the rarest darter in\nNorth America (U.S. Fish and Wildlife Service 2019). The Conasauga Logperch (Percina jenkinsi), a federally\nendangered darter (Percidae), is found only in a 30-mile (48 km) stretch of the Conasauga River in Georgia and\nTennessee (Moyer et al. 2015).",
+  "page_idx": 0,
+  "bbox": [
+   0.09691,
+   0.54248,
+   0.90462,
+   0.69676
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.09851,
+   0.70158,
+   0.57001,
+   0.83602
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 6.4: Lake Sturgeon (Acipenser fulvescens).",
+  "page_idx": 0,
+  "bbox": [
+   0.09691,
+   0.84002,
+   0.40251,
+   0.85486
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The Banggai Cardinalfish (Pterapogon\nkauderni), a small, endangered tropical\ncardinalfish in the family Apogonidae, is\nnow bred and displayed in numerous public\naquariums after overharvest in the wild\ndrove wild populations to near extinction.\nConsequently, most Banggai Cardinalfish\nsold to hobbyists in the United States and\nEuropean Union today are captive bred.",
+  "page_idx": 0,
+  "bbox": [
+   0.57847,
+   0.71219,
+   0.90371,
+   0.88456
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "132 | Public Aquariums and Their Role in Education, Science, and Conservation",
+  "page_idx": 0,
+  "bbox": [
+   0.09608,
+   0.93455,
+   0.61097,
+   0.94939
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

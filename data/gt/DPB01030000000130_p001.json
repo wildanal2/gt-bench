@@ -1,0 +1,134 @@
+[
+ {
+  "type": "text",
+  "text": "Table 15.6. Observations of Returns on the Firm's Portfolio of Investments rtp and on a Potential\nNew Investment (a Challenger).",
+  "page_idx": 0,
+  "bbox": [
+   0.0978,
+   0.06945,
+   0.90155,
+   0.10656
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Time t</td><td>Observed returns on the firm's portfolio over time rtp</td><td>Observed returns on a potential new investment for the firm's rtj</td></tr><tr><td>2012</td><td>10%</td><td>7%</td></tr><tr><td>2013</td><td>6%</td><td>8%</td></tr><tr><td>2014</td><td>7%</td><td>5%</td></tr><tr><td>2015</td><td>3%</td><td>2%</td></tr><tr><td>2016</td><td>5%</td><td>3%</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.08643,
+   0.16431,
+   0.82355,
+   0.3103
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Another way to represent the two rates of return measures and their relationship to each other is to\nrepresent them in a two dimensional scatter graph.",
+  "page_idx": 0,
+  "bbox": [
+   0.08643,
+   0.33491,
+   0.9131,
+   0.36909
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We may visually observe how the two sets of rates of return move together by drawing a line through\nthe points on the graph in such a way as to minimize the squared distance from the point to the line.\nOur scatter graph is identified as Figure 15.3.",
+  "page_idx": 0,
+  "bbox": [
+   0.08643,
+   0.38676,
+   0.9131,
+   0.44041
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 15.3. Scatter Graph of Returns on the Firm's Portfolio of Investments and Returns on the\nPotential New Investment",
+  "page_idx": 0,
+  "bbox": [
+   0.08643,
+   0.50225,
+   0.9131,
+   0.53601
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.08643,
+   0.6047,
+   0.70208,
+   0.81392
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "The relationship between the returns on the new investment and the firm's portfolio can be\nexpressed as:",
+  "page_idx": 0,
+  "bbox": [
+   0.08643,
+   0.83387,
+   0.9131,
+   0.86806
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "(15.42)",
+  "page_idx": 0,
+  "bbox": [
+   0.08864,
+   0.89192,
+   0.13719,
+   0.90612
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "r_t^j=a+\\betar_t^j+\\epsilon_t",
+  "page_idx": 0,
+  "bbox": [
+   0.15019,
+   0.88125,
+   0.31191,
+   0.90462
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Ch. 15. Homogeneous Risk Measures | 349",
+  "page_idx": 0,
+  "bbox": [
+   0.63242,
+   0.95085,
+   0.91257,
+   0.96173
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

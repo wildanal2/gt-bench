@@ -1,0 +1,52 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "CCB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "中国建设银行",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "印度尼西亚",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "China Construction Bank Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>31 Dec 2024</th><th>31 Dec 2023</th><th></th></tr><tr><td>ARUS KAS DARI AKTIVITAS OPERASI</td><td></td><td></td><td>CASH FLOWS FROM OPERATING ACTIVITIES</td></tr><tr><td>Pendapatan bunga, provisi dan komisi</td><td>2,144,801</td><td>1,705,192</td><td>Interest, fees and commissions</td></tr><tr><td>Beban bunga dan beban keuangan lainnya</td><td>(1,110,890)</td><td>(713,189)</td><td>Interest expense and other financial charges</td></tr><tr><td>Beban umum dan administrasi</td><td>(175,842)</td><td>(183,223)</td><td>General and administrative expenses</td></tr><tr><td>Beban tenaga kerja</td><td>(304,537)</td><td>(284,759)</td><td>Personnel expenses</td></tr><tr><td>Pendapatan lainnya</td><td>8,113</td><td>5,740</td><td>Other operating income</td></tr><tr><td>Beban lainnya</td><td>(789)</td><td>(16)</td><td>Other expense</td></tr><tr><td>Pembayaran pajak penghasilan</td><td>(128,035)</td><td>(99,413)</td><td>Payment of income tax</td></tr><tr><td>Arus kas operasional sebelum perubahan aset dan liabilitas operasi</td><td>432,821</td><td>430,332</td><td>Cash flow before changes in operating assets and liabilities</td></tr><tr><td>Penurunan (kenaikan) aset operasi:</td><td></td><td></td><td>Decrease (increase) in</td></tr><tr><td>Efek-efek diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>-</td><td>-</td><td>Securities are measured at fair value through other comprehensive income</td></tr><tr><td>Kredit yang diberikan</td><td>(4,335,923)</td><td>(2,740,490)</td><td>Loans</td></tr><tr><td>Tagihan derivatif</td><td>8,516</td><td>(94)</td><td>Derivative receivables</td></tr><tr><td>Tagihan akseptasi</td><td>(12,262)</td><td>-</td><td>Acceptance receivables</td></tr><tr><td>Tagihan atas efek-efek yg dibeli dgn janji dijual kembali</td><td>1,069,249</td><td>2,877,919</td><td>Receivables on securities purchased under agreements to resale</td></tr><tr><td>Aset lain-lain</td><td>(28,865)</td><td>7,693</td><td>Other assets</td></tr><tr><td>Kenaikan (penurunan) liabilitas operasi:</td><td></td><td></td><td>(Decrease)/increase in operating liabilities:</td></tr><tr><td>Liabilitas segera</td><td>(5,572)</td><td>4,005</td><td>Obligation due immediately</td></tr><tr><td>Simpanan dan simpanan dari bank lain</td><td>3,890,683</td><td>2,296,873</td><td>Deposits from customers and deposits from other banks</td></tr><tr><td>Liabilitas derivatif</td><td>18,327</td><td>259</td><td>Derivative payables</td></tr><tr><td>Liabilitas akseptasi</td><td>12,262</td><td>-</td><td>Acceptance payables</td></tr><tr><td>Efek-efek yang dijual dengan janji dibeli kembali</td><td>1,451,149</td><td>94,085</td><td>Liabilities on securities sold under repurchase agreement</td></tr><tr><td>Utang pajak</td><td>(232)</td><td>6,066</td><td>Taxes payable</td></tr><tr><td>Liabilitas lain-lain</td><td>(29,558)</td><td>12,100</td><td>Other liabilities</td></tr><tr><td>Arus kas bersih (digunakan untuk)/ diperoleh dari aktivitas operasi</td><td>2,470,595</td><td>2,988,748</td><td>Net cash flows (used in)/provided by operating activities</td></tr><tr><td>ARUS KAS DARI AKTIVITAS INVESTASI</td><td></td><td></td><td>CASH FLOWS FROM INVESTING ACTIVITIES</td></tr><tr><td>Penerimaan dari penjualan efek-efek yang jatuh tempo</td><td>-</td><td>-</td><td>Proceeds from matured held-to-maturity securities</td></tr><tr><td>Nilai wajar melalui penghasilan komprehensif lain - efek efek</td><td>(1,898,563)</td><td>(3,162,058)</td><td>Proceeds from matured held-to-maturity securities</td></tr><tr><td>Pembelian efek-efek yang diukur pada biaya yang diamortisasi</td><td>(411,374)</td><td>(450,630)</td><td>Purchases of amortised cost securities</td></tr><tr><td>Hasil penjualan aset tetap</td><td>3,578</td><td>3,775</td><td>Proceeds from sale of fixed assets</td></tr><tr><td>Hasil penjualan agunan yang diambil alih</td><td>28,172</td><td>6,175</td><td>Proceeds from sale of foreclosed assets</td></tr><tr><td>Hasil penjualan properti terbengkalai</td><td>1,946</td><td>-</td><td>Proceeds from sale of abandoned properties</td></tr><tr><td>Perolehan aset tetap dan aset hak guna</td><td>(22,342)</td><td>(16,366)</td><td>Acquisition of fixed assets and right-of-use of assets</td></tr><tr><td>Arus kas bersih diperoleh dari aktivitas investasi</td><td>(2,298,583)</td><td>(3,619,104)</td><td>Net cash flow provided by investing activities</td></tr><tr><td>ARUS KAS DARI AKTIVITAS PENDANAAN</td><td></td><td></td><td>CASH FLOWS FROM FINANCING ACTIVITIES</td></tr><tr><td>Pinjaman yang diterima</td><td>485,700</td><td>-</td><td>Receipt Fund Borrowing</td></tr><tr><td>Pembayaran Surat Berharga Subordinasi</td><td>(468,900)</td><td>-</td><td>Payment subordinated loans</td></tr><tr><td>Pembayaran liabilitas sewa</td><td>(11,806)</td><td>(10,629)</td><td>Payment lease liabilities</td></tr><tr><td>Arus kas bersih digunakan untuk aktivitas pendanaan</td><td>4,994</td><td>(10,629)</td><td>Net cash flows used in financing activities</td></tr><tr><td>(PENURUNAN)/KENAIKAN BERSIH KAS DAN SETARA KAS</td><td>177,006</td><td>(640,985)</td><td>NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS</td></tr><tr><td>KAS DAN SETARA KAS PADA AWAL TAHUN</td><td>1,949,662</td><td>2,602,352</td><td>CASH &amp; CASH EQUIVALENTS AT THE BEGINNING OF YEAR</td></tr><tr><td>Pengaruh perubahan kurs mata uang asing</td><td>36,890</td><td>(11,705)</td><td>The effect of changes in foreign exchange rates</td></tr><tr><td>KAS DAN SETARA KAS PADA AKHIR TAHUN</td><td>2,163,558</td><td>1,949,662</td><td>CASH AND CASH EQUIVALENTS AT THE END OF YEAR</td></tr><tr><td>Kas dan setara kas terdiri dari:</td><td></td><td></td><td>Cash and cash equivalent Consist of:</td></tr><tr><td>Kas</td><td>169,338</td><td>212,839</td><td>Cash</td></tr><tr><td>Giro pada Bank Indonesia</td><td>1,490,587</td><td>1,552,681</td><td>Bank Indonesia</td></tr><tr><td>Giro pada bank lain</td><td>165,626</td><td>139,142</td><td>with other banks</td></tr><tr><td>Penempatan pada Bank Indonesia dan Bank Lain</td><td>338,007</td><td>45,000</td><td>Placements with Bank Indonesia and other banks</td></tr><tr><td>Jumlah kas dan setara kas</td><td>2,163,558</td><td>1,949,662</td><td>cash equivalents</td></tr><tr><td></td><td>-</td><td>-</td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual; laporan arus kas tanpa judul tercetak di halaman; label ID (kiri) dan EN (kanan, miring) berpasangan per baris, label 2-3 baris digabung satu spasi; sel header kolom label kosong; label EN terpotong di sumber ('Decrease (increase) in', 'cash equivalents') disalin apa adanya; 'held-to-maturity' pemenggalan dibiarkan dengan spasi (hyphen); dicek: 'Receivables on securities': lapisan teks berisi 'securuities' tetapi tampilan visual 'securities'; dicek: baris terakhir: tanda '-' kecil di bawah garis ganda Jumlah, dicatat sebagai baris tersendiri"
+ }
+]

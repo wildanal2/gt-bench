@@ -1,0 +1,250 @@
+[
+ {
+  "type": "text",
+  "text": "Brenda Irena, Erwin Budi Setiawan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "RESTI Journal (System Engineering and Information Technology) Vol. 4 No. 4 (2020) 711 – 716",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "methods, SVM, Naïve Bayes and C4.5. The result shows that Naïve Bayes has the best accuracy among the other two methods. But the weakness is, the system is difficult to recognize news with a particular topic so that makes the news wrong classified [5].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "In this research, the author identifies hoax news by using the Decision Tree C4.5 classification method because this method is a very strong and well-known classification and prediction method [6]. Decision Tree C4.5 is an extension of ID3 with several improvements such as possible to use continuous data, missing values, and pruning. C4.5 is also able to use attributes with different weights [7]. In addition, this research also performed a test scenario using the Term Frequency Inverse Document Frequency (TF-IDF) weighting feature to look up the value/weight representation of each document in the dataset and also the Information Gain feature selection to select the best features that affect on determining the class of a document in which unigrams, bigrams, and trigrams are the feature extractions used. Tests conducted on Indonesian language tweet data of 50.610 tweets taken from the crawling process based on keywords. The purpose of this research is to implement the method described above and find out the system's performance in identifying hoax news using accuracy calculation with reference to the confusion matrix table. From the system built, the author also finds out what features are influential in identifying hoax news, what features are most often used in spreading hoax news, and what gram is the best in determining hoax news.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. Research Method",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "2.1. System Flowchart",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "In Figure 1, the author represents a flowchart of how the whole system works in this research. The system starts from data collection, continue to labeling, then the unstructured data will be changed to be more structured through preprocessing. Then each word in the dataset will be weighted using TF-IDF weighting and features will be selected using information gain feature selection. The system then divides the data into two parts, training data for learning and test data to test the learning outcomes of the system by using four different split data ratios (90:10, 80:20, 70:30, 60:40). The use of different ratios aims to find out which ratios produce the best performance. The performance of system will be measured using accuracy.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.2. Data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "The dataset used in this research was taken from the crawling process on Twitter using an API that has been provided by Twitter developers. Every one time crawling process will be obtained 100 of the latest data tweet. The data taken is as many as 50.610 data tweets using keywords taken from topics that are currently being discussed or being trending topics on Twitter and also estimated to contain hoaxes in the span of December 2019 - March 2020. Table 1 shows the keywords used in data retrieval.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; paragraf bersambung dari bawah kolom kiri ke atas kolom kanan, digabung"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 1. Flowchart",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Start",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Data Crawling",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Labeling",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Preprocessing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Term Weighting TF-IDF",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Classification Decision Tree C4.5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Training Data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Feature Selection Information Gain",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Prediction Model",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Test Data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Measuring Performance",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "End",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Keyword</th><th>Amount</th></tr><tr><td>#BanjirJakarta2020</td><td>5.468</td></tr><tr><td>#PecatAniesBaswedan</td><td>5.403</td></tr><tr><td>#gubernurterbodoh</td><td>6.492</td></tr><tr><td>#KebakaranHutan</td><td>8.627</td></tr><tr><td>#VirusCorona</td><td>8.719</td></tr><tr><td>Jokowi</td><td>15.901</td></tr><tr><td>Total</td><td>50.610</td></tr></table>",
+  "table_caption": "Table 1. Keywords",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.3. Labeling",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Labeling is the process of determining the class of tweet data whether included in hoax news or not that is done manually by the author together with a final task group consisting of 3 people. In Table 2, it is explained about the features on Twitter that serve as a reference for the author in labeling.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Feature</th><th>Description</th></tr><tr><td>Tweet</td><td>whether the tweet contains elements of a hoax or not such as panic, provocation, hatred</td></tr><tr><td>Username</td><td>whether the username is set with the real name or pseudonym, contains numbers / symbols, contains elements of hatred or not</td></tr><tr><td>Location</td><td>location included in the tweet upload</td></tr><tr><td>URL</td><td>tweet include URL as a source</td></tr><tr><td>Following: Followers</td><td>the number of following is more than followers</td></tr><tr><td>Verified Account</td><td>whether the account has been verified or not</td></tr></table>",
+  "table_caption": "Table 2. Feature that Identify Hoax.",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; sel multi-baris digabung satu spasi"
+ },
+ {
+  "type": "text",
+  "text": "Data that has been collected is then labeled with a reference based on the Table 2. Comparison of data with hoax and non-hoax classes based on the results of labeling in the existing dataset is shown in Table 3.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Label</th><th>Amount</th><th>Percentage</th></tr><tr><td>HOAX</td><td>25.022</td><td>49.4%</td></tr><tr><td>NON-HOAX</td><td>25.588</td><td>50.6%</td></tr></table>",
+  "table_caption": "Table 3. Labeling Result",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "RESTI Journal (System Engineering and Information Technology) Vol. 4 No. 4 (2020) 711 – 716",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "712",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

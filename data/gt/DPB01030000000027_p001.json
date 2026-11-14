@@ -1,0 +1,109 @@
+[
+ {
+  "type": "text",
+  "text": "Probability, Combinatorics and Control",
+  "page_idx": 0,
+  "bbox": [
+   0.14489,
+   0.02674,
+   0.43714,
+   0.04095
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.2176,
+   0.07393,
+   0.77912,
+   0.29871
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 7.\nEstimated cumulative damage for impeller blades.",
+  "page_idx": 0,
+  "bbox": [
+   0.14407,
+   0.31219,
+   0.46659,
+   0.33763
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.2176,
+   0.36349,
+   0.77912,
+   0.58826
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 8.\nEstimated residual life of impeller blades by the criterion of cracking.",
+  "page_idx": 0,
+  "bbox": [
+   0.14407,
+   0.60174,
+   0.58382,
+   0.62719
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.2176,
+   0.6684,
+   0.77912,
+   0.89317
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 9.\nEstimated residual life of impeller blades at the stage of crack development.",
+  "page_idx": 0,
+  "bbox": [
+   0.14407,
+   0.90722,
+   0.6237,
+   0.93267
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "48",
+  "page_idx": 0,
+  "bbox": [
+   0.14719,
+   0.95892,
+   0.1662,
+   0.96777
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

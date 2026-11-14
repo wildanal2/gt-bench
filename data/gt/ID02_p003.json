@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "Keunggulan e-FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "text",
+  "text": "Dimana saja",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; balon teks"
+ },
+ {
+  "type": "text",
+  "text": "Pengisian SPT offline",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; balon teks"
+ },
+ {
+  "type": "text",
+  "text": "Kapan saja",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; balon teks"
+ },
+ {
+  "type": "text",
+  "text": "Meminimalisir kehilangan data akibat internet lemot",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; balon teks"
+ },
+ {
+  "type": "text",
+  "text": "Mudah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; balon teks"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi orang dengan laptop di kursi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

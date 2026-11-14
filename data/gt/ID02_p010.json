@@ -1,0 +1,93 @@
+[
+ {
+  "type": "text",
+  "text": "Spesifikasi Komputer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi monitor komputer; teks di layar adalah kotak teks slide (ada di lapisan teks), dicatat in_figure false"
+ },
+ {
+  "type": "text",
+  "text": "System Requirements Aplikasi IBM Form Viewer OS Windows:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label daftar"
+ },
+ {
+  "type": "text",
+  "text": "OS Version : Windows 7 Pro or later",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda '-' tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Disk Space : 500 MB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda '-' tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Memory : 2 GB RAM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda '-' tidak ditulis"
+ },
+ {
+  "type": "text",
+  "text": "Processor : 3.0 GHz Dual-core Processor",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir; penanda '-' tidak ditulis"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "10",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

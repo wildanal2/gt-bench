@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "Restrictions on Land Ownership by Foreigners in Selected Jurisdictions",
+  "page_idx": 0,
+  "bbox": [
+   0.22824,
+   0.04748,
+   0.77247,
+   0.06169
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Comparative Summary Table",
+  "page_idx": 0,
+  "bbox": [
+   0.31161,
+   0.09415,
+   0.68582,
+   0.11749
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Jurisdiction</td><td>GATS XVII Reservation (1994)</td><td>Foreign Ownership Permitted</td><td>Restrictions on Foreign Ownership</td><td>Foreign Ownership Reporting Requirements</td></tr><tr><td>Argentina</td><td>Y</td><td>Y</td><td>Prohibition on ownership of property that contains or borders large and permanent bodies of water and of land in border security zones. Rural land can only be acquired upon certificate being granted (total percentage must not exceed 15% of the territory, in which shares of nationals of one country must not exceed 30%; maximum limit per foreigner; certain long-term residents exempted).</td><td></td></tr><tr><td>Australia</td><td>N</td><td>Y</td><td>Approval is needed from the Treasurer if the acquisition constitutes a \"significant action,\" including acquiring an interest in different types of land where the monetary threshold is met for that type of land. The Treasurer may prohibit a significant action that is found to be contrary to the national interest.</td><td>Acquisitions of residential and agricultural land by foreign persons must be reported to the relevant government agency.</td></tr><tr><td>Austria</td><td>Y</td><td>Y</td><td>Prior authorization required with exceptions; authorization may be refused if the acquisition contradicts national public policy interests.</td><td></td></tr><tr><td>Belgium</td><td>N</td><td>Y</td><td>None.</td><td></td></tr><tr><td>Brazil</td><td>Y</td><td>Y</td><td>Acquisition of rural property by an alien individual or company, including Brazilian companies controlled by foreigners, may not exceed 50 modules; foreign ownership of rural areas may not exceed a quarter of the surface of the municipalities, and ownership</td><td></td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11466,
+   0.13271,
+   0.88342,
+   0.89894
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "The Law Library of Congress",
+  "page_idx": 0,
+  "bbox": [
+   0.11466,
+   0.93956,
+   0.34016,
+   0.95604
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": [
+   0.86443,
+   0.94037,
+   0.87516,
+   0.95243
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

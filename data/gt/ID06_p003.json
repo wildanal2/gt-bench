@@ -1,0 +1,381 @@
+[
+ {
+  "type": "text",
+  "text": "A. PDB Menurut Lapangan Usaha",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "1. Pertumbuhan Ekonomi Tahun 2025 Terhadap 2024 (C-to-C)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; C-to-C miring",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia tahun 2025 tumbuh sebesar 5,11 persen (c-to-c). Pertumbuhan terjadi pada hampir seluruh lapangan usaha, kecuali Pertambangan dan Penggalian yang terkontraksi sebesar 0,66 persen. Lapangan usaha yang tumbuh signifikan adalah Jasa Lainnya sebesar 9,93 persen; diikuti oleh Jasa Perusahaan sebesar 9,10 persen; serta Transportasi dan Pergudangan sebesar 8,78 persen. Sementara itu, Industri Pengolahan; serta Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor yang memiliki peran dominan terhadap perekonomian Indonesia masing-masing tumbuh sebesar 5,30 persen dan 5,49 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; c-to-c miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 1 Pertumbuhan PDB Beberapa Lapangan Usaha (C-to-C) (persen), 2023–2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (3 seri per kategori); dibaca per kategori kiri ke kanan, nilai per seri, lalu legenda"
+ },
+ {
+  "type": "text",
+  "text": "Industri Pengolahan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,64",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "4,43",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "5,30",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Perdagangan, Reparasi Mobil dan Sepeda Motor",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,85",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "4,89",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "5,49",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Pertanian, Kehutanan, & Perikanan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "1,31",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "0,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "5,33",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Konstruksi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,91",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "7,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "3,81",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Pertambangan & Penggalian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "6,12",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "4,90",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "-0,66",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Transportasi dan Pergudangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "13,96",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "8,69",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "8,78",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Jasa Lainnya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "10,52",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "9,80",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "9,93",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Jasa Perusahaan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "8,24",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "8,38",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "9,10",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "Lainnya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,95",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2023"
+ },
+ {
+  "type": "text",
+  "text": "5,56",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2024"
+ },
+ {
+  "type": "text",
+  "text": "5,42",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri 2025"
+ },
+ {
+  "type": "text",
+  "text": "2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Struktur PDB Indonesia menurut lapangan usaha atas dasar harga berlaku tahun 2025 tidak menunjukkan perubahan berarti. Perekonomian Indonesia masih didominasi oleh Lapangan Usaha Industri Pengolahan sebesar 19,07 persen; diikuti oleh Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor sebesar 13,17 persen; Pertanian, Kehutanan, dan Perikanan sebesar 13,10 persen; Konstruksi sebesar 9,83 persen; serta Pertambangan dan Penggalian sebesar 8,75 persen. Peranan kelima lapangan usaha tersebut dalam perekonomian Indonesia mencapai 63,92 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

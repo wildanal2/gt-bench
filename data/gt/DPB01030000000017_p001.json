@@ -1,0 +1,81 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.12464,
+   0.08937,
+   0.86849,
+   0.46287
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "16 Face Your World",
+  "page_idx": 0,
+  "bbox": [
+   0.12072,
+   0.47877,
+   0.28712,
+   0.49253
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "A girl at work with the Interactor during the Face Your World participation process (image\ncourtesy of Van Heeswijk). On top of the workstation we see the drawing the girl made in an\nearlier stage of the process. The drawing depicts a large tree with a little house inside the tree\nand a rope ladder leading up to the little house. On the screen we see the girl working on a new\nobject for the library. She is digitally redrawing her design for a tree house. Once this drawing\nis finished, she can save it to the library of the Interactor and use it when designing the park.",
+  "page_idx": 0,
+  "bbox": [
+   0.12754,
+   0.49511,
+   0.87859,
+   0.61063
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "ticipating in Face Your World Slotervaart made a total of 1216 sketches in this phase\nof the planning project and Kaspori considered this the most creative part of the\nprocess (interview with Kaspori, 2007). In the third phase of the game, children\nwould discuss each other's sketches, vote for the best sketch and write down why\nthey had voted for that particular sketch. In the final stage, children entered the\nmulti-player mode and had to start designing the park together. This final design-\ning phase was directed at cooperation between the children: they had to agree on\nhow to design the park and work together in order to be able to realize their ideas\n(interview with Heeswijk, 2007). To realize their ideas, players thus needed to\ncommunicate and cooperate. The discussion option of the game was facilitated\nthrough a chat function. This chat function was one of the few aspects of the\ngame that did not work as it had been intended and projected by the designers.\nChildren working with the Interactor did not use the chat function for communi-",
+  "page_idx": 0,
+  "bbox": [
+   0.12337,
+   0.659,
+   0.87687,
+   0.90942
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "PART IV: SERIOUS GEOGRAPHIES OF PLAY",
+  "page_idx": 0,
+  "bbox": [
+   0.12337,
+   0.94687,
+   0.46624,
+   0.95855
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "115",
+  "page_idx": 0,
+  "bbox": [
+   0.84365,
+   0.94634,
+   0.87337,
+   0.96057
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

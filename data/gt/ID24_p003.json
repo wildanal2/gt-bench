@@ -1,0 +1,417 @@
+[
+ {
+  "type": "text",
+  "text": "Imam Riadi, Sunardi, Panggah Widiandana",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 730 – 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 3. Alur tahapan prepocessing",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Case folding",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Tokenizing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Stopword",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Stemming",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Gambar 3 merupakan alur tahapan prepocessing yang terdiri dari tahap case folding melakukan pengubahan huruf kapital menjadi huruf kecil pada percakapan yang ada dan hanya huruf yang diterima untuk proses text mining [16], tahap tokenizing melakukan pemecahan kalimat menjadi perkata dan menghilangkan tanda baca seperti petik (“), seru (!), tanya (?) [17], tahap stopword adalah kosakata yang bukan merupakan ciri (kata unik) dari suatu dokumen. Misalnya “di”, “oleh”, “pada”, “sebuah”, “karena” dan lain sebagainya. Stopword didefinisikan sebagai hal yang tidak relevan sehubungan dengan subjek utama dari database, meskipun mungkin sering terdapat dalam dokumen Stopword termasuk penentu, konjungsi, preposisi dan sejenisnya [18], tahap stemming adalah tahapan untuk proses pengembalian kata dari kata berimbuhan menjadi kata asal atau kata dasar [19].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.3. TF-IDF",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Term Frequency (TF) adalah jumlah kata yang terkandung dalam percakapan. Semakin besar kata yang sering muncul maka semakin besar bobotnya seperti dapat dilihat pada Rumus 1.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "W(d, t) = TF(d, t) \\quad (1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Dengan TF(d, t) adalah jumlah kemunculan term t pada teks d. Inverse Document Frequency (IDF) merupakan banyaknya dokumen yang mengandung kata [20] sesuai dengan Rumus 2.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; matematika sebaris ditulis teks biasa"
+ },
+ {
+  "type": "text",
+  "text": "idf_t = \\log 10 \\left( \\frac{N}{df_t} \\right) \\quad (2)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Dengan N adalah jumlah seluruh dokumen di kumpulan dokumen dan dft adalah jumlah dokumen yang mengandung kata yang menjadi target. Semakin sedikit jumlah dokumen yang mengandung kata target, maka bobot IDF akan semakin besar. TF-IDF perkalian bobot TF dengan IDF dari tiap kata sesuai dengan Rumus 3.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; matematika sebaris ditulis teks biasa; subskrip ditulis sebaris (dft)"
+ },
+ {
+  "type": "text",
+  "text": "w = tf_t \\times idf_t \\quad (3)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Dengan w adalah weight atau hasil dari perkalian antara term frequency dengan inverse document frequency. tft adalah term frequency merupakan jumlah term dari setiap dokumen, dan idft adalah term document frequency merupakan banyak dokumen yang mengandung term pada Query.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; matematika sebaris ditulis teks biasa; subskrip ditulis sebaris (tft, idft)"
+ },
+ {
+  "type": "text",
+  "text": "2.4. Improved Sqrt-Cosine (ISC)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Cosine Similarity merupakan metode yang digunakan untuk mengidentifikasi terjadinya kasus cyberbullying [21] seperti Rumus 4. Meningkatkan efektifitas untuk deteksi menggunakan pengembangan dari metode Cosine Similarity yaitu menggunakan metode Improved Sqrt-Cosine (ISC) menggunakan Rumus 4 [22].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "ISC\\ (d_i, q_i) = \\frac{\\Sigma_{j=01}^{i} \\sqrt{q_{ij} \\cdot d_{ij}}}{\\sqrt{\\Sigma_{j=1}^{t} (q_{ij})} . \\sqrt{\\Sigma_{j=1}^{t} (d_{ij})}} \\quad (4)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Dengan qij adalah bobot istilah j pada query i, dan dij adalah bobot istilah j pada percakapan i.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; matematika sebaris ditulis teks biasa; subskrip ditulis sebaris (qij, dij)"
+ },
+ {
+  "type": "text",
+  "text": "3. Hasil dan Pembahasan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "3.1. Identification",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Identifikasi dilakukan dengan memberi keterangan pada barang bukti digital yang telah didapatkan seperti pada Gambar 4. Terdapat beberapa form untuk mengidentifikasi barang bukti seperti waktu dilakukan imaging dan bahasa yang digunakan. Case label merupakan judul dari case barang bukti yang akan diinvestigasi sehingga penanganan case tidak akan salah sasaran dan investigator mengetahui case secara singkat dari barang bukti yang akan diinvestigasi. Case evidence number merupakan nomor barang bukti yang membantu investigator mengetahui case yang ditangani merupakan barang bukti case yang keberapa karena terkadang dalam satu case yang sama terdapat banyak barang bukti yang perlu dianalisis sehingga perlunya case evidence number diperlukan untuk mempermudah dalam membedakan barang bukti satu dengan yang lainnya. Case note merupakan catatan untuk menandai barang bukti untuk mempermudah dalam melakukan investigasi sehingga lebih mudah melakukan identifikasi barang bukti yang telah ditemukan seperti kapan pengambilan, dimana, siapa saja, dan bagaimana kronologinya sehingga barang bukti yang telah didapatkan dapat benar-benar teridentifikasi dengan jelas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 4. Identification Barang Bukti Digital",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar; teks sangat kecil (judul jendela, versi/scripts) tidak terbaca pada skala cetak, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit FORENSIC EXPRESS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Fill in appropriate information",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G532G",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "IMEI - 354617081707690",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "IMSI - 510113796596300",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "ROOTED",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "REPORT DETAILS:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Report time zone: Phone time zone (Asia/Jakarta)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Report language: Default (English)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "CASE DETAILS:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Case label: Cyberbullying",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Case evidence number: 001",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Case notes: Bullying pada group kelas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Clear Case details",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "PHONE DETAILS:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Device label: Smartphone Korban",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Device name: samsung SM-G532G",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Device evidence number: 001",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Owner name:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Owner phone number:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Phone notes: Imaging dan analisis cyberbullying",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Back",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Next",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar; label + isian sebaris digabung"
+ },
+ {
+  "type": "text",
+  "text": "3.2. Preservation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Preservation seperti pada Gambar 5 dilakukan untuk menjaga keaslian dan keamanan barang bukti untuk itu diperlukan proses imaging untuk mengambil barang bukti pada smartphone korban yang telah didapat.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 730 – 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "732",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

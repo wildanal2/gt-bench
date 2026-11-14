@@ -1,0 +1,125 @@
+[
+ {
+  "type": "text",
+  "text": "Penghasilan yang merupakan Objek PPh",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "text",
+  "text": "Penghasilan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; judul kotak"
+ },
+ {
+  "type": "text",
+  "text": "dari pekerjaan, contoh: gaji, honor, tunjangan, bonus, insentif, komisi, uang pensiun",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "hadiah (kecuali dari undian) atau pekerjaan atau kegiatan dan penghargaan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "laba usaha",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "keuntungan karena penilaian harta",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "bunga di luar bunga bank",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "di luar bunga bank",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir tercetak demikian di sumber"
+ },
+ {
+  "type": "text",
+  "text": "royalti, keuntungan karena pembebasan hutang, keuntungan karena selisih kurs",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DIPOTONG PPH PASAL 21",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks berupa gambar tanpa lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "DIPEROLEH MELALUI HASIL PEMBUKUAN & DILAPORKAN DALAM SPT TAHUNAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks berupa gambar tanpa lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "DILAPORKAN DAN DIHITUNG DALAM SPT TAHUNAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks berupa gambar tanpa lapisan teks"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

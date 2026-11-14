@@ -1,0 +1,142 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Bagaimana audit kami merespons Hal Audit Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul tebal di bawah butir hal audit utama 2 (halaman sebelumnya)",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kami memahami lingkungan TI dan pengendalian TI yang mendukung proses pelaporan keuangan. Kami menilai efektivitas desain, implementasi, dan pengoperasian pengendalian utama atas sistem TI yang relevan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kami menguji hal-hal berikut:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pengendalian atas manajemen perubahan: Proses dan pengendalian yang digunakan untuk mengembangkan, menguji, dan melakukan otorisasi perubahan pada fungsionalitas dan konfigurasi dalam sistem;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "Pengendalian atas keamanan akses pengguna: Pengendalian akses yang dirancang untuk memberlakukan pemisahan tugas, mengatur penggunaan akun generik dan istimewa dan bahwa data hanya diubah melalui mekanisme yang terotorisasi; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "Pengendalian terkait pengoperasian TI: Pengendalian atas operasi yang mengidentifikasi dan mengelola masalah operasi TI yang muncul.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "Kami menguji pengendalian relevan yang bergantung pada TI yang mendukung proses pelaporan keuangan, termasuk perhitungan otomatis, pemrosesan transaksi, pembuatan laporan oleh sistem, dan perpindahan antar sistem yang relevan. Kami memeriksa konfigurasi sistem yang relevan dan menguji keluaran sistem berdasarkan uji petik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Informasi lain",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Manajemen bertanggung jawab atas informasi lain. Informasi lain terdiri dari informasi yang tercantum dalam laporan tahunan, tetapi tidak termasuk laporan keuangan konsolidasian dan laporan auditor kami. Laporan tahunan diharapkan akan tersedia bagi kami setelah tanggal laporan auditor ini.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Opini kami atas laporan keuangan konsolidasian tidak mencakup informasi lain, dan oleh karena itu, kami tidak menyatakan bentuk keyakinan apapun atas informasi lain tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sehubungan dengan audit kami atas laporan keuangan konsolidasian, tanggung jawab kami adalah untuk membaca informasi lain yang teridentifikasi di atas, jika tersedia dan, dalam melaksanakannya, mempertimbangkan apakah informasi lain mengandung ketidakkonsistensian material dengan laporan keuangan konsolidasian atau pemahaman yang kami peroleh selama audit, atau mengandung kesalahan penyajian material.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Ketika kami membaca laporan tahunan, jika kami menyimpulkan bahwa terdapat suatu kesalahan penyajian material di dalamnya, kami diharuskan untuk mengkomunikasikan hal tersebut kepada pihak yang bertanggung jawab atas tata kelola dan mengambil tindakan tepat berdasarkan Standar Audit yang ditetapkan oleh Institut Akuntan Publik Indonesia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Tanggung jawab manajemen dan pihak yang bertanggung jawab atas tata kelola terhadap laporan keuangan konsolidasian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Manajemen bertanggung jawab atas penyusunan dan penyajian wajar laporan keuangan konsolidasian tersebut sesuai dengan Standar Akuntansi Keuangan di Indonesia, dan atas pengendalian internal yang dianggap perlu oleh manajemen untuk memungkinkan penyusunan laporan keuangan konsolidasian yang bebas dari kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "00015/2.1457/AU.1/07/0222-1/1/I/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan; 'I' dibaca angka Romawi"
+ }
+]

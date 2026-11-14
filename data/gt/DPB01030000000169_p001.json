@@ -1,0 +1,159 @@
+[
+ {
+  "type": "text",
+  "text": "· Lime is recommended if pH < 5.8",
+  "page_idx": 0,
+  "bbox": [
+   0.1016,
+   0.07644,
+   0.34871,
+   0.08643
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\text{Target}\\mathrm{pH}\\text{of}5.5=[6,405-(1,590\\times\\text{buffer}\\mathrm{pH})+(98\\times\\text{buffer}\\mathrm{pH}\\times\\text{buffer}\\mathrm{pH})]\\times\\text{depth}\\\\",
+  "page_idx": 0,
+  "bbox": [
+   0.09019,
+   0.10405,
+   0.79275,
+   0.1587
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "· Depth is in inches\n· Used if cash flow is limited or in lime availability problem areas in Central and Western Kansas\n· Lime is recommended if pH < 5.5",
+  "page_idx": 0,
+  "bbox": [
+   0.09932,
+   0.17691,
+   0.77374,
+   0.2245
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "This buffer contains chromium (Cr), a toxic heavy metal. Therefore, your lab instructor will perform the SMP buffer\nanalysis. As a class, determine which soil-water mixtures from Activity 1 need lime (pH ≤ 6.4). To those solutions, add\n10 ml of the SMP buffer solution, and stir with a glass rod. Allow the mixtures to stand for 30 minutes, which should be\nenough time for the acid cations to be displaced from the CEC and forced into solution. Read the pH on meter.",
+  "page_idx": 0,
+  "bbox": [
+   0.08639,
+   0.24624,
+   0.90921,
+   0.31439
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Assuming the desired pH is 6.0 (i.e. use the middle equation), calculate the lime requirement, show your work\nbelow, and record your results in Table 14.1.",
+  "page_idx": 0,
+  "bbox": [
+   0.13213,
+   0.32967,
+   0.90617,
+   0.35787
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Activity 5: Evaluating Liming Materials",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09019,
+   0.4319,
+   0.45908,
+   0.45012
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The type of liming material and the size or fineness of the material determine how efficiently liming materials raise soil\npH. This experiment was actually initiated earlier in the semester to allow time for the liming agents to react. Amending\nthe soil with several different liming agents allows us assess the effects of particle size and liming material based on the\nrelative changes in soil. The treatments included the following:",
+  "page_idx": 0,
+  "bbox": [
+   0.08803,
+   0.47832,
+   0.91301,
+   0.54706
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Reagent grade CaCO3\n· Reagent grade CaO\n· Reagent grade CaSO4\n· Coarse dolomitic limestone (35 mesh)\n· Fine dolomitic limestone (120 mesh)\n· Control (no amendments)",
+  "page_idx": 0,
+  "bbox": [
+   0.09716,
+   0.56762,
+   0.38153,
+   0.66809
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "When this experiment was initiated, each lab section was divided into six groups, with each group responsible for one\nof the six treatments. Your laboratory instructor assigned a treatment to your group, and you completed the following\nsteps:",
+  "page_idx": 0,
+  "bbox": [
+   0.09108,
+   0.68866,
+   0.91605,
+   0.73919
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1. Label four plastic bags\n2. Weigh 20 g of air-dry soil into each plastic bag.\n3. Weigh 0.1 gram of designated liming material onto weighing paper.\n4. Add the liming material to the soil and mix thoroughly to distribute evenly in the soil.\n5. Add a few mL of water to each bag and mix.\n6. Close the bags to start incubation.",
+  "page_idx": 0,
+  "bbox": [
+   0.09108,
+   0.75623,
+   0.70468,
+   0.85904
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Now that the liming agents have had time to react, you will collect the results.",
+  "page_idx": 0,
+  "bbox": [
+   0.09019,
+   0.88078,
+   0.62636,
+   0.8943
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "130 | Soil Acidity and Adjusting Soil pH",
+  "page_idx": 0,
+  "bbox": [
+   0.08803,
+   0.94013,
+   0.34199,
+   0.95423
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

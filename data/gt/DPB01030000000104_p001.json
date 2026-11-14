@@ -1,0 +1,95 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.12056,
+   0.10712,
+   0.88116,
+   0.35465
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "An overview of each actor's role in this ecosystem is described below.",
+  "page_idx": 0,
+  "bbox": [
+   0.0853,
+   0.45344,
+   0.73506,
+   0.47126
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Publishers",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08937,
+   0.52434,
+   0.24246,
+   0.54778
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Publishers work to \"make public\" scholarly work in the form of textbooks, journals, and\nmonographs, and represent a wide range of publishing approaches, business models,\nbudgets, and institutional affiliations. With our focus on monographs, the two most\nsignificant groups are large commercial publishers and university presses. These publish\nthe vast majority of monographs in circulation, although in recent years, smaller open\naccess publishers have also begun to emerge.",
+  "page_idx": 0,
+  "bbox": [
+   0.0853,
+   0.58569,
+   0.91406,
+   0.71351
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The role of publishers includes (among other things):",
+  "page_idx": 0,
+  "bbox": [
+   0.0853,
+   0.73077,
+   0.58476,
+   0.7486
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· acquisitions and list curation\n· editorial work and coordinating peer review\n· design and production (for various formats, typically: print, digital PDF, and EPUB)\n· distribution and marketing of finished products into various channels (libraries,\naggregators, stores) where readers can access books",
+  "page_idx": 0,
+  "bbox": [
+   0.1048,
+   0.77374,
+   0.89529,
+   0.87813
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "6 | The Scholarly Publishing Ecosystem",
+  "page_idx": 0,
+  "bbox": [
+   0.08664,
+   0.93641,
+   0.34904,
+   0.94936
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

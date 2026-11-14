@@ -1,0 +1,61 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No.</th><th>Component (English)</th><th>Komponen (Bahasa Indonesia)</th><th>Jumlah (Diaudit)</th><th>No. Ref yang berasal dari Neraca</th></tr><tr><td>Modal Inti Tambahan (AT 1) : Instrumen</td><td></td><td></td><td></td><td></td></tr><tr><td>30</td><td>Directly issued qualifying Additional Tier 1 instruments plus related stock surplus</td><td>Instrumen AT1 yang diterbitkan oleh bank (termasuk stock surplus)</td><td>-</td><td></td></tr><tr><td>31</td><td>of which: classified as equity under applicable accounting standards</td><td>Yang diklasifikasikan sebagai ekuitas berdasarkan standar akuntansi</td><td>-</td><td></td></tr><tr><td>32</td><td>of which: classified as liabilities under applicable accounting standards</td><td>Yang diklasifikasikan sebagai liabilitas berdasarkan standar akuntansi</td><td>-</td><td></td></tr><tr><td>33</td><td>Directly issued capital instruments subject to phase out from Additional Tier 1</td><td>Modal yang termasuk phase out dari AT1</td><td>N/A</td><td></td></tr><tr><td>34</td><td>Additional Tier 1 instruments (and CET1 instruments not included in row 5) issued by subsidiaries and held by third parties (amount allowed in group AT1)</td><td>Instrumen AT1 yang diterbitkan oleh Entitas Anak yang diakui dalam perhitungan KPMM secara konsolidasi</td><td>-</td><td></td></tr><tr><td>35</td><td>of which: instruments issued by subsidiaries subject to phase out</td><td>Instrumen yang diterbitkan Entitas Anak yang termasuk phase out</td><td>N/A</td><td></td></tr><tr><td>36</td><td>Additional Tier 1 capital before regulatory adjustments</td><td>Jumlah AT1 sebelum regulatory adjusment</td><td>-</td><td></td></tr><tr><td>Modal Inti Tambahan : Faktor Pengurang (Regulatory Adjusment)</td><td></td><td></td><td></td><td></td></tr><tr><td>37</td><td>Investments in own Additional Tier 1 instruments</td><td>Investasi pada instrumen AT1 sendiri</td><td>N/A</td><td></td></tr><tr><td>38</td><td>Reciprocal cross-holdings in Additional Tier 1 instruments</td><td>Kepemilikan silang pada instrumen AT 1 pada entitas lain</td><td>-</td><td></td></tr><tr><td>39</td><td>Investments in the capital of Banking, financial and insurance entities that are outside the scope of regulatory consolidation, net of eligible short positions, where the Bank does not own more than 10% of the issued common share capital of the entity (amount above 10% threshold)</td><td>Investasi pada modal bank, entitas keuangan dan asuransi diluar cakupan konsolidasi secara ketentuan, net posisi short yang diperkenankan, dimana Bank tidak memiliki lebih dari 10% modal saham yang diterbitkan (jumlah di atas batasan 10%)</td><td>N/A</td><td></td></tr><tr><td>40</td><td>Significant investments in the capital of Banking, financial and insurance entities that are outside the scope of regulatory consolidation (net of eligible short positions)</td><td>Investasi signifikan pada modal bank, entitas keuangan dan asuransi di luar cakupan konsolidasi secara ketentuan (net posisi short yang diperkenankan)</td><td>N/A</td><td></td></tr><tr><td>41</td><td>National specific regulatory adjustments</td><td>Penyesuaian berdasarkan ketentuan spesifik nasional</td><td></td><td></td></tr><tr><td></td><td></td><td>41a. Penempatan dana pada instrumen AT 1 pada Bank lain</td><td>-</td><td></td></tr><tr><td>42</td><td>Regulatory adjustments applied to Additional Tier 1 due to insufficient Tier 2 to cover deductions</td><td>Penyesuaian pada AT 1 akibat Tier 2 lebih kecil daripada faktor pengurangnya</td><td>-</td><td></td></tr><tr><td>43</td><td>Total regulatory adjustments to Additional Tier 1 capital</td><td>Jumlah faktor pengurang (regulatory adjusment) terhadap AT1</td><td>-</td><td></td></tr><tr><td>44</td><td>Additional Tier 1 capital (AT1)</td><td>Jumlah AT1 setelah faktor pengurang</td><td>-</td><td></td></tr><tr><td>45</td><td>Tier 1 capital (T1 = CET 1 + AT 1)</td><td>Jumlah Modal Inti (Tier 1) (CET1 + AT1)</td><td>29,834,471</td><td></td></tr><tr><td>Modal Pelengkap (Tier 2) : Instrumen dan Cadangan</td><td></td><td></td><td></td><td></td></tr><tr><td>46</td><td>Directly issued qualifying Tier 2 instruments plus related stock surplus</td><td>Instrumen Tier 2 yang diterbitkan oleh bank (termasuk stock surplus)*</td><td>549,605</td><td></td></tr><tr><td>47</td><td>Directly issued capital instruments subject to phase out from Tier 2</td><td>Modal yang termasuk phase out dari Tier 2</td><td>N/A</td><td></td></tr><tr><td>48</td><td>Tier 2 instruments (and CET1 and AT1 instruments not included in rows 5 or 34) issued by subsidiaries and held by third parties (amount allowed in group Tier 2)</td><td>Instrumen Tier 2 yang diterbitkan oleh entitas anak yang diakui dalam perhitungan KPMM secara konsolidasi</td><td>-</td><td></td></tr><tr><td>49</td><td>of which: instruments issued by subsidiaries subject to phase out</td><td>Modal yang diterbitkan Entitas Anak yang termasuk phase out</td><td>N/A</td><td></td></tr><tr><td>50</td><td>Provisions</td><td>Cadangan umum PPKA atas aset produktif yang wajib dihitung dengan jumlah paling tinggi sebesar 1,25% dari ATMR untuk Risiko Kredit</td><td>1,888,954</td><td></td></tr><tr><td>51</td><td>Tier 2 capital before regulatory adjustments</td><td>Jumlah Modal Pelengkap (Tier 2) sebelum faktor pengurang</td><td>2,438,559</td><td></td></tr><tr><td>Modal Pelengkap (Tier 2) : Faktor Pengurang (Regulatory Adjusment)</td><td></td><td></td><td></td><td></td></tr><tr><td>52</td><td>Investments in own Tier 2 instruments</td><td>Investasi pada instrumen Tier 2 sendiri</td><td>N/A</td><td></td></tr><tr><td>53</td><td>Reciprocal cross-holdings in Tier 2 instruments and other TLAC liabilities</td><td>Kepemilikan silang pada instrumen Tier 2 pada entitas lain</td><td>-</td><td></td></tr><tr><td>54</td><td>Investments in the other TLAC liabilities of banking, financial and insurance entities that are outside the scope of regulatory consolidation and where the bank does not own more than 10% of the issued common share capital of the entity: amount previously designated for the 5% threshold but that no longer meets the conditions (for G-SIBs only)</td><td>Investasi pada kewajiban TLAC modal bank, entitas keuangan dan asuransi diluar cakupan konsolidasi secara ketentuan, net posisi short yang diperkenankan, dimana Bank tidak memiliki lebih dari 10% modal saham yang diterbitkan; nilai sebelumnya ditetapkan dengan threshold 5% namun tidak lagi memenuhi kriteria (untuk Bank Sistemik)</td><td>N/A</td><td></td></tr><tr><td>55</td><td>Significant investments in the capital and other TLAC liabilities of banking, financial and insurance entities that are outside the scope of regulatory consolidation (net of eligible short positions)</td><td>Investasi signifikan pada modal atau instrumen TLAC bank, entitas keuangan dan asuransi di luar cakupan konsolidasi secara ketentuan (net posisi short yang diperkenankan)</td><td>N/A</td><td></td></tr><tr><td>56</td><td>National specific regulatory adjustments</td><td>Penyesuaian berdasarkan ketentuan spesifik nasional</td><td>-</td><td></td></tr><tr><td></td><td></td><td>56a. Sinking fund</td><td>-</td><td></td></tr><tr><td></td><td></td><td>56b. Penempatan dana pada instrumen Tier 2 pada Bank lain</td><td>-</td><td></td></tr><tr><td>57</td><td>Total regulatory adjustments to Tier 2 capital</td><td>Jumlah faktor pengurang (regulatory adjusment) Modal Pelengkap</td><td>-</td><td></td></tr><tr><td>58</td><td>Tier 2 capital (T2)</td><td>Jumlah Modal Pelengkap (Tier 2) setelah regulatory adjusment</td><td>2,438,559</td><td></td></tr><tr><td>59</td><td>Total capital</td><td>Total Modal (Modal Inti + Modal Pelengkap)</td><td>32,273,030</td><td></td></tr><tr><td>60</td><td>Total risk weighted assets</td><td>Total Aset Tertimbang Menurut Risiko (ATMR)</td><td>174,444,978</td><td></td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; lanjutan tabel CC1 dari halaman sebelumnya (header diulang di sumber); bilingual kolom terpisah; baris seksi biru merentang penuh di sumber, dicatat di sel pertama dengan sel lain kosong; baris 41a, 56a, 56b berdiri sendiri dengan sel No./Component kosong (ada garis pemisah); spasi ganda di sekitar istilah miring dirapatkan jadi satu; spasi sebelum ) dihapus bila celahnya hanya celah huruf miring"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor halaman; furniture"
+ }
+]

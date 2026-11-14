@@ -1,0 +1,107 @@
+[
+ {
+  "type": "text",
+  "text": "CIRCULATING THINGS, CIRCULATING STEREOTYPES",
+  "page_idx": 0,
+  "bbox": [
+   0.10101,
+   0.04798,
+   0.48652,
+   0.06158
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "83",
+  "page_idx": 0,
+  "bbox": [
+   0.87715,
+   0.04798,
+   0.89966,
+   0.05987
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10518,
+   0.0828,
+   0.89308,
+   0.49308
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 4.10 James Gillray, High Change in Bond Street; ou la politesse du grande monde [graphic]. Etching on wove paper,\nhand-colored.\nPUBLISHED BY H. HUMPHREY, LONDON, 1796",
+  "page_idx": 0,
+  "bbox": [
+   0.09975,
+   0.5056,
+   0.88187,
+   0.55104
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "meant to bewilder the viewer. Satins, silks, ivory,\ngigantic eggs, and \"artificial\" apples describe, in\nfact, the things of the trade: expensive and rare\nfabrics, on the one hand, strange collectibles and\nexotica, on the other. Lavish dresses and embel-\nlishments become insignia of wealth, power, and\nnonconformity, of a way of life outside the eco-\nnomic constraints of the Western civilization. In-\nterestingly, such projections were internalized by\neighteenth-century British subjects in the fashion-\nable \"Turquerie\" that allowed the wearers to dis-\nplay their wealth by wearing Oriental dress, tur-\nbans, ostrichplumes,longcapes, veils,andflattering\nshalvars (figs. 4.9 and 4.10). Anotherinfusion ofOri-\nentalismin the West, the tradition ofpainting Euro-\npean figures in Middle Eastern dress, becomes a\nform of cultural cross-dressing meant to suggest",
+  "page_idx": 0,
+  "bbox": [
+   0.09975,
+   0.59306,
+   0.49255,
+   0.90345
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "misuse of power or excessive wealth (fig. 4.11).\nSuch cultural imports are difficult to be under-\nstood, to use Said's qualification, as expressions of\nthe Occident's cultural \"antipathy\"84 toward the\nOrient;rather, they reflect the West's attraction to a\nspace that connotes difference understood as ex-\ntraordinariness rather than inferiority.",
+  "page_idx": 0,
+  "bbox": [
+   0.51008,
+   0.59306,
+   0.89966,
+   0.7211
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Besides their connotations of magic, exoticism,\nand wealth, the things in the Arabian Nights are also\nrich bearers of cultural information: as Marina War-\nner correctly pointed out, \"stories are lodged in\ngoods\"85 and as such, they expand the reader's",
+  "page_idx": 0,
+  "bbox": [
+   0.50912,
+   0.72322,
+   0.89966,
+   0.80968
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "84 Said, Orientalism, 260.\n85 Marina Warner, introduction to Stranger Magic:\nCharmed States and the Arabian Nights (London: Chat-\nto & Windus, 2011), 8.",
+  "page_idx": 0,
+  "bbox": [
+   0.51008,
+   0.83813,
+   0.90257,
+   0.90345
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

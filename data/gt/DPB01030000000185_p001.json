@@ -1,0 +1,187 @@
+[
+ {
+  "type": "text",
+  "text": "2023\nDec\n29\n[cs.CL]\narXiv:2312.15166v2",
+  "page_idx": 0,
+  "bbox": [
+   0.02851,
+   0.308,
+   0.0596,
+   0.72601
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective\nDepth Up-Scaling",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11898,
+   0.08185,
+   0.87782,
+   0.11961
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Dahyun Kim*, Chanjun Park*†, Sanghoon Kim*†, Wonsung Lee*†, Wonho Song\nYunsu Kim, Hyeonwoo Kim, Yungi Kim, Hyeonju Lee, Jihoo Kim\nChangbae Ahn, Seonghoon Yang, Sukyung Lee, Hyunbyung Park, Gyoungjin Gim\nMikyoung Cha, Hwalsuk Lee†, Sunghun Kim†",
+  "page_idx": 0,
+  "bbox": [
+   0.14608,
+   0.12694,
+   0.85869,
+   0.19345
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Upstage AI, South Korea",
+  "page_idx": 0,
+  "bbox": [
+   0.39956,
+   0.2098,
+   0.6068,
+   0.22671
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "{kdahyun, chanjun . park, limerobot, wonsung . lee, hwalsuk . lee, hunkim} @upstage . ai",
+  "page_idx": 0,
+  "bbox": [
+   0.07434,
+   0.22896,
+   0.93043,
+   0.24305
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Abstract",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.26246,
+   0.25433,
+   0.34217,
+   0.26729
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "We introduce SOLAR 10.7B, a large language\nmodel (LLM) with 10.7 billion parameters,\ndemonstrating superior performance in various\nnatural language processing (NLP) tasks. In-\nspired by recent efforts to efficiently up-scale\nLLMs, we present a method for scaling LLMs\ncalled depth up-scaling (DUS), which encom-\npasses depthwise scaling and continued pre-\ntraining. In contrast to other LLM up-scaling\nmethods that use mixture-of-experts, DUS does\nnot require complex changes to train and infer-\nence efficiently. We show experimentally that\nDUS is simple yet effective in scaling up high-\nperformance LLMs from small ones. Building\non the DUS model, we additionally present SO-\nLAR 10.7B-Instruct, a variant fine-tuned for\ninstruction-following capabilities, surpassing\nMixtral-8x7B-Instruct. SOLAR 10.7B is pub-\nlicly available under the Apache 2.0 license,\npromoting broad access and application in the\nLLM field 1.",
+  "page_idx": 0,
+  "bbox": [
+   0.14528,
+   0.27969,
+   0.46173,
+   0.57618
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1 Introduction",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11739,
+   0.59083,
+   0.25927,
+   0.60436
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The field of natural language processing (NLP)\nhas been significantly transformed by the introduc-\ntion of large language models (LLMs), which have\nenhanced our understanding and interaction with\nhuman language (Zhang et al., 2023a). These ad-\nvancements bring challenges such as the increased\nneed to train ever larger models (Rae et al., 2021;\nWang et al., 2023; Pan et al., 2023; Lian, 2023;\nYao et al., 2023; Gesmundo and Maile, 2023) OW-\ning to the performance scaling law (Kaplan et al.,\n2020; Hernandez et al., 2021; Anil et al., 2023;\nKaddour et al., 2023). To efficiently tackle the\nabove, recent works in scaling language models\nsuch as a mixture of experts (MoE) (Shazeer et al.,\n2017; Komatsuzaki et al., 2022) have been pro-\nposed. While those approaches are able to effi-",
+  "page_idx": 0,
+  "bbox": [
+   0.11579,
+   0.61563,
+   0.49202,
+   0.87379
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "ciently and effectively scale-up LLMs, they often\nrequire non-trivial changes to the training and infer-\nence framework (Gale et al., 2023), which hinders\nwidespread applicability. Effectively and efficiently\nscaling up LLMs whilst also retaining the simplic-\nity for ease of use is an important problem (Alberts\net al., 2023; Fraiwan and Khasawneh, 2023; Sallam\net al., 2023; Bahrini et al., 2023).",
+  "page_idx": 0,
+  "bbox": [
+   0.51106,
+   0.25433,
+   0.88729,
+   0.38163
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Inspired by Komatsuzaki et al. (2022), we\npresent depth up-scaling (DUS), an effective and\nefficient method to up-scale LLMs whilst also re-\nmaining straightforward to use. DUS consists of\nscaling the base model along the depth dimension\nand continually pretraining the scaled model. Un-\nlike (Komatsuzaki et al., 2022), DUS does not scale\nthe model using MoE and rather use a depthwise\nscaling method analogous to Tan and Le (2019)\nwhich is adapted for the LLM architecture. Thus,\nthere are no additional modules or dynamism as\nwith MoE, making DUS immediately compatible\nwith easy-to-use LLM frameworks such as Hug-\ngingFace (Wolf et al., 2019) with no changes to\nthe training or inference framework for maximal\nefficiency. Furthermore, DUS is applicable to all\ntransformer architectures, opening up new gate-\nways to effectively and efficiently scale-up LLMs\nin a simple manner. Using DUS, we release SO-\nLAR 10.7B, an LLM with 10.7 billion parameters,\nthat outperforms existing models like Llama 2 (Tou-\nvron et al., 2023) and Mistral 7B (Jiang et al., 2023)\nin various benchmarks.",
+  "page_idx": 0,
+  "bbox": [
+   0.51106,
+   0.38561,
+   0.88729,
+   0.75283
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We have also developed SOLAR 10.7B-Instruct,\na variant fine-tuned for tasks requiring strict adher-\nence to complex instructions. It significantly out-\nperforms the Mixtral-8x7B-Instruct model across\nvarious evaluation metrics, evidencing an advanced\nproficiency that exceeds the capabilities of even\nlarger models in terms of benchmark performance.",
+  "page_idx": 0,
+  "bbox": [
+   0.51106,
+   0.75748,
+   0.88729,
+   0.86902
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "By releasing SOLAR 10.7B under the Apache\n2.0 license, we aim to promote collaboration and in-\nnovation in NLP. This open-source approach allows",
+  "page_idx": 0,
+  "bbox": [
+   0.51106,
+   0.87192,
+   0.88729,
+   0.92072
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "*Equal Contribution † Corresponding Author\n1https://huggingface.co/upstage/\nSOLAR-10.7B-v1.0",
+  "page_idx": 0,
+  "bbox": [
+   0.11898,
+   0.88042,
+   0.42488,
+   0.91657
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

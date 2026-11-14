@@ -1,0 +1,246 @@
+[
+ {
+  "type": "text",
+  "text": "Rastri Prathivi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 717 – 722",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Algoritma pada metode CNN diawali dengan proses preprocessing. Pada langkah yang pertama ini prepocessing dilakukan untuk data training dan data testing. Di dalam preprocessing citra yang di-input-kan akan mengalami distorsi citra secara acak. Hal ini menyebabkan citra training menjadi lebih besar ukurannya. Sedangkan pada pembentukan neural network pada fase testing, citra testing akan mengalami distorsi di bagian tengah saja. Neural network yang sudah terbentuk selanjutnya perlu dioptimasi pada proses training. Adam Optimizer digunakan untuk meminimalisir loss function. Untuk mengoptimalkan kinerja neural network maka pada langkah ketiga ditambahkan bobot pada lapisan konvolusional. Selanjutnya langkah keempat adalah mengambil output pada lapisan konvolusi serta menambahkan fungsi optimasi iterasi. Fungsi optimasi iterasi ini digunakan untuk mengoptimalkan sejumlah iterasi dan secara bertahap akan meningkatkan variabel lapisan jaringan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pada setiap iterasi kumpulan sampel data baru akan dipilih dari dataset training dan program akan mengoptimasi berdasarkan data sampel tersebut. Hasilnya akan dicetak setiap 100 iterasi dan akan disimpan setiap 1000 iterasi setelah iterasi terakhir dijalankan. Akurasi dari proses konvolusi neural network ditentukan dengan perhitungan confusion matrix. Dan langkah terakhir adalah menghitung klasifikasi dan menampilkan hasil prediksi dari dataset testing",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.2. Arsitektur Model TL-Inception CNN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Model Transfer Learning Inception CNN atau dikenal dengan nama Model Inception v3 adalah berasal dari Google cloud machine learning. Untuk melatih dataset training menggunakan model tersebut langsung di komputer terlalu berat sehingga pada penelitian ini penulis akan mengunduh model Inception yang sudah dilatih sebelumnya dan menggunakannya untuk mengklasifikasi citra CIFAR-10 dan membangun classifier.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 2. Arsitektur Model TL-Inception CNN",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram arsitektur"
+ },
+ {
+  "type": "text",
+  "text": "Transfer-value disimpan di cache",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Citra Input",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Lapisan Terhubung penuh (1024 fitur)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "0.1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "0.9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Lapisan Softmax",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "0 1 2 3 4 5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "7 8 9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Nomor Kelas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Pada gambar 2 terlihat bahwa pada model TL-Inception digunakan sebagai pra latih (pretraining) bagi dataset neural network yang kedua dan memiliki struktur lapisan yang kompleks. Transfer-value ini berisi perhitungan fitur dari dataset yang diproses. Transfer – value ini kemudian digunakan sebagai input pada neural network kedua yang akan dilatih dengan kelas-kelas dari dataset baru. Hasil dari klasifikasi akhir didasarkan pada transfer-value yang diperoleh dari model TL-Inception.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; dicek: 'Transfer –' di akhir kolom kiri dengan spasi dan en dash, ditulis apa adanya + spasi"
+ },
+ {
+  "type": "text",
+  "text": "2.3. Algoritma Model TL-CNN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Proses awal dalam algoritma model TL-CNN adalah klasifikasi citra menggunakan model inception V3 yang diterapkan pada citra CIFAR-10. Model inception ditransfer menjadi objek model. Dataset pada CIFAR-10 yang ditransfer ke model inception memerlukan skala pixel 0 sampai 255. Sedangkan pada dataset CIFAR-10 hanya akan mengembalikan nilai pixel antara 0 sampai 1. Maka diperlukan sebuah objek untuk menampung hasil perkalian dengan 255 pada data training dan data testing.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Program Optimasi_PCA_t-SNE",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul listing program"
+ },
+ {
+  "type": "text",
+  "text": "#Input:\n# Import algoritma PCA dan t-SNE dari library sklearn\nfrom sklearn.decomposition import PCA\nfrom sklearn.manifold import TSNE\ntransfer_values = transfer_values_train[0:1000]\ncls = cls_train[0:1000]\n#Proses algoritma PCA dan t-SNE:\n# Mengurangi dimensi 2048 tmenjadi 50 menggunakan PCA\npca = PCA(n_components=50)\ntransfer_values_50d = pca.fit_transform(transfer_values)\n# Mengurangi 2 dimensi menggunakan t-SNE\ntsne = TSNE(n_components=2)\ntransfer_values_reduced = tsne.fit_transform(transfer_values_50d)\n#Output:\n# fungsi untuk plot ke scater\ndef plot_scatter(values, cls):\n    u.plot_scatter(values=values, cls=cls, num_classes=num_classes)\nplot_scatter(transfer_values_reduced, cls)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; listing program; baris dipisah \\n; indentasi dipertahankan"
+ },
+ {
+  "type": "text",
+  "text": "Penerapan algoritma PCA dan t-SNE dilakukan pada langkah yang kedua. Listing program Optimasi_PCA_t-SNE digunakan untuk mereduksi transfer-value dengan metode PCA. Pada awalnya citra memiliki panjang array 2048 direduksi menjadi 50. Tingkat optimasi untuk mereduksi panjang array pada citra memiliki angka ideal sebesar minimal 85%. Prosentase tersebut menunjukkan bahwa semakin tinggi tingkat optimasi akan semakin banyak reduksi yang dilakukan pada citra yang berdampak pada kecepatan komputasi untuk mengesktrak dan mengklasifikasi citra. Perhitungan tingkat optimasi reduksi citra dihitung dengan rumus:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Optimasi = \\frac{LA_0 - LA_1}{LA_0} \\times 100\\% \\quad (1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "dengan LA0 = Panjang array awal dan LA1 = Panjang array akhir.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; angka 0/1 subskrip"
+ },
+ {
+  "type": "text",
+  "text": "Langkah ketiga adalah terbentuknya jaringan baru yang mengambil nilai transfer-value sebagai input yang kemudian menghasilkan output pada lapisan softmax berupa klasifikasi citra CIFAR-10.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.4 Formula Akurasi dan Tingkat Optimasi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Akurasi pada algoritma CNN dan TL-CNN dihitung dengan metode Confussion Matrix.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 717 – 722",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "719",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

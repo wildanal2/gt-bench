@@ -1,0 +1,80 @@
+[
+ {
+  "type": "text",
+  "text": "At Home in Exile",
+  "page_idx": 0,
+  "bbox": [
+   0.15196,
+   0.08514,
+   0.28879,
+   0.09805
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "home in Canberra, Australia,\nTo prepare myself for the journey from my\nI visited the National Library's vast collection of maps. But I could not\nfind Steinkirche, even in old German records of Silesia. The Polish-\nGerman Gazeteer, which has a remarkable list of old German place-names\nin relation to their Polish replacements, and vice versa, gave the names\nfor many places, including Marzdorf where my mother had worked as\na young woman, on an estate near the Oder River. But there was nothing\nfor Steinkirche. The people assembling the directory must have thought it\nsimply the description of a stone church, as the name suggests, rather than\nthe actual name for the place where the church stood.",
+  "page_idx": 0,
+  "bbox": [
+   0.14801,
+   0.11611,
+   0.87557,
+   0.31482
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Obviously it was not an important village. No one in our extended family\ncould give me the Polish names for rural Steinkirche or of Neumarkt Platz\nin the Silesian metropolis. Had Steinkirche been north, east, west or south\nof Breslau? In mind's eye I assumed it to be east-towards Posen-\nmy\nmistakenly, SO I was to discover. In answer to one of my many questions,\nI recalled that my mother had once told me that it had taken her about an\nhour by train to travel to the school she attended briefly in Breslau. It was\nan important clue.",
+  "page_idx": 0,
+  "bbox": [
+   0.15327,
+   0.32859,
+   0.87294,
+   0.48773
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "I then rang my cousin, Peter Erlanger, but neither he nor his older sister\ncould help me. Peter advised me to try to find Steinkirche using my\ncomputer's Internet search engine. It was enlightened advice, and was to\nprovide me with a key clue. The website yielded a huge list of entries,\nmostly concerning stone churches in present-day Germany. But there was\nalso a reference to a 1928 visit by a church official inspecting a number of\ncommunities overseen by the Lutheran Church at Strehlen. I had often\nheard my mother and her sister refer to acquaintances in Strehlen.",
+  "page_idx": 0,
+  "bbox": [
+   0.15196,
+   0.50063,
+   0.87031,
+   0.65719
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The article about Steinkirche described it as having a 1264 Polish Catholic\nfoundation, on a site where sacrifices had taken place. This\npagan\nseemed to have the ring of truth. The description offered a brief history\nof the church and illustrations of it in various stages of alteration.\ngave\nBy the seventeenth century, the place had become Lutheran and in the\nfollowing 200 years the community's religious confidence expressed itself\narchitecturally, through continual improvements. A church tower with\nbaroque spire was raised and the interior refurbished with an upper-storey\nbalcony with pews on three sides.",
+  "page_idx": 0,
+  "bbox": [
+   0.15196,
+   0.67095,
+   0.87821,
+   0.85241
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "8",
+  "page_idx": 0,
+  "bbox": [
+   0.09158,
+   0.93138,
+   0.1002,
+   0.94034
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

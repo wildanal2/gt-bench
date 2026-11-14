@@ -1,0 +1,81 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10517,
+   0.08681,
+   0.89292,
+   0.39681
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 10.2: Positive attributes reported by recreational anglers in the United States. Long description.",
+  "page_idx": 0,
+  "bbox": [
+   0.09694,
+   0.40722,
+   0.73694,
+   0.42219
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Over time, an angler's motivation may change from a catch orientation to emphasize noncatch motivations,\nsuch as being outdoors or passing on their passion for fishing (McKenna 2013). The progression often follows\nthese stages:",
+  "page_idx": 0,
+  "bbox": [
+   0.09578,
+   0.48236,
+   0.90371,
+   0.53836
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Stage 1: I just want to catch a fish!\n· Stage 2: I want to catch a lot of fish!\n· Stage 3: I want to catch big fish.\n· Stage 4: I'm just happy to be out fishing.\n· Stage 5: I want to pass on my knowledge and passion for fishing.",
+  "page_idx": 0,
+  "bbox": [
+   0.10704,
+   0.55912,
+   0.59482,
+   0.65375
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Studies of angler characteristics confirm that there is no such thing as an \"average\" angler. Rather, anglers are\na heterogeneous and changing group. Therefore, we can segment anglers in distinct categories for analysis\n(Bryan 1977; Kyle et al. 2007; Beardmore et al. 2013; TenHarmsel et al. 2019). For example, Magee (2018)\ncategorized recreational anglers into five distinct fisher classes with differing motivations (Table 10.1).",
+  "page_idx": 0,
+  "bbox": [
+   0.09578,
+   0.67372,
+   0.90371,
+   0.74992
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "216 | Recreational Fishing and Keep Fish Wet",
+  "page_idx": 0,
+  "bbox": [
+   0.09791,
+   0.93443,
+   0.39242,
+   0.94864
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

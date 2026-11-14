@@ -1,0 +1,84 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; lambang Garuda Pancasila; kop"
+ },
+ {
+  "type": "text",
+  "text": "MENTERI NEGARA PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI REPUBLIK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kop; 4 baris digabung; spasi hilang pada PENDAYAGUNAANAPARATUR di pindaian dinormalkan"
+ },
+ {
+  "type": "text",
+  "text": "PERATURAN MENTERI NEGARA PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI NOMOR 17 TAHUN 2010 TENTANG JABATAN FUNGSIONAL PEMERIKSA DAN ANGKA KREDITNYA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul 7 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "DENGAN RAHMAT TUHAN YANG MAHA ESA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "MENTERI NEGARA PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI,",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Menimbang :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label konsiderans; butir a/b dipisah per elemen"
+ },
+ {
+  "type": "text",
+  "text": "a. bahwa Jabatan Fungsional Auditor dan Angka Kreditnya yang diatur dalam Keputusan Menteri Negara Pendayagunaan Aparatur Negara Nomor 19 Tahun 1996 tentang Jabatan Fungsional Auditor dan Angka Kreditnya sudah tidak sesuai dengan perkembangan profesi dan tuntutan kompetensi Pemeriksa di lingkungan Badan Pemeriksa Keuangan saat ini;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. bahwa sehubungan dengan hal tersebut, dipandang perlu mengatur Jabatan Fungsional Pemeriksa dan Angka Kreditnya dengan Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Mengingat :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label konsiderans; butir bernomor dipisah per elemen"
+ },
+ {
+  "type": "text",
+  "text": "1. Undang-Undang Nomor 8 Tahun 1974 tentang Pokok-Pokok Kepegawaian (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3041) sebagaimana telah diubah dengan Undang-Undang Nomor 43 Tahun 1999 (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 169, Tambahan Lembaran Negara Republik Indonesia Nomor 3890);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya (butir 2 dst.); titik noda di margin diabaikan"
+ }
+]

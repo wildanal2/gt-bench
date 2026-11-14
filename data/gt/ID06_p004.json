@@ -1,0 +1,702 @@
+[
+ {
+  "type": "text",
+  "text": "2. Pertumbuhan Ekonomi Triwulan IV-2025 Terhadap Triwulan IV-2024 (Y-on-Y)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; dua baris digabung; Y-on-Y miring; level per halaman (heading tertinggi di halaman ini)",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia triwulan IV-2025 terhadap triwulan IV-2024 (y-on-y) tumbuh sebesar 5,39 persen. Pertumbuhan terjadi pada hampir seluruh lapangan usaha, kecuali Pertambangan dan Penggalian; serta Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang yang masing masing terkontraksi sebesar 1,31 persen dan 0,51 persen. Lapangan usaha yang tumbuh signifikan adalah Transportasi dan Pergudangan sebesar 8,98 persen; diikuti oleh Jasa Lainnya sebesar 8,71 persen. Sementara itu, Industri Pengolahan yang memiliki peran dominan terhadap perekonomian Indonesia tumbuh sebesar 5,40 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; y-on-y miring; 'masing masing' tanpa tanda hubung sesuai cetakan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 2 Pertumbuhan PDB Beberapa Lapangan Usaha (Y-on-Y) (persen),\nTriwulan IV-2024, Triwulan III-2025, dan Triwulan IV-2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (3 seri per kategori); dibaca per kategori kiri ke kanan, nilai per seri, lalu legenda; lapisan teks grafik terduplikasi/acak, nilai dibaca dari gambar"
+ },
+ {
+  "type": "text",
+  "text": "Industri Pengolahan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,89",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "5,54",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "5,40",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Perdagangan, Reparasi Mobil dan Sepeda Motor",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "5,23",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "5,46",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "6,07",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pertanian, Kehutanan, & Perikanan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "0,72",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "4,93",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "5,14",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Konstruksi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "5,81",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "4,21",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "3,89",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pertambangan & Penggalian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "3,95",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "-1,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "-1,31",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Transportasi dan Pergudangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "7,92",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "8,62",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "8,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Jasa Lainnya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "11,36",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "9,92",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "8,71",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "1,06",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "3,32",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "-0,51",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Lainnya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "5,62",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "5,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "6,51",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw III-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "3. Pertumbuhan Ekonomi Triwulan IV-2025 Terhadap Triwulan III-2025 (Q-to-Q)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; dua baris digabung; Q-to-Q miring; level per halaman",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia triwulan IV-2025 dibanding triwulan III-2025 (q-to-q) tumbuh sebesar 0,86 persen. Pertumbuhan tertinggi terjadi pada Lapangan Usaha Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib sebesar 13,59 persen; diikuti oleh Jasa Pendidikan sebesar 7,48 persen. Sementara itu, Pertanian, Kehutanan, dan Perikanan; serta Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang masing masing mengalami kontraksi sebesar 18,33 persen dan 1,30 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; q-to-q miring; 'masing masing' tanpa tanda hubung sesuai cetakan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 3 Pertumbuhan PDB Beberapa Lapangan Usaha (Q-to-Q) (persen),\nTriwulan IV-2024, Triwulan III-2025, dan Triwulan IV-2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (3 seri per kategori); dibaca per kategori kiri ke kanan, nilai per seri, lalu legenda; lapisan teks grafik terduplikasi/acak, nilai dibaca dari gambar"
+ },
+ {
+  "type": "text",
+  "text": "Industri Pengolahan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "0,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "4,09",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "0,55",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Perdagangan, Reparasi Mobil dan Sepeda Motor",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "0,10",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "2,21",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "0,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pertanian, Kehutanan, & Perikanan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "-18,49",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "3,33",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "-18,33",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Konstruksi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,19",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "5,28",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "3,88",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pertambangan & Penggalian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "3,25",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "1,47",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "3,96",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Jasa Pendidikan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "14,92",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "2,07",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "7,48",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "16,61",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "-17,21",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "13,59",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "2,50",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "1,52",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "-1,30",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Lainnya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "3,65",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "-0,52",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "5,29",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw III-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer; spasi ganda diringkas"
+ }
+]

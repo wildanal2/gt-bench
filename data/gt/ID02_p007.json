@@ -1,0 +1,141 @@
+[
+ {
+  "type": "text",
+  "text": "Login e-FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "text",
+  "text": "Eform dapat diakses pada halaman www.eform.pajak.go.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak teks slide"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; screenshot formulir login e-Form"
+ },
+ {
+  "type": "text",
+  "text": ".: Eform - Login :.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "NPWP",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; placeholder isian"
+ },
+ {
+  "type": "text",
+  "text": "Password",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; placeholder isian"
+ },
+ {
+  "type": "text",
+  "text": "564p8",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; captcha; dicek: huruf captcha terdistorsi dan dicoret"
+ },
+ {
+  "type": "text",
+  "text": "Kode Keamanan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; placeholder isian"
+ },
+ {
+  "type": "text",
+  "text": "Masukkan kode yang tampak pada gambar di atas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Login",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; tombol"
+ },
+ {
+  "type": "text",
+  "text": "Isi dengan NPWP",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak keterangan"
+ },
+ {
+  "type": "text",
+  "text": "Isi dengan Password DJPOnline",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak keterangan"
+ },
+ {
+  "type": "text",
+  "text": "Isi dengan kode unik yang muncul di atas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak keterangan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "type": "text",
+  "text": "PT ALLO BANK INDONESIA TBK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; header berjalan kiri"
+ },
+ {
+  "type": "text",
+  "text": "PT ALLO BANK INDONESIA TBK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; header berjalan kanan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Daftar Isi</th><th>Halaman/ Page</th><th>Table of Contents</th></tr><tr><td>Surat Pernyataan Direksi</td><td></td><td>Directors’ Statement Letter</td></tr><tr><td>Laporan Auditor Independen</td><td></td><td>Independent Auditors’ Report</td></tr><tr><td>Laporan Keuangan Untuk Tahun-Tahun yang Berakhir Pada Tanggal 31 Desember 2024 dan 2023</td><td></td><td>Financial Statements For the Years Ended December 31, 2024 and 2023</td></tr><tr><td>Laporan Posisi Keuangan</td><td>1</td><td>Statements of Financial Position</td></tr><tr><td>Laporan Laba Rugi dan Penghasilan Komprehensif Lain</td><td>3</td><td>Statements of Profit or Loss and Other Comprehensive Income</td></tr><tr><td>Laporan Perubahan Ekuitas</td><td>5</td><td>Statements of Changes in Equity</td></tr><tr><td>Laporan Arus Kas</td><td>6</td><td>Statements of Cash Flows</td></tr><tr><td>Catatan Atas Laporan Keuangan</td><td>8</td><td>Notes to the Financial Statements</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual; daftar isi; kolom ID | Halaman/Page | EN berpasangan per baris; judul Daftar Isi / Table of Contents tercetak sejajar header Halaman/Page sehingga dijadikan baris header th; label multi-baris digabung satu spasi; baris tanpa nomor halaman diberi sel kosong; Directors’ Statement Letter tercetak tebal miring"
+ }
+]

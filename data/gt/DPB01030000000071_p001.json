@@ -1,0 +1,134 @@
+[
+ {
+  "type": "text",
+  "text": "be used as a good opportunity to learn from each other and increase the capacity of\nhuman rights institutions in various countries.94",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.08566,
+   0.88317,
+   0.12277
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "What works in other countries, can be learned and developed according to the\nsituation in Indonesia. 95 Partnerships can be carried out formally through a\nmemorandum of understanding or with a partnerships agreement for potential\nstrategic partners.96",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.12371,
+   0.88317,
+   0.19734
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3.2.6. SDGs Dissemination in Social Media",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.21807,
+   0.53296,
+   0.23336
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Information dissemination in the digital era is closely related to the use of social\nmedia. Therefore, the dissemination of the SDGs through social media platforms\nowned by the Komnas HAM needs to be optimized as a way to increase public\nparticipation to be active as \"agents\" of the Komnas HAM in Indonesia. To be able to\nachieve this, the community needs to first receive education about the SDGs to clearly\nunderstand the focus of each goal and its derivatives. Once there is a fairly good\nunderstanding at the level of the general public, especially those who interact with the\nKomnas HAM's social media, an easier way to report SDGs related to human rights\nviolations can be formulated.",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.2556,
+   0.88317,
+   0.42106
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The Komnas HAM, for example, has used social media Instagram, Twitter, and\nYouTube. There has been an increase in the frequency of Instagram social media\nuploads from 2019-2020 from 111 uploads in 2019 to 198 uploads in 2020. The variety\nof content uploaded by the Komnas HAM on Instagram is also increasingly diverse\nwith the following details:",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.42453,
+   0.88317,
+   0.51795
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.52077,
+   0.88747,
+   0.72973
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Diagram 4 Distribution of @ komnas.ham Instagram Content (2019-2020)",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.75027,
+   0.89121,
+   0.7721
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "If observed from the Komnas HAM's Instagram account within the 2019-2020\nperiod, the SDGs have only been mentioned explicitly twice in the following contents:",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.79047,
+   0.88317,
+   0.827
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "94 See also Komnas HAM, \"The NHRI Practice and Experience in Indonesia, Kyrgyzstan, and Palestine\nin Supporting Sustainable Development Goals Achievements\" (n. 93).\n95 Ibid.\n96 Ibid.",
+  "page_idx": 0,
+  "bbox": [
+   0.11843,
+   0.85959,
+   0.87908,
+   0.91472
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "18",
+  "page_idx": 0,
+  "bbox": [
+   0.4905,
+   0.93165,
+   0.5091,
+   0.94182
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

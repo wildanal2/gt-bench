@@ -1,0 +1,69 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "CCB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "中国建设银行",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "印度尼西亚",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "China Construction Bank Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "KEWAJIBAN PENYEDIAAN MODAL MINIMUM / CAPITAL ADEQUACY RATIO",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Periode 31 Desember 2024 dan 31 Desember 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">Komponen Modal</th><th colspan=\"2\">Des 2024</th><th colspan=\"2\">Des 2023</th></tr><tr><th>Individual</th><th>Konsolidasian</th><th>Individual</th><th>Konsolidasian</th></tr><tr><td>I Modal Inti (Tier 1)</td><td>6,139,213.00</td><td>-</td><td>6,014,355</td><td>-</td></tr><tr><td>1 Modal Inti Utama/Common Equity Tier 1 (CET 1)</td><td>6,139,213.00</td><td>-</td><td>6,014,355</td><td>-</td></tr><tr><td>1.1 Modal Disetor (setelah dikurangi Treasury Stock)</td><td>3,791,973.00</td><td>-</td><td>3,791,973.00</td><td>-</td></tr><tr><td>1.2 Cadangan Tambahan Modal *)</td><td>2,689,484.00</td><td>-</td><td>2,560,195</td><td>-</td></tr><tr><td>1.2.1 Faktor Penambah</td><td>3,413,311.00</td><td>-</td><td>3,114,064</td><td>-</td></tr><tr><td>1.2.1.1 Pendapatan komprehensif lainnya</td><td>716,710.00</td><td>-</td><td>719,434</td><td>-</td></tr><tr><td>1.2.1.1.1 Selisih lebih penjabaran laporan keuangan</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.1.1.2 Potensi keuntungan dari peningkatan nilai wajar aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>358,464.00</td><td>-</td><td>361,188</td><td>-</td></tr><tr><td>1.2.1.1.3 Saldo surplus revaluasi aset tetap</td><td>358,246.00</td><td>-</td><td>358,246</td><td>-</td></tr><tr><td>1.2.1.2 Cadangan tambahan modal lainnya (other disclosed reserves)</td><td>2,696,601.00</td><td>-</td><td>2,394,630</td><td>-</td></tr><tr><td>1.2.1.2.1 Agio</td><td>1,267,378.00</td><td>-</td><td>1,267,378</td><td>-</td></tr><tr><td>1.2.1.2.2 Cadangan umum</td><td>5,500.00</td><td>-</td><td>5,000</td><td>-</td></tr><tr><td>1.2.1.2.3 Laba tahun-tahun lalu</td><td>1,120,187.00</td><td>-</td><td>879,396</td><td>-</td></tr><tr><td>1.2.1.2.4 Laba tahun berjalan</td><td>295,402.00</td><td>-</td><td>241,291</td><td>-</td></tr><tr><td>1.2.1.2.5 Dana setoran modal</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.1.2.6 Lainnya</td><td>8,134.00</td><td>-</td><td>1,565</td><td>-</td></tr><tr><td>1.2.2 Faktor Pengurang</td><td>723,827.00</td><td>-</td><td>553,869</td><td>-</td></tr><tr><td>1.2.2.1 Pendapatan komprehensif lainnya</td><td>363,488.00</td><td>-</td><td>365,482</td><td>-</td></tr><tr><td>1.2.2.1.1 Selisih kurang penjabaran laporan keuangan</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.2.1.2 Potensi kerugian dari penurunan nilai wajar aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>363,488.00</td><td>-</td><td>365,482</td><td>-</td></tr><tr><td>1.2.2.2 Cadangan tambahan modal lainnya (other disclosed reserves)</td><td>360,339.00</td><td>-</td><td>188,387</td><td>-</td></tr><tr><td>1.2.2.2.1 Disagio</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.2.2.2 Rugi tahun-tahun lalu</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.2.2.3 Rugi tahun berjalan</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.2.2.4 Selisih kurang antara Penyisihan Penilaian Kualitas Aset (PPKA) dan Cadangan Kerugian Penurunan Nilai (CKPN) atas aset produktif</td><td>198,493.00</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.2.2.5 Selisih kurang jumlah penyesuaian nilai wajar dari instrumen keuangan dalam Trading Book</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.2.2.2.6 PPKA non produktif</td><td>161,846.00</td><td>-</td><td>188,387</td><td>-</td></tr><tr><td>1.2.2.2.7 Lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.3 Kepentingan Non Pengendali yang dapat diperhitungkan</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4 Faktor Pengurang Modal Inti Utama *)</td><td>342,244.00</td><td>-</td><td>337,813</td><td>-</td></tr><tr><td>1.4.1 Pajak tangguhan</td><td>132,787.00</td><td>-</td><td>124,588</td><td>-</td></tr><tr><td>1.4.2 Goodwill</td><td>190,075.00</td><td>-</td><td>190,075</td><td>-</td></tr><tr><td>1.4.3 Aset tidak berwujud</td><td>19,382.00</td><td>-</td><td>23,150</td><td>-</td></tr><tr><td>1.4.4 Penyertaan yang diperhitungkan sebagai faktor pengurang</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.5 Kekurangan modal pada perusahaan anak asuransi</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.6 Eksposur sekuritisasi</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.7 Faktor pengurang modal inti utama lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.7.1 Penempatan dana pada instrumen AT 1 dan/atau Tier 2 pada bank lain</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.7.2 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.7.3 Eksposur yang menimbulkan Risiko Kredit akibat kegagalan settlement (settlement risk) - Non Delivery Versus Payment</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>1.4.7.4 Eksposur di Perusahaan Anak yang melakukan kegiatan usaha berdasarkan prinsip syariah (apabila ada)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2 Modal Inti Tambahan/Additional Tier 1 (AT 1) *)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2.1 Instrumen yang memenuhi persyaratan AT 1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2.2 Agio/Disagio</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2.3 Faktor Pengurang Modal Inti Tambahan *)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2.3.1 Penempatan dana pada instrumen AT 1 dan/atau Tier 2 pada bank lain</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2.3.2 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>II Modal Pelengkap (Tier 2)</td><td>216,605.00</td><td>-</td><td>195,275</td><td>-</td></tr><tr><td>1 Instrumen modal dalam bentuk saham atau lainnya yang memenuhi persyaratan Tier 2</td><td>-</td><td>-</td><td>15,397</td><td>-</td></tr><tr><td>2 Agio/Disagio</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3 Cadangan umum PPKA atas aset produktif yang wajib dihitung (paling tinggi 1,25% ATMR Risiko Kredit)</td><td>216,605.00</td><td>-</td><td>179,878</td><td>-</td></tr><tr><td>4 Faktor Pengurang Modal Pelengkap *)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4.1 Sinking Fund</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4.2 Penempatan dana pada instrumen Tier 2 pada bank lain</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4.3 Kepemilikan silang pada entitas lain yang diperoleh berdasarkan peralihan karena hukum, hibah, atau hibah wasiat</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>III. Faktor Pengurang Modal Berupa Eksposur Yang Menimbulkan Risiko Kredit Akibat Kegagalan Settlement (Settlement Risk)-Non Delivery Versus Payment</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>IV. Faktor Pengurang Modal Berupa Eksposur di Perusahaan Anak yang Melakukan Kegiatan Usaha Berdasarkan Prinsip Syariah (Apabila Ada)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>TOTAL MODAL</td><td>6,355,818.00</td><td>-</td><td>6,209,630</td><td>-</td></tr><tr><td>ASET TERTIMBANG MENURUT RISIKO</td><td></td><td></td><td></td><td></td></tr><tr><td>ATMR RISIKO KREDIT</td><td>19,390,306.00</td><td>-</td><td>15,235,593</td><td>-</td></tr><tr><td>ATMR RISIKO PASAR</td><td>349,855.00</td><td>-</td><td>382,744</td><td>-</td></tr><tr><td>ATMR RISIKO OPERASIONAL</td><td>954,434.00</td><td>-</td><td>962,994</td><td>-</td></tr><tr><td>TOTAL ATMR</td><td>20,694,595.00</td><td>-</td><td>16,581,331</td><td>-</td></tr><tr><td>RASIO KPMM</td><td></td><td></td><td></td><td></td></tr><tr><td>Rasio CET 1 (%)</td><td>29.67</td><td>-</td><td>36.27</td><td>-</td></tr><tr><td>Rasio Tier 1 (%)</td><td>29.67</td><td>-</td><td>36.27</td><td>-</td></tr><tr><td>Rasio Tier 2 (%)</td><td>1.05</td><td>-</td><td>1.18</td><td>-</td></tr><tr><td>Rasio KPMM (%)</td><td>30.72</td><td>-</td><td>37.45</td><td>-</td></tr><tr><td>RASIO KPMM SESUAI PROFIL RISIKO (%)</td><td>9.00</td><td>-</td><td>9.00</td><td>-</td></tr><tr><td>ALOKASI PEMENUHAN KPMM SESUAI PROFIL RISIKO</td><td></td><td></td><td></td><td></td></tr><tr><td>Dari CET 1 (%)</td><td>7.95</td><td>-</td><td>7.82</td><td>-</td></tr><tr><td>Dari AT 1 (%)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Dari Tier 2 (%)</td><td>1.05</td><td>-</td><td>1.18</td><td>-</td></tr><tr><td>CET 1 UNTUK BUFFER (%)</td><td>21.72</td><td>-</td><td>28.45</td><td>-</td></tr><tr><td>PERSENTASE BUFFER YANG WAJIB DIPENUHI OLEH BANK (%)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Countercyclical Buffer (%)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Capital Surcharge untuk Bank Sistemik (%)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Capital Conservation Buffer (%)</td><td>2.50</td><td>-</td><td>2.50</td><td>-</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header Komponen Modal rowspan=2; baris seksi (ASET TERTIMBANG MENURUT RISIKO, RASIO KPMM, ALOKASI PEMENUHAN KPMM SESUAI PROFIL RISIKO) sel nilai kosong (berarsir abu di sumber); angka verbatim, campuran format .00 dan tanpa desimal sesuai sumber"
+ }
+]

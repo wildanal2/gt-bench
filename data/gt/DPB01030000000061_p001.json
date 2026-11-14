@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "iii. Looking at cost items, the cost of raw woods procurement will be highest\nshare at 42%, followed by labour cost at 35%, electricity cost of the\nfabrication department at 10% (refer to figure 5-2). For this analysis, $35 per\ntonne is assumed for raw wood costs and this assumption will be crucial to\nmaintain the economics of this business model.\niv. This business model will be operating cost-oriented not capital cost-oriented\n(refer to figure 5.1); thus, management of raw wood cost, labour cost, and\nelectricity cost is essential. Few variations of capital cost will not affect this\nbusiness seriously.\nv. Assumed selling price of wood pellet is $100 per tonne and appropriate.",
+  "page_idx": 0,
+  "bbox": [
+   0.21213,
+   0.10303,
+   0.81259,
+   0.28311
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Figure 5.1. Operating Cost Structure by the Three Departments of A Company",
+  "page_idx": 0,
+  "bbox": [
+   0.17803,
+   0.31921,
+   0.77487,
+   0.33274
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.24194,
+   0.34075,
+   0.77003,
+   0.56636
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Author.",
+  "page_idx": 0,
+  "bbox": [
+   0.14196,
+   0.57721,
+   0.23997,
+   0.58636
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 5.2. Operating Cost Structure by the Cost Items of a Company",
+  "page_idx": 0,
+  "bbox": [
+   0.21434,
+   0.61474,
+   0.7381,
+   0.62827
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.24934,
+   0.63628,
+   0.77003,
+   0.86189
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Author.",
+  "page_idx": 0,
+  "bbox": [
+   0.14196,
+   0.87169,
+   0.23997,
+   0.88084
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "50",
+  "page_idx": 0,
+  "bbox": [
+   0.46704,
+   0.94477,
+   0.48564,
+   0.95458
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

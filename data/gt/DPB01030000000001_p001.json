@@ -1,0 +1,107 @@
+[
+ {
+  "type": "text",
+  "text": "314",
+  "page_idx": 0,
+  "bbox": [
+   0.13998,
+   0.05529,
+   0.17076,
+   0.06519
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "YARROW",
+  "page_idx": 0,
+  "bbox": [
+   0.80534,
+   0.05529,
+   0.88442,
+   0.06519
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "1999 such iterations to form parameter distributions. If these distributions are\nsymmetric, we can pretty much just read values straight out of them to form\nconfidence intervals (e.g., the 50th and 1950th values out of 1999 will give us a\nroughly 95% confidence interval). If they are not, we must do something more\ncomplicated, with the best choice being the bias-corrected and accelerated\n(BCa) approach. Because of the large number of fits that are required,\nbootstrapping is fairly slow. If the experiment contains many trials, the BCa\nmethod makes it even slower (because it incorporates additional \"jackknife\"\nresampling, implying one further fitting iteration for almost every trial).18",
+  "page_idx": 0,
+  "bbox": [
+   0.13938,
+   0.09152,
+   0.88509,
+   0.27178
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The code accompanying this chapter offers options to generate confidence\nintervals on fitted parameters. Confidence intervals sometimes imply\nstatistical inference, as for example when they fail to overlap some value and\nthus imply that our statistic differs significantly from that value. However, in\nSJ experiments we are more likely to want to ask a question such as whether\na particular parameter differs between two conditions for a single observer.\nTo answer this kind of question, you will need to modify or develop the code.\nIf we take the example of whether parameters vary across conditions, my\nrecommendation would be to adopt a permutation test approach.",
+  "page_idx": 0,
+  "bbox": [
+   0.13998,
+   0.273,
+   0.88569,
+   0.45326
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "To do so, take the trials from both conditions and think of each trial as a\ncard in a deck of cards. Making sure you keep each trial intact (i.e., without\nbreaking the link between SOAS and responses) shuffle the trials and then deal\nthem at random into two new piles, each representing a pseudo-condition.\nIf your original conditions contained different numbers of trials, make sure\nthe two pseudo-conditions match the size of the original conditions. For each\npseudo-condition, perform a model fit. Now calculate the difference between\nmodel parameters in the two pseudo-conditions. This is the value you want to\nretain. Now repeat this whole process many times. What you are forming is a\nnull distribution of the expected difference between model parameters that\nwould occur just by chance. You can then compare the difference you actually\nobtained against this null distribution to generate a p value for your difference\nof interest.",
+  "page_idx": 0,
+  "bbox": [
+   0.13998,
+   0.45424,
+   0.88569,
+   0.71325
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "7 Variants of SJ Observer Models",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.13998,
+   0.75887,
+   0.52489,
+   0.77627
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "In this chapter, I have presented two variants of a latency-based observer mod-\nel applied to the SJ task. Both assume that a single SOA will generate an inter-\nnal response (△t) that is a Gaussian random variable. Both assume a simple",
+  "page_idx": 0,
+  "bbox": [
+   0.13998,
+   0.79846,
+   0.88569,
+   0.85758
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "18 E.g., <SimultaneityNoisyCriteriaMultistart 225-386>. Note that Matlab has inbuilt func-\ntions, which could have done most of this if you have the statistics toolbox extensions.",
+  "page_idx": 0,
+  "bbox": [
+   0.14202,
+   0.88307,
+   0.88442,
+   0.91628
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

@@ -1,0 +1,190 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto pekerja konstruksi rangka baja"
+ },
+ {
+  "type": "text",
+  "text": "Perkembangan Ekonomi Sepanjang 2025 Resilien dan Stabil di Tengah Berbagai Dinamika",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul artikel bertumpuk (kicker + judul) digabung, konsisten dengan judul halaman 2"
+ },
+ {
+  "type": "text",
+  "text": "Sepanjang tahun 2025, perekonomian global bergerak sangat dinamis. Pada awal tahun, sentimen pasar dan ekonomi global tertekan dampak eskalasi perang dagang, meningkatnya kecenderungan proteksionisme, volatilitas harga komoditas, serta diperparah oleh perlambatan ekonomi Tiongkok dan stagnasi ekonomi Eropa.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Memasuki paruh kedua, tekanan global berangsur menurun seiring tensi perang dagang yang mereda dan stabilitas pasar keuangan. Kebijakan pemangkasan suku bunga The Fed yang lebih besar dari perkiraan menjadi sentimen positif bagi pasar keuangan global, khususnya pada Emerging Markets.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Emerging Markets' italic"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah dinamika tersebut, fundamental ekonomi domestik tetap menunjukkan ketahanan yang baik. Setelah sempat melambat pada Triwulan I di level 4,87 persen (yoy), pertumbuhan ekonomi kembali menguat pada Triwulan II 2025 sebesar 5,12 persen (yoy) dan tetap terjaga pada 5,04 persen (yoy) pada Triwulan III 2025. Kinerja ini didukung oleh pertumbuhan konsumsi rumah tangga dan investasi yang mencerminkan kuatnya permintaan domestik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Stabilitas ekonomi juga tergambar dari inflasi yang tetap terkendali pada level 2,92% (yoy) di bulan Desember, mendukung daya beli masyarakat dan keberlanjutan aktivitas usaha.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kinerja inflasi dipengaruhi kenaikan harga sejumlah komoditas pangan yang volatile (cabai, beras, dan ikan segar) akibat gangguan cuaca dan distribusi. Inflasi inti tetap stabil dan inflasi administered prices relatif rendah. Inflasi berada dalam rentang sasaran, ditopang oleh kebijakan harga yang terjaga, penguatan peran Bulog, serta efektivitas koordinasi pengendalian inflasi antara pemerintah pusat dan daerah bersama Bank Indonesia dan Kementerian/Lembaga terkait.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'volatile' dan 'administered prices' italic"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah gejolak perdagangan global, kinerja sektor eksternal tetap solid. Neraca perdagangan periode Januari–Desember 2025 mencatat surplus sebesar USD46,0 miliar (estimasi Kementerian Keuangan), meningkat 46,8% (cumulative to cumulative) dibandingkan periode yang sama tahun sebelumnya. Penguatan kinerja eksternal terutama ditopang oleh pertumbuhan ekspor sebesar 6,2% (yoy), terutama di sektor industri pengolahan yang semakin berorientasi pada peningkatan nilai tambah.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kolom 3 dimulai di atas sejajar foto; 'cumulative to cumulative' italic"
+ },
+ {
+  "type": "text",
+  "text": "Surplus neraca perdagangan yang berkelanjutan selama 68 bulan berturut-turut, bersama dengan arus masuk modal asing di pasar keuangan, turut memperkuat posisi eksternal Indonesia dan berkontribusi terhadap peningkatan cadangan devisa. Pada Desember 2025, cadangan devisa tercatat mencapai USD156,5 miliar, mendekati level tertinggi yang dicapai pada Maret 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Perkembangan ini sejalan dengan kinerja manufaktur Indonesia yang semakin menunjukkan tren positif. Purchasing Managers’ Index (PMI) kembali ekspansif di level 51,2 pada Desember 2025, setelah sempat terkontraksi pada periode April hingga Juli. Penguatan ini didorong permintaan domestik yang solid dan didukung perbaikan aktivitas manufaktur di negara mitra dagang utama, sehingga membuka peluang peningkatan ekspor Indonesia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Purchasing Managers’ Index' italic"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI Manufaktur Indonesia Jan 2024–Des 2025 dengan area arsir di bawah garis ambang; tanpa sumbu nilai, hanya satu label data"
+ },
+ {
+  "type": "text",
+  "text": "PMI Manufaktur Indonesia (Desember, Index)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; judul grafik"
+ },
+ {
+  "type": "text",
+  "text": "Kembali menguat didorong permintaan domestik yang solid dan perbaikan aktivitas manufaktur di negara mitra dagang utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; subjudul grafik, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "51,2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; label data titik Des 2025"
+ },
+ {
+  "type": "text",
+  "text": "J F M A M J J A S O N D",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; label sumbu bulan kelompok 2024"
+ },
+ {
+  "type": "text",
+  "text": "J F M A M J J A S O N D",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; label sumbu bulan kelompok 2025"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "Sumber: S&P Global",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI; sumber"
+ }
+]

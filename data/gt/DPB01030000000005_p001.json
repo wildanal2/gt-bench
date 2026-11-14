@@ -1,0 +1,82 @@
+[
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": [
+   0.14933,
+   0.0607,
+   0.16804,
+   0.07663
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "CHAPTER 1",
+  "page_idx": 0,
+  "bbox": [
+   0.45685,
+   0.06416,
+   0.56905,
+   0.07732
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14933,
+   0.10295,
+   0.87865,
+   0.43886
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 1.5. The San Mateo Ixtatan men's jacket, lopil\n(Spanish capixay). Photo by Elizabeth Purdum.",
+  "page_idx": 0,
+  "bbox": [
+   0.28543,
+   0.44648,
+   0.74359,
+   0.48319
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14933,
+   0.53823,
+   0.87659,
+   0.84852
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 1.6. Vegetation along the trail from San Mateo\nIxtatan to Bulej, May 1965. Photo by author.",
+  "page_idx": 0,
+  "bbox": [
+   0.27913,
+   0.85751,
+   0.74939,
+   0.89477
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ }
+]

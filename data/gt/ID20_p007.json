@@ -1,0 +1,278 @@
+[
+ {
+  "type": "text",
+  "text": "FORMULIR",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770 S",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode formulir; huruf besar tebal"
+ },
+ {
+  "type": "text",
+  "text": "KEMENTERIAN KEUANGAN RI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DIREKTORAT JENDERAL PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "SPT TAHUNAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul"
+ },
+ {
+  "type": "text",
+  "text": "BAGI WAJIB PAJAK YANG MEMPUNYAI PENGHASILAN :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DARI SATU ATAU LEBIH PEMBERI KERJA;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "DALAM NEGERI LAINNYA; DAN/ATAU",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "YANG DIKENAKAN PPh FINAL DAN/ATAU BERSIFAT FINAL.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "TAHUN PAJAK 2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label 'TAHUN PAJAK' vertikal; digit 2 dan 0 dalam kotak terpisah; 2 kotak lain kosong"
+ },
+ {
+  "type": "text",
+  "text": "SPT PEMBETULAN KE -",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak pilihan kosong sebelum label"
+ },
+ {
+  "type": "text",
+  "text": "PERHATIAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; tanpa titik dua",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "SEBELUM MENGISI BACA DAHULU PETUNJUK PENGISIAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; huruf kecil sekali"
+ },
+ {
+  "type": "text",
+  "text": "ISI DENGAN HURUF CETAK /DIKETIK DENGAN TINTA HITAM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; spasi sebelum '/' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "BERI TANDA \"X\" PADA (KOTAK PILIHAN) YANG SESUAI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; ada kotak kosong di antara PADA dan (KOTAK"
+ },
+ {
+  "type": "text",
+  "text": "IDENTITAS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal; judul blok berbingkai"
+ },
+ {
+  "type": "text",
+  "text": "NPWP :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak isian kosong tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "NAMA WAJIB PAJAK :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "PEKERJAAN :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "KLU :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian di kanan baris PEKERJAAN"
+ },
+ {
+  "type": "text",
+  "text": "NO. TELEPON :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; pemisah '-' di antara kotak tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "NO. FAKS :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; pemisah '-' di antara kotak tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "STATUS KEWAJIBAN PERPAJAKAN SUAMI-ISTERI : KK HB PH MT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label 2 baris digabung; KK/HB/PH/MT masing-masing didahului kotak pilihan kosong"
+ },
+ {
+  "type": "text",
+  "text": "NPWP ISTERI / SUAMI :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "Permohonan perubahan data disampaikan terpisah dari pelaporan SPT Tahunan PPh Orang Pribadi ini, dengan menggunakan Formulir Perubahan Data Wajib Pajak dan dilengkapi dokumen yang disyaratkan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tebal; 2 baris digabung; baris terakhir blok IDENTITAS"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th colspan=\"3\">*) Pengisian kolom-kolom yang berisi nilai rupiah harus tanpa nilai desimal (contoh penulisan lihat petunjuk pengisian halaman 3)</th><th colspan=\"2\">RUPIAH *)</th><th></th></tr><tr><td rowspan=\"6\">A. PENGHASILAN NETO</td><td>1</td><td>PENGHASILAN NETO DALAM NEGERI SEHUBUNGAN DENGAN PEKERJAAN [Diisi akumulasi jumlah penghasilan neto pada setiap Formulir 1721-A1 dan/atau 1721-A2 yang dilampirkan atau Bukti Potong Lain]</td><td>1</td><td></td><td></td></tr><tr><td>2</td><td>PENGHASILAN NETO DALAM NEGERI LAINNYA [Diisi sesuai dengan Formulir 1770 S-I Jumlah Bagian A ]</td><td>2</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>3</td><td>PENGHASILAN NETO LUAR NEGERI [Apabila memiliki penghasilan dari luar negeri agar diisi dari Lampiran Tersendiri, lihat petunjuk pengisian]</td><td>3</td><td></td><td></td></tr><tr><td>4</td><td>JUMLAH PENGHASILAN NETO (1+2+3)</td><td>4</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>5</td><td>ZAKAT/SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB</td><td>5</td><td></td><td></td></tr><tr><td>6</td><td>JUMLAH PENGHASILAN NETO SETELAH PENGURANGAN ZAKAT /SUMBANGAN KEAGAMAAN YANG SIFATNYA WAJIB (4-5)</td><td>6</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"2\">B.PENGHASILAN KENA PAJAK</td><td>7</td><td>PENGHASILAN TIDAK KENA PAJAK TK / K / K / I /</td><td>7</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>8</td><td>PENGHASILAN KENA PAJAK (6-7)</td><td>8</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"3\">C. PPh TERUTANG</td><td>9</td><td>PPh TERUTANG (TARIF PASAL 17 UU PPh x ANGKA 8) [Bagi Wajib Pajak dengan status PH atau MT diisi dari Lampiran Perhitungan PPh Terutang sebagaimana dimaksud dalam bagian G: Lampiran huruf d]</td><td>9</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>10</td><td>PENGEMBALIAN / PENGURANGAN PPh PASAL 24 YANG TELAH DIKREDITKAN</td><td>10</td><td></td><td></td></tr><tr><td>11</td><td>JUMLAH PPh TERUTANG (9+10)</td><td>11</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"5\">D. KREDIT PAJAK</td><td>12</td><td>PPh YANG DIPOTONG/DIPUNGUT PIHAK LAIN/DITANGGUNG PEMERINTAH DAN/ATAU KREDIT PAJAK LUAR NEGERI DAN/ATAU TERUTANG DI LUAR NEGERI [Diisi dari Formulir 1770 S-I Jumlah Bagian C Kolom (7)]</td><td>12</td><td></td><td></td></tr><tr><td>13</td><td>a. PPh YANG HARUS DIBAYAR SENDIRI b. PPh YANG LEBIH DIPOTONG/DIPUNGUT (11-12)</td><td>13</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"2\">14</td><td>PPh YANG DIBAYAR SENDIRI a. PPh PASAL 25</td><td>14a</td><td></td><td></td></tr><tr><td>b. STP PPh Pasal 25 (Hanya Pokok Pajak)</td><td>14b</td><td></td><td></td></tr><tr><td>15</td><td>JUMLAH KREDIT PAJAK (14a + 14b)</td><td>15</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td rowspan=\"2\">E. PPh KURANG/LEBIH BAYAR</td><td>16</td><td>a. PPh YANG KURANG DIBAYAR (PPh PASAL 29) b. PPh YANG LEBIH DIBAYAR (PPh PASAL 28 A) (13-15) TGL LUNAS TGL BLN THN</td><td>16</td><td>0</td><td>&lt;AUTO&gt;</td></tr><tr><td>17</td><td>PERMOHONAN : PPh Lebih Bayar pada 16b mohon : a. DIRESTITUSIKAN b. DIPERHITUNGKAN DENGAN UTANG PAJAK c. DIKEMBALIKAN DENGAN SKPPKP PASAL 17C (WP dengan Kriteria Tertentu) d. DIKEMBALIKAN DENGAN SKKPP PASAL 17D (WP yang Memenuhi Persyaratan Tertentu)</td><td></td><td></td><td></td></tr><tr><td>F. ANGSURAN PPh PASAL 25 TAHUN PAJAK BERIKUTNYA</td><td>18</td><td>ANGSURAN PPh PASAL 25 TAHUN PAJAK BERIKUTNYA SEBESAR DIHITUNG BERDASARKAN : a. 1/12 x JUMLAH PADA ANGKA 13 b. PENGHITUNGAN DALAM LAMPIRAN TERSENDIRI</td><td>18</td><td></td><td></td></tr><tr><td>G. LAMPIRAN</td><td colspan=\"4\">a. Fotokopi Formulir 1721-A1 atau 1721-A2 atau Bukti Potong PPh Pasal 21 b. Surat Setoran Pajak Lembar Ke-3 PPh Pasal 29 c. Surat Kuasa Khusus (Bila dikuasakan) d. Perhitungan PPh Terutang bagi Wajib Pajak dengan status perpajakan PH atau MT e.</td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom: seksi (teks vertikal, rowspan) | no | uraian | no kotak | kotak nilai | penanda <AUTO> merah di luar bingkai; titik-titik penuntun tidak ditranskripsi; nilai 0 tercetak di kotak; butir 13/16/17/18/G berkotak pilihan kosong (17b kotak hitam terisi); butir 17 dan G dua kolom dibaca kolom kiri dulu (a,b[,c]) lalu kanan; G e. tanpa teks; dicek: kolom <AUTO> berada di luar bingkai, dimasukkan sebagai kolom ke-6 supaya sejajar baris"
+ },
+ {
+  "type": "text",
+  "text": "PERNYATAAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; pita abu",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Dengan menyadari sepenuhnya akan segala akibatnya termasuk sanksi-sanksi sesuai dengan ketentuan peraturan perundang-undangan yang berlaku, saya menyatakan bahwa yang telah beritahukan diatas beserta lampiran-lampirannya adalah benar, lengkap dan jelas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tebal; 3 baris digabung; 'yang telah beritahukan' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "TANDA TANGAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label kotak tanda tangan kosong (tidak ada tanda tangan)"
+ },
+ {
+  "type": "text",
+  "text": "WAJIB PAJAK KUASA TANGGAL TGL BLN THN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak pilihan kosong sebelum WAJIB PAJAK dan KUASA; TGL/BLN/THN di bawah kotak tanggal"
+ },
+ {
+  "type": "text",
+  "text": "NAMA LENGKAP :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "N P W P :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; huruf berspasi sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "F.1.1.32.18",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kode formulir kiri bawah"
+ }
+]

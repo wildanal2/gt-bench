@@ -1,0 +1,55 @@
+[
+ {
+  "type": "text",
+  "text": "Chuj Country",
+  "page_idx": 0,
+  "bbox": [
+   0.42332,
+   0.06114,
+   0.55024,
+   0.08062
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "19",
+  "page_idx": 0,
+  "bbox": [
+   0.82689,
+   0.06357,
+   0.84971,
+   0.07818
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.13915,
+   0.10633,
+   0.83698,
+   0.83173
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 1.15. On the trail in the Yolcultac (yol k'ultak,\n\"center of the brushland\") forest, municipio of Nenton.\nMay 1965, at the end of the dry season. Photo by the author.",
+  "page_idx": 0,
+  "bbox": [
+   0.23338,
+   0.84227,
+   0.73656,
+   0.89584
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ }
+]

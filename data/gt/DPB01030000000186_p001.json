@@ -1,0 +1,186 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.19197,
+   0.08291,
+   0.8065,
+   0.24264
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1: Depth up-scaling for the case with n = 32, s = 48, and m = 8. Depth up-scaling is achieved through a\ndual-stage process of depthwise scaling followed by continued pretraining.",
+  "page_idx": 0,
+  "bbox": [
+   0.11668,
+   0.25204,
+   0.88181,
+   0.28002
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "for wider access and application of these models\nby researchers and developers globally.",
+  "page_idx": 0,
+  "bbox": [
+   0.11609,
+   0.30698,
+   0.48927,
+   0.3374
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2 Depth Up-Scaling",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11609,
+   0.34891,
+   0.30327,
+   0.36576
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "To efficiently scale-up LLMs, we aim to utilize pre-\ntrained weights of base models to scale up to larger\nLLMs (Komatsuzaki et al., 2022). While exist-\ning methods such as Komatsuzaki et al. (2022) use\nMoE (Shazeer et al., 2017) to scale-up the model ar-\nchitecture, we opt for a different depthwise scaling\nstrategy inspired by Tan and Le (2019). We then\ncontinually pretrain the scaled model as just scaling\nthe model without further pretraining degrades the\nperformance.",
+  "page_idx": 0,
+  "bbox": [
+   0.11609,
+   0.37357,
+   0.48927,
+   0.5347
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Base model. Any n-layer transformer architec-\nture can be used but we select the 32-layer Llama\n2 architecture as our base model. We initialize the\nLlama 2 architecture with pretrained weights from\nMistral 7B, as it is one of the top performers com-\npatible with the Llama 2 architecture. By adopting\nthe Llama 2 architecture for our base model, we\naim to leverage the vast pool of community re-\nsources while introducing novel modifications to\nfurther enhance its capabilities.",
+  "page_idx": 0,
+  "bbox": [
+   0.11668,
+   0.54211,
+   0.48986,
+   0.70315
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Depthwise scaling. From the base model with n\nlayers, we set the target layer count s for the scaled\nmodel, which is largely dictated by the available\nhardware.",
+  "page_idx": 0,
+  "bbox": [
+   0.11668,
+   0.71156,
+   0.48986,
+   0.77265
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "With the above, the depthwise scaling process\nis as follows. The base model with n layers is\nduplicated for subsequent modification. Then, we\nremove the final m layers from the original model\nand the initial m layers from its duplicate, thus\nforming two distinct models with n - m layers.\nThese two models are concatenated to form a scaled\nmodel with s = 2·(n-m) layers. Note that n = 32\nfrom our base model and we set s = 48 considering",
+  "page_idx": 0,
+  "bbox": [
+   0.11609,
+   0.77595,
+   0.48927,
+   0.91838
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "our hardware constraints and the efficiency of the\nscaled model, i.e., fitting between 7 and 13 billion\nparameters. Naturally, this leads to the removal of\nm = 8 layers. The depthwise scaling process with\nn = 32, s = 48, and m = 8 is depicted in 'Step 1:\nDepthwise Scaling' of Fig. 1.",
+  "page_idx": 0,
+  "bbox": [
+   0.51131,
+   0.30698,
+   0.88449,
+   0.40136
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We note that a method in the community that also\n2\nscale the model in the same manner as 'Step 1:\nDepthwise Scaling' of Fig. 1 has been concurrently\ndeveloped.",
+  "page_idx": 0,
+  "bbox": [
+   0.51131,
+   0.40429,
+   0.88449,
+   0.4673
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Continued pretraining. The performance of the\ndepthwise scaled model initially drops below that\nof the base LLM. Thus, we additionally apply\nthe continued pretraining step as shown in 'Step\n2: Continued Pretraining' of Fig. 1. Experimen-\ntally, we observe rapid performance recovery of\nthe scaled model during continued pretraining, a\nphenomenon also observed in Komatsuzaki et al.\n(2022). We consider that the particular way of\ndepthwise scaling has isolated the heterogeneity\nin the scaled model which allowed for this fast\nperformance recovery.",
+  "page_idx": 0,
+  "bbox": [
+   0.51131,
+   0.4791,
+   0.88449,
+   0.67245
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Delving deeper into the heterogeneity of the\nscaled model, a simpler alternative to depthwise\nscaling could be to just repeat its layers once more,\ni.e., from n to 2n layers. Then, the 'layer distance',\nor the difference in the layer indices in the base\nmodel, is only bigger than 1 where layers n and\nn + 1 are connected, i.e., at the seam.",
+  "page_idx": 0,
+  "bbox": [
+   0.51131,
+   0.67296,
+   0.88449,
+   0.7831
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "However, this results in maximum layer distance\nat the seam, which may be too significant of a\ndiscrepancy for continued pretraining to quickly\nresolve. Instead, depthwise scaling sacrifices the\n2m middle layers, thereby reducing the discrep-\nancy at the seam and making it easier for continued",
+  "page_idx": 0,
+  "bbox": [
+   0.51131,
+   0.78683,
+   0.88449,
+   0.88191
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2https://huggingface.co/Undi95/\nMistral-11B-v0.1",
+  "page_idx": 0,
+  "bbox": [
+   0.51131,
+   0.89226,
+   0.81395,
+   0.91838
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

@@ -1,0 +1,109 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Kerja Keras APBN 2025 di Tahun Pertama Pemerintahan Baru: Mengantisipasi Risiko, Mendukung Agenda Prioritas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul artikel bertumpuk dua baris (kicker + judul) digabung"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto jalan raya dan halte bus di kawasan perkantoran; tanpa kredit foto"
+ },
+ {
+  "type": "text",
+  "text": "APBN 2025 dihadapkan pada konteks yang tidak biasa, direncanakan dan ditetapkan di tahun 2024 pada masa Pemerintahan Presiden Joko Widodo, namun mulai dilaksanakan oleh Pemerintahan Presiden Prabowo. Di paruh pertama pelaksanaan APBN, dinamika global bergerak cepat dan penuh ketidakpastian. Dalam situasi tersebut, APBN diarahkan melindungi masyarakat, menjaga stabilitas ekonomi sekaligus memastikan agenda prioritas segera berjalan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; paragraf pengantar"
+ },
+ {
+  "type": "text",
+  "text": "APBN 2025 merupakan APBN tahun pertama pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka. Meski disusun pada periode pemerintahan sebelumnya, pelaksanaan APBN 2025 sejak awal diarahkan selaras dengan visi dan agenda pemerintahan baru.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; drop cap 'A' digabung dengan 'PBN'"
+ },
+ {
+  "type": "text",
+  "text": "20 Oktober 2024 menjadi tanda dimulainya Pemerintahan baru dengan penguatan struktur kelembagaan. Pemerintah juga menetapkan Asta Cita sebagai paradigma pembangunan nasional yang menjadi arah kebijakan 5 tahun ke depan. Dalam konteks ini, APBN 2025 dirancang menjadi pondasi awal dimulainya berbagai agenda dan program prioritas, dan akan dikelola secara responsif dan adaptif untuk melindungi masyarakat dan menjaga stabilitas ekonomi nasional.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Memasuki tahun 2025, di tengah situasi ketidakpastian global dan pemulihan ekonomi domestik saat itu, Pemerintah harus mengambil opsi penyesuaian kebijakan secara terukur dan selektif. Di antara penyesuaian tersebut adalah diberlakukannya Pajak Pertambahan Nilai (PPN) sebesar 12% terbatas pada kelompok barang mewah.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Di sisi lain, pemerintah juga menegaskan komitmen untuk meningkatkan kualitas belanja negara melalui penetapan Instruksi Presiden Nomor 1 Tahun 2025 tentang Efisiensi Belanja APBN pada 22 Januari 2025. Melalui kebijakan ini, Pemerintah melakukan efisiensi belanja non-prioritas, seperti belanja seremonial, studi banding, dan perjalanan dinas, serta belanja yang tidak memiliki output terukur. Anggaran tersebut direalokasikan ke program-program prioritas dan belanja yang semakin fokus pada hasil dan manfaat langsung bagi masyarakat, seperti program MBG, pendidikan, kesehatan, dan perlindungan sosial.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; secara visual satu paragraf (tanpa baris kosong sebelum 'Melalui'), meski lapisan teks memberi jarak"
+ },
+ {
+  "type": "text",
+  "text": "Sejalan dengan arah kebijakan tersebut, Pemerintah bergerak cepat mengeksekusi program prioritas pemerintahan baru, dimulai dengan peluncuran Program Makan Bergizi Gratis (MBG) pada 6 Januari 2025 sebagai investasi jangka panjang dalam peningkatan kualitas sumber daya manusia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pada Februari 2025, langkah kelembagaan diperkuat melalui pembentukan Danantara, sejalan dengan Undang-Undang Nomor 1 Tahun 2025 tentang BUMN. Pembentukan Danantara bertujuan untuk meningkatkan daya ungkit investasi Pemerintah dan optimalisasi pengelolaan BUMN secara lebih terintegrasi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ }
+]

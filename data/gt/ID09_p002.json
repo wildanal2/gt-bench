@@ -1,0 +1,69 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "CCB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "中国建设银行",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "印度尼西亚",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "China Construction Bank Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN LABA RUGI KOMPREHENSIF",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Periode 31 Desember 2024 dan 31 Desember 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">Pos-Pos</th><th colspan=\"2\">Individual</th><th colspan=\"2\">Konsolidasian</th></tr><tr><th>Des 2024</th><th>Des 2023</th><th>Des 2024</th><th>Des 2023</th></tr><tr><td>PENDAPATAN DAN BEBAN OPERASIONAL</td><td></td><td></td><td></td><td></td></tr><tr><td>A. Pendapatan dan Beban Bunga</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Pendapatan Bunga</td><td>2,099,107</td><td>1,653,033</td><td>-</td><td>-</td></tr><tr><td>2. Beban Bunga</td><td>(1,101,569)</td><td>(700,933)</td><td>-</td><td>-</td></tr><tr><td>Pendapatan (Beban) Bunga bersih</td><td>997,538</td><td>952,100</td><td>-</td><td>-</td></tr><tr><td>B. Pendapatan dan Beban Operasional lainnya</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Keuntungan (kerugian) dari peningkatan (penurunan) nilai wajar aset keuangan</td><td>(26,841)</td><td>(57)</td><td>-</td><td>-</td></tr><tr><td>2. Keuntungan (kerugian) dari penurunan (peningkatan) nilai wajar liabilitas keuangan</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3. Keuntungan (kerugian) dari penjualan aset keuangan</td><td>3,348</td><td>1,802</td><td>-</td><td>-</td></tr><tr><td>4. Keuntungan (kerugian) dari transaksi spot dan derivatif/forward (realised)</td><td>8,546</td><td>5,332</td><td>-</td><td>-</td></tr><tr><td>5. Keuntungan (kerugian) dari penyertaan dengan equity method</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6. Keuntungan (kerugian) dari penjabaran transaksi valuta asing</td><td>24,078</td><td>(4,090)</td><td>-</td><td>-</td></tr><tr><td>7. Pendapatan dividen</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8. Komisi/provisi/fee dan administrasi</td><td>54,503</td><td>46,197</td><td>-</td><td>-</td></tr><tr><td>9. Pendapatan lainnya</td><td>71,489</td><td>59,863</td><td>-</td><td>-</td></tr><tr><td>10. Kerugian penurunan nilai aset keuangan (impairment)</td><td>(158,319)</td><td>(154,999)</td><td>-</td><td>-</td></tr><tr><td>11. Kerugian terkait risiko operasional</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12. Beban tenaga kerja</td><td>(340,313)</td><td>(337,389)</td><td>-</td><td>-</td></tr><tr><td>13. Beban promosi</td><td>(2,195)</td><td>(2,610)</td><td>-</td><td>-</td></tr><tr><td>14. Beban lainnya</td><td>(254,723)</td><td>(261,571)</td><td>-</td><td>-</td></tr><tr><td>Pendapatan (Beban) Operasional lainnya</td><td>(620,427)</td><td>(647,522)</td><td>-</td><td>-</td></tr><tr><td>LABA (RUGI) OPERASIONAL</td><td>377,111</td><td>304,578</td><td>-</td><td>-</td></tr><tr><td>PENDAPATAN dan BEBAN NON OPERASIONAL</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Keuntungan (kerugian) penjualan aset tetap dan inventaris</td><td>3,578</td><td>3,775</td><td>-</td><td>-</td></tr><tr><td>2. Pendapatan (beban) non operasional lainnya</td><td>1,600</td><td>1,448</td><td>-</td><td>-</td></tr><tr><td>LABA (RUGI) NON OPERASIONAL</td><td>5,178</td><td>5,223</td><td>-</td><td>-</td></tr><tr><td>LABA (RUGI) TAHUN BERJALAN SEBELUM PAJAK</td><td>382,289</td><td>309,801</td><td>-</td><td>-</td></tr><tr><td>Pajak Penghasilan</td><td>(86,887)</td><td>(68,510)</td><td>-</td><td>-</td></tr><tr><td>a. Taksiran pajak tahun berjalan</td><td>(96,734)</td><td>(117,810)</td><td>-</td><td>-</td></tr><tr><td>b. Pendapatan (beban) pajak tangguhan</td><td>9,847</td><td>49,300</td><td>-</td><td>-</td></tr><tr><td>LABA (RUGI) BERSIH TAHUN BERJALAN</td><td>295,402</td><td>241,291</td><td>-</td><td>-</td></tr><tr><td>LABA (RUGI) KEPENTINGAN MINORITAS</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>PENGHASILAN KOMPREHENSIF LAIN</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Pos-pos yang tidak akan direklasifikasi ke laba rugi</td><td>6,569</td><td>100,043</td><td>-</td><td>-</td></tr><tr><td>a. Keuntungan yang berasal dari revaluasi aset tetap</td><td>-</td><td>105,127</td><td>-</td><td>-</td></tr><tr><td>b. Keuntungan (kerugian) yang berasal dari pengukuran kembali atas program pensiun</td><td>6,569</td><td>(5,084)</td><td>-</td><td>-</td></tr><tr><td>c. Lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2. Pos-pos yang akan direklasifikasi ke laba rugi</td><td>(732)</td><td>(14)</td><td>-</td><td>-</td></tr><tr><td>a. Keuntungan (kerugian) yang berasal dari penyesuaian akibat penjabaran laporan keuangan dalam mata uang asing</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>b. Keuntungan (kerugian) dari perubahan nilai aset keuangan instrumen hutang yang diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>(732)</td><td>(14)</td><td>-</td><td>-</td></tr><tr><td>c. Lainnya</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>PENGHASILAN KOMPREHENSIF LAIN TAHUN BERJALAN SETELAH PAJAK</td><td>5,837</td><td>100,029</td><td>-</td><td>-</td></tr><tr><td>TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN</td><td>301,239</td><td>341,320</td><td>-</td><td>-</td></tr><tr><td>Laba (Rugi) Bersih Tahun Berjalan yang dapat diatribusikan kepada:</td><td></td><td></td><td></td><td></td></tr><tr><td>PEMILIK</td><td>295,402</td><td>241,291</td><td>-</td><td>-</td></tr><tr><td>KEPENTINGAN NON PENGENDALI</td><td></td><td></td><td>-</td><td>-</td></tr><tr><td>TOTAL LABA (RUGI) BERSIH TAHUN BERJALAN</td><td>295,402</td><td>241,291</td><td>-</td><td>-</td></tr><tr><td>Total Laba (Rugi) Komprehensif Tahun Berjalan yang dapat diatribusikan kepada:</td><td></td><td></td><td></td><td></td></tr><tr><td>PEMILIK</td><td>301,239</td><td>341,320</td><td>-</td><td>-</td></tr><tr><td>KEPENTINGAN NON PENGENDALI</td><td></td><td></td><td>-</td><td>-</td></tr><tr><td>TOTAL LABA (RUGI) KOMPREHENSIF TAHUN BERJALAN</td><td>301,239</td><td>341,320</td><td>-</td><td>-</td></tr><tr><td>TRANSFER LABA (RUGI) KE KANTOR PUSAT *)</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>DIVIDEN</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>LABA BERSIH PER SAHAM (dalam satuan rupiah) **)</td><td>7.79</td><td>6.36</td><td>-</td><td>-</td></tr></table>",
+  "table_caption": "(Jutaan)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header Pos-Pos digabung rowspan=2; baris seksi (PENDAPATAN DAN BEBAN OPERASIONAL, A., B., PENDAPATAN dan BEBAN NON OPERASIONAL, PENGHASILAN KOMPREHENSIF LAIN, baris 'dapat diatribusikan kepada:') diberi sel nilai kosong; KEPENTINGAN NON PENGENDALI: sel Individual kosong di sumber; label 2 baris digabung satu spasi; teks 'manfaat pasti' hanya ada di lapisan teks (tidak terlihat) pada baris 1.b, tidak dicatat; format angka koma ribuan disalin verbatim"
+ }
+]

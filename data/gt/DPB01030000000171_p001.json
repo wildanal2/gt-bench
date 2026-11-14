@@ -1,0 +1,29 @@
+[
+ {
+  "type": "text",
+  "text": "Contents",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09517,
+   0.07391,
+   0.2407,
+   0.09487
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Acknowledgment of Country v\nAccessibility Information vi\nAcknowledgments vii\nAbout the Authors viii\nIntroduction 1\nPart I. Chapter One - Exploring Your Data\nSection 1.1: Data and Types of Statistical Variables 3\nSection 1.2: Descriptive Statistics 5\nSection 1.3: Missing Data 6\nSection 1.4: Checking Values 7\nSection 1.5: Normality 8\nSection 1.6: Outliers 9\nSection 1.7: Chapter One Self-Test 10\nPart II. Chapter Two - Test Statistics, p Values, Confidence Intervals and Effect Sizes\nSection 2.1: p Values 12\nSection 2.2: Significance 13\nSection 2.3: Confidence Intervals 14\nSection 2.4: Effect Sizes 16\nSection 2.5: Statistical Power 17\nSection 2.6: Chapter Two Self-Test 18\nPart III. Chapter Three - Comparing Two Group Means\nSection 3.1: Looking at Group Differences 20\nSection 3.2: Between Versus Within Groups Analysis 21\nSection 3.3: Independent T-test Assumptions, Interpretation, and Write Up 22\nSection 3.4: Paired T-test Assumptions, Interpretation, and Write Up 25\nSection 3.5: Chapter Three Self-Test 27\nPart IV. Chapter Four - Comparing Associations Between Two Variables\nSection 4.1: Examining Relationships 29\nSection 4.2: Correlation Assumptions, Interpretation, and Write Up 31\nSection 4.3: Chapter Four Self-Test 33",
+  "page_idx": 0,
+  "bbox": [
+   0.13871,
+   0.17378,
+   0.90984,
+   0.90309
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ }
+]

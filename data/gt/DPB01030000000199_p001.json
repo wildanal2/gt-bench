@@ -1,0 +1,137 @@
+[
+ {
+  "type": "text",
+  "text": "Overview of OCR Pack",
+  "page_idx": 0,
+  "bbox": [
+   0.04894,
+   0.06717,
+   0.2135,
+   0.09606
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Base Model Performance Evaluation of Upstage OCR Pack",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.04542,
+   0.12176,
+   0.715,
+   0.16914
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Upstage universal OCR model E2E performance\nevaluation1",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.05047,
+   0.29404,
+   0.39629,
+   0.37862
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.06816,
+   0.42524,
+   0.40971,
+   0.82644
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "1 Performance based on universal model, additional performance improvement is possible by implementing specialized\nmodels according to business requirements\n2 A: Universal model of global leading AI company / B: Universal model of leading AI company in Korea, 2022. 5 Test criteria",
+  "page_idx": 0,
+  "bbox": [
+   0.06987,
+   0.91252,
+   0.48371,
+   0.97704
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "Upstage universal OCR model performance details: Document\ncriteria",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.50139,
+   0.29404,
+   0.95243,
+   0.37862
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "11",
+  "page_idx": 0,
+  "bbox": [
+   0.47863,
+   0.47335,
+   0.4897,
+   0.49041
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.51391,
+   0.40163,
+   0.95612,
+   0.8171
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "3 Recall: Percentage of what the OCR model predicted to be True from those that were actually True\n4 Precision: Percentage of what the OCR model classifies as True, which is actually True\n5 F1: Harmonic mean value of Recall and Precision\n6. Parsing-F1: Comparison of parsing model F1 of both companies for business registration document\nform. Company A is excluded from comparison due to the absence of the document parsing model.",
+  "page_idx": 0,
+  "bbox": [
+   0.55362,
+   0.88787,
+   0.8908,
+   0.99532
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "upstage",
+  "page_idx": 0,
+  "bbox": [
+   0.92498,
+   0.95046,
+   0.96303,
+   0.96985
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

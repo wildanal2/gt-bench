@@ -1,0 +1,27 @@
+[
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama entitas di atas judul laporan; sampul"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN KEUANGAN/ FINANCIAL STATEMENTS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; 2 baris digabung; FINANCIAL STATEMENTS miring",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER/DECEMBER 2024 DAN/AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; DECEMBER dan AND miring"
+ }
+]

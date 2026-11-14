@@ -1,0 +1,124 @@
+[
+ {
+  "type": "text",
+  "text": "2022, No.236",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "-4-",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "MEMUTUSKAN:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Menetapkan :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label penetapan; isi penetapan jadi elemen terpisah"
+ },
+ {
+  "type": "text",
+  "text": "PERATURAN MENTERI KEUANGAN TENTANG PELAKSANAAN FUNGSI PENGAWASAN MENTERI KEUANGAN SEBAGAI PENGELOLA FISKAL DAN WAKIL PEMERINTAH DALAM KEPEMILIKAN KEKAYAAN NEGARA YANG DIPISAHKAN.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; isi Menetapkan; 4 baris digabung; bukan heading"
+ },
+ {
+  "type": "text",
+  "text": "BAB I KETENTUAN UMUM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; BAB + judul 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Pasal 1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 5
+ },
+ {
+  "type": "text",
+  "text": "Dalam Peraturan Menteri ini yang dimaksud dengan:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1. Bendahara Umum Negara yang selanjutnya disingkat BUN adalah pejabat yang diberi tugas untuk melaksanakan fungsi bendahara umum negara.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "2. Bagian Anggaran Bendahara Umum Negara yang selanjutnya disingkat BA BUN adalah bagian anggaran yang tidak dikelompokkan dalam bagian anggaran kementerian/Lembaga.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "3. Pembantu Pengguna Anggaran Bendahara Umum Negara yang selanjutnya disingkat PPA BUN adalah unit organisasi di lingkungan Kementerian yang ditetapkan oleh Menteri dan bertanggung jawab atas pengelolaan anggaran yang berasal dari BA BUN.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "4. Klien Pengawasan adalah unit organisasi pada kementerian/Lembaga/pemerintah daerah/BUMN dan Lembaga non BUMN/BUMD/Lembaga Lainnya yang menjadi objek pelaksanaan pengawasan oleh Inspektorat Jenderal Kementerian.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "5. Lembaga adalah organisasi non kementerian dan instansi lain pengguna anggaran yang dibentuk untuk melaksanakan tugas tertentu berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 atau peraturan perundang-undangan lainnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar; kata majemuk \"Undang-\"/\"Undang\" terpotong di akhir baris ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "6. Badan Usaha Milik Negara yang selanjutnya disingkat BUMN adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh negara melalui penyertaan secara langsung yang berasal dari kekayaan negara yang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "www.peraturan.go.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; URL repositori"
+ }
+]

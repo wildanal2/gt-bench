@@ -1,0 +1,97 @@
+[
+ {
+  "type": "text",
+  "text": "Humanity's Home Base.",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.32865,
+   0.09665,
+   0.66882,
+   0.12181
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14118,
+   0.15333,
+   0.85809,
+   0.3859
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1. This image shows the Western hemisphere as viewed\nfrom space 35,400 kilometers (about 22,000 miles) above Earth.\nData about the land surface from one satellite was combined with\nanother satellite's data about the clouds to create the image.\n(credit: modification of work by R. Stockli, A. Nelson, F. Hasler,\nNASA/ GSFC/ NOAA/ USGS)",
+  "page_idx": 0,
+  "bbox": [
+   0.15254,
+   0.39555,
+   0.84784,
+   0.52762
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Our nearest astronomical neighbor is Earth's satellite, commonly\ncalled the Moon. Figure 2 shows Earth and the Moon drawn to scale\non the same diagram. Notice how small we have to make these\nbodies to fit them on the page with the right scale. The Moon's\ndistance from Earth is about 30 times Earth's diameter, or\napproximately 384,000 kilometers, and it takes about a month for\nthe Moon to revolve around Earth. The Moon's diameter is 3476\nkilometers, about one fourth the size of Earth.",
+  "page_idx": 0,
+  "bbox": [
+   0.13932,
+   0.53217,
+   0.86097,
+   0.70986
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Earth and Moon, Drawn to Scale.",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.26361,
+   0.76488,
+   0.73545,
+   0.78965
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14178,
+   0.8242,
+   0.85809,
+   0.86989
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "10 | Chapter 1 Section 1.6: A Tour of the Universe",
+  "page_idx": 0,
+  "bbox": [
+   0.14118,
+   0.92242,
+   0.60522,
+   0.93862
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

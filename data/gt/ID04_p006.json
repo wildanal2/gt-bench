@@ -1,0 +1,136 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "APBN 2026: Responsif, Adaptif, dan Tetap Sehat",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul artikel"
+ },
+ {
+  "type": "text",
+  "text": "Menjadi Motor Pembangunan dan Pertumbuhan Berkelanjutan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul artikel"
+ },
+ {
+  "type": "text",
+  "text": "APBN 2026 diarahkan untuk mempercepat agenda pembangunan menuju Indonesia yang tangguh, mandiri, dan sejahtera. Sejalan dengan itu, kinerja APBN hingga akhir Januari 2026 menunjukkan capaian yang baik dan tetap on track dalam mendukung prioritas pemerintah.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; paragraf pembuka"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">URAIAN (dalam Triliun Rupiah)</th><th colspan=\"2\">2025</th><th colspan=\"3\">2026</th></tr><tr><th>APBN</th><th>Realisasi Januari</th><th>APBN</th><th>Realisasi Januari</th><th>% thd APBN</th></tr><tr><td>PENDAPATAN NEGARA</td><td>3.005,1</td><td>157,8</td><td>3.153,6</td><td>172,7</td><td>5,5</td></tr><tr><td>PENERIMAAN PERPAJAKAN</td><td>2.490,9</td><td>115,2</td><td>2.693,7</td><td>138,9</td><td>5,2</td></tr><tr><td>Penerimaan Pajak</td><td>2.189,3</td><td>88,9</td><td>2.357,7</td><td>116,2</td><td>4,9</td></tr><tr><td>Penerimaan Kepabeanan dan Cukai</td><td>301,6</td><td>26,3</td><td>336,0</td><td>22,6</td><td>6,7</td></tr><tr><td>PENERIMAAN NEGARA BUKAN PAJAK</td><td>513,6</td><td>42,5</td><td>459,2</td><td>33,9</td><td>7,4</td></tr><tr><td>PENERIMAAN HIBAH</td><td>0,6</td><td>-</td><td>0,7</td><td>-</td><td>-</td></tr><tr><td>BELANJA NEGARA</td><td>3.621,3</td><td>180,8</td><td>3.842,7</td><td>227,3</td><td>5,9</td></tr><tr><td>BELANJA PEMERINTAH PUSAT</td><td>2.701,4</td><td>86,0</td><td>3.149,7</td><td>131,9</td><td>4,2</td></tr><tr><td>Belanja K/L</td><td>1.160,1</td><td>24,4</td><td>1.510,5</td><td>55,8</td><td>3,7</td></tr><tr><td>Belanja non-K/L</td><td>1,541,4</td><td>61,7</td><td>1.639,2</td><td>76,1</td><td>4,6</td></tr><tr><td>TRANSFER KE DAERAH</td><td>919,9</td><td>94,7</td><td>693,0</td><td>95,3</td><td>13,8</td></tr><tr><td>KESEIMBANGAN PRIMER</td><td>(63,3)</td><td>11,1</td><td>(89,7)</td><td>(4,2)</td><td>4,7</td></tr><tr><td>DEFISIT ANGGARAN</td><td>(616,2)</td><td>(23,0)</td><td>(689,1)</td><td>(54,6)</td><td>7,9</td></tr><tr><td>% Defisit terhadap PDB</td><td>(2,53)</td><td>(0,09)</td><td>(2,68)</td><td>(0,21)</td><td></td></tr><tr><td>PEMBIAYAAN ANGGARAN</td><td>616,2</td><td>154,8</td><td>689,1</td><td>105,1</td><td>15,2</td></tr></table>",
+  "table_caption": "Realisasi APBN hingga 31 Januari 2026",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel berupa gambar; judul tercetak di atas tabel dalam gambar → table_caption; '1,541,4' (Belanja non-K/L, APBN 2025) tercetak dengan koma sebagai pemisah ribuan, ditulis verbatim; cek jumlah: semua subtotal cocok, selisih ≤0,1 karena pembulatan (157,8 vs 157,7; 180,8 vs 180,7; 2.701,4 vs 2.701,5; 86,0 vs 86,1; 172,7 vs 172,8; 138,9 vs 138,8; 227,3 vs 227,2)"
+ },
+ {
+  "type": "text",
+  "text": "Hingga 31 Januari 2026, pendapatan negara mencapai Rp172,7 triliun atau tumbuh 9,5% (yoy), ditopang penerimaan perpajakan yang tetap kuat serta PNBP yang mulai menunjukkan pemulihan setelah tahun lalu dipengaruhi komponen non-berulang. Di sisi lain, belanja negara terealisasi Rp227,3 triliun atau tumbuh 25,7% (yoy), menandakan akselerasi pelaksanaan program prioritas dan penguatan perlindungan sosial sejak awal tahun.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; hyphen: 'non-/berulang' kata majemuk berhubung ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Defisit APBN tercatat Rp54,6 triliun (0,21% PDB), jauh di bawah batas aman. Defisit keseimbangan primer sebesar Rp4,2 triliun semakin menegaskan bahwa struktur fiskal tetap terjaga. Ekspansi fiskal yang terjadi bersifat terarah dan produktif untuk mendorong daya beli masyarakat, menjaga momentum aktivitas ekonomi, serta memperkuat fondasi pertumbuhan yang berkelanjutan. Pembiayaan anggaran dikelola secara prudent untuk memastikan program pembangunan dan perlindungan masyarakat tetap berjalan dengan memperhatikan biaya dan risiko yang paling efisien.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'prudent' italic"
+ },
+ {
+  "type": "text",
+  "text": "Pendapatan Negara Tetap Positif, Pajak Tumbuh Kuat",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold)"
+ },
+ {
+  "type": "text",
+  "text": "Hingga akhir Januari 2026, penerimaan pajak neto tercatat Rp116,2 triliun atau 4,9% dari target APBN, tumbuh 30,7% (yoy), sementara secara bruto tumbuh 7,0%. Pertumbuhan ini didukung oleh penurunan restitusi serta peningkatan kinerja, terutama PPN dan PPnBM yang pertumbuhannya melonjak hingga 83,9% (yoy) dan menunjukkan konsumsi domestik yang tetap resilien. Meski terdapat penyesuaian pada PPh 21 dan PPh Final, secara keseluruhan capaian Januari telah mencapai 4,9% dari target APBN, memberikan fondasi yang baik untuk kinerja penerimaan tahun 2026.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dari sisi sektoral, mayoritas sektor utama menunjukkan pertumbuhan positif secara bruto. Industri pengolahan mencatatkan kinerja double digit, terutama didorong industri logam dasar dan subsektor kimia, sementara sektor perdagangan tumbuh ditopang perdagangan besar dan eceran serta peningkatan transaksi daring. Meskipun pertumbuhan neto pada kedua sektor tersebut relatif terbatas karena faktor restitusi, aktivitas riilnya tetap solid. Sektor pertambangan tumbuh baik secara bruto maupun neto, khususnya pada komoditas minyak dan gas bumi. Di sektor keuangan dan asuransi secara neto mencatat pertumbuhan positif, sedangkan secara bruto mengalami penyesuaian akibat pembayaran dividen ke luar negeri. Ke depan, penerimaan pajak diproyeksikan tetap tumbuh positif seiring konsumsi dan aktivitas ekonomi yang terjaga serta tren restitusi yang lebih terkendali.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; 'double digit' italic"
+ },
+ {
+  "type": "text",
+  "text": "Penerimaan Kepabeanan dan Cukai Dipengaruhi Faktor Harga dan Produksi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold)"
+ },
+ {
+  "type": "text",
+  "text": "Penerimaan Kepabeanan dan Cukai hingga Januari 2026 terealisasi sebesar Rp22,6 triliun atau 6,7% dari target APBN. Penerimaan Bea Masuk tercatat Rp3,7 triliun, turun 4,4% (yoy). Penurunan ini dipengaruhi oleh meningkatnya pemanfaatan tarif Most Favored Nation (MFN) sebesar 0% dan optimalisasi berbagai perjanjian perdagangan bebas (Free Trade Agreements/FTA), serta restitusi yang lebih tinggi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Most Favored Nation', 'Free Trade Agreements' italic"
+ },
+ {
+  "type": "text",
+  "text": "Penerimaan Bea Keluar mencapai Rp1,4 triliun, terkontraksi 41,6% (yoy), terutama akibat penurunan harga komoditas utama, khususnya Crude Palm Oil (CPO). Meskipun volume ekspor meningkat, tekanan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Crude Palm Oil' italic; paragraf berlanjut ke halaman berikutnya"
+ }
+]

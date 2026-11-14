@@ -1,0 +1,186 @@
+[
+ {
+  "type": "text",
+  "text": "Restrictions on Land Ownership by Foreigners in\nSelected Jurisdictions",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.18279,
+   0.09234,
+   0.81826,
+   0.14314
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Staff of the Global Legal Research Directorate",
+  "page_idx": 0,
+  "bbox": [
+   0.33261,
+   0.15074,
+   0.66708,
+   0.16681
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "I. Introduction",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.21179,
+   0.25635,
+   0.22971
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "This report, prepared by the research staff of the Law Library of Congress, surveys 39\njurisdictions regarding whether, and if so how, they restrict ownership of land by foreigners.1\nThe jurisdictions surveyed were among those with the highest gross domestic product according\nto 2021 World Bank data, selected to ensure broadly representative coverage.2",
+  "page_idx": 0,
+  "bbox": [
+   0.11673,
+   0.24619,
+   0.88883,
+   0.31714
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We identified 10 countries that do not restrict land ownership by foreigners: Belgium, France,\nGermany, Ireland, Japan, the Netherlands, Norway, Portugal, Sweden, and the\nUnited Kingdom.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.33327,
+   0.88675,
+   0.38487
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We found that the following countries do not permit foreign ownership of land, although\nexceptions may apply in some cases or other rights to land may be acquired: China, Indonesia,\nNigeria, Philippines, and Thailand.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.40104,
+   0.88512,
+   0.45435
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Among the other jurisdictions surveyed, some have restrictions that apply to different types of\nland, including agricultural, residential, and commercial land. Other types of restriction are based\non the location of the land, such as near the border or military establishments. Some jurisdictions\nrestrict particular categories of foreigners from land ownership. Some require special permission\nor approval for foreigners before they can acquire land.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.47216,
+   0.88675,
+   0.55716
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Ownership of agricultural land by foreigners is restricted by some provinces of Canada, and by\nEgypt, India (restricted for diplomatic personnel, nonresidents of Indian origin and nonresident\ncitizens without registration), Iran, Poland (permit required), and Russia. Argentina, Brazil, and\nTurkey restrict ownership of rural or local land to a percentage of the total land of the local\njurisdiction.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.57374,
+   0.88675,
+   0.66019
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Article XVII of the General Agreement on Trade in Services (GATS) obligates members to provide\nnational treatment to other members, i.e., \"treatment no less favourable than that it accords to its\nown.\"3 If land ownership restrictions result in less favorable treatment of foreigners, GATS",
+  "page_idx": 0,
+  "bbox": [
+   0.11673,
+   0.67713,
+   0.88675,
+   0.7307
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1 The surveyed jurisdictions are Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, China, Egypt,\nFinland, Germany, Greece, India, Indonesia, Iran, Ireland, Israel, Italy, Japan, Mexico, the Netherlands,\nNew Zealand, Nigeria, Norway, Philippines, Poland, Portugal, Russia, Saudi Arabia, South Africa, South\nKorea, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, and the United\nKingdom.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.75341,
+   0.87837,
+   0.82762
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "2 World Bank Databank, Gross Domestic Product 2021 (Jan. 15, 2023), https://perma.cc/GP7Y-Z8K8.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.83458,
+   0.7966,
+   0.85005
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "3 General Agreement on Trade in Services (GATS), Apr. 15, 1994, Marrakesh Agreement Establishing the World\nTrade Organization, Annex 1B, art. XVII, 1869 U.N.T.S. 183, 33 I.L.M. 1167 (1994), https://perma.cc/Z89Y-\nSEVS.",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.85814,
+   0.88149,
+   0.90119
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "The Law Library of Congress",
+  "page_idx": 0,
+  "bbox": [
+   0.11388,
+   0.93865,
+   0.3422,
+   0.9562
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "1",
+  "page_idx": 0,
+  "bbox": [
+   0.86334,
+   0.94041,
+   0.87624,
+   0.95237
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

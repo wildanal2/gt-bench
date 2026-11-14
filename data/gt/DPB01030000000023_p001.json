@@ -1,0 +1,106 @@
+[
+ {
+  "type": "text",
+  "text": "2. The Lost Homeland",
+  "page_idx": 0,
+  "bbox": [
+   0.67546,
+   0.08447,
+   0.84955,
+   0.09987
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "This description told me that Steinkirche was somewhere in the vicinity\nof Strehlen. Then, according to Elfriede's stories about walking her\nanimals, ducks, geese and a goat to the railway station to meet visitors,\na station once existed near the village. I wondered whether it had survived\nthe bombing. I have seen films of the utter devastation along the Oder\nRiver in early May 1945, just before the War in Europe ended. Did the\nrailway still Steinkirche? My mother's father had been a railway line\npass\npointsman, a signal attendant. From a station close to home he would\nhave undertaken the long journeys his work demanded.",
+  "page_idx": 0,
+  "bbox": [
+   0.1252,
+   0.11644,
+   0.84641,
+   0.29509
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "I went back to the old German maps in the National Library and located\nSteinkirche on one of several contiguous contour maps perhaps designed\nfor military purposes. They covered Lower Silesia in 1938 in·remarkable\ndetail, although such detail also helped obscure the printed names\nof villages, which were lost in the depictions of miniature hills, rivers,\nquarries, castles, lakes and even houses.",
+  "page_idx": 0,
+  "bbox": [
+   0.12872,
+   0.30966,
+   0.84523,
+   0.42697
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Eventually I did locate the village through this superb map. Steinkirche\nwas off the main road near the second railway station south of Strehlen,\nprobably on a hill, something my mother had never mentioned. If one\npassed it, one could also locate it as station number two of the seven\nbetween Strehlen and Milnsterberg, on the railway running south of\nBreslau towards the Carpathian Mountains. Then I noted the Polish\nnames for the two townships south of Wroclaw (Breslau). In the German-\nto-Polish Gazeteer they are given as Strzelin and Ziebice.",
+  "page_idx": 0,
+  "bbox": [
+   0.1252,
+   0.44154,
+   0.84955,
+   0.60179
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "My intention was to take a train or a car to the new Polish ex-Steinkirche,\nvisit it discreetly, and search the old cemetery for family connections.\nI wanted to photograph my two-year-old granddaughter beside my own\ngrandfather Friedrich's grave. I wanted to look for other evidence of family\nhistory, and just savour the atmosphere of the place. I also wanted to see\nwhat had happened to Neumarkt Platz.",
+  "page_idx": 0,
+  "bbox": [
+   0.12755,
+   0.61405,
+   0.84955,
+   0.73213
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "It was difficult to achieve anything in a hurry. In London, my daughter,\ngranddaughter and I visited the office of the Polish Consulate. Tourist\nbrochures were generously given to us, but none of the authoritative road\nofPoland showed the villages between Strzelin and Ziebice. Did our\nmaps\nvillage still exist? And by what name?",
+  "page_idx": 0,
+  "bbox": [
+   0.12755,
+   0.74593,
+   0.84758,
+   0.84484
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "After flying to Berlin, we set out in a hire car for Wroclaw on 13 September\n2003. Beside the Hitler-era Autobahn, there are still extensive forests,\nbetween flat farmlands. It was raining when we entered Poland.",
+  "page_idx": 0,
+  "bbox": [
+   0.12755,
+   0.85788,
+   0.84523,
+   0.91845
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "9",
+  "page_idx": 0,
+  "bbox": [
+   0.89629,
+   0.93086,
+   0.91152,
+   0.94168
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

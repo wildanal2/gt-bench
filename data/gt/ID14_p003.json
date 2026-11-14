@@ -1,0 +1,75 @@
+[
+ {
+  "type": "text",
+  "text": "- 3 -",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "7. Peraturan Pemerintah Nomor 60 Tahun 2008 tentang Sistem Pengendalian Intern Pemerintah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 127, Tambahan Lembaran Negara Republik Indonesia Nomor 4890);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; garis bawah biru (tautan) diabaikan; daftar Mengingat dimulai di halaman 2 (butir baru, bukan kalimat terpotong)"
+ },
+ {
+  "type": "text",
+  "text": "8. Peraturan Pemerintah Nomor 90 Tahun 2010 tentang Penyusunan Rencana Kerja dan Anggaran Kementerian Negara/Lembaga (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 152, Tambahan Lembaran Negara Republik Indonesia Nomor 5178);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; garis bawah biru (tautan) diabaikan"
+ },
+ {
+  "type": "text",
+  "text": "9. Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara. (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 103, Tambahan Lembaran Negara Republik Indonesia Nomor 5423) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 50 Tahun 2018 tentang Perubahan atas Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara (Lembaran Negara Republik Indonesia Tahun 2018 Nomor 229, Tambahan Lembaran Negara Republik Indonesia Nomor 6267);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; garis bawah biru (tautan) diabaikan; titik setelah 'Belanja Negara.' tercetak di sumber, dibiarkan"
+ },
+ {
+  "type": "text",
+  "text": "10. Peraturan Pemerintah Nomor 12 Tahun 2017 tentang Pembinaan dan Pengawasan Penyelenggaraan Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2017 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 6041);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; garis bawah biru (tautan) diabaikan"
+ },
+ {
+  "type": "text",
+  "text": "11. Peraturan Pemerintah Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 42, Tambahan Lembaran Negara Republik Indonesia Nomor 6322);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; garis bawah biru (tautan) diabaikan"
+ },
+ {
+  "type": "text",
+  "text": "12. Peraturan Presiden Nomor 57 Tahun 2020 tentang Kementerian Keuangan (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 98);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; garis bawah biru (tautan) diabaikan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; paraf"
+ },
+ {
+  "type": "text",
+  "text": "www.jdih.kemenkeu.go.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer URL"
+ }
+]

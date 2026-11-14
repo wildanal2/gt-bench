@@ -1,0 +1,81 @@
+[
+ {
+  "type": "text",
+  "text": "In this content, DPN Argentina provides a brief explanation of the SDGs and\nthe 2030 Agenda action plans, and most importantly, their role in advancing the 2030\nAgenda through the SDGs Monitoring and Evaluation Program with a focus on certain\nthematic areas. These focuses allow DPN Argentina to investigate through monitoring\nand preparing reports on the development of public policies and actions of\norganizations responsible for compliance with the SDGs, as well as proposals, and\nrecommendations to strengthen related processes.",
+  "page_idx": 0,
+  "bbox": [
+   0.12,
+   0.08527,
+   0.88005,
+   0.21578
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Furthermore, DPN Argentina also regularly uploads commemorations of\ndays related to the SDGs by also including the SDGs logo in each of these uploads.\nExamples of such greetings are as follows:",
+  "page_idx": 0,
+  "bbox": [
+   0.12,
+   0.21872,
+   0.88005,
+   0.2728
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11921,
+   0.29096,
+   0.52835,
+   0.60223
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "DPN Argentina\nContent: World Health\nFigure 6\nDay Celebration\n(7 April 2021).98",
+  "page_idx": 0,
+  "bbox": [
+   0.56805,
+   0.46333,
+   0.88005,
+   0.5205
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "98 DPN Argentina, \"Dia Mundial de la #Salud\", accessed on 5 December 2021,https://twitter.com/D\nPNArgentina/status/1379765916259483648.",
+  "page_idx": 0,
+  "bbox": [
+   0.11921,
+   0.88708,
+   0.87872,
+   0.91553
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "23",
+  "page_idx": 0,
+  "bbox": [
+   0.49014,
+   0.93184,
+   0.50894,
+   0.94177
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

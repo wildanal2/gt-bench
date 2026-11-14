@@ -1,0 +1,108 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.27355,
+   0.11506,
+   0.64132,
+   0.37424
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 2.9.\nA pie chart\ndisplaying\n12\ncategories\nof television\nviewing in\nOntario in\n2004\nprovides\ntoo much\nvisual\ninformation\n, making it\nhard to\nread.",
+  "page_idx": 0,
+  "bbox": [
+   0.73118,
+   0.09342,
+   0.85825,
+   0.342
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "False Causation",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14133,
+   0.49194,
+   0.43765,
+   0.51375
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Correlation does not imply causation.",
+  "page_idx": 0,
+  "bbox": [
+   0.14033,
+   0.55532,
+   0.56819,
+   0.57321
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "If you've ever taken a statistics or data analysis course, you\nhave almost certainly come across this common phrase. It\nmeans that, just because two trends seem to fluctuate\nalongside each other, it doesn't prove that one causes the other\nor that they are related in a meaningful way.",
+  "page_idx": 0,
+  "bbox": [
+   0.14033,
+   0.5782,
+   0.85825,
+   0.68707
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Review Figure 2.1023 below, which shows a line graph of the",
+  "page_idx": 0,
+  "bbox": [
+   0.16475,
+   0.68629,
+   0.85746,
+   0.71069
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2. Statistics Canada. Table 37-10-0079-01 Registered apprenticeship\ntraining, registrations by major trade groups and sex. Data is\nreproduced and distributed on an \"as is\" basis with the permission of\nStatistics Canada. Retrieved February 2nd, 2022. DOI: https://doi.org/\n10.25318/3710007901-eng. Statistics Canada Open Licence:\nhttps://www.statcan.gc.ca/en/reference/licence\n3. Statistics Canada. Table 32-10-0364-01 Area, production and farm gate",
+  "page_idx": 0,
+  "bbox": [
+   0.11824,
+   0.7683,
+   0.84698,
+   0.90681
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "46 | Misleading Data Visualizations",
+  "page_idx": 0,
+  "bbox": [
+   0.14257,
+   0.93342,
+   0.50521,
+   0.94883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

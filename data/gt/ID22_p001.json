@@ -1,0 +1,207 @@
+[
+ {
+  "type": "text",
+  "text": "Terakreditasi SINTA Peringkat 2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Surat Keputusan Dirjen Penguatan Riset dan Pengembangan Ristek Dikti No. 10/E/KPT/2019",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "masa berlaku mulai Vol. 1 No. 1 tahun 2017 s.d Vol. 5 No. 3 tahun 2021",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Terbit online pada laman web jurnal: http://jurnal.iaii.or.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "IAII",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "JURNAL RESTI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "(Rekayasa Sistem dan Teknologi Informasi)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Vol. 4 No. 4 (2020) 717 - 722",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "ISSN Media Elektronik: 2580-0760",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Optimasi Model TL-CNN Untuk Klasifikasi Citra CIFAR-10",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; judul paper",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Rastri Prathivi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penulis"
+ },
+ {
+  "type": "text",
+  "text": "1Jurusan Teknologi Informasi, Fakultas Teknologi Informasi dan Komunikasi, Universitas Semarang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka 1 superskrip"
+ },
+ {
+  "type": "text",
+  "text": "1vivi@usm.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; email; angka 1 superskrip"
+ },
+ {
+  "type": "text",
+  "text": "Abstract",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label berdiri sendiri",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "The low accuracy when performing the image classification process is a problem that often occurs. The image classification process requires the completeness of the features of the image which form an informative image pattern so that information from the image can be displayed. The purpose of this study is to classify images in the CIFAR-10 image dataset using the CNN method. Initially the CNN method gave an accuracy of 79.4% but had a long computation time of 12 hours with 10,000 iterations. The optimization process for the CNN method is carried out by combining the CNN method, the PCA algorithm and the t-SNE algorithm. The algorithm is used to reduce the length of the image matrix in the initial transfer of learning without reducing the information in the image so that the classification process can be done correctly. The final result obtained from the optimization has an accuracy of 90.5%. With an optimization rate of 11%. The resulting time is more efficient, namely 3 hours for the feature transfer-value process and 6 minutes for the testing process with 10,000 iterations.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Keywords: CNN, convolutional neural network, CIFAR-10, image classification",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris"
+ },
+ {
+  "type": "text",
+  "text": "Abstrak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label berdiri sendiri",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Rendahnya akurasi ketika melakukan proses klasifikasi citra merupakan masalah yang seringkali terjadi. Proses klasifikasi citra memerlukan kelengkapan fitur dari citra tersebut yang membentuk pola citra yang informatif sehingga informasi dari citra dapat dimunculkan. Tujuan penelitian ini adalah mengklasifikasikan citra dalam dataset citra CIFAR-10 menggunakan metode CNN. Awalnya metode CNN memberikan hasil akurasi 79.4% tetapi memiliki waktu komputasi yang lama yaitu sebesar 12 jam dengan 10.000 iterasi. Proses optimasi pada metode CNN dilakukan dengan menggabungkan metode CNN, algoritma PCA dan t-SNE. Algoritma tersebut digunakan untuk mereduksi panjang matrik citra pada proses transfer awal pembelajaran tanpa mengurangi informasi dalam citra tersebut sehingga proses klasifikasi dapat dilakukan dengan benar. Hasil akhir yang diperoleh dari optimasi tersebut memiliki akurasi 90.5%. Dengan tingkat optimasi sebesar 11%. Waktu yang dihasilkan lebih efisien yaitu 3 jam untuk proses transfer nilai (transfer-value) fitur dan 6 menit untuk proses testing dengan 10.000 iterasi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kata kunci: CNN, jaringan syaraf, CIFAR-10, klasifikasi citra",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris"
+ },
+ {
+  "type": "text",
+  "text": "1. Pendahuluan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Klasifikasi pada citra diperlukan untuk mengelompokkan berbagai bentuk citra menjadi satu kelompok yang memiliki ciri yang sama. Klasifikasi citra pada ranah spasial dapat menggunakan pixel dan fitur yang terdapat pada citra. Fitur yang terdapat pada citra berupa garis, sudut, area bidang citra, warna dan kurva.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pengenalan citra dapat memberikan informasi yang terkait dengan bentuk dan ciri yang dimiliki oleh sebuah citra. Rendahnya akurasi ketika melakukan proses klasifikasi dan pengenalan citra merupakan masalah yang seringkali terjadi. Proses klasifikasi citra memerlukan kelengkapan fitur dari citra tersebut yang akan membentuk pola citra yang informatif sehingga informasi dari citra dapat dimunculkan. Metode berbasis jaringan saraf konvolusi (convolutional neural network/ CNN) merupakan metode yang banyak diterapkan untuk mendapatkan informasi fitur pada sebuah citra. Metode ini memiliki akurasi yang tinggi untuk memperoleh informasi fitur yang lengkap pada sebuah citra memalui",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "Diterima Redaksi: 03-07-2020 | Selesai Revisi: 09-08-2020 | Diterbitkan Online: 20-08-2020",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; info artikel"
+ },
+ {
+  "type": "text",
+  "text": "717",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

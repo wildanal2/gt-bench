@@ -1,0 +1,184 @@
+[
+ {
+  "type": "text",
+  "text": "xviii",
+  "page_idx": 0,
+  "bbox": [
+   0.139,
+   0.05397,
+   0.18537,
+   0.06709
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Prologue",
+  "page_idx": 0,
+  "bbox": [
+   0.77359,
+   0.05397,
+   0.86316,
+   0.07005
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "So let's get rid of the expression derivative d/dt and replace it\nwith an appropriate functional derivative. If f is a function then\nwe will write Df as the new function that is the derivative of f:5",
+  "page_idx": 0,
+  "bbox": [
+   0.13964,
+   0.0891,
+   0.86126,
+   0.14708
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "(Df)(t)=\\left.\\frac{d}{dx}f(x)\\right|_{x=t}.",
+  "page_idx": 0,
+  "bbox": [
+   0.14091,
+   0.16063,
+   0.39817,
+   0.20592
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "To do this for the Lagrange equation we need to construct a\nfunction to take the derivative of.",
+  "page_idx": 0,
+  "bbox": [
+   0.13964,
+   0.21734,
+   0.86126,
+   0.25501
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Given a configuration-space path w, there is a standard way\nto make the state-space path. We can abstract this method as a\nmathematical function �:",
+  "page_idx": 0,
+  "bbox": [
+   0.13964,
+   0.25755,
+   0.86126,
+   0.31427
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\Gamma[w](t)=\\left(t,w(t),\\frac{d}{dl}w(t)\\right).",
+  "page_idx": 0,
+  "bbox": [
+   0.14091,
+   0.32612,
+   0.43248,
+   0.36506
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Using � we can write:",
+  "page_idx": 0,
+  "bbox": [
+   0.13964,
+   0.37733,
+   0.38239,
+   0.39637
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{d}{dt}\\left(\\left(\\partial_2L\\right)(\\Gamma[w](t))\\right)-\\left(\\partial_1L\\right)(\\Gamma[w(t))=0.",
+  "page_idx": 0,
+  "bbox": [
+   0.14091,
+   0.40986,
+   0.58766,
+   0.4488
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "If we now define composition of functions (f ○ g)(x) = f(g(x)),\nwe can express the Lagrange equations entirely in terms of func-\ntions:",
+  "page_idx": 0,
+  "bbox": [
+   0.139,
+   0.46188,
+   0.86062,
+   0.51826
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "D\\left(\\left(\\partial_2L\\right)\\circ(\\Gamma[w])\\right)-\\left(\\partial_1L\\right)\\circ(\\Gamma[w])=0.",
+  "page_idx": 0,
+  "bbox": [
+   0.14091,
+   0.53597,
+   0.57249,
+   0.55631
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "The functions �1L and �2L are partial derivatives of the func-\ntion L. Composition with �[w] evaluates these partials with coor-\ndinates and velocites appropriate for the path w, making functions\nof time. Applying D takes the time derivative. The Lagrange\nequation states that the difference of the resulting functions of\ntime must be zero. This statement of the Lagrange equation is\ncomplete, unambiguous, and functional. It is not encumbered\nwith the particular choices made in expressing the Lagrangian.\nFor example, it doesn't matter if the time is named t or �, and it\nhas an explicit place for the path to be tested.",
+  "page_idx": 0,
+  "bbox": [
+   0.139,
+   0.57289,
+   0.86268,
+   0.77116
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "This expression is equivalent to a computer program:6",
+  "page_idx": 0,
+  "bbox": [
+   0.1671,
+   0.77116,
+   0.76829,
+   0.79137
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "5An explanation of functional derivatives is in Appendix B, page 202.\n6The programs in this book are written in Scheme, a dialect of Lisp. The\ndetails of the language are not germane to the points being made. What is\nimportant is that it is mechanically interpretable, and thus unambiguous. In\nthis book we require that the mathematical expressions be explicit enough",
+  "page_idx": 0,
+  "bbox": [
+   0.13964,
+   0.8175,
+   0.86268,
+   0.90543
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

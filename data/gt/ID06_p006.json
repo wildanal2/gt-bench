@@ -1,0 +1,510 @@
+[
+ {
+  "type": "text",
+  "text": "2. Pertumbuhan Ekonomi Triwulan IV-2025 Terhadap Triwulan IV-2024 (Y-on-Y)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; dua baris digabung; Y-on-Y miring; level per halaman (heading tertinggi di halaman ini)",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia triwulan IV-2025 terhadap triwulan IV-2024 tumbuh sebesar 5,39 persen (y-on-y). Pertumbuhan terjadi pada seluruh komponen pengeluaran. Pertumbuhan tertinggi dicapai oleh Komponen PMTB sebesar 6,12 persen; diikuti Komponen PK-LNPRT sebesar 5,90 persen; Komponen PK-RT sebesar 5,11 persen; Komponen PK-P sebesar 4,55 persen; dan Komponen Ekspor Barang dan Jasa sebesar 3,25 persen. Komponen Impor Barang dan Jasa (yang merupakan faktor pengurang dalam PDB menurut Pengeluaran) tumbuh sebesar 3,96 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; y-on-y miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 5 Pertumbuhan PDB Beberapa Komponen Pengeluaran (Y-on-Y) (persen),\nTriwulan IV-2024, Triwulan III-2025, dan Triwulan IV-2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (3 seri per kategori); dibaca per kategori kiri ke kanan, nilai per seri, lalu legenda; lapisan teks grafik terduplikasi, nilai dicek dari gambar"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi Rumah Tangga",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "4,89",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "5,11",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi LNPRT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "6,06",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "3,76",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "5,90",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi Pemerintah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,61",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "5,66",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "4,55",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pembentukan Modal Tetap Bruto",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "5,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "5,04",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "6,12",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Ekspor Barang & Jasa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "7,89",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "9,14",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "3,25",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Impor Barang & Jasa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "10,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "0,86",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "3,96",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw III-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "3. Pertumbuhan Ekonomi Triwulan IV-2025 Terhadap Triwulan III-2025 (Q-to-Q)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; dua baris digabung; Q-to-Q miring; level per halaman",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia triwulan IV-2025 dibanding triwulan III-2025 tumbuh sebesar 0,86 persen (q-to-q). Pertumbuhan terjadi pada seluruh komponen pengeluaran, kecuali Komponen Ekspor Barang dan Jasa terkontraksi sebesar 1,18 persen. Pertumbuhan tertinggi terjadi pada Komponen PK-P sebesar 37,68 persen; diikuti oleh Komponen PK-LNPRT sebesar 8,55 persen; Komponen PMTB sebesar 3,50 persen; dan Komponen PKRT sebesar 1,84 persen. Komponen Impor Barang dan Jasa sebagai faktor pengurang tumbuh sebesar 6,62 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; q-to-q miring; 'PK-/LNPRT' terpotong di akhir baris ditulis utuh; 'PKRT' tanpa tanda hubung sesuai cetakan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 6 Pertumbuhan PDB Beberapa Komponen Pengeluaran (Q-to-Q) (persen),\nTriwulan IV-2024, Triwulan III-2025, dan Triwulan IV-2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang berkelompok (3 seri per kategori); dibaca per kategori kiri ke kanan, nilai per seri, lalu legenda; lapisan teks grafik terduplikasi, nilai dicek dari gambar"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi Rumah Tangga",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "1,64",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "-0,55",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "1,84",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi LNPRT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "6,36",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "-3,92",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "8,55",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pengeluaran Konsumsi Pemerintah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "39,15",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "4,76",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "37,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Pembentukan Modal Tetap Bruto",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "2,44",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "6,37",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "3,50",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Ekspor Barang & Jasa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "4,45",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "6,95",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "-1,18",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Impor Barang & Jasa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori sumbu-x"
+ },
+ {
+  "type": "text",
+  "text": "3,44",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2024"
+ },
+ {
+  "type": "text",
+  "text": "-0,45",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw III-2025"
+ },
+ {
+  "type": "text",
+  "text": "6,62",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang; seri Triw IV-2025"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw III-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Triw IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer; spasi ganda diringkas"
+ }
+]

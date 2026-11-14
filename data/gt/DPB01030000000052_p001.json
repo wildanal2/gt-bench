@@ -1,0 +1,55 @@
+[
+ {
+  "type": "text",
+  "text": "Overcoming Barriers to Filipino Women's Political Representation 15",
+  "page_idx": 0,
+  "bbox": [
+   0.23313,
+   0.05608,
+   0.90954,
+   0.07372
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "the way for women to enter the House of Representatives. In 2019,\n20 women from party lists have contributed to the increase in female\nlegislators. However, the Party-List Law's implementation has been\ncontroversial owing to the entry of political dynasties and traditional\npoliticians. The ideal that it serve as the gateway to political power of\ndisadvantaged groups has been lost due to vague provisions in the\nlaw and subsequent Supreme Court decisions. The party list system\nhas also been \"co-opted by the traditional political system or have\nbecome the training ground for future influence-peddling traditional\npoliticians\" (Tigno 2019). In other words, it has deviated from the idea\nof proportional representation practiced in other countries. Dynastic\nfamilies took advantage of the system's flaws and used them to field\nrelatives, including some women, to expand their political power.\nHowever, recent interviews with legislators from progressive party\nlists demonstrate a better understanding of women's issues than some\nrepresentatives elected from single-member districts (Encinas-Franco\n2022, 157).",
+  "page_idx": 0,
+  "bbox": [
+   0.13755,
+   0.10804,
+   0.9066,
+   0.47271
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Table 2. Women-Members of the House of Representatives\nper Region, 2007-2019",
+  "page_idx": 0,
+  "bbox": [
+   0.23313,
+   0.50596,
+   0.80955,
+   0.54427
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>REGIONS</td><td>2007-2010</td><td>2010-2013</td><td>2016-2019</td></tr><tr><td>National Capital Region</td><td>9</td><td>8</td><td>5</td></tr><tr><td>Cordillera Autonomous Region</td><td>1</td><td>2</td><td>1</td></tr><tr><td>I - Ilocos Region</td><td>1</td><td>5</td><td>4</td></tr><tr><td>II - Cagayan Valley</td><td>1</td><td>3</td><td>5</td></tr><tr><td>III - Central Luzon</td><td>8</td><td>9</td><td>11</td></tr><tr><td>IVA - CALABARZON</td><td>4</td><td>2</td><td>11</td></tr><tr><td>IVB - MIMAROPA</td><td>1</td><td>1</td><td>1</td></tr><tr><td>V - Bicol Region</td><td>2</td><td>0</td><td>4</td></tr><tr><td>VI - Western Visayas</td><td>2</td><td>3</td><td>3</td></tr><tr><td>VII - Central Visayas</td><td>2</td><td>2</td><td>3</td></tr><tr><td>VIII - Eastern Visayas</td><td>3</td><td>2</td><td>3</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14163,
+   0.56334,
+   0.89786,
+   0.92099
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ }
+]

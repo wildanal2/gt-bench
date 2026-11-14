@@ -1,0 +1,81 @@
+[
+ {
+  "type": "text",
+  "text": "2\nFact-Checking",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14108,
+   0.08909,
+   0.3722,
+   0.12162
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "In this\ncontext, we are\ntalking about\nfact-checking\nthat is done\nbefore a source\nis published.\nOver the last\ntwo decades\nthere has been\nan increase in\nfact checking as\nan activity that\ntakes place after\na source has\nbeen published,\na practice\ndiscussed in\nmore detail in\nthe chapter,\nSIFTing\nInformation.",
+  "page_idx": 0,
+  "bbox": [
+   0.19572,
+   0.20908,
+   0.37765,
+   0.70761
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Fact checkers verify that the names,\ndates, and facts in a work (usually an\narticle or book) are correct. For\nexample, they may contact a person\nwho is quoted in a proposed news\narticle and ask the person whether\nthis quotation is correct, or how to\nspell the person's name. Fact-\ncheckers are primarily useful in\ncatching accidental mistakes.",
+  "page_idx": 0,
+  "bbox": [
+   0.45749,
+   0.15762,
+   0.85988,
+   0.38236
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The number of people employed in\nfact-checking varies by publication.\nSome organizations have substantial\nfact-checking departments. Others\nmay hire freelancers per piece, or\nmay combine fact-checking with\nother duties. Magazines are more\nlikely to use fact checkers than\nnewspapers. Television and radio\nprograms rarely employ dedicated\nfact checkers, and instead expect\nothers, including senior staff, to\nengage in fact-checking in addition to\ntheir other duties.",
+  "page_idx": 0,
+  "bbox": [
+   0.45749,
+   0.38701,
+   0.85988,
+   0.70009
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2. Content in this section is adapted from the Wikipedia\nentry \"Fact-checking\" (https://en.wikipedia.org/wiki/\nFact-checking) and is used under a CC BY-SA 3.0 license.",
+  "page_idx": 0,
+  "bbox": [
+   0.11131,
+   0.83062,
+   0.85634,
+   0.90689
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "48 | Types of Sources",
+  "page_idx": 0,
+  "bbox": [
+   0.13844,
+   0.92247,
+   0.35358,
+   0.93901
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

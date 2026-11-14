@@ -1,0 +1,199 @@
+[
+ {
+  "type": "text",
+  "text": "Record your observations in Table 13.2.",
+  "page_idx": 0,
+  "bbox": [
+   0.14262,
+   0.07386,
+   0.41297,
+   0.08992
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Table 13.2. Effect of cations on flocculation of a clay suspension.",
+  "page_idx": 0,
+  "bbox": [
+   0.09237,
+   0.12876,
+   0.68159,
+   0.15019
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Added cation</td><td>Relative Size & Settling Rates of Floccules</td></tr><tr><td>K+</td><td></td></tr><tr><td>Na+</td><td></td></tr><tr><td>Ca2+</td><td></td></tr><tr><td>Al3+</td><td></td></tr><tr><td>Check</td><td></td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.09058,
+   0.17331,
+   0.4658,
+   0.30503
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Activity 4. Determining CEC by replacing adsorbed cations.",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08914,
+   0.34046,
+   0.65549,
+   0.36296
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "In this activity, you will titrate the filtrate with a 0.01 molar solution of NaOH using phenolphthalein as an indicator.\nPhenolphthalein changes from colorless to faint pink when the quantity of OH- ions added via the NaOH equals the\nquantity of H+ ions in the solution (that is, when the pH is raised to 7). For this activity, assume the soil samples have\nbeen extracted and the filtrates are now available for analysis.",
+  "page_idx": 0,
+  "bbox": [
+   0.0855,
+   0.3892,
+   0.90895,
+   0.45761
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1. Place 10 ml of each filtrate into separate 125 ml flasks. This 10 ml quantity is the amount of filtrate from 1.0 gram of\nsoil.\n2. Add 10 drops of the phenolphthalein indicator.\n3. Titrate the extract with the NaOH solution to a faint pink endpoint. The titration must be done very carefully to\nobtain meaningful results. If you put too much NaOH in the flask and get a bright pink color, discard the solution\nand repeat the process. In the table below, record the milliliters of NaOH solution used to achieve the endpoint.",
+  "page_idx": 0,
+  "bbox": [
+   0.09508,
+   0.47585,
+   0.90733,
+   0.58179
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Calculate the CEC and record your data in Table 13.3.",
+  "page_idx": 0,
+  "bbox": [
+   0.14442,
+   0.59762,
+   0.51024,
+   0.6131
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Here is an example of how to calculate the CEC, assuming 2.5 mL of NaOH was required to achieve an end point.\nThe reaction occurring during titration is",
+  "page_idx": 0,
+  "bbox": [
+   0.08743,
+   0.62832,
+   0.91075,
+   0.66074
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\mathrm{NaOH}+\\mathrm{H}^{+}\\rightarrow\\mathrm{Na}^{+}+\\mathrm{H}_2\\mathrm{O}",
+  "page_idx": 0,
+  "bbox": [
+   0.35907,
+   0.6729,
+   0.64016,
+   0.69316
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Thus, one mole of NaOH reacts with one mole of H+. Therefore, at the phenolphthalein end point, moles of NaOH added\n= moles of H+ in solution.",
+  "page_idx": 0,
+  "bbox": [
+   0.08914,
+   0.70613,
+   0.91285,
+   0.73936
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The solution of 0.01 molar NaOH contains 1 cmol charge per liter (1 cmolc/L). Therefore 2.5 mL NaOH contains",
+  "page_idx": 0,
+  "bbox": [
+   0.08914,
+   0.75313,
+   0.84992,
+   0.76934
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1 L 0.01 mol NaOH 1 molc 100 cmolc\ncmolc of NaOH = 2.5 mL NaOH × × × × = 0.0025 molc NaOH\n1000 mL 1 L 1 mol NaOH 1 molc",
+  "page_idx": 0,
+  "bbox": [
+   0.09058,
+   0.77826,
+   0.91495,
+   0.81311
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Thus, the CEC is",
+  "page_idx": 0,
+  "bbox": [
+   0.09237,
+   0.82526,
+   0.20805,
+   0.84147
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{\\mathrm{cmol}_{\\mathrm{c}}}{\\mathrm{kg}\\text{soil}}=\\frac{0.0025\\mathrm{cmol}_{\\mathrm{c}}}{1\\mathrm{~g}\\mathrm{soil}}\\times\\frac{1000\\mathrm{~g}\\mathrm{soil}}{1\\mathrm{~kg}\\text{soil}}=\\frac{2.5\\mathrm{\\textit{cmolc}}}{\\mathrm{kg}\\text{soil}}",
+  "page_idx": 0,
+  "bbox": [
+   0.25,
+   0.8512,
+   0.74923,
+   0.90064
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "114 | Soil Colloids",
+  "page_idx": 0,
+  "bbox": [
+   0.08914,
+   0.93873,
+   0.207,
+   0.95494
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "Mengapa Kita Wajib Mengisi dan Menyampaikan SPT Tahunan PPh?",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide; hanya ada di gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon dua orang (wajib pajak)"
+ },
+ {
+  "type": "text",
+  "text": "01 WAJIB PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir linimasa; nomor dalam lingkaran digabung dengan labelnya"
+ },
+ {
+  "type": "text",
+  "text": "02 MEMENUHI PERSYARATAN SUBJEKTIF DAN OBJEKTIF",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir linimasa; nomor dalam lingkaran digabung dengan labelnya; label tercetak di atas-kiri nomor"
+ },
+ {
+  "type": "text",
+  "text": "03 MENGISI SPT DENGAN BENAR, LENGKAP, DAN JELAS, DAN MENANDATANGANI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir linimasa; nomor dalam lingkaran digabung dengan labelnya"
+ },
+ {
+  "type": "text",
+  "text": "04 MENYAMPAIKAN KE KPP TEMPAT TERDAFTAR ATAU TEMPAT LAIN YANG DITETAPKAN OLEH DIRJEN PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir linimasa; nomor dalam lingkaran digabung dengan labelnya; lapisan teks 'TEMPATLAIN', visual berspasi"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 2 dan 3 UU No.6 UU No.16 Tahun 2009",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak rujukan; hanya ada di gambar; dua baris digabung"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

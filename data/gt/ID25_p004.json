@@ -1,0 +1,61 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon tab bab aktif; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Ikhtisar Keuangan dan Operasional",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan; tab navigasi bab"
+ },
+ {
+  "type": "text",
+  "text": "Financial and Operational Highlights",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan; tab navigasi bab"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; deretan 7 ikon navigasi bab tanpa teks; furniture"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Uraian Description</th><th>2024</th><th>2023</th><th>2022</th></tr><tr><td>Pinjaman yang diberikan – jangka pendek – bersih Short-term loans - net</td><td>1.494.420</td><td>1.300.257</td><td>1.098.390</td></tr><tr><td>Tagihan bruto kepada pemberi kerja – bersih Gross amount due from customers- net</td><td>1.192.566</td><td>1.873.406</td><td>1.395.632</td></tr><tr><td>Piutang lain-lain – bersih other receivables - net</td><td>1.470.326</td><td>1.117.561</td><td>1.002.441</td></tr><tr><td>Pendapatan yang masih harus diterima – bersih Accrued income - net</td><td>44.455</td><td>31.204</td><td>27.806</td></tr><tr><td>Persediaan jangka pendek – bersih Short-term inventories - net</td><td>230.998</td><td>231.792</td><td>338.928</td></tr><tr><td>Uang muka dan biaya dibayar di muka Advances and prepaid expenses</td><td>194.253</td><td>260.914</td><td>201.282</td></tr><tr><td>Pajak dibayar di muka Prepaid taxes</td><td>720.704</td><td>745.190</td><td>510.757</td></tr><tr><td>Aset lancar lainnya – bersih Other current assets - net</td><td>736.300</td><td>790.316</td><td>798.856</td></tr><tr><td>Jumlah aset lancar Total current assets</td><td>18.392.289</td><td>16.928.092</td><td>14.590.400</td></tr><tr><td>Aset Tidak Lancar Non-current Assets</td><td></td><td></td><td></td></tr><tr><td>Investasi pada ventura bersama Investment in joint ventures</td><td>589.477</td><td>436.143</td><td>437.098</td></tr><tr><td>Investasi pada entitas asosiasi Investment in associate entities</td><td>1.525.134</td><td>1.245.901</td><td>901.943</td></tr><tr><td>Investasi jangka panjang – bersih Long-term investments - net</td><td>9.222.524</td><td>9.010.886</td><td>6.319.568</td></tr><tr><td>Pinjaman yang diberikan - jangka panjang - bersih Long-term loans - net</td><td>1.749.540</td><td>2.090.316</td><td>2.080.473</td></tr><tr><td>Persediaan jangka panjang Long-term inventories</td><td>393.164</td><td>290.913</td><td>290.642</td></tr><tr><td>Aset pajak tangguhan Deferred tax assets</td><td>256.752</td><td>289.232</td><td>288.874</td></tr><tr><td>Properti investasi - bersih Investment properties – net</td><td>23.940.305</td><td>23.097.887</td><td>22.527.777</td></tr><tr><td>Aset tetap – bersih Fixed assets - net</td><td>5.785.643</td><td>5.819.639</td><td>5.058.119</td></tr><tr><td>Aset hak guna - bersih Right of use assets - net</td><td>766.675</td><td>389.886</td><td>269.374</td></tr><tr><td>Aset tak berwujud - bersih Intangible assets - net</td><td>56.042</td><td>62.182</td><td>51.405</td></tr><tr><td>Pekerjaan dalam penyelesaian Work in progress</td><td>845.410</td><td>579.725</td><td>458.829</td></tr><tr><td>Aset tidak lancar lainnya – bersih Other non-current assets - net</td><td>208.600</td><td>211.706</td><td>217.954</td></tr><tr><td>Jumlah aset tidak lancar Total non-current assets</td><td>45.339.266</td><td>43.524.416</td><td>38.902.056</td></tr><tr><td>Jumlah aset Total assets</td><td>63.731.555</td><td>60.452.508</td><td>53.492.456</td></tr></table>",
+  "table_caption": "dalam Jutaan Rupiah\nIn million Rupiah",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; lanjutan tabel Posisi Keuangan Konsolidasian dari halaman sebelumnya (judul tidak diulang di halaman ini); bilingual: label ID dan EN tercetak bertumpuk dua baris dalam satu sel, digabung satu spasi; header Uraian/Description bertumpuk digabung satu spasi; baris seksi Aset Tidak Lancar diberi sel nilai kosong; format angka titik ribuan disalin verbatim; '–' (en dash) dan '-' disalin sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "Annual Report 2024 I PT Danareksa (Persero)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; pemisah 'I' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "35",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

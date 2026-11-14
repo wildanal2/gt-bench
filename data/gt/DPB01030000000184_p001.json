@@ -1,0 +1,204 @@
+[
+ {
+  "type": "text",
+  "text": "Semantic Search Pack: Value",
+  "page_idx": 0,
+  "bbox": [
+   0.06947,
+   0.07236,
+   0.23217,
+   0.09911
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "SS Pack allows businesses to access further data more rapidly",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.06853,
+   0.12419,
+   0.64502,
+   0.17101
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The SS Pack can reduce the information acquisition time by returning all the information that matches the user's search intent.",
+  "page_idx": 0,
+  "bbox": [
+   0.04784,
+   0.30812,
+   0.64126,
+   0.33488
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The performance optimized for individual search systems is maintained by automatic updates of real-time search log records, augmented by\nUpstage's technological know-how.",
+  "page_idx": 0,
+  "bbox": [
+   0.04878,
+   0.35662,
+   0.70709,
+   0.42016
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1.8X ↑1",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09786,
+   0.50391,
+   0.16932,
+   0.55376
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Higher Return of Information",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09621,
+   0.56842,
+   0.26388,
+   0.59579
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Unlike existing search systems that only return\ninformation limited to the entered search keywords, SS\nPack returns all relevant data that meet the user's\nsearch intent",
+  "page_idx": 0,
+  "bbox": [
+   0.09621,
+   0.63782,
+   0.337,
+   0.76
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Optimal Attempt",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.38208,
+   0.52248,
+   0.53821,
+   0.56256
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Reduced Information Acquisition Time",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.38263,
+   0.57429,
+   0.59978,
+   0.60361
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "By returning all semantic-based information of the\nsearch keywords, the time required for information\nacquisition is reduced drastically compared to that\nof traditional keyword-matching search systems",
+  "page_idx": 0,
+  "bbox": [
+   0.38263,
+   0.63782,
+   0.60693,
+   0.76294
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2\nSOTA",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.68939,
+   0.50489,
+   0.75041,
+   0.54985
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Cutting-Edge Technology",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.68939,
+   0.56647,
+   0.82958,
+   0.59677
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The analysis of user logs saved in real-time allows us\nto further optimize the individual search services\nover time",
+  "page_idx": 0,
+  "bbox": [
+   0.68774,
+   0.63782,
+   0.91149,
+   0.72091
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1 Evaluated against 100 internal test queries. Comparison of the amount of information returned with at least one keyword included in the search term and the\namount of returned information against that of SS Pack\n2 State-of-the-art, current highest level of results and performance",
+  "page_idx": 0,
+  "bbox": [
+   0.05085,
+   0.89265,
+   0.73506,
+   0.97306
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "22",
+  "page_idx": 0,
+  "bbox": [
+   0.9636,
+   0.94358,
+   0.97802,
+   0.96572
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

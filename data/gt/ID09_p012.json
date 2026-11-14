@@ -1,0 +1,225 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo"
+ },
+ {
+  "type": "text",
+  "text": "CCB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "中国建设银行",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "印度尼西亚",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "China Construction Bank Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN KOMPOSISI SAHAM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanpa lapisan teks (pindaian), ditranskripsi dari gambar",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Periode 31 Desember 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No</th><th>Jenis Pemegang Saham</th><th>Nama</th><th>Kepemilikan Saham (%)</th><th>Negara</th></tr><tr><td>1</td><td>Pemegang Saham Pengendali</td><td>China Construction Bank Corporation</td><td>60.00</td><td>China</td></tr><tr><td>2</td><td>Pemegang Saham Non Pengendali</td><td>UOB KAY HIAN PTE LTD</td><td>8.21</td><td>Singapore</td></tr><tr><td>3</td><td>Pemegang Saham Non Pengendali</td><td>Johnny Wiraatmadja</td><td>6.94</td><td>Indonesia</td></tr><tr><td>4</td><td>Masyarakat</td><td>Masyarakat Lainnya &lt; 5%</td><td>24.85</td><td>Indonesia</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header 'Kepemilikan Saham (%)' 3 baris digabung satu spasi"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No</th><th>Nama Pemegang Saham Pengendali Terakhir</th><th>Persentase</th><th>Negara</th><th>Keterangan</th></tr><tr><td>1</td><td>China Construction Bank Corporation</td><td>60.00</td><td>China</td><td>Melalui PT. Sinartama Gunita selaku Biro Adm Efek</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel kedua tanpa judul sendiri; header 2 baris digabung satu spasi"
+ },
+ {
+  "type": "text",
+  "text": "Catatan :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1 Informasi keuangan di atas diambil dari laporan keuangan PT Bank China Construction Bank Indonesia Tbk (\"Bank\") tanggal 31 Desember 2024 dan untuk tahun yang berakhir pada tanggal tersebut, yang disusun oleh manajemen Bank sesuai dengan Standar Akuntansi Keuangan di Indonesia, yang telah diaudit oleh Kantor Akuntan Publik Purwantono, Sungkoro & Surja (“PSS”), firma anggota Ernst & Young Global Limited, auditor independen dengan rekan penanggung jawab Christophorus Alvin Kossim sesuai dengan Standar Audit yang ditetapkan oleh Institut Akuntan Publik Indonesia, dengan opini audit tanpa modifikasian, sebagaimana tercantum dalam laporannya pada tanggal 19 Februari 2025 yang tidak tercantum dalam publikasi ini. Informasi keuangan tersebut diatas tidak mencakup catatan atas laporan keuangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: jenis tanda kutip (lurus/lengkung) sulit dipastikan dari pindaian"
+ },
+ {
+  "type": "text",
+  "text": "2 Laporan Keuangan tersebut diatas ditujukan untuk memenuhi dan disusun sesuai dengan:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "a. Peraturan Otoritas Jasa Keuangan (POJK) No.37/POJK.03/2019 tanggal 19 Desember 2019 tentang \"Transparansi dan Publikasi bank\".",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. Surat Edaran Jasa Keuangan No.9/SEOJK.03/2020 tanggal 30 Juni 2020 tentang \"Transparansi dan Publikasi Laporan Bank Umum Konvensional\".",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "c. Peraturan Ketua Badan Pengawas Pasar Modal dan Lembaga Keuangan (\"Bapepam-LK\") (yang fungsinya dialihkan kepada Otoritas Jasa Keuangan (“OJK\") sejak tanggal 1 Januari 2013) No. X.K.2, Lampiran Keputusan Ketua Bapepam-LK No. 346/BL/2011 tanggal 5 Juli 2011 tentang “Penyampaian Laporan Keuangan Berkala Emiten atau Perusahaan Publik\" yang telah digantikan dengan Peraturan Otoritas Jasa Keuangan No.14/POJK.04/2022 tanggal 18 Agustus 2022 tentang Penyampaian Laporan Keuangan Berkala Emiten atau Perusahaan Publik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: jenis tanda kutip (lurus/lengkung) sulit dipastikan dari pindaian"
+ },
+ {
+  "type": "text",
+  "text": "d. Peraturan Bapepam-LK No. VIII.G.7, Lampiran Keputusan Ketua Bapepam-LK No. Kep.347/BL/2012 tanggal 25 Juni 2012 tentang “Penyajian dan Pengungkapan Laporan Keuangan Emiten atau Perusahaan Publik”.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: jenis tanda kutip (lurus/lengkung) sulit dipastikan dari pindaian"
+ },
+ {
+  "type": "text",
+  "text": "3 Kurs per Desember 2024 1 USD = Rp 16.095,00 Kurs per Desember 2023 1 USD = Rp 15.397,00",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dua baris kurs digabung satu spasi"
+ },
+ {
+  "type": "text",
+  "text": "Jakarta, 19 Februari 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK CHINA CONSTRUCTION BANK INDONESIA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda setelah PT dinormalisasi"
+ },
+ {
+  "type": "text",
+  "text": "Atas nama dan mewakili Direksi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan"
+ },
+ {
+  "type": "text",
+  "text": "Zhu Yong",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Direktur",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan"
+ },
+ {
+  "type": "text",
+  "text": "Junianto",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Direktur",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; paraf; pojok kanan bawah"
+ }
+]

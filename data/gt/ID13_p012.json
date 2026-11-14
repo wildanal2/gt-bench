@@ -1,0 +1,159 @@
+[
+ {
+  "type": "text",
+  "text": "- 12 -",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 18",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Pasal",
+  "text_level": 5
+ },
+ {
+  "type": "text",
+  "text": "(1) BLU harus memiliki piagam Pengawasan Intern yang paling sedikit memuat:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; ayat"
+ },
+ {
+  "type": "text",
+  "text": "a. struktur dan kedudukan SPI;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "b. tugas dan tanggung jawab SPI;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "c. wewenang SPI;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "d. kode etik SPI yang mengacu pada kode etik yang ditetapkan oleh asosiasi pengawasan intern yang ada di Indonesia atau kode etik pengawasan intern yang lazim berlaku secara internasional;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "e. persyaratan auditor intern SPI;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "f. pertanggungjawaban SPI; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "g. larangan perangkapan tugas dan jabatan auditor intern SPI dari pelaksanaan kegiatan operasional BLU.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "(2) Piagam Pengawasan Intern sebagaimana dimaksud pada ayat (1) ditandatangani oleh pemimpin BLU dan kepala SPI serta mendapatkan persetujuan dewan pengawas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; ayat"
+ },
+ {
+  "type": "text",
+  "text": "(3) Piagam Pengawasan Intern sebagaimana dimaksud pada ayat (1) ditinjau dan dimutakhirkan sesuai kebutuhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; ayat; kurung tutup '(3)' rusak pindaian"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 19",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Pasal",
+  "text_level": 5
+ },
+ {
+  "type": "text",
+  "text": "Kepala SPI menetapkan pedoman audit, mekanisme kerja dan supervisi di dalam organisasi SPI, serta penilaian program jaminan dan peningkatan kualitas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 20",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Pasal",
+  "text_level": 5
+ },
+ {
+  "type": "text",
+  "text": "Dalam hal BLU tidak memiliki dewan pengawas, penyampaian laporan kepada dewan pengawas sebagaimana dimaksud dalam Pasal 9 ayat (1) dan Pasal 11 ayat (2), serta persetujuan dewan pengawas sebagaimana dimaksud dalam Pasal 13 ayat (1) dan Pasal 18 ayat (2), tidak diperlukan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pasal 21",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Pasal",
+  "text_level": 5
+ },
+ {
+  "type": "text",
+  "text": "BLU yang telah memiliki unit kerja Pengawasan Intern sebelum berlakunya Peraturan Menteri ini, harus menyesuaikan dengan ketentuan dalam Peraturan Menteri ini paling lama 1 (satu) tahun sejak Peraturan Menteri ini diundangkan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; coretan tinta biru di sekitar 'kerja' diabaikan; dicek: koma setelah 'ini' (sebelum 'harus') tipis abu-abu, bisa noda pindaian; alternatif tanpa koma"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; paraf"
+ }
+]

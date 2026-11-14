@@ -1,0 +1,29 @@
+[
+ {
+  "type": "text",
+  "text": "CONTENTS",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.13213,
+   0.14227,
+   0.25739,
+   0.1644
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "About the Publisher vii\nAbout This Project ix\nAcknowledgments xi\nLABMANUAL\nExperiment #1: Hydrostatic Pressure 3\nExperiment #2: Bernoulli's Theorem Demonstration 13\nExperiment #3: Energy Loss in Pipe Fittings 24\nExperiment #4: Energy Loss in Pipes 33\nExperiment #5: Impact of a Jet 43\nExperiment #6: Orifice and Free Jet Flow 50\nExperiment #7: Osborne Reynolds' Demonstration 59\nExperiment #8: Free and Forced Vortices 66\nExperiment #9: Flow Over Weirs 76\nExperiment #10: Pumps 84\nReferences 101\nLinks by Chapter 102\nImage Credits 104",
+  "page_idx": 0,
+  "bbox": [
+   0.07895,
+   0.25456,
+   0.91735,
+   0.77706
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ }
+]

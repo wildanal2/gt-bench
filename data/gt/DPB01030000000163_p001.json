@@ -1,0 +1,218 @@
+[
+ {
+  "type": "text",
+  "text": "HOW CAN\nYOU HELP?",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.04892,
+   0.03149,
+   0.28443,
+   0.11713
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "As a boater:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.01291,
+   0.12217,
+   0.09952,
+   0.1398
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "· Check tidal conditions beforehand\n· Stay within marked channels\n· Pay attention to buoys and markers\n· Do not run aground\n· If you run aground, call for help\n· Wear polarized sunglasses\n· Take a safe boating course",
+  "page_idx": 0,
+  "bbox": [
+   0.02069,
+   0.14484,
+   0.28443,
+   0.29975
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "As a developer:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.01291,
+   0.32242,
+   0.12677,
+   0.34131
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "· Do careful mapping of seagrass in\npotential areas for development\n· Avoid dredging and filling\n· Learn about existing regulations",
+  "page_idx": 0,
+  "bbox": [
+   0.01778,
+   0.34131,
+   0.27276,
+   0.43073
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "As a homeowner:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.01291,
+   0.45466,
+   0.14429,
+   0.47355
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "· Diminish fertilizer use (use soaking,\nrain gardens, and native plants instead)\n· Dispose of pet waste properly\n· Keep seagrass in mind during\nconstruction (for example, build high\ndocks with grating instead of planks)",
+  "page_idx": 0,
+  "bbox": [
+   0.02069,
+   0.47607,
+   0.31558,
+   0.60705
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "As anyone who wants to help:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.01291,
+   0.65474,
+   0.23084,
+   0.67273
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "· Urge politicians to establish stricter\nwater quality regulations\n· Mobilize to give seagrass an\n'endangered' status\n· Follow established laws for seagrass\nprotection\n· Reach out to environmental\norganizations and volunteer in\nrestoration projects\n· Challenge the misconception that\nseagrass is 'ugly' and 'useless'\n· Tell your friends and family about the\nimportance of this ecosystem",
+  "page_idx": 0,
+  "bbox": [
+   0.02069,
+   0.6782,
+   0.30215,
+   0.95816
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "FURTHER\nRESOURCES",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.37555,
+   0.03882,
+   0.61225,
+   0.13537
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "FLOWCODE",
+  "page_idx": 0,
+  "bbox": [
+   0.41497,
+   0.77316,
+   0.45523,
+   0.7813
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "PRIVACY.FLOWCODE.COM",
+  "page_idx": 0,
+  "bbox": [
+   0.45523,
+   0.80572,
+   0.54141,
+   0.82449
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Scan this QR code and learn\nmore about seagrass, what you\ncan do to help, and what\norganizations are fighting for\nits restoration!",
+  "page_idx": 0,
+  "bbox": [
+   0.44018,
+   0.86061,
+   0.63774,
+   0.96355
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "SEAGRASS\nIN SOUTH FLORIDA",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.68252,
+   0.12642,
+   0.97862,
+   0.21244
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "WHY IT IS IMPORTANT\n&\nWHAT YOU CAN DO",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.694,
+   0.23512,
+   0.9756,
+   0.34131
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "cco, 2022",
+  "page_idx": 0,
+  "bbox": [
+   0.79914,
+   0.34538,
+   0.86985,
+   0.36337
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

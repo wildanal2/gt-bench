@@ -1,0 +1,175 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td rowspan=\"3\">Properties</td><td colspan=\"6\">Training Datasets</td></tr><tr><td colspan=\"3\">Instruction</td><td colspan=\"3\">Alignment</td></tr><tr><td>Alpaca-GPT4</td><td>OpenOrca</td><td>Synth. Math-Instruct</td><td>Orca DPO Pairs</td><td>Ultrafeedback Cleaned</td><td>Synth. Math-Alignment</td></tr><tr><td>Total # Samples</td><td>52K</td><td>2.91M</td><td>126K</td><td>12.9K</td><td>60.8K</td><td>126K</td></tr><tr><td>Maximum # Samples Used</td><td>52K</td><td>100K</td><td>52K</td><td>12.9K</td><td>60.8K</td><td>20.1K</td></tr><tr><td>Open Source</td><td>O</td><td>O</td><td>X</td><td>O</td><td>O</td><td>X</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.12767,
+   0.0848,
+   0.87628,
+   0.16322
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 1: Training datasets used for the instruction and alignment tuning stages, respectively. For the instruction\ntuning process, we utilized the Alpaca-GPT4 (Peng et al., 2023), OpenOrca (Mukherjee et al., 2023), and Synth.\nMath-Instruct datasets, while for the alignment tuning, we employed the Orca DPO Pairs (Intel, 2023), Ultrafeedback\nCleaned (Cui et al., 2023; Ivison et al., 2023), and Synth. Math-Alignment datasets. The 'Total # Samples' indicates\nthe total number of samples in the entire dataset. The 'Maximum # Samples Used' indicates the actual maximum\nnumber of samples that were used in training, which could be lower than the total number of samples in a given\ndataset. 'Open Source' indicates whether the dataset is open-sourced.",
+  "page_idx": 0,
+  "bbox": [
+   0.11759,
+   0.17392,
+   0.88384,
+   0.27462
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "pretraining to quickly recover performance. We\nattribute the success of DUS to reducing such dis-\ncrepancies in both the depthwise scaling and the\ncontinued pretraining steps. We also hypothesize\nthat other methods of depthwise scaling could also\nwork for DUS, as long as the discrepancy in the\nscaled model is sufficiently contained before the\ncontinued pretraining step.",
+  "page_idx": 0,
+  "bbox": [
+   0.11885,
+   0.29868,
+   0.49063,
+   0.4288
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Comparison to other up-scaling methods. Un-\nlike Komatsuzaki et al. (2022), depthwise scaled\nmodels do not require additional modules like gat-\ning networks or dynamic expert selection. Conse-\nquently, scaled models in DUS do not necessitate\na distinct training framework for optimal training\nefficiency, nor do they require specialized CUDA\nkernels for fast inference. A DUS model can seam-\nlessly integrate into existing training and inference\nframeworks while maintaining high efficiency.",
+  "page_idx": 0,
+  "bbox": [
+   0.11507,
+   0.43593,
+   0.49189,
+   0.59545
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3 Training Details",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11377,
+   0.60979,
+   0.29292,
+   0.62673
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "After DUS, including continued pretraining, we\nperform fine-tuning of SOLAR 10.7B in two stages:\n1) instruction tuning and 2) alignment tuning.",
+  "page_idx": 0,
+  "bbox": [
+   0.11507,
+   0.63631,
+   0.49063,
+   0.68565
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Instruction tuning. In the instruction tuning\nstage, the model is trained to follow instructions in\na QA format (Zhang et al., 2023b). We mostly use\nopen-source datasets but also synthesize a math QA\ndataset to enhance the model's mathematical capa-\nbilities. A rundown of how we crafted the dataset is\nas follows. First, seed math data are collected from\nthe Math (Hendrycks et al., 2021) dataset only, to\navoid contamination with commonly used bench-\nmark datasets such as GSM8K (Cobbe et al., 2021).\nThen, using a process similar to MetaMath (Yu\net al., 2023), we rephrase the questions and an-\nswers of the seed math data. We use the resulting\nrephrased question-answer pairs as a QA dataset",
+  "page_idx": 0,
+  "bbox": [
+   0.11507,
+   0.69376,
+   0.49063,
+   0.91987
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "and call it 'Synth. Math-Instruct'.",
+  "page_idx": 0,
+  "bbox": [
+   0.51284,
+   0.29757,
+   0.76419,
+   0.31397
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Alignment tuning. In the alignment tuning stage,\nthe instruction-tuned model is further fine-tuned to\nbe more aligned with human or strong AI (e.g.,\nGPT4 (OpenAI, 2023)) preferences using direct\npreference optimization (DPO) (Rafailov et al.,\n2023). Similar to the instruction tuning stage, we\nuse mostly open-source datasets but also synthe-\nsize a math-focused alignment dataset utilizing the\n'Synth. Math-Instruct' dataset mentioned in the\ninstruction tuning stage.",
+  "page_idx": 0,
+  "bbox": [
+   0.51178,
+   0.32505,
+   0.88837,
+   0.48614
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The alignment data synthesis process is as\nfollows. We take advantage of the fact that\nthe rephrased question-answer pairs in Synth.\nMath-Instruct data are beneficial in enhancing the\nmodel's mathematical capabilities (see Sec. 4.3.1).\nThus, we speculate that the rephrased answer to the\nrephrased question is a better answer than the orig-\ninal answer, possibly due to the interim rephrasing\nstep. Consequently, we set the rephrased question\nas the prompt and use the rephrased answer as the\nchosen response and the original answer as the re-\njected response and create the {prompt, chosen,\nrejected} DPO tuple. We aggregate the tuples from\nthe rephrased question-answer pairs and call the\nresulting dataset 'Synth. Math-Alignment'.",
+  "page_idx": 0,
+  "bbox": [
+   0.51178,
+   0.48904,
+   0.88384,
+   0.72849
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4 Results",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.50898,
+   0.74163,
+   0.60909,
+   0.75624
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "4.1 Experimental Details",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.51057,
+   0.76973,
+   0.7243,
+   0.78433
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Training datasets. We present details regarding\nour training datasets for the instruction and align-\nment tuning stages in Tab. 1. We do not always\nuse the entire dataset and instead subsample a set\namount. Note that most of our training data is\nopen-source, and the undisclosed datasets can be\nsubstituted for open-source alternatives such as the\nMetaMathQA (Yu et al., 2023) dataset.",
+  "page_idx": 0,
+  "bbox": [
+   0.51178,
+   0.79052,
+   0.88639,
+   0.91862
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.11464,
+   0.04728,
+   0.39698,
+   0.06668
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.79673,
+   0.04798,
+   0.87023,
+   0.06599
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "16. Place the tubes in a balanced configuration in the microcentrifuge and spin for 3 minutes.",
+  "page_idx": 0,
+  "bbox": [
+   0.11374,
+   0.093,
+   0.76447,
+   0.10685
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "17. Carefully pour off the supernatant from both tubes. Do not disturb the nucleic acid pellets. Invert the\ntubes and tap them gently on the surface of a clean paper towel to drain them thoroughly.",
+  "page_idx": 0,
+  "bbox": [
+   0.11553,
+   0.12486,
+   0.84424,
+   0.1581
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "18. Briefly spin the tubes in a balanced configuration in the microcentrifuge to bring any remaining ethanol to\nthe bottom of the tube. Then use the micropipette to remove any remaining ethanol. Use a fresh tip for each\ntube. Be careful not to disturb the nucleic acid pellet.",
+  "page_idx": 0,
+  "bbox": [
+   0.11374,
+   0.17334,
+   0.88099,
+   0.21905
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "19. Allow the tubes to dry by leaving the tube caps open for 3-5 minutes. Inspect each tube carefully to\nensure that the tube interior is completely dry.",
+  "page_idx": 0,
+  "bbox": [
+   0.11374,
+   0.2329,
+   0.83617,
+   0.26476
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "***Congratulations, you have just completed the miniprep plasmid DNA extraction!!!***",
+  "page_idx": 0,
+  "bbox": [
+   0.19262,
+   0.28208,
+   0.80659,
+   0.29801
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Restriction Enzyme Digest Prep (switch to the 1- 20-�L micropipette):",
+  "page_idx": 0,
+  "bbox": [
+   0.11374,
+   0.31532,
+   0.6354,
+   0.33056
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "20. Use a micropipette to add 10 �L of tris-EDTA solution (TE) to each tube. Use a new tip for each tube.\nDissolve the pellets by pipetting in and out. Rinse the sides of the tube several times, concentrating on\nthe area where the nucleic acid pellet or particles were observed. Check that no particles remain in the\npipet tip or on the side of the tube. Use the entire contents of each tube in the restriction digest that\nfollows.",
+  "page_idx": 0,
+  "bbox": [
+   0.15049,
+   0.34649,
+   0.8765,
+   0.4206
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "II. Set Up the Restriction Digests of the \"Suspect\" and \"Evidence\" DNA",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11284,
+   0.4393,
+   0.73668,
+   0.45731
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Reagents</td><td>Supplies and Equipment</td></tr><tr><td>At each student station: Resuspended DNA or ethanol precipitates from Part 1* To be shared by all groups: \"Evidence A\" DNA* \"Evidence B\" DNA* Restriction Buffer-RNase A* BamHI-HindIII restriction enzyme mixture* Sterile distilled or deionized water</td><td>Microcentrifuge tube rack 3 1.5-mL microcentrifuge tubes Micropipet, 1- 20 �L Micropipet tips Beaker or similar container for waste Beaker or similar container filled with ice Permanent marker Water bath at 37°C</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11464,
+   0.47254,
+   0.88367,
+   0.61868
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "*Store on ice",
+  "page_idx": 0,
+  "bbox": [
+   0.11284,
+   0.63531,
+   0.19889,
+   0.64985
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "NOTE: Your instructor will assign you to use either \"Evidence A\" DNA or \"Evidence B\" DNA",
+  "page_idx": 0,
+  "bbox": [
+   0.11464,
+   0.66647,
+   0.72951,
+   0.6824
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1. Label the three 1.5-mL microcentrifuge tubes in which you will perform the restriction digests: \"S1\" for\nSuspect 1, \"S2\" for Suspect 2, and either \"EA\" for Evidence A or \"EB\" for Evidence B. All three samples will be\ndigested by the restriction enzymes BamHI and HindIII.",
+  "page_idx": 0,
+  "bbox": [
+   0.11464,
+   0.7295,
+   0.87471,
+   0.7766
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2. Use the table below (next page) as a checklist while adding reagents to each reaction. Read down each\ncolumn, adding the same reagent to all appropriate tubes. To avoid cross contamination, use a fresh pipet tip\neach time you add a reagent to a tube.",
+  "page_idx": 0,
+  "bbox": [
+   0.11464,
+   0.79045,
+   0.87471,
+   0.83824
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "132",
+  "page_idx": 0,
+  "bbox": [
+   0.48392,
+   0.92205,
+   0.51977,
+   0.94213
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

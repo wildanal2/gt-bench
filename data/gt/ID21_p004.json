@@ -1,0 +1,338 @@
+[
+ {
+  "type": "text",
+  "text": "Brenda Irena, Erwin Budi Setiawan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "RESTI Journal (System Engineering and Information Technology) Vol. 4 No. 4 (2020) 711 – 716",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "the C4.5 algorithm can handles both categorical and numeric value, can resolve missing data and pruning data [13]. In general, the process carried out by the C4.5 algorithm in building a decision tree is to choose attributes as the root based on the largest gain ratio, then determine the attributes that will be an internal nodes for each branch of the parent node, and make a decision node when attribute selection cannot be used anymore. Figure 2 Shows the Decision Tree C4.5 Calculation Flow.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan dari halaman sebelumnya"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Figure 2. C4.5 Flow",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Entropy",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Information Gain",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Decision Tree & Rule Model",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Gain Ratio",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Split Information",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Equations used in this algorithm include [14]:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "a. Entropy",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Entropy is used as a parameter to measure the heterogeneity (diversity) of a data sample. The smaller the value of Entropy, the better it is to use in extracting a class. The entropy value is defined by the formula:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Entropy(S) = \\sum_{i=1}^{n} - pi \\; log_{2} pi (6)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where S is the training data set, n is the number of partitions in S, and pi is the proportion of the sample in class i.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; simbol matematika inline ditulis sebagai teks biasa"
+ },
+ {
+  "type": "text",
+  "text": "b. Information Gain",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "The value obtained from the entropy calculation is still not original but the measurement of the attributes effectiveness in classifying the training data can be determined by the information that has been obtained, by the equation:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Gain(S,A) = Entropy(S) - \\sum_{i=1}^{n} - \\frac{Si}{S} \\times entropy(Si) (7)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where S is the training data set, A is the attribute, n is the number of partitions in attribute A, and Si is the i-th number of partitions.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "c. Gain Ratio",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Gain Ratio is a modification of information gain to reduce the bias attribute that has many branches. The equation is written as:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Gain\\ Ratio = \\frac{Gain(S,A)}{Split\\ Information(S,A)} (8)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where split information is defined by the formula:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Split\\ Information(S,A) = -- \\sum_{i=1}^{C} \\frac{si}{s} log_{2} \\frac{si}{s} (9)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX; tanda '--' (dua tanda minus) sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "where S1 through Sc is a subset created from splitting S using attribute A with variant C.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.9. Measuring Performance",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Measuring Performance is a step of analysis and evaluation of the system performance built. Performance is measured by the value of accuracy. Confusion matrix is a method used to calculate accuracy in the concept of data mining. Confusion matrix shown in Table 5.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Predicted Class Yes</th><th>Predicted Class No</th></tr><tr><td>Actual Class Yes</td><td>True Positive (TP)</td><td>False Negative (FN)</td></tr><tr><td>Actual Class No</td><td>False Positive (FP)</td><td>True Negative (TN)</td></tr></table>",
+  "table_caption": "Table 7. Confusion Matrix",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; sel header pojok kiri atas kosong"
+ },
+ {
+  "type": "text",
+  "text": "True Positive (TP) is when the actual and predicted class both is hoax. False Positive (FP) is when the actual class is not-hoax but the predicted class is hoax. True Negative (TN) is when the actual and predicted class both is not-hoax. False Negative (FN) is when the actual class is hoax but the predicted class is not-hoax. From the confusion matrix table, the accuracy value can be calculated. Accuracy is the level of closeness between the predicted value and the actual value. Accuracy is used to evaluate the number of prediction classes that correspond to the actual class [15]. The following is the equation of accuracy:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "\\mathrm{Accuracy} = \\frac{TP+TN}{TP+FP+TN+FN} (10)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "3. Result and Discussion",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "This section explain the test results of the system built. Testing in this research aims to determine the performance of system in classifying hoax news that is done with several test scenarios.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "a. Testing of system performance using the Decision Tree C4.5 classification method.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. Testing of system performance using the Decision Tree C4.5 classification method with the TF-IDF weighting feature.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "c. Testing of system performance using the Decision Tree C4.5 classification method with TF-IDF weighting feature and information gain feature selection, where the feature selection is based on ranking on the limit of the number of features n=15,000, n=10,000, n=5,000, and n=3,000.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "All three test scenarios are performed using all n-gram features (unigram, bigram, trigram, unigram + bigram, bigram + trigram, and unigram + bigram + trigram). In addition, each test scenario was also carried out 5 times with a ratio of training data and test data of 90:10, 80:20, 70:30, and 60:40.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "3.1. Classification Test Results",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Table 8 shows the results of system testing using the Decision Tree C4.5 classification method only.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "From Table 8, the best accuracy is obtained with a percentage of 10% test data on the unigram + bigram feature that is equal to 61.13%. The use and",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "RESTI Journal (System Engineering and Information Technology) Vol. 4 No. 4 (2020) 711 – 716",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "714",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

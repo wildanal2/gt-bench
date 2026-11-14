@@ -1,0 +1,82 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11612,
+   0.08935,
+   0.88335,
+   0.4245
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 6. Mytella strigata biofouling green mussel farms in Bacoor City, Cavite, Manila Bay Photo from\nhttps://businessmirror.com.ph/2020/02/17/fake-tahong-invades-bacoor-mussel-farms/",
+  "page_idx": 0,
+  "bbox": [
+   0.11545,
+   0.42533,
+   0.86412,
+   0.45799
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "5. Natural dispersal",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14696,
+   0.50112,
+   0.31589,
+   0.51551
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Dispersal by purely natural means is not included as a pathway of biological invasions (Gaston\n1996). Examples include range expansion by flight or any other medium of natural locomotion or\ntransport. However if human created or crafted material is involved in rafting dispersal of IAS,\nthen this may be considered as a case of biological invasion. The 2011 Great East Japan\nearthquake generated a large tsunami that caused an unprecedented biological transoceanic\nrafting event from the northwestern Pacific coastline of Japan towards North America on the\neastern Pacific(Carlton et al. 2017). Millions of human made objects from small plastics to large\ndocks and whole ships were cast adrift in the Pacific (Murray et al. 2018). This provided a\nsubstrate for biofoulers. Large debris could carry up to 20 to 30 mega-species of biofoulers\n(Carlton et al. 2017). These biofouled debris can constitute an IAS risk (Therriault 2017).",
+  "page_idx": 0,
+  "bbox": [
+   0.11612,
+   0.55594,
+   0.88545,
+   0.82081
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "While a tsunami is a relatively rare event, a more common one is fouler dispersal by rafting on\ncoastal currents of floating plastic debris, wood and, bamboo. Marine litter often originate from",
+  "page_idx": 0,
+  "bbox": [
+   0.11612,
+   0.86074,
+   0.88545,
+   0.90371
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "14",
+  "page_idx": 0,
+  "bbox": [
+   0.86255,
+   0.92261,
+   0.88326,
+   0.93352
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

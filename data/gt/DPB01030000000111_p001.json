@@ -1,0 +1,213 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.09278,
+   0.07688,
+   0.90655,
+   0.41323
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 8.1:a) P6238 CUSSONS free and forced vortex apparatus, b) push-in orifices, c) free vortex measuring caliper, d) force vortex\nmeasuring probes",
+  "page_idx": 0,
+  "bbox": [
+   0.0861,
+   0.4399,
+   0.85534,
+   0.47
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "7. THEORY",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08722,
+   0.48893,
+   0.19854,
+   0.50527
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Two types of vortices are distinguished in the dynamics of the motion: forced and free vortices. The\nforced vortex is caused by external forces on the fluid, such as the impeller of a pump, and the free\nvortex naturally occurs in the flow and can be observed in a drain or in the atmosphere of a tornado.",
+  "page_idx": 0,
+  "bbox": [
+   0.09056,
+   0.5199,
+   0.91546,
+   0.57839
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "7.1. FREE VORTEX",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09056,
+   0.59473,
+   0.28092,
+   0.61624
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "A free vortex is formed when water flows out of a vessel through a central hole in the base (Figure 8.2).\nThe degree of the rotation depends on the initial disturbance. In a free cylindrical vortex, the velocity\nvaries inversely with the distance from the axis of rotation (Figure 8.3).",
+  "page_idx": 0,
+  "bbox": [
+   0.08833,
+   0.6257,
+   0.911,
+   0.6842
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "v=\\frac{k}{r}",
+  "page_idx": 0,
+  "bbox": [
+   0.08833,
+   0.69538,
+   0.15512,
+   0.72291
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(1)",
+  "page_idx": 0,
+  "bbox": [
+   0.19075,
+   0.69882,
+   0.21969,
+   0.72033
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The equation governing the surface profile is derived from the Bernoulli's theorem:",
+  "page_idx": 0,
+  "bbox": [
+   0.08499,
+   0.73237,
+   0.76072,
+   0.7556
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{v^2}{2g}+z=C",
+  "page_idx": 0,
+  "bbox": [
+   0.08054,
+   0.76592,
+   0.20188,
+   0.79517
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(2)",
+  "page_idx": 0,
+  "bbox": [
+   0.23862,
+   0.76936,
+   0.27313,
+   0.79345
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Substituting Equation (1) into (2) will give a new expression:",
+  "page_idx": 0,
+  "bbox": [
+   0.08388,
+   0.80635,
+   0.58149,
+   0.82355
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{k^2}{2gr^2}+z=C",
+  "page_idx": 0,
+  "bbox": [
+   0.08054,
+   0.83646,
+   0.21747,
+   0.86828
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(3)",
+  "page_idx": 0,
+  "bbox": [
+   0.2542,
+   0.84334,
+   0.28315,
+   0.86398
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "or:",
+  "page_idx": 0,
+  "bbox": [
+   0.08944,
+   0.88119,
+   0.11728,
+   0.89667
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "68 APPLIED FLUID MECHANICS LAB MANUAL",
+  "page_idx": 0,
+  "bbox": [
+   0.0861,
+   0.93882,
+   0.37554,
+   0.95259
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

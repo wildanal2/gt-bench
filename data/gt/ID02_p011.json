@@ -1,0 +1,157 @@
+[
+ {
+  "type": "text",
+  "text": "Pengisian SPT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "text",
+  "text": "1 Klik menu Buat SPT yang ada pada bagian atas halaman www.eform.pajak.go.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; langkah bernomor; nomor dari ikon pin"
+ },
+ {
+  "type": "text",
+  "text": "2 Ikuti panduan pertanyaan untuk memilih jenis formulir SPT yang akan diunduh.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; langkah bernomor; nomor dari ikon pin"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; screenshot Pemandu E-Form"
+ },
+ {
+  "type": "text",
+  "text": "Pemandu E-Form",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Apakah Anda Menjalankan Usaha atau Pekerjaan bebas?",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Ya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi"
+ },
+ {
+  "type": "text",
+  "text": "Tidak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi terpilih"
+ },
+ {
+  "type": "text",
+  "text": "Apakah Anda seorang Suami atau Istri yang menjalankan kewajiban perpajakan terpisah (MT) atau Pisah Harta?",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Ya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi"
+ },
+ {
+  "type": "text",
+  "text": "Tidak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi terpilih"
+ },
+ {
+  "type": "text",
+  "text": "Apakah Penghasilan Bruto Yang Anda Peroleh selama setahun Kurang dari 60 Juta Rupiah?",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Ya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi"
+ },
+ {
+  "type": "text",
+  "text": "Tidak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; opsi terpilih"
+ },
+ {
+  "type": "text",
+  "text": "E-Form SPT 1770 S",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; tombol"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture; sebagian tertutup screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo; terpotong, sisanya tertutup screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat J",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo; terpotong, sisanya tertutup screenshot"
+ },
+ {
+  "type": "text",
+  "text": "11",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

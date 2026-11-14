@@ -1,0 +1,83 @@
+[
+ {
+  "type": "text",
+  "text": "Tycho Brahe's Observatory",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14286,
+   0.09549,
+   0.52987,
+   0.12086
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Three years after the publication of Copernicus' De Revolutionibus,\nTycho Brahe was born to a family of Danish nobility. He developed\nan early interest in astronomy and, as a young man, made significant\nastronomical observations. Among these was a careful study of what\nwe now know was an exploding star that flared up to great brilliance\nin the night sky. His growing reputation gained him the patronage of\nthe Danish King Frederick II, and at the age of 30, Brahe was able to\nestablish a fine astronomical observatory on the North Sea island of\nHven (Figure1). Brahe was the last and greatest of the pre-telescopic\nobservers in Europe.",
+  "page_idx": 0,
+  "bbox": [
+   0.14054,
+   0.15845,
+   0.85986,
+   0.38329
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Tycho Brahe (1546-1601) and Johannes Kepler\n(1571-1630).",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.17635,
+   0.43625,
+   0.8224,
+   0.49255
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14054,
+   0.52217,
+   0.8587,
+   0.81986
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1. (a) A stylized engraving shows Tycho Brahe using his\ninstruments to measure the altitude of celestial objects above the\nhorizon. The large curved instrument in the foreground allowed",
+  "page_idx": 0,
+  "bbox": [
+   0.15188,
+   0.82755,
+   0.84789,
+   0.8917
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Chapter 3 Orbits and Gravity Section 3.1: The Laws of Planetary\nMotion | 99",
+  "page_idx": 0,
+  "bbox": [
+   0.25922,
+   0.91531,
+   0.8587,
+   0.94718
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

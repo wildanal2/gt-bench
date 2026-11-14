@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "There is no question that fishing is the major factor driving\ngrouper stocks on the downward spiral, but those that have\nlarge spawning aggregations are most vulnerable to declines\n(Coleman et al. 1996; Asch and Erisman 2018; Sadovy de\nMitcheson et al. 2020). Because it takes a long time for\nscientists to obtain needed life history information, fisheries-\nindependent survey data, and catch history, grouper\npopulations may be overfished long before data are even\navailable for a stock assessment. Without formal stock\nassessments, general indicators of population status are\nbased on catch trends. Very few grouper stocks that have\nspawning aggregations are managed sustainably. In a recent\nglobal analysis of the status of populations that form\nspawning aggregations, 45% were unknown, 33% were\ndecreasing, and 5% were already gone (Figure 13.5). Only 12%\nhad stable populations, and 5% were increasing.",
+  "page_idx": 0,
+  "bbox": [
+   0.09581,
+   0.08227,
+   0.54595,
+   0.3891
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.585,
+   0.09254,
+   0.88011,
+   0.28463
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 13.5: Current known status reflecting changes\nof exploited grouper aggregations globally, as noted by\nfisher interviews, monitoring, or underwater surveys\n(N = 509). Long description.",
+  "page_idx": 0,
+  "bbox": [
+   0.55722,
+   0.31771,
+   0.90152,
+   0.37244
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Of the 167 species of grouper, 9.6% are vulnerable, 4.8% are near threatened, 1.2% are endangered, and 0.6%\nare critically endangered (Figure 13.6). The majority of species (68.9%) are classified as least concern and 15%\nare data deficient, with insufficient data for classification. The larger (>50 cm total length) and long-lived (>20\nyears) species of grouper that also had smaller geographic ranges were most likely to be endangered or critically\nendangered (Luiz et al. 2016). Market prices for grouper are escalating, and other lower-valued fish are often\nmislabeled or substituted.",
+  "page_idx": 0,
+  "bbox": [
+   0.09581,
+   0.40433,
+   0.90305,
+   0.51686
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.12242,
+   0.53166,
+   0.44972,
+   0.83119
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 13.6: Categories of all grouper species (N = 167)\naccording to the IUCN Red List (IUCN Red List\nAssessments, updated November 2018). Long description.",
+  "page_idx": 0,
+  "bbox": [
+   0.09689,
+   0.84564,
+   0.45242,
+   0.88581
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "To protect grouper from overfishing, many measures are\nbeing implemented, such as minimum and slot-size\nlimits, recreational bag limits, commercial fishing quotas,\ngear and seasonal controls, marine protected areas, and\nlimited entry (Rocklin et al. 2022). The effectiveness will\ndepend on traits of the species and the local context.\nRegulations to prevent marketing of undersize fish will\nmitigate growth overfishing. Allowing smaller fish to\nreach maturity at least once before harvest will mitigate\nrecruitment overfishing. Size-limit regulations focused\non protecting spawning-size fish may be ineffective for\ndeepwater recreational fishing. Grouper have a\nphysoclistous (i.e., closed) swim bladder, making them\nparticularly susceptible to ruptured swim bladders,\nbloating, stomach distention, and protruding eyes caused\nby rapid decompression when hauled to the surface\n(Brule et al. 2015). The proportion of grouper with\ndistended stomachs was 70% in one study of commercial\nhook-and-line fishing and as high as 95% for Red",
+  "page_idx": 0,
+  "bbox": [
+   0.48478,
+   0.53379,
+   0.90305,
+   0.90108
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "312 | Grouper and Spawning Aggregations",
+  "page_idx": 0,
+  "bbox": [
+   0.09689,
+   0.93489,
+   0.37404,
+   0.9484
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

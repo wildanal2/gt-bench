@@ -1,0 +1,75 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto dekoratif sampul (interior mal) dengan overlay bentuk lingkaran oranye/kuning; papan nama toko di foto terlalu kecil, tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "Perekonomian Indonesia tahun 2025 berdasarkan besaran Produk Domestik Bruto (PDB) atas dasar harga berlaku mencapai Rp23.821,1 triliun dan PDB per kapita mencapai Rp83,7 juta atau USD 5.083,4.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis)"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia tahun 2025 tumbuh sebesar 5,11 persen, lebih tinggi dibandingkan capaian tahun 2024 yang mengalami pertumbuhan sebesar 5,03 persen (c-to-c). Dari sisi produksi, Lapangan Usaha Jasa Lainnya mengalami pertumbuhan tertinggi sebesar 9,93 persen. Sementara dari sisi pengeluaran, Komponen Ekspor Barang dan Jasa mengalami pertumbuhan tertinggi sebesar 7,03 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); c-to-c miring"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia triwulan IV-2025 terhadap triwulan IV-2024 mengalami pertumbuhan sebesar 5,39 persen (y-on-y). Dari sisi produksi, Lapangan Usaha Transportasi dan Pergudangan mengalami pertumbuhan tertinggi sebesar 8,98 persen. Sementara dari sisi pengeluaran, Komponen Pembentukan Modal Tetap Bruto (PMTB) mengalami pertumbuhan tertinggi sebesar 6,12 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); y-on-y miring"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia triwulan IV-2025 terhadap triwulan III-2025 mengalami pertumbuhan sebesar 0,86 persen (q-to-q). Dari sisi produksi, Lapangan Usaha Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib mengalami pertumbuhan tertinggi sebesar 13,59 persen. Sementara dari sisi pengeluaran, Komponen Pengeluaran Konsumsi Pemerintah (PK-P) mengalami pertumbuhan tertinggi sebesar 37,68 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); q-to-q miring"
+ },
+ {
+  "type": "text",
+  "text": "Selama tahun 2025, kelompok provinsi di Pulau Jawa mendominasi ekonomi Indonesia secara spasial dengan kontribusi mencapai 56,93 persen dan mencatat pertumbuhan sebesar 5,30 persen (c-to-c).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar (penanda kotak tidak ditulis); c-to-c miring"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ }
+]

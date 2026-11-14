@@ -1,0 +1,58 @@
+[
+ {
+  "type": "text",
+  "text": "2. Undang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuangan (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 85, Tambahan Lembaran Negara Republik Indonesia Tahun 2006 Nomor 4654);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; daftar Mengingat dimulai di halaman sebelumnya (butir baru, bukan kalimat terpotong)"
+ },
+ {
+  "type": "text",
+  "text": "3. Peraturan Pemerintah Nomor 4 Tahun 1966 tentang Pemberhentian/Pemberhentian Sementara Pegawai Negeri (Lembaran Negara Republik Indonesia Tahun 1966 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 2797);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "4. Peraturan Pemerintah Nomor 16 Tahun 1994 tentang Jabatan Fungsional Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 1994 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 3547) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 40 Tahun 2010 (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 5121);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda sebelum 3547 diringkas"
+ },
+ {
+  "type": "text",
+  "text": "5. Peraturan Pemerintah Nomor 97 Tahun 2000 tentang Formasi Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 194, Tambahan Lembaran Negara Republik Indonesia Nomor 4015), sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 54 Tahun 2003 (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 4332);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "6. Peraturan Pemerintah Nomor 98 Tahun 2000 tentang Pengadaan Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 194, Tambahan Lembaran Negara Republik Indonesia Nomor 4016), sebagaimana telah diubah dalam Peraturan Pemerintah Nomor 11 Tahun 2002 (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 4192);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "7. Peraturan Pemerintah Nomor 99 Tahun 2000 tentang Kenaikan Pangkat Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 196, Tambahan Lembaran Negara Republik Indonesia Nomor 4017), sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 12 Tahun 2002 (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 32, Tarnbahan Lembaran Negara Republik Indonesia Nomor 4193);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: 'Tarnbahan' tercetak begitu di halaman (glif hasil OCR yang dirender), alternatif bacaan sumber asli: Tambahan"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

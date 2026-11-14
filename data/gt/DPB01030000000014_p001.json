@@ -1,0 +1,160 @@
+[
+ {
+  "type": "text",
+  "text": "158",
+  "page_idx": 0,
+  "bbox": [
+   0.09981,
+   0.04716,
+   0.12865,
+   0.06101
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "AL-OGAYYEL AND OSKAY",
+  "page_idx": 0,
+  "bbox": [
+   0.71233,
+   0.04905,
+   0.90066,
+   0.06038
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10151,
+   0.07423,
+   0.89642,
+   0.3179
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 8.15 Typical black-and-white Bedouin tent.",
+  "page_idx": 0,
+  "bbox": [
+   0.09981,
+   0.32861,
+   0.44679,
+   0.3412
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10066,
+   0.37394,
+   0.49006,
+   0.58235
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 8.16 Typical three-poled Bedouin tent",
+  "page_idx": 0,
+  "bbox": [
+   0.10066,
+   0.5918,
+   0.41795,
+   0.60439
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "black and white, with a little red-dyed wool for\ndecoration. This wool comes from sheep and cam-\nels, whose wool is known for its softness and, when\nleft undyed, for its beautiful natural colors.49",
+  "page_idx": 0,
+  "bbox": [
+   0.09896,
+   0.62832,
+   0.49175,
+   0.70136
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 8.16 indicates the complex nature of the\ninterior of a Bedouin tent. The inside area is divid-\ned into many parts, each of them with its specific\nuse. It is important to note that a \"well-to-do\" Bed-\nouin tent like the one shown in figure 8.16 indi-\ncates the higher status of the family living in it\nthan that of a family living in the humbler,",
+  "page_idx": 0,
+  "bbox": [
+   0.09981,
+   0.70388,
+   0.4909,
+   0.8298
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "three-poled tent in figure 8.15. These images also\nshow that different areas are used by men and by\n50 For example, the tent contains a space\nwomen.\nwhich is allocated to female weavers, like a studio\nwhere they perform their craft and practice their\nskills. 51 Thus, in the Bedouin society, the tent is a\nnot only a signifier of social relationships and fam-\nily status but also of gender roles. It is, therefore,\nan extremely important space because here wom-\nen make items that support their family or tribe.",
+  "page_idx": 0,
+  "bbox": [
+   0.50744,
+   0.37263,
+   0.90066,
+   0.55516
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "While the function of the textile is to create and\ndemarcate the Bedouin space, the way the space is\nconstructed influences the way the nomads live\nand the way the family or the tribe is perceived\nby the outside world. The textile is, therefore,\nstructuring the formation of a private and a public\nidentity by delineating the space: the outside, non-\npatterned textiles are public, while the inside,\npatterned textiles are private.52 We can infer,",
+  "page_idx": 0,
+  "bbox": [
+   0.50744,
+   0.557,
+   0.90066,
+   0.72202
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "49 For details, see Al-Sabah, Ibjad, 17.",
+  "page_idx": 0,
+  "bbox": [
+   0.09981,
+   0.88773,
+   0.35941,
+   0.90284
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "50 See also Dickson, The Arab of the Desert, 66-67; and\nCanavan, \"Applications of Textile Products,\" 541. Here,\nCanavan explains that dividers were parts of women's\npossessions, accompanying them into marriage, as well\nas \"testimony of a tribe's wealth and prestige.\"\n51 Refah Al Raheel, interviewed by Rana Al-Ogayyel, Ri-\nyadh, 2017.\n52 While the outside of the traditional tents is black and\nwithout much pattern except for stripes, the inside of",
+  "page_idx": 0,
+  "bbox": [
+   0.50868,
+   0.75428,
+   0.90066,
+   0.90455
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

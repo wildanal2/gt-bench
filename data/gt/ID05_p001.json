@@ -1,0 +1,112 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "KEMENTERIAN KEUANGAN REPUBLIK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo, dua baris digabung"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; sampul: masthead NEWSLETTER APBNKITA di atas foto piringan hitam; teks masthead tidak ada di lapisan teks; header '| Edisi Januari 2026 1' hanya ada di lapisan teks (tertutup gambar), tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "NEWSLETTER",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; masthead (gambar)"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks logo/wordmark masthead"
+ },
+ {
+  "type": "text",
+  "text": "KINERJA DAN FAKTA | JANUARI | 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; masthead (gambar)"
+ },
+ {
+  "type": "text",
+  "text": "KALEIDOSKOP 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label piringan hitam di foto, dua baris digabung; teks melingkar kecil di tepi label tidak terbaca, dilewati"
+ },
+ {
+  "type": "text",
+  "text": "APBN 2025 TETAP KUAT, BEKERJA KERAS UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul sampul, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Adaptif Mendukung Program Prioritas, Responsif di Tengah Dinamika dan Tantangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul sampul, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Foto: Unsplash",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kredit foto tercetak di atas sampul"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto Menteri Keuangan (bingkai lingkaran)"
+ },
+ {
+  "type": "text",
+  "text": "#KATAMENTERIKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; judul rubrik kutipan"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah berkomitmen untuk menjaga ekonomi tetap tumbuh berkesinambungan tanpa membahayakan APBN. Capaian program prioritas dan tata kelola terus kita jaga. Defisit 2025 di level 2,92 persen, antara lain untuk mendukung stimulus yang diperlukan oleh perekonomian, sehingga masyarakat bisa menikmati ekspansi ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; kutipan; tanda kutip dekoratif tidak dicatat"
+ }
+]

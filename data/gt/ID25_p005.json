@@ -1,0 +1,60 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Danareksa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Driving Growth and Shaping the Future through Sustainable Transformation and Strategic Synergy",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Mendorong Pertumbuhan dan Membentuk Masa Depan melalui Transformasi Berkelanjutan dan Sinergi Strategis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Uraian Description</th><th>2024</th><th>2023</th><th>2022</th></tr><tr><td>Liabilitas Liabilities</td><td></td><td></td><td></td></tr><tr><td>Liabilitas Jangka Pendek Short-term Liabilities</td><td></td><td></td><td></td></tr><tr><td>Pinjaman yang diterima jangka pendek Short-term borrowings</td><td>3.375.077</td><td>3.777.486</td><td>3.528.869</td></tr><tr><td>Liabilitas Jangka Panjang Jatuh Tempo dalam Setahun Current Maturities of Long-term Liabilities</td><td></td><td></td><td></td></tr><tr><td>Pinjaman yang diterima Borrowings</td><td>255.000</td><td>38.295</td><td>238.721</td></tr><tr><td>Surat utang Notes payable</td><td>1.615.063</td><td>-</td><td>100.000</td></tr><tr><td>Liabilitas sewa Lease liabilities</td><td>108.441</td><td>75.505</td><td>83.076</td></tr><tr><td>Utang usaha Accounts payable</td><td>1.983.425</td><td>2.287.100</td><td>1.614.121</td></tr><tr><td>Liabilitas anggota kliring Clearing members’ funds</td><td>1.791.400</td><td>1.541.454</td><td>1.275.348</td></tr><tr><td>Pendapatan diterima di muka jangka pendek Short-term unearned revenue</td><td>549.377</td><td>458.647</td><td>471.016</td></tr><tr><td>Utang bruto Gross amount payables</td><td>708.009</td><td>778.488</td><td>485.144</td></tr><tr><td>Beban akrual Accrued expenses</td><td>1.586.930</td><td>1.443.153</td><td>972.963</td></tr><tr><td>Utang pajak Taxes payable</td><td>254.533</td><td>204.046</td><td>73.829</td></tr><tr><td>Liabilitas jangka pendek lainnya Other short-term lease liabilities</td><td>345.587</td><td>629.308</td><td>751.296</td></tr><tr><td>Jumlah liabilitas jangka pendek Total short-term liabilities</td><td>12.572.842</td><td>11.233.482</td><td>9.594.383</td></tr><tr><td>Liabilitas Jangka Panjang Long-term Liabilities</td><td></td><td></td><td></td></tr><tr><td>Pinjaman yang diterima jangka panjang Long-term borrowings</td><td>898.145</td><td>632.371</td><td>653.667</td></tr><tr><td>Surat utang Notes payable</td><td>4.098.554</td><td>4.761.091</td><td>4.041.181</td></tr><tr><td>Pendapatan diterima di muka jangka panjang Long-term unearned revenue</td><td>2.971.659</td><td>2.847.625</td><td>2.500.089</td></tr><tr><td>Liabilitas pajak tangguhan Deferred tax liabilities</td><td>3.521</td><td>3.158</td><td>1.451</td></tr></table>",
+  "table_caption": "dalam Jutaan Rupiah\nIn million Rupiah",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; lanjutan tabel Posisi Keuangan Konsolidasian (judul tidak diulang di halaman ini); bilingual: label ID dan EN tercetak bertumpuk dalam satu sel, digabung satu spasi; header Uraian/Description bertumpuk digabung satu spasi; format angka titik ribuan disalin verbatim; baris seksi (Liabilitas, Liabilitas Jangka Pendek, Liabilitas Jangka Panjang Jatuh Tempo dalam Setahun, Liabilitas Jangka Panjang) diberi sel nilai kosong; '-' pada Surat utang 2023 = nol, disalin verbatim; nilai 2022 Liabilitas anggota kliring tercetak sedikit lebih tinggi dari nilai lain di baris yang sama"
+ },
+ {
+  "type": "text",
+  "text": "36",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "PT Danareksa (Persero) I Laporan Tahunan 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; pemisah 'I' sesuai sumber"
+ }
+]

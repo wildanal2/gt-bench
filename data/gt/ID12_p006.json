@@ -1,0 +1,79 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "PERMODALAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "1. Permodalan (CC1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No.</th><th>Component (English)</th><th>Komponen (Bahasa Indonesia)</th><th>Jumlah (Diaudit)</th><th>No. Ref yang berasal dari Neraca</th></tr><tr><td>Modal Inti Utama (Common Equity Tier 1) / CET 1 : Instrumen dan Tambahan Modal Disetor</td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Directly issued qualifying common share (and equivalent for non-joint stock companies) capital plus related stock surplus</td><td>Saham Biasa (termasuk stock surplus)</td><td>11,436,122</td><td>A,B,C</td></tr><tr><td>2</td><td>Retained earnings</td><td>Laba ditahan</td><td>13,684,355</td><td>D,E</td></tr><tr><td>3</td><td>Accumulated other comprehensive income (and other reserves)</td><td>Akumulasi penghasilan komprehensif lain (dan cadangan lain)</td><td>7,079,033</td><td></td></tr><tr><td>4</td><td>Directly issued capital subject to phase out from CET1 (only applicable to non-joint stock companies)</td><td>Modal yang termasuk phase out dari CET1</td><td>N/A</td><td></td></tr><tr><td>5</td><td>Common share capital issued by subsidiaries and held by third parties (amount allowed in group CET1)</td><td>Kepentingan Non Pengendali yang dapat diperhitungkan</td><td>-</td><td></td></tr><tr><td>6</td><td>Common Equity Tier 1 capital before regulatory adjustments</td><td>CET1 sebelum regulatory adjusment</td><td>32,199,510</td><td></td></tr><tr><td>CET1 : Faktor Pengurang (Regulatory Adjusment)</td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>Prudential valuation adjustments</td><td>Selisih kurang jumlah penyesuaian nilai wajar dari instrumen keuangan dalam trading book</td><td>-</td><td></td></tr><tr><td>8</td><td>Goodwill (net of related tax liability)</td><td>Goodwill</td><td>-</td><td></td></tr><tr><td>9</td><td>Other intangibles other than mortgage-servicing rights (net of related tax liability)</td><td>Aset tidak berwujud lain (selain Mortgage-Servicing Rights )</td><td>-</td><td></td></tr><tr><td>10</td><td>Deferred tax assets that rely on future profitability excluding those arising from temporary differences (net of related tax liability)</td><td>Aset pajak tangguhan yang berasal dari future profitability</td><td>N/A</td><td></td></tr><tr><td>11</td><td>Cash-flow hedge reserve</td><td>Cash-flow hedge reserve</td><td>N/A</td><td></td></tr><tr><td>12</td><td>Shortfall of provisions to expected losses</td><td>Shortfall on provisions to expected losses</td><td>N/A</td><td></td></tr><tr><td>13</td><td>Securitisation gain on sale (as set out in paragraph 562 of Basel II framework)</td><td>Keuntungan penjualan aset dalam transaksi sekuritisasi</td><td>-</td><td></td></tr><tr><td>14</td><td>Gains and losses due to changes in own credit risk on fair valued liabilities</td><td>Peningkatan/penurunan nilai wajar atas liabilitas keuangan (DVA)</td><td>-</td><td></td></tr><tr><td>15</td><td>Defined-benefit pension fund net assets</td><td>Aset pensiun manfaat pasti</td><td>N/A</td><td></td></tr><tr><td>16</td><td>Investments in own shares (if not already netted off paid-in capital on reported balance sheet)</td><td>Investasi pada saham sendiri (jika belum di net dalam modal di neraca)</td><td>N/A</td><td></td></tr><tr><td>17</td><td>Reciprocal cross-holdings in common equity</td><td>Kepemilikan silang pada instrumen CET 1 pada entitas lain</td><td>-</td><td></td></tr><tr><td>18</td><td>Investments in the capital of Banking, financial and insurance entities that are outside the scope of regulatory consolidation, net of eligible short positions, where the Bank does not own more than 10% of the issued share capital (amount above 10% threshold)</td><td>Investasi pada modal bank, entitas keuangan dan asuransi diluar cakupan konsolidasi secara ketentuan, net posisi short yang diperkenankan, dimana Bank tidak memiliki lebih dari 10% modal saham yang diterbitkan (jumlah di atas batasan 10%)</td><td>N/A</td><td></td></tr><tr><td>19</td><td>Significant investments in the common stock of Banking, financial and insurance entities that are outside the scope of regulatory consolidation, net of eligible short positions (amount above 10% threshold)</td><td>Investasi signifikan pada saham biasa bank, entitas keuangan dan asuransi di luar cakupan konsolidasi secara ketentuan, net posisi short yang diperkenankan (jumlah diatas batasan 10%)</td><td>N/A</td><td></td></tr><tr><td>20</td><td>Mortgage servicing rights (amount above 10% threshold)</td><td>Mortgage servicing rights</td><td>-</td><td></td></tr><tr><td>21</td><td>Deferred tax assets arising from temporary differences (amount above 10% threshold, net of related tax liability)</td><td>Aset pajak tangguhan yang berasal dari perbedaan temporer (jumlah di atas batasan 10%, net dari kewajiban pajak)</td><td>N/A</td><td></td></tr><tr><td>22</td><td>Amount exceeding the 15% threshold</td><td>Jumlah melebihi batasan 15% dari :</td><td>N/A</td><td></td></tr><tr><td>23</td><td>of which: significant investments in the common stock of financials</td><td>Investasi signifikan pada saham biasa financials</td><td>N/A</td><td></td></tr><tr><td>24</td><td>of which: mortgage servicing rights</td><td>Mortgage servicing rights</td><td>N/A</td><td></td></tr><tr><td>25</td><td>of which: deferred tax assets arising from temporary differences</td><td>Pajak tangguhan dari perbedaan temporer</td><td>N/A</td><td></td></tr><tr><td rowspan=\"8\">26</td><td rowspan=\"8\">National specific regulatory adjustments</td><td>Penyesuaian berdasarkan ketentuan spesifik nasional</td><td></td><td></td></tr><tr><td>26a. Selisih PPKA dan CKPN</td><td>-</td><td></td></tr><tr><td>26b. PPKA atas aset non produktif</td><td>(79,001)</td><td></td></tr><tr><td>26c. Aset Pajak Tangguhan</td><td>(2,286,038)</td><td></td></tr><tr><td>26d. Penyertaan</td><td>-</td><td></td></tr><tr><td>26e. Kekurangan modal pada perusahaan anak asuransi</td><td>-</td><td></td></tr><tr><td>26f. Eksposur sekuritisasi</td><td>-</td><td></td></tr><tr><td>26g. lainnya</td><td>-</td><td></td></tr><tr><td>27</td><td>Regulatory adjustments applied to Common Equity Tier 1 due to insufficient Additional Tier 1 and Tier 2 to cover deductions</td><td>Penyesuaian pada CET 1 akibat AT 1 dan Tier 2 lebih kecil daripada faktor pengurangnya</td><td>-</td><td></td></tr><tr><td>28</td><td>Total regulatory adjustments to Common equity Tier 1</td><td>Jumlah pengurang (regulatory adjusment) terhadap CET1</td><td>(2,365,039)</td><td></td></tr><tr><td>29</td><td>Common Equity Tier 1 capital (CET1)</td><td>Jumlah CET 1 setelah faktor pengurang</td><td>29,834,471</td><td></td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual: kolom English dan Bahasa Indonesia terpisah di sumber; baris seksi biru merentang penuh di sumber, dicatat di sel pertama dengan sel lain kosong; baris 26: sel No. dan Component digabung rowspan=8 (tanpa garis pemisah di sumber); spasi ganda di sekitar istilah miring dirapatkan jadi satu; spasi sebelum ) dihapus bila celahnya hanya celah huruf miring; typo sumber (adjusment) dipertahankan"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor halaman; furniture"
+ }
+]

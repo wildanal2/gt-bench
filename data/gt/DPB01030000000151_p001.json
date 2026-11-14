@@ -1,0 +1,150 @@
+[
+ {
+  "type": "text",
+  "text": "CHAPTER 1.",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.14743,
+   0.20736,
+   0.16001
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "CALIFORNIA",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.18616,
+   0.22301,
+   0.19874
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "JAMES GLAPA-GROSSKLAG",
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.30401,
+   0.30134,
+   0.31512
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "COURSE MARKING DRIVERS",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.37582,
+   0.3636,
+   0.38839
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "SB1359 was passed in September 2016, going into force in January 2018. The law \"requires California\nCommunity Colleges and California State Universities and requests the University of California\nsystem to include a symbol/logo in the online campus course schedule by January 1, 2018 for courses\nthat exclusively use digital course materials that are free of charge to students and therefore not\nrequired to be purchased.\"",
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.40542,
+   0.91016,
+   0.50078
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The potential scale of impact is significant. With 114 colleges serving 2.1 million students, the\nCalifornia Community Colleges (CCCs) comprise the largest public system of higher education in the\nUS. The California State University (CSU) with 23 campuses serving nearly 500,000 students, is the\nlargest four-year public university system in the US. Notably, the law does not apply to the state's\nresearch-focused University of California.",
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.51663,
+   0.91016,
+   0.61199
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.40144,
+   0.61896,
+   0.59928,
+   0.72777
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1.1: Zero Cost Textbook\nLogo",
+  "page_idx": 0,
+  "bbox": [
+   0.40322,
+   0.74062,
+   0.58383,
+   0.76908
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "IMPLEMENTATION",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.79267,
+   0.26809,
+   0.80524
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Between the passage of the law in 2016 and the implementation of the law in 2018, both the CCCs\nand CSU systems engaged in outreach to the field. The CCCs' system office issued a memo to college\nleadership explaining the requirements and created a sample logo that colleges could choose to adopt.\nThe CSU system's Affordable Learning Solutions team engaged the field with a series of webinars and\nFAQs.",
+  "page_idx": 0,
+  "bbox": [
+   0.09188,
+   0.82135,
+   0.91016,
+   0.91672
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "PRICE TRANSPARENCY 1",
+  "page_idx": 0,
+  "bbox": [
+   0.75491,
+   0.95045,
+   0.90715,
+   0.95941
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

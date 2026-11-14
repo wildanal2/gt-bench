@@ -1,0 +1,187 @@
+[
+ {
+  "type": "text",
+  "text": "FORMULIR",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770 S - II",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode formulir; huruf besar tebal"
+ },
+ {
+  "type": "text",
+  "text": "KEMENTERIAN KEUANGAN RI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DIREKTORAT JENDERAL PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAMPIRAN - II SPT TAHUNAN PPh WAJIB PAJAK ORANG PRIBADI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bertumpuk 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PENGHASILAN YANG DIKENAKAN PPh FINAL DAN/ATAU BERSIFAT FINAL",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "HARTA PADA AKHIR TAHUN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "KEWAJIBAN/UTANG PADA AKHIR TAHUN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "DAFTAR SUSUNAN ANGGOTA KELUARGA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "TAHUN PAJAK 2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label 'TAHUN PAJAK' vertikal; digit 2 dan 0 dalam kotak terpisah; 2 kotak lain kosong"
+ },
+ {
+  "type": "text",
+  "text": "N P W P :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; huruf berspasi sesuai sumber; kotak isian kosong tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "NAMA WAJIB PAJAK :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN A : PENGHASILAN YANG DIKENAKAN PPh FINAL DAN/ATAU BERSIFAT FINAL",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>SUMBER/JENIS PENGHASILAN</th><th colspan=\"2\">DASAR PENGENAAN PAJAK/ PENGHASILAN BRUTO (Rupiah)</th><th>PPh TERUTANG (Rupiah)</th></tr><tr><th>(1)</th><th>(2)</th><th colspan=\"2\">(3)</th><th>(4)</th></tr><tr><td>1.</td><td>BUNGA DEPOSITO, TABUNGAN, DISKONTO SBI, SURAT BERHARGA NEGARA</td><td colspan=\"2\"></td><td></td></tr><tr><td>2.</td><td>BUNGA/DISKONTO OBLIGASI</td><td colspan=\"2\"></td><td></td></tr><tr><td>3.</td><td>PENJUALAN SAHAM DI BURSA EFEK</td><td colspan=\"2\"></td><td></td></tr><tr><td>4.</td><td>HADIAH UNDIAN</td><td colspan=\"2\"></td><td></td></tr><tr><td>5.</td><td>PESANGON, TUNJANGAN HARI TUA DAN TEBUSAN PENSIUN YANG DIBAYARKAN SEKALIGUS</td><td colspan=\"2\"></td><td></td></tr><tr><td>6.</td><td>HONORARIUM ATAS BEBAN APBN/APBD</td><td colspan=\"2\"></td><td></td></tr><tr><td>7.</td><td>PENGALIHAN HAK ATAS TANAH DAN/ATAU BANGUNAN</td><td colspan=\"2\"></td><td></td></tr><tr><td>8.</td><td>SEWA ATAS TANAH DAN/ATAU BANGUNAN</td><td colspan=\"2\"></td><td></td></tr><tr><td>9.</td><td>BANGUNAN YANG DITERIMA DALAM RANGKA BANGUN GUNA SERAH</td><td colspan=\"2\"></td><td></td></tr><tr><td>10.</td><td>BUNGA SIMPANAN YANG DIBAYARKAN OLEH KOPERASI KEPADA ANGGOTA KOPERASI</td><td colspan=\"2\"></td><td></td></tr><tr><td>11.</td><td>PENGHASILAN DARI TRANSAKSI DERIVATIF</td><td colspan=\"2\"></td><td></td></tr><tr><td>12.</td><td>DIVIDEN</td><td colspan=\"2\"></td><td></td></tr><tr><td>13.</td><td>PENGHASILAN ISTERI DARI SATU PEMBERI KERJA</td><td colspan=\"2\"></td><td></td></tr><tr><td>14.</td><td>PENGHASILAN LAIN YANG DIKENAKAN PAJAK FINAL DAN/ATAU BERSIFAT FINAL</td><td colspan=\"2\"></td><td></td></tr><tr><td></td><td>JUMLAH BAGIAN A</td><td>&lt;AUTO&gt;</td><td>JBA</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; baris 11 kolom (3) dan (4) diblok abu (sel kosong); kolom (3) dibelah 2 hanya di baris jumlah (<AUTO> sel abu | JBA)"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN B : HARTA PADA AKHIR TAHUN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>KODE HARTA</th><th>NAMA HARTA</th><th colspan=\"2\">TAHUN PEROLEHAN</th><th>HARGA PEROLEHAN (Rupiah)</th><th>KETERANGAN</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th colspan=\"2\">(4)</th><th>(5)</th><th>(6)</th></tr><tr><td>1.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>2.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>3.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>4.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>5. dst</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td colspan=\"3\">JUMLAH BAGIAN B</td><td></td><td>JBB</td><td>0</td><td>&lt;AUTO&gt;</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom (4) dibelah 2 hanya di baris jumlah (sel abu kosong | JBB); <AUTO> merah di sel abu kolom (6); '5. dst' 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN C : KEWAJIBAN/UTANG PADA AKHIR TAHUN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>KODE UTANG</th><th>NAMA PEMBERI PINJAMAN</th><th>ALAMAT PEMBERI PINJAMAN</th><th colspan=\"2\">TAHUN PEMINJAMAN</th><th>JUMLAH</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th colspan=\"2\">(5)</th><th>(6)</th></tr><tr><td>1</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>5 dst</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"4\">JUMLAH BAGIAN C</td><td>&lt;AUTO&gt;</td><td>JBC</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; nomor baris tanpa titik sesuai sumber; kolom (5) dibelah 2 hanya di baris jumlah (<AUTO> sel abu | JBC); '5 dst' 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN D : DAFTAR SUSUNAN ANGGOTA KELUARGA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>NAMA</th><th>NIK</th><th>HUBUNGAN KELUARGA</th><th>PEKERJAAN</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th></tr><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; nomor baris tanpa titik sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "JIKA FORMULIR INI TIDAK MENCUKUPI, DAPAT DIBUAT SENDIRI SESUAI DENGAN BENTUK INI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tebal; dalam bingkai"
+ },
+ {
+  "type": "text",
+  "text": "Halaman ke- dari halaman Lampiran-II",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak isian kosong setelah 'Halaman ke-' dan 'dari'"
+ }
+]

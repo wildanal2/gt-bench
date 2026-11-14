@@ -1,0 +1,81 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10067,
+   0.0758,
+   0.90467,
+   0.41763
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 10.5: Frequency distribution displays the number of angler days resulting in differing catch per day for a hypothetical 8\nfish per day creel limit and estimated change if creel limit is reduced to 4 fish per day. Long description.",
+  "page_idx": 0,
+  "bbox": [
+   0.09398,
+   0.43183,
+   0.8871,
+   0.46109
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Creel limits are one of many elements that may be used by anglers to define fishing success. When more\nfish are harvested per trip, anglers rate fishing higher. High creel limits may cause anglers to have unrealistic\nexpectations about the potential supply of fish compared to the demand (Cook et al. 2001). Creel limit\nreductions may be unsuccessful in reducing angler harvest or affecting fish populations. The hypothetical\nangler success graph (Figure 10.5) demonstrates that a reduction in creel from 8 to 4 would affect only a few\ntrips and result in a small harvest reduction. Furthermore, creel limits are applied on a per-angler basis, SO they\ncannot control total harvest if total fishing effort increases or if noncompliance is high. Finally, since anglers\nhave a variety of motivations, they likely respond differently to regulation changes (Beard et al. 2011).",
+  "page_idx": 0,
+  "bbox": [
+   0.09559,
+   0.52199,
+   0.90357,
+   0.67519
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The ethic of fairness is involved in setting creel limit regulations because many anglers do not harvest a single\nfish during an angling trip. In Wisconsin lakes, Walleye harvest was not equally distributed. Only 7.4% of Walleye\nangler trips were successful in harvesting at least one Walleye, and <1% harvested a limit during a fishing trip\n(Staggs 1989). In Minnesota, anglers were slightly more successful, where 27.2% of angler trips ended with a\nharvest of at least one Walleye and about 1% harvesting a limit. The ideal creel limit would distribute the catch\namong more anglers and prevent overuse by a few individuals.",
+  "page_idx": 0,
+  "bbox": [
+   0.09559,
+   0.69032,
+   0.90357,
+   0.80335
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Long-term trends in panfish populations (i.e., Bluegill, Yellow Perch, Black Crappie, Pumpkinseed, and Rock\nBass) in Wisconsin lakes showed significant declines due to overfishing (Rypel et al. 2016). The daily limit for\npanfish was 50 aggregate per day from 1967 through 1998, which was reduced to 25 in 1998. Further reduction\nin daily limits for panfish (10) to improve undesirable small sizes of Bluegill populations increased both mean\nlength and mean maximum length relative to sizes in control lakes (Jacobson 2005; Rypel et al. 2015).",
+  "page_idx": 0,
+  "bbox": [
+   0.09559,
+   0.82012,
+   0.90357,
+   0.91352
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "226 | Recreational Fishing and Keep Fish Wet",
+  "page_idx": 0,
+  "bbox": [
+   0.09686,
+   0.93506,
+   0.39437,
+   0.94849
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

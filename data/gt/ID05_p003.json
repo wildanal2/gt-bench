@@ -1,0 +1,325 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Lini Masa APBN dan Ekonomi 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; judul infografis, teks halaman (ada di lapisan teks) di atas gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa APBN dan ekonomi 2025, delapan kotak bulan di atas/bawah garis waktu; teks dibaca kronologis mengikuti garis waktu (Okt 2024, Jan, Feb, Apr, Jun, Jul, Sept, Des 2025); kredit 'Foto: Storypost - Cahya Setiawan' hanya ada di lapisan teks, tidak terlihat, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Okt 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "20 Oktober 2024: Pelantikan Presiden & Wakil Presiden, Prabowo – Gibran",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Pembentukan Kabinet Merah Putih",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir; bold"
+ },
+ {
+  "type": "text",
+  "text": "ASTA CITA: paradigma pembangunan nasional di bawah kepemimpinan Prabowo-Gibran",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Jan 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "6 Januari: Peluncuran Program MBG",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Penyesuaian Tarif PPN 12% terbatas hanya untuk barang mewah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "22 Januari: Inpres 1/2025 - Efisiensi Belanja Operasional nonprioritas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Feb 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "24 Februari: BPI Danantara diresmikan untuk optimalisasi pengelolaan BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Stimulus Q1 Rp33T: diskon listrik 50%, untuk jaga daya beli dan kesejahteraan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Apr 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "Liberation Day (Trump 2.0) tanggal 2 April, AS terapkan tarif resiprokal yang mengguncang pasar keuangan global dan domestik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir; 'Liberation Day' italic"
+ },
+ {
+  "type": "text",
+  "text": "Jun 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "Paket Stimulus Q2 Rp 24T untuk stabilisasi perekonomian dan menjaga daya beli masyarakat",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir; spasi 'Rp 24T' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Jul 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "Lapsem I APBN 2025, perkiraan defisit menjadi 2,78%.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "14 Juli: Peluncuran Program Sekolah Rakyat (SR)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "21 Juli: Peresmian Koperasi Desa Merah Putih",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Sept 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "Reshuffle kabinet",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir; 'Reshuffle' italic"
+ },
+ {
+  "type": "text",
+  "text": "Penempatan dana Rp200 T ke Bank Himbara dan BSI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir; spasi 'Rp200 T' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Paket Stimulus Q3 Rp15,6T a.l. Penebalan Bansos, Sektor Padat Karya, dan Diskon Transportasi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir (penanda bulat)"
+ },
+ {
+  "type": "text",
+  "text": "Des 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); label bulan"
+ },
+ {
+  "type": "text",
+  "text": "Stimulus Q4 Rp37,4T (BLTS, Program Magang, dan Diskon Tiket Nataru)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Defisit APBN 2025 terkendali dengan realisasi sementara 2,92% PDB",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; infografis lini masa (gambar); butir"
+ },
+ {
+  "type": "text",
+  "text": "Seiring dengan berlakunya UU tersebut, mekanisme pengelolaan dividen BUMN juga mengalami penyesuaian dan turut memengaruhi struktur penerimaan negara, khususnya pada PNBP Kekayaan Negara Dipisahkan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; artikel berlanjut dari halaman 2 tetapi paragraf baru"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah upaya Pemerintah menjalankan agenda pembangunan nasional, perekonomian global menghadapi berbagai risiko, antara lain volatilitas harga komoditas, ketegangan geopolitik, serta penyesuaian kebijakan moneter global. Dinamika tersebut semakin terasa pada 2 April 2025 saat diumumkannya Liberation Day oleh Amerika Serikat mengenai penerapan kebijakan tarif resiprokal yang sangat tinggi. Hal ini menyebabkan volatilitas pasar keuangan global dan domestik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Liberation Day' italic"
+ },
+ {
+  "type": "text",
+  "text": "Merespons dinamika tersebut, Pemerintah semakin proaktif dan intensif dalam melakukan diplomasi ekonomi dan perdagangan. Pemerintah juga terus memperluas dan memperdalam kerja sama bilateral dan multilateral untuk menjaga akses pasar ekspor, menarik arus investasi, serta memperkuat kepercayaan pelaku usaha dan investor terhadap prospek ekonomi Indonesia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Untuk menjaga stabilitas ekonomi serta melindungi daya beli masyarakat dan dunia usaha, Pemerintah merespons dengan menerbitkan Paket Stimulus I pada awal tahun 2025. Paket stimulus ini diarahkan untuk menopang konsumsi domestik dan aktivitas ekonomi, khususnya bagi rumah tangga, UMKM, sektor padat karya, dan sektor perumahan, antara lain melalui diskon tarif listrik, PPN DTP perumahan, PPN DTP tiket pesawat, perluasan akses Jaminan Kehilangan Pekerjaan (JKP), pembiayaan bagi industri padat karya, serta insentif otomotif.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah melanjutkan peluncuran Paket Stimulus II hingga IV pada Juni, September, dan Oktober 2025. Rangkaian stimulus lanjutan ini difokuskan pada penguatan konsumsi dalam negeri, peningkatan aktivitas ekonomi masyarakat, serta perlindungan sosial yang lebih luas, antara lain melalui diskon tarif transportasi, penebalan bantuan sosial, Bantuan Subsidi Upah (BSU), dukungan bagi sektor pariwisata dan UMKM, program padat karya dan magang, serta insentif lainnya yang dirancang untuk menjaga momentum pertumbuhan ekonomi hingga akhir tahun.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Memasuki paruh kedua tahun 2025, Pemerintah menyampaikan Laporan Semester (Lapsem) pelaksanaan APBN, dengan perkiraan outlook defisit yang meningkat menjadi 2,78 persen PDB seiring moderasi penerimaan negara serta kebutuhan stimulus dan penyesuaian kebijakan untuk menjaga momentum pertumbuhan ekonomi. Pada periode ini, berbagai program prioritas pemerintahan baru terus dijalankan dan diperluas, antara lain Sekolah Rakyat pada 14 Juli 2025, Koperasi Desa/Kelurahan Merah Putih (KD/KMP) pada 21 Juli 2025, serta pembangunan Kampung Nelayan Merah Putih pada 15 September 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; 'outlook' italic"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah juga menempatkan dana pada Bank Himbara sebesar Rp200 triliun pada 12 September 2025 dan Rp76 triliun pada 12 November 2025 sebagai bagian dari strategi pengelolaan kas yang efisien dan optimal. Strategi tersebut mendorong penurunan biaya dana (cost of fund), meningkatkan penyaluran kredit, serta menggerakkan sektor riil.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'cost of fund' italic; spasi ganda sebelum 'pada 12 November' diringkas"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah berbagai dinamika serta tantangan global dan domestik, APBN 2025 tetap ekspansif dan adaptif dalam menjalankan peran melindungi masyarakat dan mendukung ketahanan ekonomi nasional dengan kredibilitas yang tetap terjaga. APBN 2025 ditutup dengan defisit yang terkendali pada level 2,92 persen PDB.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ }
+]

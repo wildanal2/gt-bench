@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "The original financial statements included herein are in Indonesian language.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama entitas di atas judul laporan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN POSISI KEUANGAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; periode"
+ },
+ {
+  "type": "text",
+  "text": "STATEMENTS OF FINANCIAL POSITION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DECEMBER 2024 AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; periode"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan/ Notes</th><th>2024</th><th>2023</th><th></th></tr><tr><td>ASET</td><td></td><td></td><td></td><td>ASSETS</td></tr><tr><td>KAS</td><td>2h,5,40,43</td><td>1.661.729</td><td>1.756.619</td><td>CASH</td></tr><tr><td>GIRO PADA BANK INDONESIA</td><td>2h,2i,6, 40,43</td><td>8.205.594</td><td>7.315.742</td><td>CURRENT ACCOUNTS WITH BANK INDONESIA</td></tr><tr><td>GIRO PADA BANK-BANK LAIN - setelah dikurangi cadangan kerugian penurunan nilai sebesar Rp45 pada 31 Desember 2024 (2023: Rp231)</td><td>2g,2h,2i, 2t,7,40, 42,43</td><td></td><td></td><td>CURRENT ACCOUNTS WITH OTHER BANKS - net of allowance for impairment losses of Rp45 at 31 December 2024 (2023: Rp231)</td></tr><tr><td>Pihak ketiga</td><td></td><td>2.854.974</td><td>2.468.627</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>89.503</td><td>97.437</td><td>Related parties</td></tr><tr><td>PENEMPATAN PADA BANK INDONESIA DAN BANK-BANK LAIN - setelah dikurangi cadangan kerugian penurunan nilai sebesar Rp152 pada 31 Desember 2024 (2023: Rp383)</td><td>2h,2j,2t 8,40,43</td><td></td><td></td><td>PLACEMENTS WITH BANK INDONESIA AND OTHER BANKS - net of allowance for impairment losses of Rp152 at 31 December 2024 (2023: Rp383)</td></tr><tr><td>Pihak ketiga</td><td></td><td>12.895.048</td><td>25.151.155</td><td>Third parties</td></tr><tr><td>ASET KEUANGAN UNTUK DIPERDAGANGKAN</td><td>2g,2h,2k, 9,40,42, 43</td><td></td><td></td><td>FINANCIAL ASSETS HELD FOR TRADING</td></tr><tr><td>Pihak ketiga</td><td></td><td>6.786.864</td><td>3.940.862</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>-</td><td>2.464</td><td>Related parties</td></tr><tr><td>EFEK-EFEK YANG DIBELI DENGAN JANJI DIJUAL KEMBALI setelah dikurangi cadangan kerugian penurunan nilai sebesar Rp41 pada 31 Desember 2024 (2023: nihil)</td><td>2h,2l,2t,10, 40</td><td></td><td></td><td>SECURITIES PURCHASED UNDER RESALE AGREEMENTS net of allowance for impairment losses of Rp41 at 31 December 2024 (2023: nil)</td></tr><tr><td>Pihak ketiga</td><td></td><td>2.145.738</td><td>26.840.692</td><td>Third parties</td></tr><tr><td>TAGIHAN AKSEPTASI - setelah dikurangi cadangan kerugian penurunan nilai sebesar Rp162.273 pada 31 Desember 2024 (2023: Rp269.991)</td><td>2h,2m,2t, 11,40,43</td><td></td><td></td><td>ACCEPTANCE RECEIVABLES - net of allowance for impairment losses of Rp162,273 at 31 December 2024 (2023: Rp269,991)</td></tr><tr><td>Pihak ketiga</td><td></td><td>5.442.970</td><td>5.472.473</td><td>Third parties</td></tr><tr><td>KREDIT YANG DIBERIKAN - setelah dikurangi cadangan kerugian penurunan nilai sebesar Rp11.895.510 pada 31 Desember 2024 (2023: Rp11.748.072)</td><td>2g,2h,2n, 2t,12,40, 42,43</td><td></td><td></td><td>LOANS - net of allowance for impairment losses of Rp11,895,510 at 31 December 2024 (2023: Rp11,748,072)</td></tr><tr><td>Pihak ketiga</td><td></td><td>143.300.868</td><td>130.726.361</td><td>Third parties</td></tr><tr><td>Pihak berelasi</td><td></td><td>558.202</td><td>503.723</td><td>Related parties</td></tr><tr><td>Dipindahkan</td><td></td><td>183.941.490</td><td>204.276.155</td><td>Carried forward</td></tr></table>",
+  "table_caption": "(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan secara khusus)\n(Expressed in millions of Rupiah, unless otherwise stated)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual: kolom label ID kiri dan label EN kanan sebagai kolom tersendiri; header kolom label ID/EN kosong; baris seksi ASET diberi sel nilai kosong; label dan Catatan/Notes multi-baris digabung satu spasi dalam satu sel; nomor catatan ASET KEUANGAN UNTUK DIPERDAGANGKAN tercetak menjorok ke baris Pihak ketiga, dimasukkan ke baris judul pos; format angka EN pakai koma ribuan disalin verbatim"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan merupakan bagian yang tidak terpisahkan dari laporan keuangan secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The accompanying notes to financial statements form an integral part of these financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran - 1/1 - Schedule",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

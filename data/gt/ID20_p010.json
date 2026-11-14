@@ -1,0 +1,101 @@
+[
+ {
+  "type": "text",
+  "text": "LEMBAR PENGHITUNGAN PAJAK PENGHASILAN TERUTANG BAGI WAJIB PAJAK YANG KAWIN DENGAN STATUS PERPAJAKAN SUAMI-ISTERI PISAH HARTA DAN PENGHASILAN (PH) ATAU ISTERI YANG MENGHENDAKI UNTUK MENJALANKAN HAK DAN KEWAJIBAN PERPAJAKANNYA SENDIRI (MT)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bertumpuk 3 baris digabung; spasi ganda diringkas",
+  "text_level": 1
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No.</th><th colspan=\"2\">Uraian</th><th>Penghasilan Neto Suami</th><th>Penghasilan Neto Isteri</th></tr><tr><th>(1)</th><th colspan=\"2\">(2)</th><th>(3)</th><th>(4)</th></tr><tr><td rowspan=\"9\">A</td><td colspan=\"2\">PENGHASILAN NETO</td><td colspan=\"2\">&lt;AUTO&gt;</td></tr><tr><td>1</td><td>PENGHASILAN NETO DALAM NEGERI DARI USAHA DAN/ATAU PEKERJAAN BEBAS [Diisi dari Formulir 1770 Bagian A angka 1]</td><td></td><td></td></tr><tr><td>2</td><td>PENGHASILAN NETO DALAM NEGERI SEHUBUNGAN DENGAN PEKERJAAN [Diisi dari Formulir 1770 Bagian A angka 2 atau Formulir 1770 S Bagian A angka 1]</td><td>0</td><td></td></tr><tr><td>3</td><td>PENGHASILAN NETO DALAM NEGERI LAINNYA [Diisi dari Formulir 1770 Bagian A angka 3 atau Formulir 1770 S Bagian A angka 2]</td><td>0</td><td></td></tr><tr><td>4</td><td>PENGHASILAN NETO LUAR NEGERI [Diisi dari Formulir 1770 Bagian A angka 4 atau Formulir 1770 S Bagian A angka 3]</td><td>0</td><td></td></tr><tr><td>5</td><td>ZAKAT / SUMBANGAN KEAGAMAAN YANG BERSIFAT WAJIB [Diisi dari Formulir 1770 Bagian A angka 6 atau Formulir 1770 S Bagian A angka 5]</td><td>0</td><td></td></tr><tr><td>6</td><td>JUMLAH ( 1 + 2 + 3 + 4 - 5 ) &lt;AUTO&gt;</td><td>0</td><td>0</td></tr><tr><td>7</td><td>KOMPENSASI KERUGIAN [Khusus Bagi WP OP yang menyelenggarakan pembukuan. Diisi dari Formulir 1770 Bagian A angka 8]</td><td></td><td></td></tr><tr><td>8</td><td>JUMLAH PENGHASILAN NETO ( 6 - 7 ) &lt;AUTO&gt;</td><td></td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; sel <AUTO> baris A diblok abu melebar 2 kolom nilai; keterangan [Diisi …] huruf kecil digabung ke uraian; <AUTO> merah"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No</th><th colspan=\"3\">Uraian</th><th>Nilai &lt;AUTO&gt;</th></tr><tr><th>(1)</th><th colspan=\"3\">(2)</th><th>(3)</th></tr><tr><td>B</td><td colspan=\"3\">JUMLAH PENGHASILAN NETO SUAMI DAN ISTERI [ A.8.(3) + A.8.(4) ]</td><td>0</td></tr><tr><td>C</td><td colspan=\"2\">PENGHASILAN TIDAK KENA PAJAK</td><td></td><td>0</td></tr><tr><td>D</td><td colspan=\"3\">PENGHASILAN KENA PAJAK [ B - C ]</td><td>0</td></tr><tr><td rowspan=\"6\">E</td><td colspan=\"3\">PAJAK PENGHASILAN TERUTANG (GABUNGAN)</td><td rowspan=\"5\"></td></tr><tr><td>1</td><td>5% x 0</td><td>0</td></tr><tr><td>2</td><td>15% x 0</td><td>0</td></tr><tr><td>3</td><td>25% x 0</td><td>0</td></tr><tr><td>4</td><td>30% x 0</td><td>0</td></tr><tr><td colspan=\"3\">JUMLAH PAJAK PENGHASILAN TERUTANG (GABUNGAN)</td><td>0</td></tr><tr><td>F</td><td colspan=\"3\">PPh TERUTANG YANG DITANGGUNG Suami [ (A.8.(3) / B) x E ] [Pindahkan nilai pada bagian ini ke SPT Suami bagian C angka 12 Formulir 1770 atau ke bagian C angka 9 Formulir 1770 S]</td><td>0</td></tr><tr><td>G</td><td colspan=\"3\">PPh TERUTANG YANG DITANGGUNG Isteri [ (A.8.(4) / B) x E ] [Pindahkan nilai pada bagian ini ke SPT Isteri bagian C angka 12 Formulir 1770 atau ke bagian C angka 9 Formulir 1770 S]</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; baris C punya sel kosong di kolom tengah; E.1–E.4: tarif dan nilai 0 dalam satu sel tanpa garis pemisah, sel kanan kolom Nilai diblok abu; 'Suami'/'Isteri' di F/G tercetak lebih kecil; <AUTO> merah di header Nilai"
+ },
+ {
+  "type": "text",
+  "text": ",",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanda koma tunggal di kanan (sisa isian tempat/tanggal yang kosong)"
+ },
+ {
+  "type": "text",
+  "text": "Suami",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; pita abu; judul blok tanda tangan"
+ },
+ {
+  "type": "text",
+  "text": "Nama :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "NPWP :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "Tanda Tangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label kotak tanda tangan kosong"
+ },
+ {
+  "type": "text",
+  "text": "Isteri",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; pita abu; judul blok tanda tangan"
+ },
+ {
+  "type": "text",
+  "text": "Nama :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "NPWP :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "Tanda Tangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label kotak tanda tangan kosong"
+ }
+]

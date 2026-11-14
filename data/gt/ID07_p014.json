@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "The original financial statements included herein are in Indonesian language.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama entitas di atas judul laporan; berulang tiap halaman laporan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "STATEMENTS OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "FOR THE YEARS ENDED 31 DECEMBER 2024 AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan/ Notes</th><th>2024</th><th>2023</th><th></th></tr><tr><td>PENDAPATAN DAN BEBAN OPERASIONAL</td><td></td><td></td><td></td><td>OPERATING INCOME AND EXPENSES</td></tr><tr><td>Pendapatan bunga</td><td>2g,2h,2aa, 31,42</td><td>14.959.489</td><td>13.798.469</td><td>Interest income</td></tr><tr><td>Pendapatan syariah</td><td>2g,2aa,31, 42</td><td>2.253.550</td><td>2.240.675</td><td>Sharia income</td></tr><tr><td>Beban bunga</td><td>2g,2h,2aa, 32,42</td><td>(6.222.853)</td><td>(5.591.605)</td><td>Interest expense</td></tr><tr><td>Beban syariah</td><td>2g,2aa,32, 42</td><td>(1.139.432)</td><td>(828.149)</td><td>Sharia expense</td></tr><tr><td>Pendapatan bunga dan syariah - bersih</td><td></td><td>9.850.754</td><td>9.619.390</td><td>Net interest and sharia income</td></tr><tr><td>Pendapatan provisi dan komisi - bersih</td><td>2g,2ab,33, 42</td><td>1.560.063</td><td>1.541.031</td><td>Net fees and commission income</td></tr><tr><td>Pendapatan transaksi perdagangan - bersih</td><td>2g,2k,2ac, 34</td><td>227.758</td><td>300.032</td><td>Net trading income</td></tr><tr><td>Bagian atas rugi bersih dari entitas asosiasi</td><td>2f,14</td><td>(23.516)</td><td>(27.310)</td><td>Share of net loss of associate</td></tr><tr><td>Kerugian penjualan efek-efek untuk tujuan investasi</td><td></td><td>(57.297)</td><td>(52.155)</td><td>Loss on sale of investment securities</td></tr><tr><td>Pendapatan operasional lainnya</td><td>2e,2p, 2s,38</td><td>153.224</td><td>192.630</td><td>Other operating income</td></tr><tr><td></td><td></td><td>1.860.232</td><td>1.954.228</td><td></td></tr><tr><td>Jumlah pendapatan operasional</td><td></td><td>11.710.986</td><td>11.573.618</td><td>Total operating income</td></tr><tr><td>Kerugian penurunan nilai aset keuangan</td><td>2t,35</td><td>(1.160.229)</td><td>(2.521.090)</td><td>Impairment losses on financial assets</td></tr><tr><td>Kerugian penurunan nilai atas transaksi rekening administratif</td><td></td><td>(364.631)</td><td>(44.330)</td><td>Impairment losses on transactions of administrative accounts</td></tr><tr><td>Beban operasional lainnya</td><td></td><td></td><td></td><td>Other operating expenses</td></tr><tr><td>Beban umum dan administrasi</td><td>2g,2p,2q, 2af,36</td><td>(1.858.139)</td><td>(1.831.245)</td><td>General and administrative expenses</td></tr><tr><td>Gaji dan tunjangan pengurus dan karyawan</td><td>2g,2v,25, 37,42</td><td>(3.168.469)</td><td>(3.336.218)</td><td>Salaries and benefits to management and employees</td></tr><tr><td>Lain-lain</td><td>2e,2t,38</td><td>(551.289)</td><td>(490.615)</td><td>Others</td></tr><tr><td>Jumlah beban operasional lainnya</td><td></td><td>(5.577.897)</td><td>(5.658.078)</td><td>Total other operating expenses</td></tr><tr><td>Jumlah beban operasional</td><td></td><td>(7.102.757)</td><td>(8.223.498)</td><td>Total operating expenses</td></tr><tr><td>LABA SEBELUM PAJAK PENGHASILAN</td><td></td><td>4.608.229</td><td>3.350.120</td><td>INCOME BEFORE INCOME TAX</td></tr><tr><td>BEBAN PAJAK PENGHASILAN</td><td>2r,23c</td><td></td><td></td><td>INCOME TAX EXPENSE</td></tr><tr><td>Kini</td><td></td><td>(668.809)</td><td>(1.110.827)</td><td>Current</td></tr><tr><td>Tangguhan</td><td></td><td>(372.901)</td><td>345.925</td><td>Deferred</td></tr><tr><td></td><td></td><td>(1.041.710)</td><td>(764.902)</td><td></td></tr><tr><td>LABA BERSIH</td><td>39</td><td>3.566.519</td><td>2.585.218</td><td>NET INCOME</td></tr></table>",
+  "table_caption": "(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan secara khusus)\n(Expressed in millions of Rupiah, unless otherwise stated)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual; kolom 1 label ID, kolom 5 label EN (berpasangan per baris); header kolom label kosong; label/catatan multi-baris dalam satu sel digabung spasi; baris seksi diberi sel nilai kosong; baris subtotal tanpa label diberi sel label kosong"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan merupakan bagian yang tidak terpisahkan dari laporan keuangan secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "The accompanying notes to financial statements form an integral part of these financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran - 2/1 - Schedule",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

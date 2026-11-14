@@ -1,0 +1,256 @@
+[
+ {
+  "type": "text",
+  "text": "WITH CHATGPT",
+  "page_idx": 0,
+  "bbox": [
+   0.40624,
+   0.01486,
+   0.62721,
+   0.03439
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "CREATING SLIDES",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.17081,
+   0.06675,
+   0.82725,
+   0.10916
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "O E R",
+  "page_idx": 0,
+  "bbox": [
+   0.12347,
+   0.16177,
+   0.23055,
+   0.19041
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "COMMONS",
+  "page_idx": 0,
+  "bbox": [
+   0.12527,
+   0.19416,
+   0.22984,
+   0.20678
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "01 - Find Open Educational Resources",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.14734,
+   0.70762,
+   0.16375
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Start by searching for information on platforms like OER\nCommons, where authors share their materials freely, ensuring\nno copyright issues.",
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.17123,
+   0.92897,
+   0.22347
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "02- Prepare Your Content",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.26726,
+   0.57903,
+   0.28367
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Summarize or extract the key points from the materials you've\nfound. This will be the content for your slides.",
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.2906,
+   0.92897,
+   0.32646
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "03- Generate Slides with ChatGPT",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.37134,
+   0.68057,
+   0.3854
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Provide the summarized content to ChatGPT and instruct it to\ncreate a structured outline for Google Slides, including titles,\nmain points, and any specific instructions for slide design.",
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.3952,
+   0.92897,
+   0.44764
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "</>",
+  "page_idx": 0,
+  "bbox": [
+   0.13612,
+   0.51741,
+   0.21479,
+   0.56117
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "04 - Create App Script Code",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.49722,
+   0.60701,
+   0.51351
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "After finalizing the slide structure, ask ChatGPT to generate a\nGoogle Apps Script code that can create these slides\nautomatically.",
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.52047,
+   0.92897,
+   0.5729
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "05 - Execute in Google Apps Script",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.60782,
+   0.68451,
+   0.62411
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Open Google Apps Script, start a new project, and paste the\ncode provided by ChatGPT. Run the script to auto-generate your\nslide deck.",
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.62984,
+   0.94942,
+   0.68228
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "06 - Edit and Customize",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.73064,
+   0.56589,
+   0.74693
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Once the slides are created, you can further edit and customize\nthem in Google Slides according to your needs.",
+  "page_idx": 0,
+  "bbox": [
+   0.30519,
+   0.75511,
+   0.93993,
+   0.79032
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "INTERESTED IN FREE AI-CONSULTANCE OR\nCOLLABORATION WITH US?",
+  "page_idx": 0,
+  "bbox": [
+   0.17076,
+   0.88466,
+   0.82685,
+   0.93636
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "EMAIL REBECCA.ALLEN@MSJ.EDU FOR MORE INFORMATION",
+  "page_idx": 0,
+  "bbox": [
+   0.15598,
+   0.94534,
+   0.84396,
+   0.95972
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

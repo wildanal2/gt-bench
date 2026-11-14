@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "to expand this section to include notes, tips and feedback from\nTWP instructors. If you use these materials, please let me know\nhow it went, what worked for you, and any suggested changes or\nadditions. I'd love to hear from you at chwixson (at) plymouth (dot)\nedu or fill out as much of [this form] as you'd like.",
+  "page_idx": 0,
+  "bbox": [
+   0.13741,
+   0.09535,
+   0.86092,
+   0.20749
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Introduction",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.13862,
+   0.2663,
+   0.35676,
+   0.29218
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Throughout the chapters, I tried to generate Reflection &\nDiscussion Questions that could be used either as in class (whole\ngroup or think/pair/share) discussion prompts or as written\nreflections assigned out of class. If your students generate any\nwritten answers to any of the Reflection & Discussion Questions in\nthis chapter, I would be very interested to see them.",
+  "page_idx": 0,
+  "bbox": [
+   0.13862,
+   0.33609,
+   0.86092,
+   0.47019
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Our Mental Shortcuts",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.13741,
+   0.53057,
+   0.50704,
+   0.55645
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "If you'd like to reinforce Kahneman's ideas about System 1 and\nSystem 2 thinking the video below (12 minutes) is very good, (thanks\nto Mike Davidson for this suggestion.)",
+  "page_idx": 0,
+  "bbox": [
+   0.13862,
+   0.59801,
+   0.86456,
+   0.66388
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "//www.youtbe.com/embed/UBVV8pch1dM",
+  "page_idx": 0,
+  "bbox": [
+   0.16043,
+   0.66702,
+   0.64883,
+   0.68897
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Reflection & Discussion Question 1: Taking Stock of What You\nAlready Know",
+  "page_idx": 0,
+  "bbox": [
+   0.17112,
+   0.76427,
+   0.75003,
+   0.80428
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "98 | Instructor Resources",
+  "page_idx": 0,
+  "bbox": [
+   0.13741,
+   0.91935,
+   0.39456,
+   0.9409
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

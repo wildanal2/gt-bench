@@ -1,0 +1,58 @@
+[
+ {
+  "type": "text",
+  "text": "-2-",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Badan Pemeriksa Keuangan tentang Penerapan Tanda Tangan Elektronik pada Dokumen Elektronik di Lingkungan Badan Pemeriksa Keuangan;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar Menimbang; butir a-b di halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "Mengingat :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label dasar hukum; butir 1.-4. jadi elemen terpisah"
+ },
+ {
+  "type": "text",
+  "text": "1. Undang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa Keuangan (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 85, Tambahan Lembaran Negara Republik Indonesia Nomor 4654);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "2. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4843) sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 251, Tambahan Lembaran Negara Republik Indonesia Nomor 5952);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ },
+ {
+  "type": "text",
+  "text": "3. Peraturan Pemerintah Nomor 71 Tahun 2019 tentang Penyelengaraan Sistem dan Transaksi Elektronik (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 185, Tambahan Lembaran Negara Republik Indonesia Nomor 6400);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar; typo sumber 'Penyelengaraan' dipertahankan"
+ },
+ {
+  "type": "text",
+  "text": "4. Peraturan Badan Pemeriksa Keuangan Nomor 1 Tahun 2019 tentang Organisasi dan Tata Kerja Pelaksana Badan Pemeriksa Keuangan (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 62) sebagaimana telah diubah dengan Peraturan Badan Pemeriksa Keuangan Nomor 2 Tahun 2020 tentang Perubahan atas Peraturan Badan Pemeriksa Keuangan Nomor 1 Tahun 2019 tentang Organisasi dan Tata Kerja Pelaksana Badan Pemeriksa Keuangan (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 197);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir daftar"
+ }
+]

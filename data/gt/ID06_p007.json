@@ -1,0 +1,220 @@
+[
+ {
+  "type": "text",
+  "text": "C. Produk Domestik Regional Bruto (PDRB)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Pada tahun 2025, Pulau Jawa masih menunjukkan peranan yang kuat dalam perekonomian Indonesia, dengan kontribusi sebesar 56,93 persen. Posisi berikutnya ditempati oleh Pulau Sumatera (22,22 persen), Kalimantan (8,12 persen), Sulawesi (7,22 persen), Bali dan Nusa Tenggara (2,82 persen), serta Maluku dan Papua (2,69 persen).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia secara spasial selama tahun 2025 menunjukkan pertumbuhan di seluruh kelompok provinsi. Kelompok provinsi di Pulau Sulawesi mencatat pertumbuhan (c-to-c) tertinggi sebesar 6,23 persen, diikuti oleh Pulau Jawa (5,30 persen), Pulau Bali dan Nusa Tenggara (4,87 persen), Pulau Sumatera (4,81 persen), dan Pulau Kalimantan (4,79 persen). Sementara itu, kelompok provinsi di Pulau Maluku dan Papua mencatat pertumbuhan terendah, yakni sebesar 1,44 persen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; c-to-c miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 7 Kontribusi dan Pertumbuhan PDRB Menurut Pulau (persen), 2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; peta tematik Indonesia per pulau; label wilayah dengan nilai kontribusi (ikon hijau) dan pertumbuhan (ikon segitiga merah); dibaca baris atas kiri ke kanan, lalu legenda, lalu baris bawah"
+ },
+ {
+  "type": "text",
+  "text": "SUMATERA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah"
+ },
+ {
+  "type": "text",
+  "text": "22,22 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Kontribusi"
+ },
+ {
+  "type": "text",
+  "text": "4,81 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Pertumbuhan (c-to-c)"
+ },
+ {
+  "type": "text",
+  "text": "KALIMANTAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah"
+ },
+ {
+  "type": "text",
+  "text": "8,12 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Kontribusi"
+ },
+ {
+  "type": "text",
+  "text": "4,79 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Pertumbuhan (c-to-c)"
+ },
+ {
+  "type": "text",
+  "text": "SULAWESI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah"
+ },
+ {
+  "type": "text",
+  "text": "7,22 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Kontribusi"
+ },
+ {
+  "type": "text",
+  "text": "6,23 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Pertumbuhan (c-to-c)"
+ },
+ {
+  "type": "text",
+  "text": "MALUKU DAN PAPUA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah"
+ },
+ {
+  "type": "text",
+  "text": "2,69 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Kontribusi"
+ },
+ {
+  "type": "text",
+  "text": "1,44 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Pertumbuhan (c-to-c)"
+ },
+ {
+  "type": "text",
+  "text": "Kontribusi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan (c-to-c)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda; c-to-c miring"
+ },
+ {
+  "type": "text",
+  "text": "JAWA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah"
+ },
+ {
+  "type": "text",
+  "text": "56,93 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Kontribusi"
+ },
+ {
+  "type": "text",
+  "text": "5,30 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Pertumbuhan (c-to-c)"
+ },
+ {
+  "type": "text",
+  "text": "BALI DAN NUSA TENGGARA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah"
+ },
+ {
+  "type": "text",
+  "text": "2,82 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Kontribusi"
+ },
+ {
+  "type": "text",
+  "text": "4,87 %",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai; Pertumbuhan (c-to-c)"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

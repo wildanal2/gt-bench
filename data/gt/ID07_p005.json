@@ -1,0 +1,205 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Selain itu, kredit yang diberikan dan cadangan kerugian penurunan nilai jumlahnya signifikan terhadap laporan keuangan. Oleh karena itu, kami mengidentifikasi ini sebagai hal audit utama.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "In addition, the loans and the allowance for impairment losses are significant to the financial statements. In view of these factors, we identified this as a key audit matter.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "Bagaimana audit kami merespons Hal Audit Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "How our audit addressed the Key Audit Matter",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kami memperoleh pemahaman tentang pendekatan manajemen dalam menghitung KKE dan pengendalian internal utama manajemen atas perhitungan KKE untuk kredit yang diberikan dan menilai risiko inheren dari salah saji material dengan mempertimbangkan tingkat ketidakpastian estimasi dan tingkat risiko inheren lainnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "We understood management’s approach in calculating the ECL and management’s key internal controls over the measurement of the ECL for loans and assessed the inherent risk of material misstatement by considering the degree of estimation uncertainty and level of other inherent risks.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Kami mengevaluasi dan menguji desain dan efektivitas operasi pengendalian yang relevan terhadap pengukuran KKE untuk kredit yang diberikan, termasuk antara lain:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Persetujuan atas informasi perkiraan masa depan yang digunakan dalam model KKE;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Persetujuan hasil KKE, termasuk penyesuaian pasca model/overlay manajemen yang diterapkan; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir tanpa nomor; overlay miring"
+ },
+ {
+  "type": "text",
+  "text": "Pengendalian umum dari Teknologi Informasi (“TI”) atas sistem perhitungan KKE serta pengendalian aplikasi TI atas kelengkapan dan keakuratan transfer data dari sistem asal ke sistem perhitungan KKE, dengan melibatkan spesialis TI kami.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "We evaluated and tested the design and operating effectiveness of the controls relevant to the measurement of the ECL for loans, including, among others:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Approval of forward-looking information used in the ECL models;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Approval of the ECL results, including post model adjustments/management overlay applied; and",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Information technology (“IT”) general controls over the ECL calculation system as well as IT application controls over the completeness and accuracy of data transfer from source systems to the ECL calculation system, by involving our IT specialists.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Kami melakukan pengujian substantif yang terutama terdiri dari:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Menguji input data ke model KKE secara sampel ke data aktual yang tersedia di Bank, untuk menilai keakuratan dan kelengkapannya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Menilai, secara sampel, identifikasi manajemen atas kredit yang diberikan yang mengalami peningkatan signifikan risiko kredit, gagal bayar, dan penurunan nilai dengan mempertimbangkan informasi keuangan dan non-keuangan debitur, bukti eksternal yang relevan, dan faktor lainnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Menilai analisis model yang dilakukan manajemen atas pemilihan indikator ekonomi, skenario ekonomi, dan probabilitas tertimbang yang digunakan. Kami juga melakukan evaluasi atas proyeksi indikator ekonomi dengan melakukan benchmarking secara sampel, atas prakiraan faktor makroekonomi ke berbagai sumber eksternal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir tanpa nomor; benchmarking miring"
+ },
+ {
+  "type": "text",
+  "text": "We performed substantive testing, which primarily consisted of:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Testing the data inputs to the ECL models on a sampling basis to assess its accuracy and completeness.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Assessing, on a sampling basis, management’s identification of loans experiencing significant increases in credit risk, defaults, and credit impairment by considering the debtors’ financial and non-financial information, relevant external evidence, and other factors.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "Assessing management’s model analysis of the selection of economic indicators, economic scenarios, and probability weightings applied. We also evaluated the economic indicators projection by benchmarking, on a sampling basis, the forecast of macroeconomic factors to a variety of external sources.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; butir tanpa nomor"
+ },
+ {
+  "type": "text",
+  "text": "00052/2.1457/AU.1/07/0230-1/1/II/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan auditor"
+ }
+]

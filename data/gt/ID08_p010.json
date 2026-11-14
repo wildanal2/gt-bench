@@ -1,0 +1,52 @@
+[
+ {
+  "type": "text",
+  "text": "PT BANK CENTRAL ASIA Tbk DAN ENTITAS ANAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran 2/1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN LABA RUGI DAN PENGHASILAN KOMPREHENSIF LAIN KONSOLIDASIAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan</th><th>2024</th><th>2023</th></tr><tr><td>PENDAPATAN DAN BEBAN OPERASIONAL</td><td></td><td></td><td></td></tr><tr><td>Pendapatan bunga dan syariah</td><td>2ad,2aj,28,46</td><td></td><td></td></tr><tr><td>Pendapatan bunga</td><td></td><td>93.991.349</td><td>86.542.585</td></tr><tr><td>Pendapatan syariah</td><td></td><td>805.105</td><td>663.932</td></tr><tr><td>Jumlah pendapatan bunga dan syariah</td><td></td><td>94.796.454</td><td>87.206.517</td></tr><tr><td>Beban bunga dan syariah</td><td>2ad,2aj,29,46</td><td></td><td></td></tr><tr><td>Beban bunga</td><td></td><td>(12.137.180)</td><td>(11.954.918)</td></tr><tr><td>Beban syariah</td><td></td><td>(395.110)</td><td>(314.034)</td></tr><tr><td>Jumlah beban bunga dan syariah</td><td></td><td>(12.532.290)</td><td>(12.268.952)</td></tr><tr><td>PENDAPATAN BUNGA DAN SYARIAH - BERSIH</td><td></td><td>82.264.164</td><td>74.937.565</td></tr><tr><td>PENDAPATAN OPERASIONAL LAINNYA</td><td></td><td></td><td></td></tr><tr><td>Pendapatan provisi dan komisi - bersih</td><td>2ae,30</td><td>17.979.919</td><td>16.622.141</td></tr><tr><td>Pendapatan transaksi yang diukur pada nilai wajar melalui laba rugi - bersih</td><td>2af,31</td><td>2.854.529</td><td>1.887.500</td></tr><tr><td>Lain-lain</td><td></td><td>5.207.929</td><td>5.069.478</td></tr><tr><td>Jumlah pendapatan operasional lainnya</td><td></td><td>26.042.377</td><td>23.579.119</td></tr><tr><td>Beban penyisihan kerugian penurunan nilai aset</td><td>2g,32</td><td>(2.034.453)</td><td>(1.056.192)</td></tr><tr><td>BEBAN OPERASIONAL LAINNYA</td><td></td><td></td><td></td></tr><tr><td>Beban karyawan</td><td>2ag,2aj,33,38,46</td><td>(17.444.242)</td><td>(16.197.811)</td></tr><tr><td>Beban umum dan administrasi</td><td>2aj,16,34,46</td><td>(16.874.142)</td><td>(17.305.639)</td></tr><tr><td>Lain-lain</td><td></td><td>(3.735.854)</td><td>(3.777.285)</td></tr><tr><td>Jumlah beban operasional lainnya</td><td></td><td>(38.054.238)</td><td>(37.280.735)</td></tr><tr><td>LABA SEBELUM PAJAK PENGHASILAN</td><td></td><td>68.217.850</td><td>60.179.757</td></tr><tr><td>BEBAN PAJAK PENGHASILAN</td><td>2ah,20c</td><td>(13.366.576)</td><td>(11.521.662)</td></tr><tr><td>LABA BERSIH</td><td></td><td>54.851.274</td><td>48.658.095</td></tr><tr><td>PENGHASILAN KOMPREHENSIF LAIN:</td><td></td><td></td><td></td></tr><tr><td>Pos-pos yang tidak akan direklasifikasi ke laba rugi:</td><td></td><td></td><td></td></tr><tr><td>Pengukuran kembali liabilitas imbalan pasti</td><td>2ag,38</td><td>71.872</td><td>(559.449)</td></tr><tr><td>Pajak penghasilan atas pengukuran kembali liabilitas imbalan pasti</td><td>2ah</td><td>(13.514)</td><td>106.457</td></tr><tr><td></td><td></td><td>58.358</td><td>(452.992)</td></tr><tr><td>Surplus revaluasi aset tetap</td><td>2s,16</td><td>238.886</td><td>231.837</td></tr><tr><td></td><td></td><td>297.244</td><td>(221.155)</td></tr><tr><td>Pos-pos yang akan direklasifikasi ke laba rugi:</td><td></td><td></td><td></td></tr><tr><td>Keuntungan (kerugian) yang belum direalisasi atas aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain</td><td>2j,2r,7,14</td><td>(824.292)</td><td>(1.083.532)</td></tr><tr><td>Pajak penghasilan</td><td>2ah</td><td>146.807</td><td>206.344</td></tr><tr><td></td><td></td><td>(677.485)</td><td>(877.188)</td></tr><tr><td>Selisih kurs karena penjabaran laporan keuangan dalam valuta asing</td><td>2f</td><td>35.287</td><td>(7.866)</td></tr><tr><td></td><td></td><td>(642.198)</td><td>(885.054)</td></tr><tr><td>PENGHASILAN KOMPREHENSIF LAIN, SETELAH PAJAK PENGHASILAN</td><td></td><td>(344.954)</td><td>(1.106.209)</td></tr><tr><td>JUMLAH LABA KOMPREHENSIF (Dipindahkan)</td><td></td><td>54.506.320</td><td>47.551.886</td></tr></table>",
+  "table_caption": "(Dalam jutaan Rupiah, kecuali dinyatakan lain)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header satu baris, kolom label tanpa header (th kosong); baris seksi/induk sel nilai kosong; baris subtotal tanpa label diberi sel label kosong; indentasi tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan konsolidasian merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer berjalan 2 baris digabung (kalimat yang sama di tiap halaman laporan)"
+ }
+]

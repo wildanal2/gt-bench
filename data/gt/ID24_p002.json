@@ -1,0 +1,247 @@
+[
+ {
+  "type": "text",
+  "text": "Imam Riadi, Sunardi, Panggah Widiandana",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 730 – 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "RSA Anti Fraud Command Center [6] menyatakan tahun 2013-2015 terjadi peningkatan aktivitas cybercrime sebesar 173% di seluruh dunia dan menyebabkan kerugian sebesar US$ 325 milyar. Transaksi online pada tahun 2015 sebesar 45% tetapi menyebabkan peningkatan penipuan sebesar 61%. Dampak negatif media sosial yang sering dialami oleh para remaja adalah tindakan cyberbullying [7]. Dalam identifikasi cyberbullying perlu referensi untuk investigator untuk mempermudah identifikasinya [8]. Kriteria untuk identifikasi adanya cyberbullying dapat dilakukan dengan melihat kandungan kata-kata negatif dalam percakapan [9].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Penelitian tentang Akuisisi Bukti Digital pada Instagram Messenger Berbasis Android Menggunakan Metode National Institute of Justice (NIJ) [10] menghasilkan proses akuisisi barang bukti digital yang berhasil didapatkan pada Instagram pada smartphone dalam kondisi root didapatkan foto dan chatting. Penelitian lain yang serupa adalah Analisis Bukti Digital Facebook Messenger Menggunakan Metode National Institute of Standards and Technology (NIST) menghasilkan teks percakapan, gambar, dan audio pada aplikasi Facebook Messenger [11].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Penelitian-penelitian sebelumnya tersebut hanya melakukan akuisisi atau pengangkatan barang bukti. Sedangkan penelitian ini setelah melakukan forensik digital untuk mengangkat barang bukti menggunakan tools forensic yaitu MOBILedit dan selanjutnya dilakukan analisis adanya tindakan cyberbullying. Penelitian dilakukan pada percakapan WAG menggunakan kerangka kerja Digital Forensics Research Workshop (DFRWS). Adanya kasus cyberbullying diidentifikasi menggunakan metode Cosine Similarity [12].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. Metode Penelitian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Akuisisi barang bukti dilakukan untuk mendapatkan barang bukti digital. Penelitian melakukan proses akuisisi menggunakan tools forensic yaitu MOBILedit yang digunakan untuk mengangkat barang bukti yang kemudian akan dilakukan analisis lebih lanjut mengenai tindakan cyberbullying.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.1. DFRWS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "DFRWS merupakan kerangka kerja ilmiah yang memiliki dasar dan terbukti untuk proses investigasi foresik yang meliputi pemeliharaan, pengumpulan, validasi, identifikasi, analisis, interprestasi, dokumentasi, dan presentasi bukti digital yang berasal dari sumber-sumber digital dari tempat perkara atau alat dilakukannya kejadian cybercrime untuk tujuan memfasilitasi atau melanjutkan rekonstruksi peristiwa yang melanggar hukum teknologi informasi dan mengandung pidana, atau membantu untuk mengantisipasi tindakan yang merusak keaslian barang bukti sehingga membuat barang bukti yang telah didapatkan menjadi tidak sah di mata hukum dan terbukti mengganggu untuk operasi yang direncanakan dalam proses investigasi [13]. Kerangka kerja DFRWS yang dipakai dalam penelitian dapat dilihat pada Gambar 1.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 1. Alur tahap DFRWS",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Identification",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Preservation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Collection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Presentation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Examination",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Gambar 1 merupakan DFRWS yang terdiri dari beberapa tahapan yaitu tahap identifikasi (identification) melakukan perancangan kebutuhan yang diperlukan untuk membantu penyelidikan dalam pencarian bukti, tahap pemeliharaan (preservation) menjaga keaslian dan keamanan bukti digital agar sah dibadan hukum, tahap pengumpulan (collection) mengumpulkan barang bukti yang memperkuat persidangan kuat, tahap pemeriksaan (examination) menentukan apa saja yang akan dianalisis atau filterisasi data, tahap analisis (analysis) mencari dan menganalisis barang bukti dalam pengolahan data yang telah didapat, tahap presentasi (presentation) melaporkan dan mempresentasikan hasil analisis sehingga dapat dipahami oleh publik dan berlaku dimeja persidangan [14].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2.2. Simulasi kasus",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Simulasi kasus dilakukan dengan membuat WAG yang berisi 4 orang dengan bullying dilakukan oleh 3 orang kepada 1 korban seperti pada Gambar 2. Smartphone korban akan diakuisisi untuk proses investigasi forensik.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 2. Simulasi Kasus pada WhatsApp Group",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram ilustrasi"
+ },
+ {
+  "type": "text",
+  "text": "Person",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Person",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Person",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Victim",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Acquisition",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Investigation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Justice",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Preprocessing merupakan tahap pertama dari text mining yang mencakup semua rutinitas dan mempersiapkan data yang akan digunakan pada operasi knowledge discovery sistem text mining [15]. Prepocessing digunakan untuk mempersingkat dan memperingkas kalimat yang telah diucapkan dalam group dengan cara mengambil kata-kata yang dianggap penting saja untuk mempermudah dan mempercepat proses identifikasi kasus cyberbullying. Prepocessing terdapat beberapa tahapan untuk mendapatkan kalimat atau kata yang berisi informasi yang diinginkan agar identifikasi dapat lebih akurat. Tahap-tahap prepocessing dapat dilihat pada Gambar 3.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 730 – 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "731",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

@@ -1,0 +1,188 @@
+[
+ {
+  "type": "text",
+  "text": "Ikhsan Zuhriyanto, Anton Yudhana, Imam Riadi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 5 (2020) 829 – 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "[6][7]. Pertumbuhan media sosial dan aplikasi pesan instan telah mempermudah pengembangan banyak kejahatan cyber dan aktivitas jahat yang serius [8][9]. Penggunaan media sosial Twitter yang semakin mudah, terutama dalam mendaftarkan akun baru membuat memunculkan banyak akun palsu yang selain digunakan untuk berkomunikasi juga digunakan untuk menuliskan berita tidak benar, penipuan dan juga pencemaraan nama baik terhadap seseorang sehingga pada akhirnya merugikan banyak pihak [10][11]. Pada penelitian sebelumnya pernah dilakukan metode Digital Forensics Research Workshop (DFRWS) untuk mengambil bukti digital dari email spoofing [12]. Hasil penelitian menunjukkan bahwa email spoofing dapat di identifikasi dengan melakukan analisis dari kejanggalan pesan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "Penelitian yang sudah dilakukan perlunya mencoba menggunakaan metode Digital Forensics Research Workshop (DFRWS) untuk diterapkan dalam mencari bukti digital di media sosial. Dikarenakan kejahatan di dunia digital sulit di deteksi secara fisik melainkan harus menggunakan pemrosesan digital, dikarenakan jejak pelaku semakin berkembang menuju kejahatan asimetris [13]. Perkembangan teknologi internet juga di dasari oleh perkembangan smartphone yang semakin cepat menggantikan peran computer [14][15]. Fitur dan teknologi yang canggih juga semakin banyak dimanfaatkan untuk melakukan kejahatan [16].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Saat ini banyak orang dalam mengakses informasi dan diikuti oleh pertumbuhan penggunaan media sosial. Data akun yang aktif setara dengan 31% dari jumlah penduduk dunia atau sekitar 2,31 Triliun. Pengguna aplikasi media sosial Twitter sendiri pada bulan juni 2016 telah menembus 310 juta pengguna, dimana kejahatan pada media sosial Twitter semakin meningkat tiap tahunnya [17].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Penelitian ini melakukan perbandingan tools forensik dengan menggunakan metode Digital Forensics Research Workshop (DFRWS) untuk menentukan akurasi dari masing-masing tools forensik dalam mendapatkan barang bukti digital yang dapat diambil di aplikasi media sosial Twitter.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. Metode Penelitian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Penelitian ini menggunakan metode digital forensik Digital Forensic Research Workshop (DFRWS). Metode DFRWS membantu dalam memperoleh barang bukti dan merekam informasi yang dibutuhkan untuk kemudian dikumpulkan menggunakan data mekanisme terpusat [12]. Investigasi forensik digunakan untuk mengetahui bukti digital dan alat bukti menggunakan alat yang berbeda dan merupakan proses yang sulit dan kompleks. Tujuan digital forensik adalah untuk mempertahankan dokumentasi dan mengetahui siapa yang bertanggung jawab sehingga dapat digunakan sebagai bukti di pengadilan [18]. Metode Digital Forensics Research Workshop (DFRWS) mempunyai beberapa tahapan untuk melakukan investigasi forensik yaitu seperti pada Gambar 1.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 1. Alur DFRWS",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram alir"
+ },
+ {
+  "type": "text",
+  "text": "Identification",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Preservation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Collection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Examination",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Presentation",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label diagram alir; urutan baris kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Identification (Identifikasi), tahap ini merupakan proses identifikasi dalam pencarian barang bukti digital dan menentukan kebutuhan yang diperlukan untuk proses penyelidikan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Preservation, (Pemeliharaan), tahap ini merupakan tahap pemeliharaan yang diperlukan untuk menjaga bahwa barang bukti digital masih terjaga keasliannya. Barang bukti tidak dilakukan perubahan atau disabotase.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Collection (Pengumpulan), melakukan proses pengumpulan dan mengidentifikasi bagian yang dibutuhkan untuk melakukan identifikasi dari sumber data berdasarkan barang bukti digital.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Examination (Pemeriksaan), tahap ini menentukan filtering pada salah satu bagian yang berasal dari sumber data, tetapi tetap menjaga keaslian dari isi data tersebut dikarenakan sifat dari keaslian data sangat penting oleh karena itu filtering data dilakukan hanya dari sisi perubahan bentuk pada data dengan tetap menjaga keaslian data.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Analysis (Analisis), melakukan penelitian untuk dapat mengetahui dimana, oleh siapa dan bagaimana data dari sebuah kasus tersebut dapat diperoleh.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Presentation (Presentasi), tahapan presentasi dilakukan dengan menampilkan informasi yang diperoleh dari tahap analisis sebelumnya, kemudian dilakukan pendataan data hasil dari analisis yang diperoleh meliputi pelaporan tindakan yang sudah dilakukan. Penjelasan mengenai metode dan tools yang di terapkan untuk menentukan tindakan yang dibutuhkan serta memberikan saran dan masukan untuk perbaikan sebuah kebijakan atau hasil yang diperoleh.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 5 (2020) 829 – 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "830",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

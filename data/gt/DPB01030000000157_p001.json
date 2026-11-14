@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "Stop",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14299,
+   0.09857,
+   0.21854,
+   0.12578
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Check your emotions. If a claim\ncauses strong emotion - anger, glee,\npride, vindication - STOP. You must\nfact-check this claim. Remember\nfrom the chapter, Our Mental\nShortcuts, that we more readily\naccept information that confirms our\nbeliefs (confirmation bias) and we\ntend to think less critically about that\nkind of information than we do about\ninformation that challenges our\nbeliefs (motivated reasoning.) A\nstrong emotional reaction is a sign\nthat these cognitive biases are at\nwork. Remember, these mental\nshortcuts don't make us bad people,\nwe all have them. But we do need to\naccount for them if we want to move\ntoward better information.",
+  "page_idx": 0,
+  "bbox": [
+   0.14156,
+   0.16544,
+   0.54212,
+   0.59318
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In addition, if you get lost while\nworking on the other moves, or hit\ndead ends, or find yourself going\ndown an increasingly confusing\nrabbit hole during your investigation,\nSTOP. Back up and start over knowing\nwhat you know now. You're likely to\ntake a more informed path with\ndifferent search terms and better decisions.",
+  "page_idx": 0,
+  "bbox": [
+   0.14156,
+   0.59963,
+   0.60621,
+   0.79959
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In these\nchapters we're\nfocusing on\nresearching a\nwicked problem,\nbut the SIFT\nmethod is a\ngreat thing to\nuse before you\nshare\ninformation on\nsocial media.\nOften we feel\ncompelled to\nshare the things\nthat evoke the\nstrongest\nfeelings, but\nthose strong\nfeelings are a\ngood sign that\nthose things\nneed to be\nchecked before\nthey are shared.",
+  "page_idx": 0,
+  "bbox": [
+   0.61806,
+   0.14832,
+   0.79748,
+   0.71558
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "SIFTing Information | 69",
+  "page_idx": 0,
+  "bbox": [
+   0.61619,
+   0.92275,
+   0.85844,
+   0.93898
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

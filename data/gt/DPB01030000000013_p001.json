@@ -1,0 +1,148 @@
+[
+ {
+  "type": "text",
+  "text": "150",
+  "page_idx": 0,
+  "bbox": [
+   0.10094,
+   0.04896,
+   0.12873,
+   0.05953
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "AL-OGAYYEL AND OSKAY",
+  "page_idx": 0,
+  "bbox": [
+   0.71314,
+   0.04896,
+   0.90096,
+   0.05953
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10094,
+   0.07724,
+   0.48916,
+   0.64519
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 8.7A-C A gazelle horn used in al-Sadu weaving.",
+  "page_idx": 0,
+  "bbox": [
+   0.10094,
+   0.65547,
+   0.47179,
+   0.67112
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "4 Al-Sadu Symbols and Social Significance",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09685,
+   0.70213,
+   0.46877,
+   0.71858
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Perhaps the main reason for the uniqueness of\nal-Sadu weaving is that it was never mass-pro-\nduced for export in the same way other carpets\nwere. Although it was traded among tribes, due\nto the length of time it takes to produce a tent,\nand due to its particular function in the harsh\nclimate of the desert, it was not replicable in\nother geographies. Al-Sadu weaving could not\nbe commercialized in the same way that other",
+  "page_idx": 0,
+  "bbox": [
+   0.09932,
+   0.73778,
+   0.49341,
+   0.90139
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.51219,
+   0.07516,
+   0.89748,
+   0.23744
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 8.8 Symbol of stars in contemporary al-Sadu\nweaving by Leila Yaser.",
+  "page_idx": 0,
+  "bbox": [
+   0.50641,
+   0.24745,
+   0.8551,
+   0.27748
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "objects-such as kilims, clothes, bags, blankets,\nand tablecloths-were in other parts of the\nworld. Therefore, although the weaving practice\nand the symbols used may have changed, they\ndid not change as much as in other textiles, so\nexamining the symbols embedded in these weav-\nings may yield a wealth of information about the\nlife of local populations. In the absence of writ-\nten records, al-Sadu weavings become, thus, re-\ncords of memories embodied in a thing.",
+  "page_idx": 0,
+  "bbox": [
+   0.50891,
+   0.29754,
+   0.90096,
+   0.48193
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The natural environment of the nomadic tribe\ncan be seen in al-Sadu designs, which contain\nsymbols that reflect astronomical elements and\nthe desert environment.24 Quite frequently, al-\nSadu symbols indicate constellations and stars\n(fig. 8.8). 25 In the vast sky of the pre-electric desert,\nthe stars, the moon, and the sun had a great signifi-\ncance, being the main sources of orientation. It is\nimportant to note that, currently, the weavers in\nKuwait explain these symbols simply as \"stars,\"",
+  "page_idx": 0,
+  "bbox": [
+   0.50641,
+   0.4843,
+   0.90096,
+   0.66554
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "24 For more details on the symbols that appear in al-Sadu\nweavings, see also Altaf Salem Al-Ali Al-Sabah, Ibjad:\nOrnate Tent Dividers and Weavings of the Kuwait Desert\n(Kuwait: Al Sadu Society, 2006); Khawla Mohamed Ab-\ndel and Aziez Al Manai, Al Sadu (Doha: National Mu-\nseum of Qatar, 2013); and Ali S. Alnajadah, \"The Picto-\ngraphic Codes in Al-Sadu Weavings of Kuwait,\"\nInternational Design Journal 8, no. 3 (2018): 63-74. In\nthis latter study, Alnajadah tracks changes in the mean-\nings of some al-Sadu symbols.\n25 Khawlah M. Manna, Al-Sadu in Qatar: Traditional Tech-\nnical Values and Techniques (Doha: Qatar Museums\nAuthority, Qatar National Museum, 2013), 99-100.",
+  "page_idx": 0,
+  "bbox": [
+   0.50891,
+   0.69269,
+   0.90413,
+   0.90239
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

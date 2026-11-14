@@ -1,0 +1,146 @@
+[
+ {
+  "type": "text",
+  "text": "4\nBasis Fields",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14055,
+   0.08639,
+   0.37313,
+   0.15278
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "A vector field may be written as a linear combination of basis\nvector fields. If n is the dimension, then any set of n linearly\nindependent vector fields may be used as a basis. The coordinate\nbasis X is an example of a basis.1 We will see later that not every\nbasis is a coordinate basis: in order to be a coordinate basis,\nthere must be a coordinate system such that each basis element is\nthe directional derivative operator in a corresponding coordinate\ndirection.",
+  "page_idx": 0,
+  "bbox": [
+   0.13748,
+   0.18395,
+   0.86366,
+   0.34137
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Let e be a tuple of basis vector fields, such as the coordinate\nbasis X. The general vector field v applied to an arbitrary manifold\nfunction f can be expressed as a linear combination",
+  "page_idx": 0,
+  "bbox": [
+   0.13748,
+   0.34418,
+   0.86366,
+   0.40315
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\mathrm{v}(\\mathrm{f})(\\mathrm{m})=\\mathrm{e}(\\mathrm{f})(\\mathrm{m})\\mathrm{b}(\\mathrm{m})=\\sum_i\\mathrm{e}_i(\\mathrm{f})(\\mathrm{m})\\mathrm{b}^i(\\mathrm{~m})\\text{,}",
+  "page_idx": 0,
+  "bbox": [
+   0.13954,
+   0.41739,
+   0.62968,
+   0.45726
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(4.1)",
+  "page_idx": 0,
+  "bbox": [
+   0.80925,
+   0.42238,
+   0.85828,
+   0.44144
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "where b is a tuple-valued coefficient function on the manifold.\nWhen expressed in a coordinate basis, the coefficients that specify\nthe direction of the vector are naturally expressed as functions\nbi of the coordinates of the manifold point. Here, the coefficient\nfunction b is more naturally expressed as a tuple-valued function\non the manifold. If b is the coefficient function expressed as a\nfunction of coordinates, then b = b ○ X is the coefficient function\nas a function on the manifold.",
+  "page_idx": 0,
+  "bbox": [
+   0.13748,
+   0.47219,
+   0.86366,
+   0.62961
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The coordinate-basis forms have a simple definition in terms of\nthe coordinate-basis vectors and the coordinates (equation 3.40).\nWith this choice, the dual property, equation (3.41), holds without\nfurther fuss. More generally, we can define a basis of one-forms e\nthat is dual to e in that the property",
+  "page_idx": 0,
+  "bbox": [
+   0.13748,
+   0.62961,
+   0.86366,
+   0.73155
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\tilde{\\mathbf{e}}^i\\left(\\mathbf{e}_j\\right)(\\mathrm{m})=\\delta_j^i",
+  "page_idx": 0,
+  "bbox": [
+   0.13954,
+   0.74352,
+   0.29697,
+   0.76942
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(4.2)",
+  "page_idx": 0,
+  "bbox": [
+   0.80925,
+   0.74667,
+   0.85828,
+   0.76573
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "is satisfied, analogous to property (3.41). Figure 4.1 illustrates\nthe duality of basis fields.",
+  "page_idx": 0,
+  "bbox": [
+   0.13748,
+   0.78293,
+   0.86366,
+   0.82174
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1We cannot say if the basis vectors are orthogonal or normalized until we\nintroduce a metric.",
+  "page_idx": 0,
+  "bbox": [
+   0.13748,
+   0.84695,
+   0.86366,
+   0.87915
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

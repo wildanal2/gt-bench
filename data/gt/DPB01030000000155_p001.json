@@ -1,0 +1,29 @@
+[
+ {
+  "type": "text",
+  "text": "Contents",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14384,
+   0.10153,
+   0.36179,
+   0.12994
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. Front Matter 1\n2. Introduction to Researching Wicked Problems 3\n3. Our Mental Shortcuts 13\n4. Identifying a Topic 25\n5. Types of Sources 38\n6. Access & Searching 55\n7. SIFTing Information 67\n8. Evaluating News Sources 80\n9. Audience, Presentation & Citation 88\nInstructor Resources 97",
+  "page_idx": 0,
+  "bbox": [
+   0.16988,
+   0.23657,
+   0.86507,
+   0.52038
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ }
+]

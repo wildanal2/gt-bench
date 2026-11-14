@@ -1,0 +1,150 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "APBN 2025: Kebijakan Fiskal yang Adaptif Menjaga Stabilitas dan Mendukung Agenda Prioritas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul artikel, enam baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah dinamika global yang bergerak cepat dan fluktuasi harga komoditas, APBN 2025 memainkan peran strategis sebagai instrumen kebijakan yang adaptif.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; lead artikel"
+ },
+ {
+  "type": "text",
+  "text": "Kebijakan fiskal diarahkan untuk menjaga stabilitas ekonomi nasional, melindungi masyarakat dari dampak dinamika global, serta memastikan agenda prioritas pemerintahan dapat berjalan secara efektif, tanpa mengorbankan disiplin dan kredibilitas fiskal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; lead artikel; spasi ganda diringkas"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>URAIAN (dalam Triliun Rupiah)</th><th>LKPP 2024 (Audited)</th><th>APBN 2025</th><th>OUTLOOK (Lapsem 2025)</th><th>REALISASI (Des 2025)</th><th>% thd APBN</th></tr><tr><td>PENDAPATAN NEGARA</td><td>2.850,6</td><td>3.005,1</td><td>2.865,5</td><td>2.756,3</td><td>91,7</td></tr><tr><td>PENERIMAAN PERPAJAKAN</td><td>2.231,8</td><td>2.490,9</td><td>2.387,3</td><td>2.217,9</td><td>89,0</td></tr><tr><td>Penerimaan Pajak</td><td>1.931,6</td><td>2.189,3</td><td>2.076,9</td><td>1.917,6</td><td>87,6</td></tr><tr><td>Penerimaan Kepabeanan dan Cukai</td><td>300,2</td><td>301,6</td><td>310,4</td><td>300,3</td><td>99,6</td></tr><tr><td>PENERIMAAN NEGARA BUKAN PAJAK</td><td>584,4</td><td>513,6</td><td>477,2</td><td>534,1</td><td>104,0</td></tr><tr><td>PENERIMAAN HIBAH</td><td>34,4</td><td>0,6</td><td>1,0</td><td>4,3</td><td>733,3</td></tr><tr><td>BELANJA NEGARA</td><td>3.359,8</td><td>3.621,3</td><td>3.527,5</td><td>3.451,4</td><td>95,3</td></tr><tr><td>BELANJA PEMERINTAH PUSAT</td><td>2.496,2</td><td>2.701,4</td><td>2.663,4</td><td>2.602,3</td><td>96,3</td></tr><tr><td>Belanja K/L</td><td>1.324,0</td><td>1.160,1</td><td>1.275,6</td><td>1.500,4</td><td>129,3</td></tr><tr><td>Belanja non-K/L</td><td>1.172,2</td><td>1,541,4</td><td>1.387,8</td><td>1.102,0</td><td>71,5</td></tr><tr><td>TRANSFER KE DAERAH</td><td>863,5</td><td>919,9</td><td>864,1</td><td>849,0</td><td>92,3</td></tr><tr><td>KESEIMBANGAN PRIMER</td><td>(20,7)</td><td>(63,3)</td><td>(109,9)</td><td>(180,7)</td><td>285,3</td></tr><tr><td>DEFISIT ANGGARAN</td><td>(509,2)</td><td>(616,2)</td><td>(662,0)</td><td>(695,1)</td><td>112,8</td></tr><tr><td>% Defisit terhadap PDB</td><td>(2,30)</td><td>(2,53)</td><td>(2,78)</td><td>(2,92)</td><td></td></tr><tr><td>PEMBIAYAAN ANGGARAN</td><td>554,9</td><td>616,2</td><td>662,0</td><td>744,0</td><td>120,8</td></tr><tr><td>SiLPA/(SiKPA)</td><td>45,7</td><td>-</td><td>-</td><td>48,9</td><td></td></tr></table>",
+  "table_caption": "Realisasi Sementara APBN hingga 31 Desember 2025\nRealisasi sementara, masih terdapat potensi tambahan pendapatan negara dan belanja",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tabel berupa gambar (tanpa lapisan teks); judul dan subjudul tercetak di atas tabel dimasukkan ke table_caption; 'OUTLOOK' italic; '1,541,4' (APBN Belanja non-K/L) tercetak dengan koma sebagai pemisah ribuan, ditulis sesuai cetakan; penjumlahan cocok dalam batas pembulatan (selisih 0,1 di beberapa subtotal); 733,3 (Hibah) tidak sama dengan 4,3/0,6 karena pembulatan angka dasar, sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Hingga 31 Desember 2025, realisasi sementara menunjukkan APBN 2025 adaptif dan dikelola secara hati-hati. Sejalan dengan dinamika pelaksanaan kebijakan dan upaya menjaga momentum perekonomian, realisasi sementara defisit APBN tercatat sebesar Rp695,1 triliun, tetap terkendali dalam batas aman sebesar 2,92 persen terhadap PDB dengan defisit keseimbangan primer sebesar Rp180,7 triliun. Defisit APBN dipenuhi dengan pembiayaan utang yang efisien dan manageable, serta pembiayaan non-utang yang diarahkan semakin produktif.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; drop cap 'H' digabung dengan 'ingga'; kata ulang 'hati-/hati' ditulis utuh; italic: manageable"
+ },
+ {
+  "type": "text",
+  "text": "Pendapatan negara mencapai Rp2.756,3 triliun, dengan penerimaan perpajakan tetap menjadi kontributor utama. Belanja negara mencapai Rp3.451,4 triliun dan terus ditingkatkan efisiensinya, sehingga program-program prioritas dapat dijalankan dengan baik dan memberikan dampak nyata terhadap kesejahteraan rakyat serta menjaga momentum pertumbuhan ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah terus mengoptimalkan peran APBN untuk mempercepat pertumbuhan ekonomi, sekaligus menjalankan fungsi shock absorber dalam melindungi daya beli masyarakat dan menjaga stabilitas perekonomian nasional.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; italic: shock absorber"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah juga berkomitmen melanjutkan berbagai langkah reformasi untuk meningkatkan kualitas pengelolaan APBN melalui penguatan pendapatan negara (collecting more), belanja yang semakin efektif dan berorientasi hasil (spending better), serta pembiayaan yang efisien dan berkelanjutan (efficient and sustainable financing).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: collecting more, spending better, efficient and sustainable financing"
+ },
+ {
+  "type": "text",
+  "text": "Pendapatan Negara Terjaga di Tengah Kondisi yang Menantang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold)"
+ },
+ {
+  "type": "text",
+  "text": "Pendapatan negara sepanjang 2025 dihadapkan pada tantangan yang tidak ringan, terutama akibat moderasi harga komoditas dan gejolak global. Meski demikian, secara keseluruhan kinerja pendapatan negara tetap terjaga",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanpa titik akhir sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Hingga akhir 2025, pendapatan negara terealisasi sebesar Rp2.756,3 triliun, antara lain terdiri dari penerimaan perpajakan sebesar Rp2.217,9 triliun (89,0 persen dari APBN) dan Penerimaan Negara Bukan Pajak (PNBP) sebesar Rp534,1 triliun (104,0 persen dari APBN).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Penerimaan pajak bruto mencapai Rp2.278,8 triliun, tumbuh 3,7 persen (yoy). Sementara secara neto, penerimaan pajak terealisasi sebesar Rp1.917,6 triliun, sedikit lebih rendah dibandingkan tahun sebelumnya, dipengaruhi oleh moderasi harga komoditas dan peningkatan restitusi sebagai konsekuensi relaksasi kebijakan dan percepatan pemeriksaan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kinerja penerimaan pajak menunjukkan perbaikan yang signifikan pada Semester II (turnaround), setelah tekanan pada Triwulan I. Perbaikan ini didukung oleh menguatnya aktivitas ekonomi, peningkatan kepatuhan wajib pajak, serta penguatan pengawasan dan penegakan hukum.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: turnaround"
+ },
+ {
+  "type": "text",
+  "text": "Dari sisi sektoral, penerimaan pajak sektor utama seperti industri pengolahan, perdagangan, serta keuangan dan asuransi menunjukkan pemulihan pada triwulan akhir seiring membaiknya permintaan domestik dan stabilitas sektor keuangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda diringkas"
+ }
+]

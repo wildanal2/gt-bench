@@ -1,0 +1,125 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kami berfokus pada area ini karena besarnya nilai tercatat atas kredit yang diberikan, yang mewakili 62% dari jumlah aset konsolidasian pada tanggal 31 Desember 2024, dan besarnya nilai cadangan kerugian penurunan nilai yang dibentuk atas kredit yang diberikan tersebut. Dalam menentukan KKE, Grup mengadopsi model yang kompleks, menggunakan sejumlah parameter, mengandalkan input data internal dan eksternal, menerapkan pertimbangan dan asumsi yang signifikan dan melibatkan penggunaan estimasi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; paragraf baru (bukan sambungan kalimat) di bawah butir hal audit utama 1 dari halaman sebelumnya"
+ },
+ {
+  "type": "text",
+  "text": "Untuk kredit yang diberikan, yang secara individual tidak dianggap signifikan, Grup menghitung KKE secara kolektif menggunakan model parameter risiko yang menggunakan beberapa parameter utama, termasuk Probability of Default (“PD”), Loss Given Default (“LGD”), Exposure at Default (“EAD”), tingkat diskonto, beberapa skenario probabilitas tertimbang dan penyesuaian overlay KKE, setelah memperhitungkan faktor prakiraan masa depan dan data eksternal lainnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: Probability of Default, Loss Given Default, Exposure at Default, overlay"
+ },
+ {
+  "type": "text",
+  "text": "Untuk kredit yang diberikan yang mengalami penurunan nilai, yang secara individual dianggap signifikan, Grup menghitung KKE secara individual dengan mengestimasi arus kas ekspektasian yang akan diperoleh dari kredit, termasuk nilai penjualan agunan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Bagaimana audit kami merespons Hal Audit Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul tebal di bawah butir hal audit utama",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Kami telah melakukan prosedur berikut untuk merespons hal audit utama ini:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kami memperoleh pemahaman dan menilai desain dan efektivitas dari pengendalian utama yang berkaitan dengan proses perhitungan KKE dan melakukan pengujian pengendalian terhadap proses kredit rating internal secara uji petik;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "Kami menguji akurasi klasifikasi staging, secara uji petik, dan menguji beberapa parameter utama termasuk PD, LGD dan EAD yang digunakan dalam model KKE. Untuk kredit yang diberikan dengan KKE yang dihitung secara individual, kami melakukan reviu kredit, secara uji petik, dengan melakukan pengujian atas estimasi arus kas masa depan untuk menilai kecukupan KKE;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat; italic: staging"
+ },
+ {
+  "type": "text",
+  "text": "Kami melibatkan pakar permodelan kredit kami untuk melakukan penilaian atas metodologi statistik yang diaplikasikan manajemen dalam mengembangkan PD dan LGD model prakiraan masa depan yang digunakan dalam perhitungan KKE;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "Kami menguji data historis dan prakiraan ekonomi makro yang digunakan di model KKE dengan membandingkan data tersebut dengan informasi yang tersedia untuk umum tentang prospek ekonomi makro; dan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "Kami melibatkan spesialis TI kami untuk menguji kelengkapan transfer data dari sistem asal ke sistem KKE dan menguji akurasi KKE atas kredit yang diberikan dengan melakukan perhitungan matematis ulang secara independen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bulat"
+ },
+ {
+  "type": "text",
+  "text": "2. Pengoperasian dan pengendalian atas sistem Teknologi Informasi (“TI”) pelaporan keuangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; subjudul bernomor (tebal); 2 baris digabung",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Grup sangat bergantung pada infrastruktur, sistem, dan pengendalian TI untuk operasi sehari-hari dan proses pelaporan keuangan bisnisnya. Lingkungan TI Grup dianggap kompleks karena jumlah sistem pelaporan keuangan utama dan perpindahan antar sistem. Mengingat faktor-faktor ini, kami menganggap pengoperasian dan pengendalian sistem TI pelaporan keuangan Grup sebagai hal audit utama.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "00015/2.1457/AU.1/07/0222-1/1/I/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan; 'I' dibaca angka Romawi"
+ }
+]

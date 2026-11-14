@@ -1,0 +1,52 @@
+[
+ {
+  "type": "text",
+  "text": "PT BANK CENTRAL ASIA Tbk DAN ENTITAS ANAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran 1/2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN POSISI KEUANGAN KONSOLIDASIAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\"></th><th rowspan=\"2\">Catatan</th><th colspan=\"2\">31 Desember</th></tr><tr><th>2024</th><th>2023</th></tr><tr><td>LIABILITAS, DANA SYIRKAH TEMPORER, DAN EKUITAS</td><td></td><td></td><td></td></tr><tr><td>LIABILITAS</td><td></td><td></td><td></td></tr><tr><td>Simpanan dari nasabah</td><td>2g,2v,19,37,40,43</td><td></td><td></td></tr><tr><td>Pihak berelasi</td><td>2ak,46</td><td>3.235.633</td><td>2.639.237</td></tr><tr><td>Pihak ketiga</td><td></td><td>1.117.378.034</td><td>1.088.127.570</td></tr><tr><td>Dana simpanan syariah</td><td>2g,2w</td><td>3.935.363</td><td>3.201.970</td></tr><tr><td>Simpanan dari bank-bank lain</td><td>2g,2v,19,37,40,43</td><td>3.656.298</td><td>10.070.820</td></tr><tr><td>Liabilitas keuangan yang diukur pada nilai wajar melalui laba rugi</td><td>2g,2k,8,37,40,43</td><td>257.613</td><td>122.765</td></tr><tr><td>Utang akseptasi</td><td>2g,2l,9,37,40,43</td><td>4.651.955</td><td>6.701.256</td></tr><tr><td>Efek-efek yang dijual dengan janji dibeli kembali</td><td>2g,2n, 14,37,40,43,47</td><td>1.330.996</td><td>1.054.780</td></tr><tr><td>Utang pajak</td><td>2ah,20b</td><td>626.355</td><td>1.727.910</td></tr><tr><td>Pinjaman yang diterima</td><td>2g,21,37,40,43,47</td><td>2.242.516</td><td>1.629.626</td></tr><tr><td>Estimasi kerugian komitmen dan kontinjensi</td><td>2g,2ab,22,40,43</td><td>2.975.187</td><td>3.371.674</td></tr><tr><td>Beban yang masih harus dibayar dan liabilitas lain-lain</td><td>2g,2ab,23,40,43</td><td>27.515.449</td><td>29.495.865</td></tr><tr><td>Liabilitas imbalan pasca-kerja</td><td>2ag,38</td><td>9.097.709</td><td>9.032.072</td></tr><tr><td>Obligasi subordinasi</td><td>2g,2z,24,37,43,47</td><td>500.000</td><td>500.000</td></tr><tr><td>JUMLAH LIABILITAS</td><td></td><td>1.177.403.108</td><td>1.157.675.545</td></tr><tr><td>DANA SYIRKAH TEMPORER</td><td>2x</td><td>9.063.133</td><td>7.893.872</td></tr><tr><td>EKUITAS</td><td></td><td></td><td></td></tr><tr><td>Ekuitas yang dapat diatribusikan kepada pemilik entitas induk</td><td></td><td></td><td></td></tr><tr><td>Modal saham - nilai nominal Rp 12,50 (nilai penuh) per lembar saham Modal dasar: 440.000.000.000 lembar saham Modal ditempatkan dan disetor penuh: 123.275.050.000 lembar saham</td><td>1c,25</td><td>1.540.938</td><td>1.540.938</td></tr><tr><td>Tambahan modal disetor</td><td>1c,2e,2ad,26</td><td>5.548.977</td><td>5.548.977</td></tr><tr><td>Surplus revaluasi aset tetap</td><td>2s,16</td><td>11.138.896</td><td>10.936.462</td></tr><tr><td>Selisih kurs karena penjabaran laporan keuangan dalam valuta asing</td><td>2f</td><td>457.789</td><td>422.502</td></tr><tr><td>Keuntungan (kerugian) yang belum direalisasi atas aset keuangan yang diukur pada nilai wajar melalui penghasilan komprehensif lain - bersih</td><td>2g,2r,7,14</td><td>273.214</td><td>948.627</td></tr><tr><td>Saldo laba</td><td></td><td></td><td></td></tr><tr><td>Telah ditentukan penggunaannya</td><td>36</td><td>3.720.540</td><td>3.234.149</td></tr><tr><td>Belum ditentukan penggunaannya</td><td>2ag</td><td>239.958.882</td><td>219.723.216</td></tr><tr><td>Komponen ekuitas lainnya</td><td>2e</td><td>1.385</td><td>1.385</td></tr><tr><td>Jumlah ekuitas yang dapat diatribusikan kepada pemilik entitas induk</td><td></td><td>262.640.621</td><td>242.356.256</td></tr><tr><td>Kepentingan non-pengendali</td><td>1d,2e,45</td><td>194.466</td><td>181.337</td></tr><tr><td>JUMLAH EKUITAS</td><td></td><td>262.835.087</td><td>242.537.593</td></tr><tr><td>JUMLAH LIABILITAS, DANA SYIRKAH TEMPORER DAN EKUITAS</td><td></td><td>1.449.301.328</td><td>1.408.107.010</td></tr></table>",
+  "table_caption": "(Dalam jutaan Rupiah, kecuali dinyatakan lain)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; kolom label tanpa header (th kosong rowspan=2); Catatan rowspan=2, '31 Desember' colspan=2; baris seksi/induk sel nilai kosong; label Modal saham (5 baris: nominal, Modal dasar, Modal ditempatkan) digabung satu sel karena nilai hanya di baris terakhir; Catatan Efek-efek yang dijual (2 baris) digabung spasi; indentasi tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan konsolidasian merupakan bagian yang tidak terpisahkan dari laporan keuangan konsolidasian secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer berjalan 2 baris digabung (kalimat yang sama di tiap halaman laporan)"
+ }
+]

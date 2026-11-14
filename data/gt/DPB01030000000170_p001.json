@@ -1,0 +1,134 @@
+[
+ {
+  "type": "text",
+  "text": "cropping.",
+  "page_idx": 0,
+  "bbox": [
+   0.08847,
+   0.07546,
+   0.18272,
+   0.09574
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td></td><td>Contour Farming</td><td>Contour Farming</td><td>Contour Strip Cropping</td><td>Contour Strip Cropping</td><td>Contour Strip Cropping</td></tr><tr><td>Slope Gradient (%)</td><td>Max Slope Length (ft)</td><td>P Value</td><td>Strip Width (ft)</td><td>P Value, RGMM</td><td>P Value, RRGM</td></tr><tr><td>1- 2</td><td>400</td><td>0.6</td><td>130</td><td>0.30</td><td>0.45</td></tr><tr><td>3 - 5</td><td>300</td><td>0.5</td><td>100</td><td>0.25</td><td>0.38</td></tr><tr><td>6 - 8</td><td>200</td><td>0.5</td><td>100</td><td>0.25</td><td>0.38</td></tr><tr><td>9 - 12</td><td>120</td><td>0.6</td><td>80</td><td>0.30</td><td>0.45</td></tr><tr><td>13 - 16</td><td>100</td><td>0.7</td><td>80</td><td>0.35</td><td>0.52</td></tr><tr><td>17 - 20</td><td>100</td><td>0.8</td><td>60</td><td>0.40</td><td>0.60</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.08609,
+   0.11603,
+   0.91164,
+   0.31146
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table adapted from Jones et al. (1988) with permission. †Strip cropping uses a four-year rotation of row crop followed\nby one year of a small grain and two years of meadow (forages) for RGMM, or uses two years of row crops followed by\none year of small grain and one year of meadow for RRGM. Meadow includes alfalfa, clover, grass, etc.",
+  "page_idx": 0,
+  "bbox": [
+   0.08847,
+   0.32437,
+   0.91045,
+   0.37599
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "How does the erosion rate under contour tillage compare to the tolerable erosion rate?",
+  "page_idx": 0,
+  "bbox": [
+   0.14574,
+   0.3889,
+   0.74939,
+   0.40457
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "How does the erosion rate under contour tillage compare to the erosion rate under conservation tillage alone?",
+  "page_idx": 0,
+  "bbox": [
+   0.14574,
+   0.44697,
+   0.90687,
+   0.46449
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Next we will test the impact of installing terraces on the landscape. Using Table 16.5, determine the Pt factor. When\nterraces are installed, contour tillage is usually used as well. Also, note that installing a terrace results in a shorter length\nof the slope (because the terrace stops water from continuing to run down slope), so this calculation is performed for\neach terrace individually. Also note that the net P factor is determined by multiplying the\nPc and Pt values together, or writing the RUSLE as follows:",
+  "page_idx": 0,
+  "bbox": [
+   0.08728,
+   0.50413,
+   0.91045,
+   0.59078
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\mathrm{~A}4=\\mathrm{R}\\times\\mathrm{K}\\times\\mathrm{LS}\\times\\mathrm{Pc}\\times\\mathrm{Pt}",
+  "page_idx": 0,
+  "bbox": [
+   0.13739,
+   0.60277,
+   0.42967,
+   0.62858
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "Table 16.5. Conservation practice (P) values for terraces with underground outlets or\nwaterways.",
+  "page_idx": 0,
+  "bbox": [
+   0.08609,
+   0.66084,
+   0.87943,
+   0.7097
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Terrace Interval</td><td>Underground Outlets</td><td>Waterways with percent grade of:</td><td></td><td></td></tr><tr><td>(ft)</td><td></td><td>0.1-0.3</td><td>0.4-0.7</td><td>0.8</td></tr><tr><td></td><td>Pt Values</td><td>Pt Values</td><td>Pt Values</td><td>Pt Values</td></tr><tr><td><110</td><td>0.5</td><td>0.6</td><td>0.7</td><td>1.0</td></tr><tr><td>110-140</td><td>0.6</td><td>0.7</td><td>0.8</td><td>1.0</td></tr><tr><td>140-180</td><td>0.7</td><td>0.8</td><td>0.9</td><td>1.0</td></tr><tr><td>180-225</td><td>0.8</td><td>0.8</td><td>0.9</td><td>1.0</td></tr><tr><td>225-300</td><td>0.9</td><td>0.9</td><td>1.0</td><td>1.0</td></tr><tr><td>300+</td><td>1.0</td><td>1.0</td><td>1.0</td><td>1.0</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.08728,
+   0.72814,
+   0.71599,
+   0.92081
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "146 | Soil Erosion and Conservation",
+  "page_idx": 0,
+  "bbox": [
+   0.08609,
+   0.93832,
+   0.31633,
+   0.95492
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

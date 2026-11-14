@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "The original financial statements included herein are in Indonesian language.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama entitas di atas judul laporan; berulang tiap halaman laporan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN POSISI KEUANGAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "STATEMENTS OF FINANCIAL POSITION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DECEMBER 2024 AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan/ Notes</th><th>2024</th><th>2023</th><th></th></tr><tr><td>ASET (lanjutan)</td><td></td><td></td><td></td><td>ASSETS (continued)</td></tr><tr><td>Pindahan</td><td></td><td>183.941.490</td><td>204.276.155</td><td>Brought forward</td></tr><tr><td>EFEK-EFEK UNTUK TUJUAN INVESTASI - setelah dikurangi cadangan kerugian penurunan nilai sebesar Rp35.696 pada 31 Desember 2024 (2023: Rp36.096)</td><td>2h,2o,2t, 13,40,43</td><td></td><td></td><td>INVESTMENT SECURITIES - net of allowance for impairment losses of Rp35,696 at 31 December 2024 (2023: Rp36,096)</td></tr><tr><td>Pihak ketiga</td><td></td><td>64.197.891</td><td>41.564.592</td><td>Third parties</td></tr><tr><td>INVESTASI PADA ENTITAS ASOSIASI</td><td>2f,2g,14,42</td><td>-</td><td>104.019</td><td>INVESTMENT IN ASSOCIATE</td></tr><tr><td>PAJAK DIBAYAR DIMUKA</td><td>23a,51</td><td>522.257</td><td>188.387</td><td>PREPAID TAXES</td></tr><tr><td>ASET TETAP - setelah dikurangi akumulasi penyusutan sebesar Rp1.232.213 pada 31 Desember 2024 (2023: Rp1.102.070)</td><td>2p,2t,2af, 15</td><td>3.556.898</td><td>3.491.943</td><td>FIXED ASSETS - net of accumulated depreciation of Rp1,232,213 at 31 December 2024 (2023: Rp1,102,070)</td></tr><tr><td>ASET TAKBERWUJUD - setelah dikurangi akumulasi amortisasi sebesar Rp207.819 pada 31 Desember 2024 (2023: Rp177.076)</td><td>2q,2t,16</td><td>1.282.172</td><td>939.389</td><td>INTANGIBLE ASSETS - net of accumulated amortisation of Rp207,819 at 31 December 2024 (2023: Rp177,076)</td></tr><tr><td>ASET PAJAK TANGGUHAN - bersih</td><td>2r,23h</td><td>1.989.274</td><td>2.348.039</td><td>DEFERRED TAX ASSETS - net</td></tr><tr><td>ASET LAIN-LAIN - bersih</td><td>2h,2s,2t,17, 40,43,51</td><td>3.577.521</td><td>4.531.623</td><td>OTHER ASSETS - net</td></tr><tr><td>JUMLAH ASET</td><td></td><td>259.067.503</td><td>257.444.147</td><td>TOTAL ASSETS</td></tr></table>",
+  "table_caption": "(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan secara khusus)\n(Expressed in millions of Rupiah, unless otherwise stated)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual; kolom 1 label ID, kolom 5 label EN (berpasangan per baris); header kolom label kosong; label/catatan multi-baris dalam satu sel digabung spasi; baris seksi diberi sel nilai kosong"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan merupakan bagian yang tidak terpisahkan dari laporan keuangan secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "The accompanying notes to financial statements form an integral part of these financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran - 1/2 - Schedule",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

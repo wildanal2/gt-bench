@@ -1,0 +1,125 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kami juga memberikan suatu pernyataan kepada pihak yang bertanggung jawab atas tata kelola bahwa kami telah mematuhi ketentuan etika yang relevan mengenai independensi, dan mengomunikasikan seluruh hubungan serta hal-hal lain yang dianggap secara wajar berpengaruh terhadap independensi kami, dan jika relevan, pengamanan terkait.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "We also provide those charged with governance with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Dari hal-hal yang dikomunikasikan kepada pihak yang bertanggung jawab atas tata kelola, kami menentukan hal-hal tersebut yang paling signifikan dalam audit atas laporan keuangan periode kini dan oleh karenanya menjadi hal audit utama. Kami menguraikan hal audit utama dalam laporan auditor kami kecuali peraturan perundang-undangan melarang pengungkapan publik tentang hal tersebut atau ketika, dalam kondisi yang sangat jarang terjadi, kami menentukan bahwa suatu hal tidak boleh dikomunikasikan dalam laporan kami karena konsekuensi merugikan dari mengomunikasikan hal tersebut akan diekspektasikan secara wajar melebihi manfaat kepentingan publik atas komunikasi tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "From the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditors’ report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh the public interest benefits of such communication.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "JAKARTA, 14 Februari/February 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tempat dan tanggal; 2 baris digabung"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan"
+ },
+ {
+  "type": "text",
+  "text": "Eddy Rintis, S.E., CPA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Izin Akuntan Publik/Public Accountant License No. AP.0230",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; kode QR tanda tangan elektronik dengan logo pwc di tengah"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo di dalam kode QR"
+ },
+ {
+  "type": "text",
+  "text": "Bank Permata Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks kecil di bawah kode QR"
+ },
+ {
+  "type": "text",
+  "text": "00052/2.1457/AU.1/07/0230-1/1/II/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks kecil di bawah kode QR; dicek: cetakan sangat kecil dan buram, tanda / dan . dibaca dari pola nomor laporan"
+ },
+ {
+  "type": "text",
+  "text": "00052/2.1457/AU.1/07/0230-1/1/II/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan auditor; angka romawi II (lapisan teks OCR: ll)"
+ }
+]

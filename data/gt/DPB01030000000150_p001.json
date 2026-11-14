@@ -1,0 +1,82 @@
+[
+ {
+  "type": "text",
+  "text": "ECO\nCircle",
+  "page_idx": 0,
+  "bbox": [
+   0.03877,
+   0.03046,
+   0.12786,
+   0.07141
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Co-funded by\nthe European Union",
+  "page_idx": 0,
+  "bbox": [
+   0.7614,
+   0.03046,
+   0.91406,
+   0.05703
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "6. ECO CIRCLE COMPETENCE FRAMEWORK",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.1428,
+   0.15566,
+   0.69191,
+   0.17296
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Competence Area</td><td>#1 THE 3 Rs: RECYCLE-REUSE-REDUCE</td></tr><tr><td>Competence Statement</td><td>To know the basics of the 3 Rs and their importance and implementation into daily life in relation to green entrepreneurship and circular economy.</td></tr><tr><td colspan=\"2\">Learning Outcomes</td></tr><tr><td>Knowledge</td><td>· To understand the meaning of reducing, reusing and recycling and how they connect · To understand the importance of the 3 Rs as waste management · To be familiar with the expansion of the 3 Rs - the 7 Rs</td></tr><tr><td>Skills</td><td>· To implement different ways of waste management into daily life · To properly implement recycling in day-to-day activities · To promote reducing and reusing before recycling</td></tr><tr><td>Attitudes and Values</td><td>· To acquire a proactive approach to implementing the 3 Rs into daily personal life · To educate others on the importance of sustainable waste management</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11751,
+   0.21872,
+   0.87696,
+   0.71913
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "This project has been funded with the support of the European Commission. This publication reflects the views only of the author\nand the Commission cannot be held responsible for any use which may be made of the information contained therein.",
+  "page_idx": 0,
+  "bbox": [
+   0.15055,
+   0.904,
+   0.86076,
+   0.92744
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Project No: : 2021-2-FR02-KA220-YOU-000048126",
+  "page_idx": 0,
+  "bbox": [
+   0.36658,
+   0.93906,
+   0.64546,
+   0.94977
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

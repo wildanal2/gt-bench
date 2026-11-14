@@ -1,0 +1,94 @@
+[
+ {
+  "type": "text",
+  "text": "Figure 4.2. Operating Capacity under the FIT Scheme",
+  "page_idx": 0,
+  "bbox": [
+   0.27371,
+   0.10318,
+   0.67805,
+   0.11701
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.15098,
+   0.12414,
+   0.80541,
+   0.30946
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "FIT = feed-in-tariff.\nSource: METI (2021a).",
+  "page_idx": 0,
+  "bbox": [
+   0.14175,
+   0.31922,
+   0.27818,
+   0.34592
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The newly approved capacity has stagnated lately because some strict measures reduced\nthe accumulated idle capacity in the revised FIT Act of 2017. For instance, developers are\nrequired to have entered into the grid connection agreement with a utility company for\nan FIT approval and to submit a business plan for assessment of feasibility and\nsustainability. As a result, the approved biomass power capacity is about 160MW on\naverage in FY2018 and FY2019.",
+  "page_idx": 0,
+  "bbox": [
+   0.14175,
+   0.37652,
+   0.81121,
+   0.48273
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "A recent change in the FIT scheme is that new projects of biomass co-firing with coal in\nthe category of unutilised wood, general wood, and construction wood waste are no\nlonger eligible for the FIT scheme from FY2019.4 The data collected after implementation\nof the FIT scheme revealed that the generation costs of these biomass co-firing with coal\nare lower than the estimated costs of conventional biomass power plants in terms of\ncapital expenditures, operation and maintenance, and fuels. Hence, biomass co-firing\nwith coal does not have a rationale to receive support through the FIT scheme since it\ncould make profits without it. For reference, Figure 4.3 illustrates a biomass co-firing ratio\nof the major power utilities' coal-fired power plants. Nearly half of the coal-fired power\nplants co-combusted biomass in FY2019 and most of them are less than 1% ratio of\nbiomass.",
+  "page_idx": 0,
+  "bbox": [
+   0.14175,
+   0.49469,
+   0.81121,
+   0.69043
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4 Biomass of waste materials co-firing with coal is not eligible for the FIT scheme from FY2021.",
+  "page_idx": 0,
+  "bbox": [
+   0.14175,
+   0.88518,
+   0.78174,
+   0.89897
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "31",
+  "page_idx": 0,
+  "bbox": [
+   0.46687,
+   0.94486,
+   0.48569,
+   0.95474
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,133 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Memperoleh bukti audit yang cukup dan tepat terkait informasi keuangan entitas atau aktivitas bisnis dalam Grup untuk menyatakan opini atas laporan keuangan konsolidasian. Kami bertanggung jawab atas arahan, supervisi dan pelaksanaan audit grup. Kami tetap bertanggung jawab sepenuhnya atas opini audit kami.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; scan tanpa lapisan teks; butir bullet (lanjutan daftar dari halaman sebelumnya)"
+ },
+ {
+  "type": "text",
+  "text": "Kami mengkomunikasikan kepada pihak yang bertanggung jawab atas tata kelola mengenai, antara lain, ruang lingkup dan saat yang direncanakan atas audit serta temuan audit signifikan, termasuk setiap defisiensi signifikan dalam pengendalian internal yang teridentifikasi oleh kami selama audit.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Kami juga memberikan suatu pernyataan kepada pihak yang bertanggung jawab atas tata kelola bahwa kami telah mematuhi ketentuan etika yang relevan mengenai independensi, dan mengkomunikasikan seluruh hubungan serta hal-hal lain yang dianggap secara wajar berpengaruh terhadap independensi kami, dan jika relevan, pengamanan terkait.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dari hal-hal yang dikomunikasikan kepada pihak yang bertanggung jawab atas tata kelola, kami menentukan hal-hal tersebut yang paling signifikan dalam audit atas laporan keuangan konsolidasian periode kini dan oleh karenanya menjadi hal audit utama. Kami menguraikan hal audit utama dalam laporan auditor kami kecuali peraturan perundang-undangan melarang pengungkapan publik tentang hal tersebut atau ketika, dalam kondisi yang sangat jarang terjadi, kami menentukan bahwa suatu hal tidak boleh dikomunikasikan dalam laporan kami karena konsekuensi merugikan dari mengkomunikasikan hal tersebut akan diekspektasikan secara wajar melebihi manfaat kepentingan publik atas komunikasi tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "JAKARTA,",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "22 Januari 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tanda_tangan"
+ },
+ {
+  "type": "text",
+  "text": "Drs. M. Jusuf Wibisana, M.Ec., CPA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bold"
+ },
+ {
+  "type": "text",
+  "text": "Izin Akuntan Publik No. AP.0222",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; kode QR dengan logo pwc di tengah"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo di tengah kode QR"
+ },
+ {
+  "type": "text",
+  "text": "Bank Central Asia Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks kecil di bawah kode QR"
+ },
+ {
+  "type": "text",
+  "text": "00015/2.1457/AU.1/07/0222-1/1/I/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; teks kecil di bawah kode QR; dicek: cetakan sangat kecil, titik tidak jelas terlihat (tampak 00015/2 1457/AU 1/07/...), dibaca sama dengan nomor referensi footer"
+ },
+ {
+  "type": "text",
+  "text": "00015/2.1457/AU.1/07/0222-1/1/I/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor referensi laporan; dicek: huruf setelah 1/1/ dibaca I (romawi), bisa juga l"
+ }
+]

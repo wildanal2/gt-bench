@@ -1,0 +1,123 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Danareksa",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Driving Growth and Shaping the Future through Sustainable Transformation and Strategic Synergy",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Mendorong Pertumbuhan dan Membentuk Masa Depan melalui Transformasi Berkelanjutan dan Sinergi Strategis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "Ikhtisar Keuangan Penting",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Key Financial Highlights",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Laba (Rugi) dan Penghasilan Komprehensif Konsolidasian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Consolidated Profit (Loss) and Comprehensive Income",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Uraian Description</th><th>2024</th><th>2023</th><th>2022</th></tr><tr><td>Pendapatan usaha Operating revenue</td><td>12.555.776</td><td>11.823.695</td><td>9.501.301</td></tr><tr><td>Beban pokok pendapatan Cost of revenue</td><td>(8.159.280)</td><td>(7.886.471)</td><td>(5.986.154)</td></tr><tr><td>Laba kotor Gross profit</td><td>4.396.496</td><td>3.937.224</td><td>3.515.147</td></tr><tr><td>Beban usaha Operating expense</td><td>(2.722.992)</td><td>(2.248.820)</td><td>(2.093.550)</td></tr><tr><td>Laba (rugi) sebelum pajak final dan pajak penghasilan Profit (loss) before final tax and income tax</td><td>1.981.751</td><td>1.703.464</td><td>1.421.597</td></tr><tr><td>Laba (rugi) sebelum manfaat (beban) pajak penghasilan Profit (loss) before income tax benefit (expense)</td><td>1.629.502</td><td>1.325.140</td><td>1.249.519</td></tr><tr><td>Laba setelah pajak penghasilan Profit After Income Tax</td><td>1.563.974</td><td>1.300.150</td><td>1.245.276</td></tr><tr><td>Jumlah laba tahun berjalan yang dapat diatribusikan kepada: Total income for the year attributable to:</td><td></td><td></td><td></td></tr><tr><td>Pemilik entitas induk Owner of the parent entity</td><td>1.092.316</td><td>933.600</td><td>683.454</td></tr><tr><td>Kepentingan non-pengendali Non-Controlling Interests</td><td>471.658</td><td>366.550</td><td>561.822</td></tr><tr><td>Penghasilan komprehensif lain Other comprehensive income</td><td>156.585</td><td>2.791.233</td><td>3.223.856</td></tr><tr><td>Total Penghasilan Komprehensif tahun Berjalan Total Comprehensive Income for the Year</td><td>1.720.559</td><td>4.091.383</td><td>4.469.132</td></tr></table>",
+  "table_caption": "dalam Jutaan Rupiah\nIn million Rupiah",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual: label ID dan EN tercetak bertumpuk dua baris dalam satu sel, digabung satu spasi; header Uraian/Description bertumpuk digabung satu spasi; format angka titik ribuan disalin verbatim; baris 'Jumlah laba tahun berjalan ... kepada:' tanpa nilai diberi sel kosong"
+ },
+ {
+  "type": "text",
+  "text": "Posisi Keuangan Konsolidasian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Consolidated Financial Position",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Uraian Description</th><th>2024</th><th>2023</th><th>2022</th></tr><tr><td>Aset Assets</td><td></td><td></td><td></td></tr><tr><td>Aset Lancar Current Assets</td><td></td><td></td><td></td></tr><tr><td>Kas dan setara kas cash and cash equivalents</td><td>5.197.490</td><td>4.253.793</td><td>4.409.535</td></tr><tr><td>Saldo rekening anggota kliring Clearing member account balance</td><td>1.791.400</td><td>1.541.454</td><td>1.275.348</td></tr><tr><td>Investasi jangka pendek – bersih short-term investments - net</td><td>1.434.898</td><td>1.378.744</td><td>1.251.985</td></tr><tr><td>Piutang usaha – bersih Accounts receivable - net</td><td>3.884.479</td><td>3.343.461</td><td>2.459.440</td></tr></table>",
+  "table_caption": "dalam Jutaan Rupiah\nIn million Rupiah",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual: label ID dan EN tercetak bertumpuk dua baris dalam satu sel, digabung satu spasi; header Uraian/Description bertumpuk digabung satu spasi; format angka titik ribuan disalin verbatim; baris seksi (Aset, Aset Lancar) diberi sel nilai kosong; tabel berlanjut ke halaman berikutnya; tanda pisah '–' (en dash) di label ID dan '-' di label EN sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "34",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "PT Danareksa (Persero) I Laporan Tahunan 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; pemisah 'I' sesuai sumber"
+ }
+]

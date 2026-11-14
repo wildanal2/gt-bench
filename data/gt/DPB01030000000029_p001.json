@@ -1,0 +1,212 @@
+[
+ {
+  "type": "text",
+  "text": "Combinatorial Cosmology\nDOI: http://dx.doi.org/10.5772/intechopen.90696",
+  "page_idx": 0,
+  "bbox": [
+   0.14387,
+   0.02559,
+   0.49023,
+   0.05649
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "5. The dynamics",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.07355,
+   0.30906,
+   0.09154
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The next step is to construct a model for the dynamics. The idea, which essen-\ntially goes back to Boltzmann (see [12]), is that any given macro-state at any given\ntime is extremely likely to develop into a state with higher entropy at the next\nmoment of time, simply because there are so many more states with higher entropy\nthan with lower entropy (compare with (3)). The problem with this in the present\nsituation, however, is that this way of thinking in fact presupposes a preferred\ndirection of time. Otherwise, given that the dynamical laws are time symmetric,\nwhy can we not similarly argue that the entropy should also grow when we go\nbackward in time? (compare [9]).",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.10763,
+   0.85114,
+   0.25291
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "There have been many attempts to avoid this problem by looking for defects in\nthe symmetries. But my conclusion here is that we must actually accept Boltzmann's\nargument in both directions of time and hence we are led to the following:",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.25291,
+   0.85114,
+   0.30173
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Principle 1. At every moment of time t and for every state with entropy S, there\nare very many \"accessible states\" with higher entropy, both at the previous moment\nof time t - 1 and at the next one t + 1. On the other hand, the chance for finding\nsuch accessible states with lower entropy, both at times t - 1 and t + 1, is extremely\nsmall.",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.30173,
+   0.85114,
+   0.38082
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "This principle also implies a shift of perspective in the search for time's arrow.\nRather than trying to find the reason for the asymmetry, we must concentrate on\nunderstanding why we cannot observe the symmetric structure of the multiverse as\na whole.",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.38182,
+   0.85114,
+   0.44555
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "As still one more simplification, let us assume that the entropy can only change\nby ±1 during each unit of time. This assumption, however, has to be modified near\nthe endpoints (BB and BC) for the following reason: it is a very important aspect of\nthis approach to assume that physics during the first and last moments is very\ndifferent from the rest of the time, since at these moments quantum phenomena\ncan be expected to become global. To model this in a simple way, we can split the\nlife-span of our multiverse up into three parts:",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.44655,
+   0.85257,
+   0.56167
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "{\\left[-T_0,-T_1\\right]\\cup\\left[-T_1,T_1\\right]\\cup\\left[T_1,T_0\\right]\\text{.}}",
+  "page_idx": 0,
+  "bbox": [
+   0.36263,
+   0.57534,
+   0.63498,
+   0.5906
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(4)",
+  "page_idx": 0,
+  "bbox": [
+   0.80396,
+   0.5758,
+   0.82871,
+   0.58953
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Here the first and last parts may be called \"the extreme phases,\" which are\ncharacterized by the property that transition between very different states can be\npossible. During the \"normal phase\" in between on the other hand, physics is\nsupposed to behave more or less as we are used to.",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.6061,
+   0.83526,
+   0.67132
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "6. Modeling the dynamics",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14387,
+   0.70859,
+   0.4022,
+   0.72658
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "To construct a miniature multiverse for computational purposes, one can pro-\nceed as follows: first of all, in the very small multiverses studied here, the extreme\nphases will only last for one single unit of time. Also, for ease of notation, let us put\nT1 = m, so that the moments of time can in this context be denoted as",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.74123,
+   0.85167,
+   0.80573
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "-m-1,-m,-m+1,\\ldots,m-1,m,m+1\\text{.}",
+  "page_idx": 0,
+  "bbox": [
+   0.31336,
+   0.82107,
+   0.68232,
+   0.83633
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "(5)",
+  "page_idx": 0,
+  "bbox": [
+   0.80396,
+   0.82107,
+   0.82871,
+   0.8348
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The dynamics is specified by randomly choosing for each state at time t with\nentropy S, K edges to states at time t + 1 with entropy S + 1, and similarly K edges to\nstates at time t - 1 with entropy S + 1 (with obvious modifications at the end-\npoints). In this section, again to make everything as simple as possible, K will be set\nequal to 2. These random choices are in practice carried out by the random number",
+  "page_idx": 0,
+  "bbox": [
+   0.14521,
+   0.85187,
+   0.85167,
+   0.93365
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "313",
+  "page_idx": 0,
+  "bbox": [
+   0.14577,
+   0.9587,
+   0.17077,
+   0.96802
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

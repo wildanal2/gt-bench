@@ -1,0 +1,182 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "8",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Di sisi Transfer ke Daerah, realisasi hingga akhir Januari 2026 mencapai Rp95,3 triliun, mendorong belanja daerah yang lebih efektif, efisien, dan tepat sasaran. TKD terus dioptimalkan untuk mendukung pelayanan publik di daerah, termasuk dukungan gaji bagi 4,3 juta ASN Daerah, Bantuan Operasional Sekolah (BOS) untuk 42,3 juta peserta didik, Bantuan Operasional Penyelenggaraan Pendidikan (BOP) PAUD untuk 5,8 juta peserta didik, BOP Kesetaraan untuk 992 ribu peserta didik, serta tunjangan guru untuk 616 ribu guru.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Peningkatan penyaluran TKD pada awal tahun turut dipengaruhi kebijakan relaksasi bagi daerah terdampak bencana di Sumatera. Hingga 31 Januari 2026, realisasi penyaluran TKD untuk Aceh, Sumatera Utara, dan Sumatera Barat mencapai Rp9,8 triliun, dengan persentase penyaluran lebih tinggi dari rata-rata nasional. Hal ini disebabkan oleh percepatan penyaluran Tunjangan Profesi Guru (TPG) dan BOS. Realisasi Aceh relatif lebih rendah karena Dana Otonomi Khusus baru disalurkan pada awal Februari.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; infografis peta Sumatera dengan label per provinsi; judul tercetak di dalam gambar, dicatat sebagai teks in_figure"
+ },
+ {
+  "type": "text",
+  "text": "Realisasi Penyaluran TKD untuk Daerah Terdampak Bencana di Sumatera",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul infografis"
+ },
+ {
+  "type": "text",
+  "text": "Sumber: Kementerian Keuangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sumber"
+ },
+ {
+  "type": "text",
+  "text": "Se-Provinsi Aceh 19 Pemda Rp3,09 T (13% alokasi)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label peta (tiga baris)"
+ },
+ {
+  "type": "text",
+  "text": "Se-Provinsi Sumatera Utara 18 Pemda Rp4,14 T (17% alokasi)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label peta (tiga baris)"
+ },
+ {
+  "type": "text",
+  "text": "Se-Provinsi Sumatera Barat 17 Pemda Rp2,60 T (17% alokasi)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label peta (tiga baris); 3,09 + 4,14 + 2,60 = 9,83 cocok dengan Rp9,8 triliun di teks"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah juga menambahkan alokasi Rp10,65 triliun yang akan disalurkan bertahap selama tiga bulan untuk mendukung pemulihan ekonomi bagi daerah terdampak.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Langkah ini menegaskan komitmen APBN dalam mendukung penanganan bencana, tidak hanya melalui respons darurat, tetapi juga melalui dukungan fiskal berkelanjutan guna mempercepat pemulihan sosial dan ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto rapat pejabat Kementerian Keuangan; papan nama dan tulisan di layar terlalu kecil, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "Foto: Kementerian Keuangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kredit foto tercetak di atas foto"
+ },
+ {
+  "type": "text",
+  "text": "Stimulus Fiskal Ramadan–Idulfitri 2026 Perkuat Daya Beli dan Mobilitas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; judul artikel di kotak; 'Ramadan–' di akhir baris disambung tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "Untuk menjaga daya beli dan mendorong konsumsi selama Ramadan–Idulfitri 2026, Pemerintah menyiapkan paket stimulus komprehensif, terutama pada sektor transportasi dan perlindungan sosial.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Di sektor transportasi, pemerintah memberikan diskon 30% untuk kereta api dengan target 1,2 juta penumpang dan untuk angkutan laut bagi 445 ribu penumpang. Sementara itu, pada angkutan penyeberangan, pemerintah memberikan diskon 100% jasa kepelabuhanan, menjangkau 403 ribu penumpang dan 945 ribu unit kendaraan (setara 2,4 juta jiwa).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pemerintah juga memberikan penurunan harga tiket pesawat domestik kelas ekonomi untuk 3,3 juta penumpang. Penurunan harga tersebut sekitar 17–18% yang dipenuhi melalui kombinasi PPN Ditanggung Pemerintah, penyesuaian biaya bandara, avtur, dan fuel surcharge.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'fuel surcharge' italic"
+ },
+ {
+  "type": "text",
+  "text": "Di sisi perlindungan sosial, Pemerintah menyalurkan bantuan pangan berupa 10 kg beras dan 2 liter minyak goreng kepada 35,04 juta keluarga penerima manfaat untuk dua bulan sekaligus (Februari dan Maret). Pemerintah juga menyalurkan THR kepada sekitar 10,5 juta ASN, TNI/Polri, dan pensiunan yang mulai dicairkan akhir Februari 2026.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'TNI/' di akhir baris disambung tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "Dukungan fiskal tersebut dirancang memperkuat mobilitas dan konsumsi selama Ramadan–Idulfitri sekaligus menopang pertumbuhan awal tahun.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Ramadan–' di akhir baris disambung tanpa spasi"
+ }
+]

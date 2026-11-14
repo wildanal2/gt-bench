@@ -1,0 +1,110 @@
+[
+ {
+  "type": "text",
+  "text": "Print VS. Digital",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08846,
+   0.08301,
+   0.23006,
+   0.1002
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Why do some researchers abhor digital and favor print, or vice-versa? The classic print\nVS. digital debate was necessary for us to understand readers' preferences with each",
+  "page_idx": 0,
+  "bbox": [
+   0.08445,
+   0.12535,
+   0.91298,
+   0.16375
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Q11 What factors influence your choice of print? (select all that apply)",
+  "page_idx": 0,
+  "bbox": [
+   0.1685,
+   0.17591,
+   0.83171,
+   0.19699
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.23217,
+   0.20466,
+   0.73909,
+   0.49669
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "format.",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08782,
+   0.49274,
+   0.15882,
+   0.50786
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Q12 What factors influence your choice of digital? (select all that apply)",
+  "page_idx": 0,
+  "bbox": [
+   0.09809,
+   0.52142,
+   0.78359,
+   0.54251
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.1685,
+   0.5483,
+   0.68277,
+   0.84465
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Online Survey | 39",
+  "page_idx": 0,
+  "bbox": [
+   0.78706,
+   0.93641,
+   0.91238,
+   0.94891
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

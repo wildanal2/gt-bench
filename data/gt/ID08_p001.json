@@ -1,0 +1,28 @@
+[
+ {
+  "type": "text",
+  "text": "PT BANK CENTRAL ASIA Tbk DAN ENTITAS ANAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; halaman sampul; 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN KEUANGAN KONSOLIDASIAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; halaman sampul",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; halaman sampul; periode"
+ }
+]

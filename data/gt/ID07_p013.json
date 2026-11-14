@@ -1,0 +1,85 @@
+[
+ {
+  "type": "text",
+  "text": "The original financial statements included herein are in Indonesian language.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA Tbk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nama entitas di atas judul laporan; berulang tiap halaman laporan"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN POSISI KEUANGAN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DESEMBER 2024 DAN 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "STATEMENTS OF FINANCIAL POSITION",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "31 DECEMBER 2024 AND 2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th></th><th>Catatan/ Notes</th><th>2024</th><th>2023</th><th></th></tr><tr><td>LIABILITAS DAN EKUITAS (lanjutan)</td><td></td><td></td><td></td><td>LIABILITIES AND EQUITY (continued)</td></tr><tr><td>EKUITAS</td><td></td><td></td><td></td><td>EQUITY</td></tr><tr><td>Modal saham - nilai nominal per saham Rp12.500 (Rupiah penuh) untuk saham kelas A dan Rp125 (Rupiah penuh) untuk saham kelas B</td><td></td><td></td><td></td><td>Share capital - par value per share of Rp12,500 (whole Rupiah) for class A shares and Rp125 (whole Rupiah) for class B shares</td></tr><tr><td>Modal dasar - 26.880.234 saham kelas A dan 117.311.976.600 saham kelas B pada 31 Desember 2024 dan 2023</td><td></td><td></td><td></td><td>Authorised capital - 26,880,234 class A shares and 117,311,976,600 class B shares at 31 December 2024 and 2023</td></tr><tr><td>Modal ditempatkan dan disetor penuh - 26.880.234 saham kelas A dan 36.154.479.286 saham kelas B pada 31 Desember 2024 dan 2023</td><td>1b,2y,28</td><td>4.855.313</td><td>4.855.313</td><td>Issued and fully paid-up capital - 26,880,234 class A shares and 36,154,479,286 class B shares at 31 December 2024 and 2023</td></tr><tr><td>Saham treasuri</td><td>2y,28</td><td>(6)</td><td>(6)</td><td>Treasury stock</td></tr><tr><td>Tambahan modal disetor - bersih</td><td>1b,1c,1d 2x,2y,2z, 2ah,29</td><td>26.810.312</td><td>26.810.312</td><td>Additional paid-in capital - net</td></tr><tr><td>Cadangan nilai wajar bersih - efek-efek untuk tujuan investasi pada nilai wajar melalui penghasilan komprehensif lain</td><td>2o,13</td><td>(183.765)</td><td>(163.393)</td><td>Net fair value reserve - investment securities at fair value through other comprehensive income</td></tr><tr><td>Cadangan kerugian kredit ekspektasian - efek-efek untuk tujuan investasi pada nilai wajar melalui penghasilan komprehensif lain</td><td></td><td>1.330</td><td>1.427</td><td>Allowance for expected credit losses - investment securities at fair value through other comprehensive income</td></tr><tr><td>Cadangan revaluasi aset tetap</td><td>2p,2ah,15</td><td>2.465.312</td><td>2.465.312</td><td>Fixed assets revaluation reserve</td></tr><tr><td>Bagian atas penghasilan komprehensif lain dari entitas asosiasi</td><td>2f,14</td><td>-</td><td>911</td><td>Share of other comprehensive income of associate</td></tr><tr><td>Saldo laba</td><td></td><td></td><td></td><td>Retained earnings</td></tr><tr><td>Telah ditentukan penggunaannya</td><td>30</td><td>974.581</td><td>974.581</td><td>Appropriated</td></tr><tr><td>Belum ditentukan penggunaannya</td><td></td><td>7.680.105</td><td>5.047.865</td><td>Unappropriated</td></tr><tr><td>JUMLAH EKUITAS</td><td></td><td>42.603.182</td><td>39.992.322</td><td>TOTAL EQUITY</td></tr><tr><td>JUMLAH LIABILITAS DAN EKUITAS</td><td></td><td>259.067.503</td><td>257.444.147</td><td>TOTAL LIABILITIES AND EQUITY</td></tr></table>",
+  "table_caption": "(Dinyatakan dalam jutaan Rupiah, kecuali dinyatakan secara khusus)\n(Expressed in millions of Rupiah, unless otherwise stated)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; bilingual; kolom 1 label ID, kolom 5 label EN (berpasangan per baris); header kolom label kosong; label/catatan multi-baris dalam satu sel digabung spasi; baris seksi diberi sel nilai kosong"
+ },
+ {
+  "type": "text",
+  "text": "Catatan atas laporan keuangan merupakan bagian yang tidak terpisahkan dari laporan keuangan secara keseluruhan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "The accompanying notes to financial statements form an integral part of these financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; bilingual; 2 baris digabung (satu kalimat)"
+ },
+ {
+  "type": "text",
+  "text": "Lampiran - 1/4 - Schedule",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

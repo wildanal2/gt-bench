@@ -1,0 +1,95 @@
+[
+ {
+  "type": "text",
+  "text": "7.6 Examples of Women's Impact",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09548,
+   0.08328,
+   0.46251,
+   0.1066
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Sportfishing. Among those who fish for sport, only 27% of U.S. anglers are female (Burkett and Carter 2020).\nUnderrepresentation of females in sportfishing is ironic, as the first publication on fly-fishing, dating from the\n15th century, was written by Dame Juliana Berners, entitled Treatyse of Fysshynge with an Angle, a publication\nthat heavily influenced novelty of the sport for European enthusiasts. Though sometimes invisible, women are\nslowly changing the world of sportfishing by breaking stereotypes. Future growth of sportfishing will rely on\nfemale anglers, instructors, and guides. Here I share a few examples on women making a substantial impact\nthrough their passion toward fishing. These examples demonstrate women who loved and valued what they\ndid. If the paucity of female role models discourages females from seeing the relevance of fishing to them, these\nexamples should inspire.",
+  "page_idx": 0,
+  "bbox": [
+   0.09548,
+   0.14121,
+   0.90342,
+   0.31291
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Frederick Buller (2013) chronicled the very long list of large\nAtlantic Salmon caught by female anglers, which are\noutnumbered 200 to 1 by male salmon anglers. Georgina\nBallantine holds the British record for a 64-pound rod-caught\nAtlantic Salmon from River Tay, Scotland, in 1922 (Figure 7.5). Joan\nWulff was introduced to fly-fishing by her father when she was\nten and won several fly-fishing accuracy championships before\nwinning the 1951 Fishermen's Distance competition against all-\nmale competitors. She became the first female spokesperson for\nGarcia Corporation in 1959 and advocated for women anglers in\nher writings for Outdoor Life and Rod & Reel. Today, females make\nup 30% of participants in the sport of fly-fishing (Recreational\nFishing and Boating Foundation 2021). Joan Wulff participated in\nmany distance casting events and did trick casting. She snapped a\ncigarette from the mouth of Johnny Carson on the TV show \"Who\nDo You Trust?\" (Fogt 2017). Starting in 1978, Wulff opened a fly-\ncasting school on the Upper Beaverkill River in New York. Her Fly-\nCasting Techniques, published in 1987, and New Fly-Casting\nTechniques, published in 2012, are classic guides to learning her\ntechniques. When asked about her favorite fish, she would\nrespond, \"Whatever I'm fishing for,\" and her favorite place to fish\nwas \"Wherever I am.\"",
+  "page_idx": 0,
+  "bbox": [
+   0.09548,
+   0.32815,
+   0.57685,
+   0.75018
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.5878,
+   0.31823,
+   0.90238,
+   0.66296
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 7.5: Georgina Ballantine holds the British\nrecord for a 64-pound rod-caught salmon from\nRiver Tay, Scotland in 1922.",
+  "page_idx": 0,
+  "bbox": [
+   0.58832,
+   0.66818,
+   0.89121,
+   0.70862
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Most avid bass anglers can identify Roland Martin, Bill Dance, and Jimmy Houston, who dominated competitive\nbass fishing in the first decade of Bass Anglers Sportsman Society (B.A.S.S.) and have had TV fishing shows for\ndecades. Kim Bain-Moore began competing in bass tournaments at age 19 and in 2009 became the first woman\nto compete in the Bassmaster Classic tournament. Only three females have been inducted into the Bass Fishing\nHall of Fame. The first was Christine Houston, who organized the first-ever all women's bass club, the \"Tulsa\nBass Belles.\" But female participation in competitive bass fishing never took off as expected. Fewer that one in\nfive readers of Field & Stream, Outdoor Life, and Bassmaster magazines are female (Carini and Weber 2017).",
+  "page_idx": 0,
+  "bbox": [
+   0.09548,
+   0.76989,
+   0.90342,
+   0.90186
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Gender and Fishing | 155",
+  "page_idx": 0,
+  "bbox": [
+   0.7375,
+   0.93517,
+   0.90238,
+   0.9484
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

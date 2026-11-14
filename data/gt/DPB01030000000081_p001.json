@@ -1,0 +1,121 @@
+[
+ {
+  "type": "text",
+  "text": "Jailed for Doing Business",
+  "page_idx": 0,
+  "bbox": [
+   0.16577,
+   0.04183,
+   0.38676,
+   0.05517
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 22: COMMERCIAL LAWS WITH MORE THAN 100\nIMPRISONMENT CLAUSES",
+  "page_idx": 0,
+  "bbox": [
+   0.16445,
+   0.11572,
+   0.77764,
+   0.14946
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Law</td><td>Union/State rule</td><td>Imprisonment clauses</td></tr><tr><td>Arms Act, 1959 and Arms Rules 2016</td><td>Union</td><td>152</td></tr><tr><td>Food Safety & Standards Act, 2006 & Food Safety and Standards (Licensing and Registration of Food Businesses) Regulations, 2011</td><td>Union</td><td>123</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16699,
+   0.1715,
+   0.83426,
+   0.31274
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Source: TeamLease Regtech",
+  "page_idx": 0,
+  "bbox": [
+   0.16577,
+   0.31847,
+   0.35519,
+   0.33076
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 23: IMPRISONMENT CLAUSES IN ENVIRONMENT,\nHEALTH AND SAFETY LAWS",
+  "page_idx": 0,
+  "bbox": [
+   0.16445,
+   0.39148,
+   0.80858,
+   0.42522
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Imprisonment term</td><td>Number of clauses</td><td>Number of laws</td></tr><tr><td>Less than 3 months</td><td>150</td><td>35</td></tr><tr><td>3 months to less than 1 year</td><td>199</td><td>14</td></tr><tr><td>1 year to less than 3 years</td><td>326</td><td>16</td></tr><tr><td>3 years to less than 5 years</td><td>357</td><td>22</td></tr><tr><td>5 years to less than 10 years</td><td>147</td><td>27</td></tr><tr><td>More than 10 years</td><td>0</td><td>0</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16699,
+   0.44726,
+   0.83111,
+   0.61888
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Source: TeamLease Regtech",
+  "page_idx": 0,
+  "bbox": [
+   0.16577,
+   0.62391,
+   0.35519,
+   0.6362
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "NOTE: The inconsistency in number of laws is because a single law could have\nmultiple clauses on criminality; it could have a few clauses of less than\nthree months and few of between three and five years.",
+  "page_idx": 0,
+  "bbox": [
+   0.16577,
+   0.65922,
+   0.83682,
+   0.71331
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "78",
+  "page_idx": 0,
+  "bbox": [
+   0.48554,
+   0.95046,
+   0.51538,
+   0.96515
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

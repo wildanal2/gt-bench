@@ -1,0 +1,83 @@
+[
+ {
+  "type": "text",
+  "text": "7. APBN sampai dengan 31 Agustus mencatat defisit yang terjaga sebesar Rp321,6 triliun (1,35% PDB), dengan keseimbangan primer positif sebesar Rp22,0 triliun. Pembiayaan anggaran terealisasi Rp425,7 triliun. Pemenuhan pembiayaan APBN dilakukan hati-hati dan terukur di tengah dinamika pasar keuangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor (lanjutan daftar bagian A dari halaman sebelumnya, butir baru); kalimat pertama bold"
+ },
+ {
+  "type": "text",
+  "text": "B. Perkembangan Perekonomian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian; heading tertinggi di halaman ini (text_level per halaman)"
+ },
+ {
+  "type": "text",
+  "text": "1. PMI Manufaktur global bulan Agustus 2025 kembali ekspansif di level 50,9 (Juli 49,7). Eropa mengalami ekspansi pertama kalinya sejak Juni 2022. Negara lain yang juga berada di zona ekspansi antara lain India, Australia, AS, dan Indonesia. PMI Manufaktur Indonesia bulan Agustus sebesar 51,5. Sementara Jepang, Turki, Brazil dan Inggris masih berada di zona kontraksi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold"
+ },
+ {
+  "type": "text",
+  "text": "2. Prospek ekonomi global membaik, namun ketidakpastian dan risiko eksternal perlu tetap diantisipasi. Dampak rambatan terhadap perekonomian domestik perlu terus dimitigasi dengan kebijakan yang tepat untuk menjaga momentum pertumbuhan. APBN yang sehat dan prudent diperlukan sebagai enabler untuk mencapai pertumbuhan ekonomi tinggi ke depan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "3. Harga komoditas masih fluktuatif akibat konflik geopolitik dan prospek ekonomi global yang dinamis. Per 19 September 2025, harga minyak Brent naik 1,4% month over month (mom) namun turun 14,8% year over year (yoy), harga Batubara turun 7,0% (mom) dan turun 21,1% (yoy). Harga tembaga naik 2,6% (mom) dan 3,6% (yoy), nikel naik 1,8% (mom) namun turun 10,9% (yoy), sementara harga CPO naik 1,3% (mom) dan 16,6% (yoy).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "4. Kinerja perdagangan Indonesia tetap kuat di tengah perang tarif. Perkiraan surplus Neraca Perdagangan Agustus 2025 sebesar USD5,3 miliar (data internal Kemenkeu). Neraca perdagangan Januari s.d. Agustus 2025 (kumulatif) diperkirakan tumbuh 52,3% (yoy), dipengaruhi oleh meningkatnya surplus non migas seiring penguatan ekspor sektor industri dan pertanian. Di tengah meningkatnya risiko perdagangan, pemerintah terus memperluas kerja sama global untuk menjaga resiliensi sektor perdagangan Indonesia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold"
+ },
+ {
+  "type": "text",
+  "text": "5. Di tengah volatilitas pasar keuangan global, kinerja instrumen keuangan domestik tetap positif, ditopang oleh kepercayaan investor yang terus membaik. Risiko Indonesia terjaga dengan currency risk yang turun dan country risk yang stabil. Pada 19 September 2025, nilai tukar rupiah berada di level Rp16.498 per USD atau melemah 3,0% (ytd). Yield SBN berdenominasi rupiah turun dari 6,97% di awal 2025 menjadi 6,28%, sementara spread terhadap UST menyempit dari 240 bps menjadi 216 bps, sebuah pencapaian yang baik dan merefleksikan cepatnya pemulihan kepercayaan investor. Stabilitas country risk tercermin dari yield SBN USD tenor 10 tahun yang turun dari 5,45% menjadi 4,92%, dengan spread terhadap UST juga menurun dari 88 bps menjadi 79 bps. Angka ini termasuk salah satu level terendah secara historis, dan diperkirakan akan terus membaik seiring perbaikan ekonomi ke depan. Dari sisi arus dana, pasar SBN mencatat inflow sebesar Rp42,6 triliun (ytd), sementara SRBI dan Saham masih mengalami outflow masing-masing sebesar Rp119,6 triliun (ytd) dan Rp58,7 triliun (ytd).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "6. Inflasi Agustus 2025 di level 2,31 (yoy), stabil menopang daya beli masyarakat. Inflasi volatile food terus dikendalikan dengan kebijakan intervensi harga dan penguatan peran Bulog, sementara inflasi administered price terjaga didukung kebijakan harga energi nasional yang mendukung daya beli masyarakat.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "7. Berbagai indikator dini perekonomian domestik menunjukkan kinerja positif pada bulan Agustus 2025. Tingkat keyakinan konsumen terhadap kondisi ekonomi terjaga di level 117,2. Pertumbuhan penjualan ritel mencapai 2,7% (yoy), sedikit menurun dampak normalisasi pasca",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; butir berlanjut ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "2/3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

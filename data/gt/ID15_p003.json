@@ -1,0 +1,132 @@
+[
+ {
+  "type": "text",
+  "text": "8. Peraturan Pemerintah Nomor 101 Tahun 2000 tentang Pendidikan dan Pelatihan Jabatan Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 198, Tambahan Lembaran Negara Republik Indonesia 4019);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; daftar Mengingat dimulai di halaman sebelumnya (butir baru); kata 'Nomor' sebelum 4019 memang tidak tercetak"
+ },
+ {
+  "type": "text",
+  "text": "9. Peraturan Pemerintah Nomor 9 Tahun 2003 tentang Wewenang Pengangkatan, Pemindahan, dan Pemberhentian Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4263) sebagaimana telah diubah dengan Peraturan Pemerintah Nomor 63 Tahun 2009 (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 164);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "10. Peraturan Pemerintah Nomor 53 Tahun 2010 tentang Disiplin Pegawai Negeri Sipil (Lembaran Negara Republik Indonesia Tahun 2010 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 5135);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "11. Keputusan Presiden Nomor 87 Tahun 1999 tentang Rumpun Jabatan Fungsional Pegawai Negeri Sipil;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "12. Peraturan Presiden Nomor 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Memperhatikan :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label konsiderans; butir bernomor dipisah per elemen"
+ },
+ {
+  "type": "text",
+  "text": "1. Usul Ketua Badan Pemeriksa Keuangan dengan suratnya.Nomor: 65/S/I-XII/06/2010 tanggal 18 Juni 2010;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'suratnya.Nomor:' tanpa spasi sesuai cetakan; dicek: nomor surat: 'I' dan 'XII' bisa terbaca '1'/'Xll' (glif I/l ambigu)"
+ },
+ {
+  "type": "text",
+  "text": "2. Pertimbangan Kepala Badan Kepegawaian Negara dengan suratnya Nomor K.26-30/V.235-8/93 tanggal 12 Agustus 2010;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dicek: '30/V' tercetak rapat seperti '30N' (lapisan OCR: 30N)"
+ },
+ {
+  "type": "text",
+  "text": "MEMUTUSKAN:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Menetapkan :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "PERATURAN MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI TENTANG JABATAN FUNGSIONAL PEMERIKSA DAN ANGKA KREDITNYA.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; isi Menetapkan; 3 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "BAB I KETENTUAN UMUM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Pasal 1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 5
+ },
+ {
+  "type": "text",
+  "text": "Dalam Peraturan Menteri ini yang dimaksud dengan:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "1. Badan Pemeriksa Keuangan, yang selanjutnya disingkat BPK, adalah lembaga negara yang bertugas untuk memeriksa pengelolaan dan tanggung jawab keuangan negara sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya (butir 2 dst.); noda titik di bawah teks diabaikan"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

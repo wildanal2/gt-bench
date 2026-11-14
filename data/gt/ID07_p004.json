@@ -1,0 +1,189 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Hal audit utama yang teridentifikasi dalam audit kami diuraikan sebagai berikut:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The key audit matter identified in our audit is outlined as follows:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Kerugian kredit ekspektasian (“KKE”) – cadangan kerugian penurunan nilai atas kredit yang diberikan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Expected Credit Loss (“ECL”) – allowance for impairment losses on loans",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Lihat Catatan 2t (Informasi Kebijakan Akuntansi Material - Identifikasi dan Pengukuran Kerugian Penurunan Nilai) dan Catatan 12 (Kredit yang Diberikan) atas laporan keuangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Refer to Note 2t (Material Accounting Policy Information - Identification and Measurement of Impairment Losses) and Note 12 (Loans) to the financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Jumlah kredit yang diberikan sebelum dikurangi cadangan kerugian penurunan nilai sebesar Rp 155.754.180 juta dan cadangan kerugian penurunan nilai atas kredit yang diberikan sebesar Rp 11.895.110 juta diakui Bank pada laporan posisi keuangan pada tanggal 31 Desember 2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The Bank’s loans, gross of the allowance for impairment losses, amounted to Rp 155,754,180 million and the allowance for impairment losses on loans of Rp 11,895,110 million were recognised in the statement of financial position as at 31 December 2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Cadangan kerugian penurunan nilai atas kredit yang diberikan ditentukan berdasarkan kerangka KKE sesuai dengan PSAK 109, “Instrumen Keuangan”.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The allowance for impairment losses on loans is determined based on the ECL framework in accordance with SFAS 109, “Financial Instruments”.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Kami berfokus pada area ini karena besarnya nilai tercatat kredit yang diberikan, yang mewakili 56% dari jumlah aset pada tanggal 31 Desember 2024, dan besarnya nilai cadangan kerugian penurunan nilai yang dibentuk atas kredit tersebut. Lebih lanjut, penentuan atas cadangan kerugian penurunan nilai memerlukan pertimbangan manajemen dan memiliki tingkat ketidakpastian estimasi yang tinggi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "We focused on this area due to the significance of the carrying value of loans, which represents 56% of the total assets as of 31 December 2024, and the respective allowance for impairment losses provided against those loans. Furthermore, the determination of the allowance for impairment losses requires management judgement and is subject to a high degree of estimation uncertainty.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Bank menilai apakah risiko kredit dari kredit yang diberikan telah meningkat secara signifikan sejak pengakuan awalnya dan menerapkan model tiga tahap untuk menghitung KKE.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "The Bank assessed whether the credit risk of loans has increased significantly since their initial recognition and applied a three-stage model to calculate their ECL.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Untuk kredit yang diberikan yang diklasifikasikan sebagai Tahap 1 dan 2, dan kredit yang diberikan yang diklasifikasikan sebagai Tahap 3 yang tidak dianggap signifikan secara individual, manajemen menghitung KKE menggunakan model parameter risiko yang menggunakan beberapa parameter utama, antara lain probability of default, loss given default, exposure at default, dan tingkat diskonto setelah memperhitungkan informasi perkiraan masa depan, termasuk faktor makroekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; istilah Inggris miring"
+ },
+ {
+  "type": "text",
+  "text": "For loans classified as Stage 1 and 2, and loans classified as Stage 3 which are not considered individually significant, management calculated the ECL using the risk parameter modelling approach that incorporated a number of key parameters, including the probability of default, loss given default, exposure at default, and discount rate after taking into consideration forward-looking information, including macroeconomic factors.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Untuk kredit yang diberikan yang diklasifikasikan sebagai Tahap 3 yang dianggap signifikan secara individual, manajemen menghitung KKE dengan mengestimasi arus kas ekspektasian dari kredit yang diberikan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "For loans classified as Stage 3 which are considered individually significant, management calculated the ECL by estimating the expected future cash flow from the loans.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Dalam menentukan KKE, Bank mengadopsi model yang kompleks, menggunakan sejumlah parameter, mengandalkan input data internal dan eksternal, dan menerapkan pertimbangan manajemen yang signifikan dalam menentukan asumsi dan estimasi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "In determining the ECL, the Bank adopted complex models, employed numerous parameters, relied on internal and external data inputs, and applied significant management judgement in determining assumptions and estimates.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "00052/2.1457/AU.1/07/0230-1/1/II/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan auditor"
+ }
+]

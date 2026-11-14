@@ -1,0 +1,120 @@
+[
+ {
+  "type": "text",
+  "text": "84",
+  "page_idx": 0,
+  "bbox": [
+   0.09885,
+   0.0472,
+   0.12348,
+   0.06167
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BAIRD",
+  "page_idx": 0,
+  "bbox": [
+   0.84615,
+   0.04872,
+   0.89953,
+   0.06091
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.105,
+   0.0792,
+   0.48379,
+   0.44642
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 4.11 A. Birrell, Sir Robert Shirley [graphic]. Engraving\non wove paper.\nPUBLISHED BY EDWARD HARDING, LONDON, 1799",
+  "page_idx": 0,
+  "bbox": [
+   0.09885,
+   0.46165,
+   0.48892,
+   0.50584
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "knowledge about remote civilizations. There is an\nobvious cultural coincidence, for instanvce, between\ncarpet-making and storytelling among nomadic\npeoples, which these stories convey through their\nintricate plot development. They also tell fascinat-\ning stories about the the traffic in diamonds, gold,\nand spices between the Indies, China, Arabia, and\nWestern Europe that  wait to be unveiled. Rather\nthan looking at the things of the Nights as colorful\ndetails in Sheherazade's tales or protagonists in the\nfantasticstories they make for themselves, we could\nexplore, instead, their role as as bearers of cultural\nknowledge unintentionally embedded in the fabric\nof the text. In such a reading, \"historically and theo-\nretically overdetermined material charactersitics\nof objects are sought out beyond the immediate\ncontext in which they appear\"86 in order to",
+  "page_idx": 0,
+  "bbox": [
+   0.09987,
+   0.51956,
+   0.49097,
+   0.83116
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "defetishize them and expose the power structures\nin which they are involved.",
+  "page_idx": 0,
+  "bbox": [
+   0.50556,
+   0.0792,
+   0.89953,
+   0.11844
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Thus, as Makdisi and Nussbaum sum up in their\nintroduction to The Arabian Nights in Historical\nContext: Between East and West, \"the Nights offered\na particularly powerful vision of an Asiatic culture\nseemingly saturated with references to sensuality,\nextravagance, indulgence, violence, supernatural-\nism, and eroticism ... [and] added a supernatural\ndimension to the Enlightenment; the tales offered\nan avenue into modernity through its magical op-\nposite, an alternative to European identity, and an\nantidote to neoclassicism.\"87 However, reading\nsuch imports as an expression of European pow-\ners' disavowal of the East in order to \"justify their\nconquest and rule over other peoples, particularly\nin Asia,\"88 is an oversimplification of a rather com-\nplicated process of cultural exchange. None of\nthese descriptions of Arabia were caused by colo-\nnial \"distortions,\" as Said feared, but by false attri-\nbutions: \"Arabian\" was a misnomer that rarely de-\nscribed Arabia itself. While fictional narratives like\nArabian Nights' Entertainments represented Ara-\nbia as a land of magic and exorbitant riches, they\nwere too far-fetched to be part of a Westerner's\nbelief system during the Age of Reason; rather,\nthey were popularized because their wild fiction-\nality turned them into bestsellers at the time. Such\nstories competed with descriptions of the Arabi-\nan Peninsula by travelers and traders who had vis-\nited the area and had unmediated contact with the\nlocal culture. However, while the Orientalist litera-\nture described Arabia in terms that emphasized\nits exoticism, magic, superstitions, extravagance,\nwealth, eroticism, excess, and myriads of other pe-\nculiarities that contrasted it with the European\nnormativity, travel narratives created an \"Arabian\"\nidentity that was generally congruent with the\nreality of the place.",
+  "page_idx": 0,
+  "bbox": [
+   0.50415,
+   0.11844,
+   0.90124,
+   0.7967
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "86 Elaine Freedgood, \"Introduction: Reading Things,\" in\nThe Idea in Things: Fugitive Meaning in the Victorian\nNovel (Chicago: University of Chicago Press, 2006),\n5-6.",
+  "page_idx": 0,
+  "bbox": [
+   0.10121,
+   0.85604,
+   0.49097,
+   0.91954
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "87 Makdisi and Nussbaum, introduction to The Arabian\nNights in Historical Context, 5·\n88 Ibid.",
+  "page_idx": 0,
+  "bbox": [
+   0.50556,
+   0.87194,
+   0.90264,
+   0.91954
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

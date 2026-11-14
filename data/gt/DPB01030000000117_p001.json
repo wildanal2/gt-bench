@@ -1,0 +1,200 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.12733,
+   0.0504,
+   0.4066,
+   0.06881
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.81106,
+   0.05193,
+   0.88413,
+   0.06718
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Saccharometer</td><td>DI Water</td><td>Glucose Solution</td><td>Yeast Suspension</td></tr><tr><td>2</td><td>24 ml</td><td>0 ml</td><td>4 ml</td></tr><tr><td>3</td><td>12 ml</td><td>12 ml</td><td>4 ml</td></tr><tr><td>4</td><td>4 ml</td><td>12 ml</td><td>12 ml</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11886,
+   0.09359,
+   0.63289,
+   0.17728
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Employing Steps in the Scientific Method:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11602,
+   0.23147,
+   0.47139,
+   0.24965
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. Record the Question that is being investigated in this experiment.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.26647,
+   0.69568,
+   0.28651
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "2. Record a Hypothesis for the question stated above.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.31811,
+   0.58397,
+   0.33815
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "3. Predict the results of the experiment based on your hypothesis (if/then).",
+  "page_idx": 0,
+  "bbox": [
+   0.14211,
+   0.37052,
+   0.73956,
+   0.38978
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "4. Perform the experiment below and collect your data.",
+  "page_idx": 0,
+  "bbox": [
+   0.14411,
+   0.4237,
+   0.59195,
+   0.44142
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Procedure:",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.1136,
+   0.46091,
+   0.21537,
+   0.4763
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. Prepare yeast suspension: Add 7 grams yeast to 50 ml warm tap water. Stir to mix.\nAlternatively, you can use the yeast suspension from Part 2. Optional: Add a few drops of\nred food coloring to the yeast to increase contrast, allowing easier measuring of the\nheight of yeast in saccharometers.\n2. Label 4 test tubes and 4 saccharometers # 1- 4. Use a transfer pipette to add the\nappropriate amount of glucose and distilled water listed in Table 2 to the corresponding\nlabeled test tubes.\n3. Use a transfer pipette to add the appropriate amount of yeast solution listed in Table 1 to\nthe corresponding labeled test tubes. It is important to work carefully and quickly after\nadding the yeast solution to the glucose and water.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.4939,
+   0.88726,
+   0.66994
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "4. Carefully pour the contents of the test tubes into the correspondingly labeled\nsaccharometer, ensuring that the solutions are well mixed.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.68581,
+   0.78084,
+   0.72172
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "5. Carefully tilt the saccharometers to allow any air bubbles that are trapped in the arms of\nthe vertical tube to escape.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.73592,
+   0.87164,
+   0.77518
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "6. Begin the timer for the experiment and measure the size of any bubbles (in mm) that are\ntrapped in the vertical arms of the saccharometers. Record this measurement as the 0 time\npoint.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.79022,
+   0.88413,
+   0.84451
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "7. Position the saccharometers on the large plastic tray, positioning them around a plastic\nweigh boat to catch any fermentation overflow that may occur.",
+  "page_idx": 0,
+  "bbox": [
+   0.1451,
+   0.86038,
+   0.85975,
+   0.89713
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "59",
+  "page_idx": 0,
+  "bbox": [
+   0.49318,
+   0.97214,
+   0.51435,
+   0.98652
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

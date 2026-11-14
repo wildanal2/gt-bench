@@ -1,0 +1,172 @@
+[
+ {
+  "type": "text",
+  "text": "FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770 S - II",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode formulir; huruf besar tebal"
+ },
+ {
+  "type": "text",
+  "text": "MINISTRY OF FINANCE OF THE REPUBLIC OF INDONESIA DIRECTORATE GENERAL OF TAXES",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 3 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "ATTACHMENT - II ANNUAL INDIVIDUAL INCOME TAX RETURN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "INCOME SUBJECT TO FINAL TAX AND/OR FINALIZED TAX",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "ASSETS AT YEAR-END",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "LIABILITIES AT YEAR- END",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; spasi setelah 'YEAR-' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "LIST OF MEMBER OF FAMILY'S DEPENDENT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "TAXABLE YEAR 2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label vertikal; digit 2 dan 0 dalam kotak terpisah; 2 kotak lain kosong"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><td>TIN</td><td>:</td><td></td></tr><tr><td>TAXPAYER'S NAME</td><td>:</td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom: label | : | kotak isian kosong; tanpa baris header"
+ },
+ {
+  "type": "text",
+  "text": "PART A : INCOME SUBJECT TO FINAL TAX AND/OR FINALIZED TAX",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>TYPES OF INCOME</th><th colspan=\"2\">TAX BASE/GROSS INCOME (Rupiah)</th><th>INCOME TAX PAYABLE (Rupiah)</th></tr><tr><th>(1)</th><th>(2)</th><th colspan=\"2\">(3)</th><th>(4)</th></tr><tr><td>1.</td><td>INTEREST FROM DEPOSIT, SAVINGS, DISCOUNT ON BANK INDONESIA CERTIFICATES, STATE SECURITIES</td><td colspan=\"2\"></td><td></td></tr><tr><td>2.</td><td>INTEREST/DISCOUNT OF BOND</td><td colspan=\"2\"></td><td></td></tr><tr><td>3.</td><td>SALES OF SHARES TRADED IN THE STOCK EXCHANGE</td><td colspan=\"2\"></td><td></td></tr><tr><td>4.</td><td>LOTTERY PRIZES</td><td colspan=\"2\"></td><td></td></tr><tr><td>5.</td><td>SEVERANCE PAYMENTS, RETIREMENT ALLOWANCES AND PENSIONS PAID IN LUMP SUM</td><td colspan=\"2\"></td><td></td></tr><tr><td>6.</td><td>HONORARIA DERIVED FROM STATE AND/OR LOCAL BUDGET</td><td colspan=\"2\"></td><td></td></tr><tr><td>7.</td><td>TRANSFERS OF RIGHTS ON LAND AND BUILDING</td><td colspan=\"2\"></td><td></td></tr><tr><td>8.</td><td>LEASE/RENT VALUE ON LAND OR BUILDING</td><td colspan=\"2\"></td><td></td></tr><tr><td>9.</td><td>PROPERTY RECEIVED FROM BUILD OPERATE TRANSFER SCHEME</td><td colspan=\"2\"></td><td></td></tr><tr><td>10.</td><td>SAVING INTEREST PAID BY COOPERATIVE TO ITS INDIVIDUAL MEMBER</td><td colspan=\"2\"></td><td></td></tr><tr><td>11.</td><td>INCOME FROM DERIVATIVE TRANSACTION</td><td colspan=\"2\"></td><td></td></tr><tr><td>12.</td><td>DIVIDEND</td><td colspan=\"2\"></td><td></td></tr><tr><td>13.</td><td>WIFE INCOME FROM ONE EMPLOYER</td><td colspan=\"2\"></td><td></td></tr><tr><td>14.</td><td>OTHER INCOME SUBJECT TO FINAL TAX AND/OR FINAL IN NATURE</td><td colspan=\"2\"></td><td></td></tr><tr><td></td><td>TOTAL PART A</td><td></td><td>TPA</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; 5 kolom efektif (kolom (3) terbelah di baris total: sel abu-abu kosong | TPA); baris 11 kolom (3) dan (4) diblok abu-abu; kotak nilai kosong"
+ },
+ {
+  "type": "text",
+  "text": "PART B : ASSETS AT YEAR-END",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>CODE</th><th>TYPE OF ASSETS</th><th colspan=\"2\">YEAR OF ACQUISITION</th><th>COST OF ACQUISITION (Rupiah)</th><th>DESCRIPTION</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th colspan=\"2\">(4)</th><th>(5)</th><th>(6)</th></tr><tr><td>1.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>2.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>3.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>4.</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td>5. etc</td><td></td><td></td><td colspan=\"2\"></td><td></td><td></td></tr><tr><td colspan=\"3\">TOTAL PART B</td><td></td><td>TPB</td><td>0</td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; 7 kolom efektif (kolom (4) terbelah di baris total: sel abu-abu kosong | TPB); sel DESCRIPTION di baris total diblok abu-abu; baris isian kosong"
+ },
+ {
+  "type": "text",
+  "text": "PART C : LIABILITIES AT YEAR- END",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel; spasi setelah 'YEAR-' sesuai sumber",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>CODE</th><th>NAME OF LENDER</th><th>LENDER ADDRESS</th><th colspan=\"2\">YEAR LENDING</th><th>TOTAL</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th colspan=\"2\">(5)</th><th>(6)</th></tr><tr><td>1</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>5 dst</td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"4\">JUMLAH BAGIAN C</td><td></td><td>JBC</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; 7 kolom efektif (kolom (5) terbelah di baris total: sel abu-abu kosong | JBC); label total berbahasa Indonesia ('JUMLAH BAGIAN C', 'dst') sesuai sumber; baris isian kosong"
+ },
+ {
+  "type": "text",
+  "text": "PART D : LIST OF MEMBER OF FAMILY'S DEPENDENT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bagian di atas tabel",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th>NAME</th><th>IDENTITY NUMBER (NIK)</th><th>RELATIONSHIP IN FAMILY</th><th>OCCUPATION</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th></tr><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; baris isian kosong"
+ },
+ {
+  "type": "text",
+  "text": "IF NEEDED, ADDITIONAL PAGES MAY BE ADDED",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; dalam kotak berbingkai"
+ },
+ {
+  "type": "text",
+  "text": "Page from pages Attachment-II",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; label nomor halaman dengan kotak isian kosong"
+ }
+]

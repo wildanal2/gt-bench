@@ -1,0 +1,165 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo RSM; furniture"
+ },
+ {
+  "type": "text",
+  "text": "RSM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Amir Abadi Jusuf, Aryanto, Mawar & Rekan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kop KAP"
+ },
+ {
+  "type": "text",
+  "text": "Registered Public Accountants",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kop KAP; cetakan kecil"
+ },
+ {
+  "type": "text",
+  "text": "Pihak yang bertanggung jawab atas tata kelola bertanggung jawab untuk mengawasi proses pelaporan keuangan Bank.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; lapisan teks OCR: Pinak"
+ },
+ {
+  "type": "text",
+  "text": "Those charged with governance are responsible for overseeing the Bank's financial reporting process.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; lapisan teks OCR: Pinak"
+ },
+ {
+  "type": "text",
+  "text": "Tanggung Jawab Auditor terhadap Audit atas Laporan Keuangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; src=Heading; bold; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Auditor’s Responsibilities for the Audit of the Financial Statements",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; src=Heading; bold; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Tujuan kami adalah untuk memperoleh keyakinan memadai tentang apakah laporan keuangan secara keseluruhan bebas dari kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan, dan untuk menerbitkan laporan auditor yang mencakup opini kami. Keyakinan memadai merupakan suatu tingkat keyakinan tinggi, tetapi bukan merupakan suatu jaminan bahwa audit yang dilaksanakan berdasarkan Standar Audit akan selalu mendeteksi kesalahan penyajian material ketika hal tersebut ada. Kesalahan penyajian dapat disebabkan oleh kecurangan maupun kesalahan dan dianggap material jika, baik secara individual maupun secara agregat, dapat diekspektasikan secara wajar akan memengaruhi keputusan ekonomi yang diambil oleh pengguna berdasarkan laporan keuangan tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with Standards on Auditing will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Sebagai bagian dari suatu audit berdasarkan Standar Audit, kami menerapkan pertimbangan profesional dan mempertahankan skeptisisme profesional selama audit. Kami juga:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "As part of an audit in accordance with Standards on Auditing, we exercise professional judgement and maintain professional skepticism throughout the audit. We also:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Mengidentifikasi dan menilai risiko kesalahan penyajian material dalam laporan keuangan, baik yang disebabkan oleh kecurangan maupun kesalahan, mendesain dan melaksanakan prosedur audit yang responsif terhadap risiko tersebut, serta memperoleh bukti audit yang cukup dan tepat untuk menyediakan basis bagi opini kami. Risiko tidak terdeteksinya kesalahan penyajian material yang disebabkan oleh kecurangan lebih tinggi dari yang disebabkan oleh kesalahan, karena kecurangan dapat melibatkan kolusi, pemalsuan, penghilangan secara sengaja, pernyataan salah, atau pengabaian pengendalian internal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bullet"
+ },
+ {
+  "type": "text",
+  "text": "Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bullet"
+ },
+ {
+  "type": "text",
+  "text": "Memperoleh suatu pemahaman tentang pengendalian internal yang relevan dengan audit untuk mendesain prosedur audit yang tepat sesuai dengan kondisinya, tetapi bukan untuk tujuan menyatakan opini atas efektivitas pengendalian internal Bank.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bullet"
+ },
+ {
+  "type": "text",
+  "text": "Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Bank's internal control.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bullet"
+ },
+ {
+  "type": "text",
+  "text": "Mengevaluasi ketepatan kebijakan akuntansi yang digunakan serta kewajaran estimasi akuntansi dan pengungkapan terkait yang dibuat oleh manajemen.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bullet"
+ },
+ {
+  "type": "text",
+  "text": "Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; butir bullet"
+ },
+ {
+  "type": "text",
+  "text": "00039/2.1030/AU.1/07/1298-2/1/II/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan auditor; angka romawi II (lapisan teks OCR: 11)"
+ },
+ {
+  "type": "text",
+  "text": "v",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

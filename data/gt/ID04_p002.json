@@ -1,0 +1,440 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto udara kota"
+ },
+ {
+  "type": "text",
+  "text": "Foto: Pexels - Tom Fisk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kredit foto tercetak di atas foto"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia Resilien di Tengah Gejolak Global",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul artikel"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia 2025 Melampaui Ekspektasi, Ditopang Penguatan Domestik",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul artikel"
+ },
+ {
+  "type": "text",
+  "text": "Tahun 2026 dibuka dengan kabar baik. Pada awal Februari, Badan Pusat Statistik (BPS) merilis pertumbuhan ekonomi Indonesia Triwulan IV 2025 sebesar 5,39% (yoy), tertinggi sejak Triwulan IV 2022. Tak hanya melampaui ekspektasi, namun capaian ini juga menegaskan bahwa aktivitas ekonomi di penghujung 2025 benar-benar membaik dan menunjukkan titik balik yang semakin jelas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; hyphen: 'benar-/benar' adalah kata ulang yang terpotong tepat di tanda hubungnya, ditulis 'benar-benar' tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "Berbeda dengan lonjakan pada tahun 2022 yang dipengaruhi efek pemulihan pascapandemi, akselerasi pertumbuhan di akhir 2025 menandakan fundamental domestik yang lebih solid. Konsumsi tetap bergerak, investasi terus mengalir, dan aktivitas usaha kembali ekspansif. Momentum ini terbentuk justru ketika perekonomian global masih menghadapi tekanan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sepanjang 2025, pertumbuhan bergerak semakin stabil. Diawali dengan 4,87% (yoy) pada Triwulan I, lalu menguat hingga mencapai 5,39% (yoy) pada Triwulan IV, sehingga secara keseluruhan tumbuh 5,11% sepanjang tahun. Capaian ini bahkan melampaui proyeksi sejumlah lembaga internasional yang sebelumnya memperkirakan pertumbuhan ekonomi Indonesia di bawah 5%.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; paragraf berlanjut dari kolom 1 ke kolom 2"
+ },
+ {
+  "type": "text",
+  "text": "Dalam perspektif global, Indonesia menempatkan diri sebagai salah satu ekonomi dengan pertumbuhan tinggi sekaligus defisit yang relatif rendah pada 2025, disertai dengan rasio utang yang terkendali pada level aman. Indonesia menunjukkan bahwa pertumbuhan dan kehati-hatian fiskal bukanlah dua hal yang saling meniadakan, melainkan dapat dikelola secara simultan melalui stimulus yang terukur tanpa meninggalkan disiplin fiskal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; infografis dua grafik batang horizontal; judul tercetak di dalam gambar, dicatat sebagai teks in_figure"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Relatif Tinggi Defisit fiskal tetap di bawah 3% PDB.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul infografis"
+ },
+ {
+  "type": "text",
+  "text": "Sumber : Trading Economic, CEIC",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sumber; 'Trading Economic' italic"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi 2025 (% yoy)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel kiri"
+ },
+ {
+  "type": "text",
+  "text": "Vietnam 8,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Malaysia 5,17",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Indonesia 5,11",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris; Indonesia disorot kuning"
+ },
+ {
+  "type": "text",
+  "text": "Singapura 5,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Tiongkok 5,00",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Arab Saudi 4,46",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Filipina 4,40",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Thailand 2,44",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "AS 2,17",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "EU 1,60",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Inggris 1,31",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Jepang 1,06",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Rusia 0,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Korsel 0,97",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Perancis 0,90",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Jerman 0,23",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "Rasio Defisit Fiskal 2025 (% PDB)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel kanan"
+ },
+ {
+  "type": "text",
+  "text": "-2,40 Jerman",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-2,92 Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris; Indonesia disorot kuning"
+ },
+ {
+  "type": "text",
+  "text": "-3,01 Tiongkok*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-3,60 Vietnam*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-3,88 Rusia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-4,37 Afsel*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-4,60 Jepang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-4,92 India*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,06 Turki*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,30 Arab Saudi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,42 AS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,57 Thailand",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,70 Filipina*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,81 Perancis*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-5,84 Brasil*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-6,07 Inggris*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "-6,41 Malaysia*",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai di kiri bar, label negara di kanan; label bar dan nilai digabung per baris"
+ },
+ {
+  "type": "text",
+  "text": "*Data tahun 2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; catatan bintang panel kanan"
+ },
+ {
+  "type": "text",
+  "text": "Permintaan Domestik Menguat, Investasi Ekspansif, Belanja Negara Terarah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold)"
+ },
+ {
+  "type": "text",
+  "text": "Dari sisi pengeluaran, konsumsi rumah tangga kembali menjadi motor utama pertumbuhan, tumbuh 4,98% (yoy) sepanjang 2025. Penguatan ini sejalan dengan meningkatnya mobilitas dan aktivitas ekonomi, tercermin dari Indeks Penjualan Riil (IPR) yang tumbuh serta Indeks Keyakinan Konsumen (IKK) yang membaik sejak Oktober hingga Desember 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan konsumsi terutama terlihat pada subkomponen Transportasi dan Komunikasi, Makan dan Minum, serta Restoran dan Hotel. Momentum Natal dan Tahun Baru mendorong peningkatan perjalanan wisatawan nusantara dan jumlah penumpang di berbagai moda, khususnya angkutan rel. Penguatan tersebut tidak lepas dari dukungan kebijakan insentif dan stimulus Pemerintah. Berbagai program seperti bantuan sosial, BLTS, magang, serta diskon tarif transportasi secara efektif menjaga daya beli dan mendorong aktivitas ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ }
+]

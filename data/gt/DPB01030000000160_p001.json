@@ -1,0 +1,41 @@
+[
+ {
+  "type": "text",
+  "text": "Other advice that might smooth the way for this exercise\nis to remind students right before they start that we aren't\ninterested in what these organizations' websites say about\nthemselves, but what they can learn about them from the\nrest of the internet. Encourage use of Wikipedia for this\ntype of source research. Encourage them to slow down and\nto practice \"click restraint\" once they have Googled one of\nthese orgs. What can they learn from looking at just the\nsearch results page, without clicking through to anything?\nWhat is the overall impression from a variety of results?",
+  "page_idx": 0,
+  "bbox": [
+   0.17445,
+   0.11954,
+   0.82204,
+   0.34886
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Center for Consumer Freedom: Many of the Google\nsearch results (with or without including the search\nterm funding) indicate this is astroturing. A look at\nthe Wikipedia page tells us that this org was started\nby a pretty well known PR guy and the sidebar lists\ntheir focus as \"represents the interests of restaurant\nand food companies\" and their method as \"lobbying.\"\n· National Consumers League: Students may note\nthat it has been around since 1899, has no critical\nresults on the first page of Google results, and even\nhas an entry in the Encyclopedia Britannica.\n· One Fair Wage: a legitimately grass-roots effort to\nraise the minimum wage for restaurant workers.\n· Save Our Tips: This is one case where adding the\nword funding to the search helps a bit. If we do that\nwe find sources indicating that this group is funded in\npart by the National Restaurant Association and a\nconservative strategy and consulting group. Not\nwhat you would expect for a grassroots effort lead by\nwaitstaff.",
+  "page_idx": 0,
+  "bbox": [
+   0.21084,
+   0.36225,
+   0.82426,
+   0.81843
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "104 | Instructor Resources",
+  "page_idx": 0,
+  "bbox": [
+   0.13525,
+   0.91907,
+   0.40271,
+   0.93976
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

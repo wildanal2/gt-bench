@@ -1,0 +1,107 @@
+[
+ {
+  "type": "text",
+  "text": "INTERP RETING SIM ULTANEITY JUDGEMENTS",
+  "page_idx": 0,
+  "bbox": [
+   0.11495,
+   0.05511,
+   0.5275,
+   0.06769
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "321",
+  "page_idx": 0,
+  "bbox": [
+   0.8293,
+   0.05511,
+   0.85999,
+   0.06501
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "model (discussed for a binary fit in Section 6.2). Because there are three pos-\nsible choices, the appropriate data model (applied at each SOA) is no longer\nthe binomial distribution, but rather the multinomial distribution, which can\nprovide an exact likelihood of obtaining any particular combination of prob-\nabilities that divide N choices into three bins when the actual probabilities of\nselecting each bin are known (or rather, for fitting purposes, predicted).22",
+  "page_idx": 0,
+  "bbox": [
+   0.11495,
+   0.09094,
+   0.86093,
+   0.21075
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "11 Dual-Presentation SJ Data",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11495,
+   0.25385,
+   0.45427,
+   0.27045
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Several authors have investigated the use of a dual-presentation SJ task in\nwhich two bimodal stimuli are presented (one after another) and compared,\nfor example by reporting which one was (most) synchronous (Allan & Kristof-\nferson, 1974; Powers, Hillock, & Wallace, 2009; Roseboom, Nishida, Fujisaki, &\nArnold, 2011). This is a form of what would, in classical signal detection theory,\nbe described as a two-alternative forced choice (specifically the two-interval\nforced choice variant). However, that designation is ambiguous (about wheth-\ner there are two presentations or two response categories) and has been ap-\nplied to cases where either or both of the possible qualifying conditions are\nmet, which is probably why the dual-presentation SJ task has ended up being\ngiven a variety of names (e.g., temporal 2AFC; forced-choice successiveness\ndiscrimination; 2IFC SJ, where the classic SJ is referred to as 2AFC SJ in the\nsame paper). I will label it the 2xSJ.",
+  "page_idx": 0,
+  "bbox": [
+   0.11495,
+   0.29337,
+   0.86093,
+   0.55409
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The simplest form of the 2xSJ would have a synchronous standard on every\ntrial along with a non-synchronous test pair. Based on the kind of observer\nmodels discussed in this chapter, the resulting psychometric function (plotting\nthe probability ofjudging the standard more synchronous than the test against\nthe test's SOA) is U-shaped and centred over the PSS. This approach represents\na reasonable way to derive estimates of inverse precision (i.e., ��t) but a fairly\npoor way to estimate the PSS, because having a synchronous standard on every\ntrial provides feedback about objective synchrony. A simple solution is to also\ninclude a range of standards as well as a range of tests, in a roving standard\ndesign.",
+  "page_idx": 0,
+  "bbox": [
+   0.11495,
+   0.55598,
+   0.86093,
+   0.75652
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The observer model can be fitted to data even when both standard and test\nare non-zero, as described in detail by Yarrow et al. (2016; see also Garcia-Perez\n& Peli, 2014). To present all of the data, it is necessary to plot a function for\neach standard SOA (using several standard plots, or a single 3D plot), which is\nsomewhat cumbersome, but not a major obstacle to using the task. A simple",
+  "page_idx": 0,
+  "bbox": [
+   0.11495,
+   0.75881,
+   0.86093,
+   0.85748
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "22 <MultinomialLikelihood 9>.",
+  "page_idx": 0,
+  "bbox": [
+   0.114,
+   0.8815,
+   0.38837,
+   0.89539
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

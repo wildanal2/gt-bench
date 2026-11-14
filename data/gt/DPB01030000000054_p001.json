@@ -1,0 +1,94 @@
+[
+ {
+  "type": "text",
+  "text": "EFB = empty fruit bunch.\nSource: Murdiyatmo (2021).",
+  "page_idx": 0,
+  "bbox": [
+   0.14145,
+   0.10274,
+   0.29681,
+   0.12564
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "However, the main obstacle with producing second-generation bioethanol is the cost of\nenzymes. Murdiyatmo (2021) stated that, at the pilot scale, the cost of enzymes is very\nhigh, i.e. Rp18,000 per litre of ethanol produced. Some studies provided the cost of\nenzymes in the US. NREL (2011), for instance, estimated that the cost of enzymes to\nproduce second-generation bioethanol in the US was equivalent to around $0.34 per\ngallon or Rp1,5292 per litre of ethanol produced, i.e. less than one-tenth of the cost of\nenzymes in Indonesia.",
+  "page_idx": 0,
+  "bbox": [
+   0.14145,
+   0.12987,
+   0.81328,
+   0.25446
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In the next sub-sections, we analyse biodiesel and bioethanol introduction in Indonesia.\nIn each sub-section, we first discuss the current supply and demand of the biofuels and\nthe related conventional transport fuel. Second, we estimate the conventional transport\nfuel, i.e. gasoline and diesel fuel demand in road transportation during the period of\n2020-50. Third, we estimate the volume of pure biofuel (fatty acid methyl ester\n[FAME]/biodiesel and bioethanol) needs in scenarios, and in the amount of feedstock, i.e.\nCPO in biodiesel and molasses in bioethanol needed to meet the demand required in each\nscenario.",
+  "page_idx": 0,
+  "bbox": [
+   0.14145,
+   0.2649,
+   0.81328,
+   0.40516
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2.1. Diesel and biodiesel use",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14145,
+   0.41892,
+   0.37518,
+   0.43089
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "The consumption of diesel fuel in Indonesia, used primarily for road freight transport,\nfluctuated between 2010 and 2019 as it correlated with the economic condition (Table\n2.8). Diesel consumption in the industry sector decreased significantly, around 10% per\nyear between 2010 and 2019, resulting from the shift to another energy type. During the\nsame period, with some fluctuations, diesel production increased at 3.6% annual growth\nrate, while imports were cut by half from nearly 13 billion litres in 2010 to nearly 6.5 billion\nlitres in 2018. The biodiesel blending rate increased from only 1% in 2010 to nearly 20%\nin 2019, representing a growing level of mandatory biodiesel programmes. Apparently,\ndiesel imports dropped with the increase of the biodiesel (B100) blending rate.",
+  "page_idx": 0,
+  "bbox": [
+   0.14145,
+   0.44423,
+   0.81328,
+   0.60559
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2 Assuming average inflation rate of 2% between 2011 and 2021 and an exchange rate of $1 =\nRp14,131.",
+  "page_idx": 0,
+  "bbox": [
+   0.14049,
+   0.87046,
+   0.77783,
+   0.89891
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "11",
+  "page_idx": 0,
+  "bbox": [
+   0.46689,
+   0.94502,
+   0.48566,
+   0.95498
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

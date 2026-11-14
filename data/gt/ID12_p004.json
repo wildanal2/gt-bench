@@ -1,0 +1,70 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "2. Perbedaan antara Cadangan Konsolidasi dan Mapping pada Laporan Keuangan sesuai Standart Akuntansi Keuangan dengan Kategori Risiko (LI1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\"></th><th rowspan=\"2\">Nilai tercatat sebagaimana tercantum dalam publikasi laporan keuangan</th><th rowspan=\"2\">Nilai tercatat berdasarkan prinsip kehati-hatian</th><th colspan=\"5\">Nilai tercatat masing-masing risiko</th></tr><tr><th>Sesuai kerangka risiko kredit</th><th>Sesuai kerangka counterparty credit risk</th><th>Sesuai kerangka sekuritisasi</th><th>Sesuai kerangka risiko pasar</th><th>Tidak mengacu pada persyaratan permodalan atau berdasarkan pengurangan modal</th></tr><tr><td>Indonesia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Aset</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Kas</td><td>2,105,620</td><td>2,105,620</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2,105,620</td></tr><tr><td>2. Penempatan pada Bank Indonesia</td><td>27,400,963</td><td>27,400,963</td><td>27,400,963</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3. Penempatan pada bank lain</td><td>5,951,807</td><td>5,951,807</td><td>5,951,807</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4. Tagihan spot dan derivatif</td><td>102,843</td><td>102,843</td><td>0</td><td>102,843</td><td>0</td><td>0</td><td>0</td></tr><tr><td>5. Surat berharga</td><td>57,339,639</td><td>57,339,639</td><td>36,117,464</td><td>0</td><td>0</td><td>21,222,175</td><td>0</td></tr><tr><td>6. Surat berharga yang dijual dengan janji dibeli kembali</td><td>3,499,300</td><td>3,499,300</td><td>3,499,300</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7. Tagihan surat berharga yg dibeli dg janji dijual kembali</td><td>175,625</td><td>175,625</td><td>175,625</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8. Tagihan akseptasi</td><td>941,898</td><td>941,898</td><td>941,898</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>9. Kredit</td><td>314,080,105</td><td>314,080,105</td><td>314,080,105</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>10. Pembiayaan syariah</td><td>43,892,827</td><td>43,892,827</td><td>43,892,827</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>11. Penyertaan</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>12. Cadangan kerugian penurunan nilai aset keuangan</td><td>(13,062,532)</td><td>(13,062,532)</td><td>(13,062,532)</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>13. Aset tidak berwujud</td><td>137,531</td><td>137,531</td><td>137,531</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>14. Aset tetap dan inventaris</td><td>14,059,957</td><td>14,059,957</td><td>14,059,957</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Akumulasi penyusutan aset tetap dan inventaris</td><td>(4,883,826)</td><td>(4,883,826)</td><td>(4,883,826)</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>15. Properti terbengkalai</td><td>1,410</td><td>1,410</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1,410</td></tr><tr><td>16. Aset yang diambil alih</td><td>77,591</td><td>77,591</td><td>77,591</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>17. Rekening tunda</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>18. Aset antarkantor</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>19. Cadangan kerugian penurunan nilai aset lainnya</td><td>(286,843)</td><td>(286,843)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>(286,843)</td></tr><tr><td>20. Penyisihan penghapusan aset non produktif</td><td>(1,410)</td><td>(1,410)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>(1,410)</td></tr><tr><td>21. Sewa pembiayaan</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>22. Aset pajak tangguhan</td><td>2,286,038</td><td>2,286,038</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2,286,038</td></tr><tr><td>23. Rupa-rupa aset*</td><td>15,811,482</td><td>15,811,482</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15,811,482</td></tr><tr><td>Total aset</td><td>469,614,502</td><td>469,614,502</td><td>428,388,710</td><td>102,843</td><td>0</td><td>21,222,175</td><td>19,916,297</td></tr><tr><td>Kewajiban</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Giro*</td><td>159,906,027</td><td>159,906,027</td><td>0</td><td>0</td><td>0</td><td>0</td><td>159,906,027</td></tr><tr><td>2. Tabungan*</td><td>39,222,081</td><td>39,222,081</td><td>0</td><td>0</td><td>0</td><td>0</td><td>39,222,081</td></tr><tr><td>3. Simpanan berjangka</td><td>153,321,383</td><td>153,321,383</td><td>0</td><td>0</td><td>0</td><td>0</td><td>153,321,383</td></tr><tr><td>4. Dana investasi revenue sharing</td><td>29,217,509</td><td>29,217,509</td><td>0</td><td>0</td><td>0</td><td>0</td><td>29,217,509</td></tr><tr><td>5. Kewajiban kepada Bank Indonesia</td><td>(0)</td><td>(0)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>(0)</td></tr><tr><td>6. Kewajiban kepada bank lain</td><td>104,745</td><td>104,745</td><td>0</td><td>0</td><td>0</td><td>0</td><td>104,745</td></tr><tr><td>7. Kewajiban spot dan derivatif</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8. Kewajiban thd surat berharga yg dijual dg janji dibeli</td><td>3,409,426</td><td>3,409,426</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,409,426</td></tr><tr><td>9. Kewajiban akseptasi</td><td>941,898</td><td>941,898</td><td>0</td><td>0</td><td>0</td><td>0</td><td>941,898</td></tr><tr><td>10. Surat berharga yang diterbitkan</td><td>5,444,524</td><td>5,444,524</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5,444,524</td></tr><tr><td>11. Pinjaman yang diterima</td><td>33,485,084</td><td>33,485,084</td><td>0</td><td>0</td><td>0</td><td>0</td><td>33,485,084</td></tr><tr><td>12. Setoran jaminan</td><td>9,604</td><td>9,604</td><td>0</td><td>0</td><td>0</td><td>0</td><td>9,604</td></tr><tr><td>13. Kewajiban antarkantor</td><td>277</td><td>277</td><td>0</td><td>0</td><td>0</td><td>0</td><td>277</td></tr><tr><td>14. Kewajiban pajak tangguhan</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>15. Penyisihan penghapusan transaksi rekening administratif</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>16. Rupa-rupa kewajiban</td><td>5,651,950</td><td>5,651,950</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5,651,950</td></tr><tr><td>17. Dana investasi profit sharing</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>18. Kepentingan minoritas (minority interest)</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>19. Modal pinjaman</td><td>6,328,105</td><td>6,328,105</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6,328,105</td></tr><tr><td>20. Modal disetor</td><td>7,017,222</td><td>7,017,222</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7,017,222</td></tr><tr><td>21. Tambahan modal disetor</td><td>2,842,822</td><td>2,842,822</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2,842,822</td></tr><tr><td>22. Selisih penilaian kembali aset tetap</td><td>3,565,773</td><td>3,565,773</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3,565,773</td></tr><tr><td>23. Selisih kuasi reorganisasi</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>24. Selisih restrukturisasi entitas sepengendali</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>25. Cadangan</td><td>5,461,717</td><td>5,461,717</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5,461,717</td></tr><tr><td>26. Laba/rugi</td><td>13,684,354</td><td>13,684,354</td><td>0</td><td>0</td><td>0</td><td>0</td><td>13,684,354</td></tr><tr><td>Total liabilitas</td><td>469,614,502</td><td>469,614,502</td><td>0</td><td>0</td><td>0</td><td>0</td><td>469,614,502</td></tr></table>",
+  "table_caption": "(dalam jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; sel header kiri kosong (rowspan=2); baris Indonesia, Aset, Kewajiban sebagai baris seksi dengan sel nilai kosong; kehati- / hatian di header ditulis utuh kehati-hatian; baris 15 Kewajiban 2 baris digabung; format angka koma ribuan disalin verbatim"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor halaman; furniture"
+ }
+]

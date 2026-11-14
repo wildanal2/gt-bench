@@ -1,0 +1,107 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.11128,
+   0.04534,
+   0.40302,
+   0.06801
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.79582,
+   0.04786,
+   0.87895,
+   0.06801
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "chromosome. Meiosis and mitosis are both nuclear divisions",
+  "page_idx": 0,
+  "bbox": [
+   0.1455,
+   0.08942,
+   0.6475,
+   0.10705
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "that result in new daughter cells. However, the two processes have significant\ndifferences. Fill out the following chart comparing the two forms of nuclear division.",
+  "page_idx": 0,
+  "bbox": [
+   0.14815,
+   0.12846,
+   0.80818,
+   0.16347
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td></td><td>Mitosis (begins with a single cell)</td><td>Meiosis (begins with a single cell)</td></tr><tr><td># chromosomes in parent cells</td><td></td><td></td></tr><tr><td># DNA replications</td><td></td><td></td></tr><tr><td># nuclear divisions</td><td></td><td></td></tr><tr><td># daughter cells produced</td><td></td><td></td></tr><tr><td>purpose</td><td></td><td></td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16651,
+   0.2051,
+   1.0,
+   0.43882
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "5. Using your beads, strings, and magnets recreate the process of meiosis. Ensuring you\nhave two different colored beads, demonstrate the process of crossing over. When you\nthink you have it down, flag your instructor over. Have them sign off on your handiwork.\nInstructor signature:",
+  "page_idx": 0,
+  "bbox": [
+   0.12488,
+   0.47573,
+   0.86818,
+   0.55237
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "6. By now hopefully you've noticed that these processes are denoted with \"2n\" and \"n\" in\nvarious places. This is a reference to the number of sets of chromosomes that cell has at\nany given moment. Autosomal human cells are 2n. Gametes are 1n. Mitosis begins with\none 2n cell and ends with two 2n cells. Meiosis begins with one 2n cell and ends with 4 1n\ncells. Sketch those two processes here to show every time the \"n\" classification changes.\n(Hint: draw every step, it'll make your life easier, evenif it takes a little bit longer!)",
+  "page_idx": 0,
+  "bbox": [
+   0.12733,
+   0.60063,
+   0.87185,
+   0.7208
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "71",
+  "page_idx": 0,
+  "bbox": [
+   0.48815,
+   0.92462,
+   0.50943,
+   0.93696
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

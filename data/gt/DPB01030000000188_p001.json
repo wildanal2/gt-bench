@@ -1,0 +1,188 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Model</td><td>Size</td><td>Type</td><td>H6 (Avg.)</td><td>ARC</td><td>HellaSwag</td><td>MMLU</td><td>TruthfulQA</td><td>Winogrande</td><td>GSM8K</td></tr><tr><td>SOLAR 10.7B-Instruct</td><td>~ 11B</td><td>Alignment-tuned</td><td>74.20</td><td>71.08</td><td>88.16</td><td>66.21</td><td>71.43</td><td>83.58</td><td>64.75</td></tr><tr><td>Qwen 72B</td><td>~ 72B</td><td>Pretrained</td><td>73.60</td><td>65.19</td><td>85.94</td><td>77.37</td><td>60.19</td><td>82.48</td><td>70.43</td></tr><tr><td>Mixtral 8x7B-Instruct-v0.1</td><td>~ 47B</td><td>Instruction-tuned</td><td>72.62</td><td>70.22</td><td>87.63</td><td>71.16</td><td>64.58</td><td>81.37</td><td>60.73</td></tr><tr><td>Yi 34B-200K</td><td>~ 34B</td><td>Pretrained</td><td>70.81</td><td>65.36</td><td>85.58</td><td>76.06</td><td>53.64</td><td>82.56</td><td>61.64</td></tr><tr><td>Yi 34B</td><td>~34B</td><td>Pretrained</td><td>69.42</td><td>64.59</td><td>85.69</td><td>76.35</td><td>56.23</td><td>83.03</td><td>50.64</td></tr><tr><td>Mixtral 8x7B-v0.1</td><td>~ 47B</td><td>Pretrained</td><td>68.42</td><td>66.04</td><td>86.49</td><td>71.82</td><td>46.78</td><td>81.93</td><td>57.47</td></tr><tr><td>Llama 2 70B</td><td>~ 70B</td><td>Pretrained</td><td>67.87</td><td>67.32</td><td>87.33</td><td>69.83</td><td>44.92</td><td>83.74</td><td>54.06</td></tr><tr><td>Falcon 180B</td><td>~ 180B</td><td>Pretrained</td><td>67.85</td><td>69.45</td><td>88.86</td><td>70.50</td><td>45.47</td><td>86.90</td><td>45.94</td></tr><tr><td>SOLAR 10.7B</td><td>~ 11B</td><td>Pretrained</td><td>66.04</td><td>61.95</td><td>84.60</td><td>65.48</td><td>45.04</td><td>83.66</td><td>55.50</td></tr><tr><td>Qwen 14B</td><td>~ 14B</td><td>Pretrained</td><td>65.86</td><td>58.28</td><td>83.99</td><td>67.70</td><td>49.43</td><td>76.80</td><td>58.98</td></tr><tr><td>Mistral 7B-Instruct-v0.2</td><td>~ 7B</td><td>Instruction-tuned</td><td>65.71</td><td>63.14</td><td>84.88</td><td>60.78</td><td>68.26</td><td>77.19</td><td>40.03</td></tr><tr><td>Yi 34B-Chat</td><td>~34B</td><td>Instruction-tuned</td><td>65.32</td><td>65.44</td><td>84.16</td><td>74.90</td><td>55.37</td><td>80.11</td><td>31.92</td></tr><tr><td>Mistral 7B</td><td>~ 7B</td><td>Pretrained</td><td>60.97</td><td>59.98</td><td>83.31</td><td>64.16</td><td>42.15</td><td>78.37</td><td>37.83</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.17634,
+   0.08213,
+   0.82385,
+   0.22841
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 2: Evaluation results for SOLAR 10.7B and SOLAR 10.7B-Instruct along with other top-performing models.\nWe report the scores for the six tasks mentioned in Sec. 4.1 along with the H6 score (average of six tasks). We also\nreport the size of the models in units of billions of parameters. The type indicates the training stage of the model\nand is chosen from {Pretrained, Instruction-tuned, Alignment-tuned}. Models based on SOLAR 10.7B are colored\npurple. The best scores for H6 and the individual tasks are shown in bold.",
+  "page_idx": 0,
+  "bbox": [
+   0.1117,
+   0.23755,
+   0.88526,
+   0.30841
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "We reformatted the instruction datasets with an\nAlpaca-styled chat template. For datasets such as\nOpenOrca, which are derived from FLAN (Long-\npre et al., 2023), we filter data that overlaps with\nthe benchmark datasets (see Tab. 8 in Appendix. C\nfor more information). The alignment datasets are\nin the {prompt, chosen, rejected} triplet format.\nWe preprocess the alignment datasets following\nZephyr (Tunstall et al., 2023).",
+  "page_idx": 0,
+  "bbox": [
+   0.116,
+   0.33355,
+   0.49309,
+   0.47983
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Evaluation. In the HuggingFace Open LLM\nLeaderboard (Beeching et al., 2023), six types of\nevaluation methods are presented: ARC (Clark\net al., 2018), HellaSWAG (Zellers et al., 2019),\nMMLU (Hendrycks et al., 2020), TruthfulQA (Lin\net al., 2022), Winogrande (Sakaguchi et al., 2021),\nand GSM8K (Cobbe et al., 2021). We utilize these\ndatasets as benchmarks for evaluation and also re-\nport the average scores for the six tasks, e.g., H6.",
+  "page_idx": 0,
+  "bbox": [
+   0.116,
+   0.48745,
+   0.49201,
+   0.63373
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Model merging. Model merging methods such\nas Yadav et al. (2023) can boost model perfor-\nmance without further training. We merge some\nof the models that we trained in both the instruc-\ntion and alignment tuning stages. We implement\nour own merging methods although popular open\nsource also exist such as MergeKit3.",
+  "page_idx": 0,
+  "bbox": [
+   0.116,
+   0.63982,
+   0.49094,
+   0.75639
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4.2 Main Results",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11277,
+   0.76553,
+   0.26361,
+   0.78077
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "We present evaluation results for our SOLAR\n10.7B and SOLAR 10.7B-Instruct models along\nwith other top-performing models in Tab. 2. SO-\nLAR 10.7B outperforms other pretrained models\nof similar sizes, such as Qwen 14B and Mistral\n7B, which shows that DUS is an effective method\nto up-scale base LLMs. Furthermore, despite the",
+  "page_idx": 0,
+  "bbox": [
+   0.11277,
+   0.78534,
+   0.48878,
+   0.89885
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "smaller size, SOLAR 10.7B-Instruct scores the\nhighest in terms of H6, even surpassing the recent\ntop-performing open-source LLM Mixtral 8×7B-\nInstruct-v0.1 or Qwen 72B. The above results indi-\ncate DUS can up-scale models that are capable of\nachieving state-of-the-art performance when fine-\ntuned. We also report data contamination results\nfor SOLAR 10.7B-Instruct in Appendix C.",
+  "page_idx": 0,
+  "bbox": [
+   0.51177,
+   0.33467,
+   0.88526,
+   0.4645
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4.3 Ablation Studies",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.51062,
+   0.47875,
+   0.68789,
+   0.49177
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "We present ablation studies for both the instruction\nand alignment tuning stages.",
+  "page_idx": 0,
+  "bbox": [
+   0.50717,
+   0.50072,
+   0.88526,
+   0.53328
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4.3.1 Instruction Tuning",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.51292,
+   0.54549,
+   0.71897,
+   0.56014
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Ablation on the training datasets. We present\nablation studies using different training datasets\nfor the instruction tuning in Tab. 3. The ablated\nmodels are prefixed with SFT for supervised fine-\ntuning. 'SFT v1' only uses the Alpaca-GPT4\ndataset, whereas 'SFT v2' also uses the OpenOrca\ndataset. 'SFT v3' uses the Synth. Math-Instruct\ndataset along with the datasets used in 'SFT v2'.\nSimilarly, 'SFT v4' uses the Synth. Math-Instruct\ndataset along with the datasets used in 'SFT v1'.",
+  "page_idx": 0,
+  "bbox": [
+   0.50947,
+   0.56788,
+   0.883,
+   0.72498
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "First, we analyze how Alpaca-GPT4 and\nOpenOrca affect the trained models. The first ab-\nlated model, 'SFT v1', which used only the Alpaca-\nGPT4 dataset for training, resulted in 69.15 for H6.\nWhen we add the OpenOrca dataset to train the\nsecond ablated model, 'SFT v2', the resulting H6\nscore is 69.21, which is little change from 69.15 of\n'SFT v1'. However, the task scores vary more as\n'SFT v2' gets a substantially higher GSM8K score\nof 57.32 compared to 52.24 of 'SFT v1' but also\ngets noticeably lower scores across the board for\nARC, HellaS wag, and TruthfulQA. This seems to",
+  "page_idx": 0,
+  "bbox": [
+   0.50947,
+   0.72823,
+   0.88358,
+   0.91871
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3https://github.com/cg123/mergekit",
+  "page_idx": 0,
+  "bbox": [
+   0.13532,
+   0.90434,
+   0.44561,
+   0.92088
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

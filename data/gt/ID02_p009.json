@@ -1,0 +1,157 @@
+[
+ {
+  "type": "text",
+  "text": "Download Aplikasi IBM Form Viewer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; screenshot halaman Unduh Viewer DJP Online; nama pengguna disensor; resolusi rendah tetapi terbaca"
+ },
+ {
+  "type": "text",
+  "text": "DJP Online",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; header aplikasi"
+ },
+ {
+  "type": "text",
+  "text": "One-Stop Tax Services",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; header aplikasi"
+ },
+ {
+  "type": "text",
+  "text": "Beranda",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; menu"
+ },
+ {
+  "type": "text",
+  "text": "Buat SPT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; menu"
+ },
+ {
+  "type": "text",
+  "text": "Download",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; menu"
+ },
+ {
+  "type": "text",
+  "text": "Dashboard",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; breadcrumb"
+ },
+ {
+  "type": "text",
+  "text": "Petunjuk",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; panel kiri dibaca sebagai blok sebelum panel kanan"
+ },
+ {
+  "type": "text",
+  "text": "Form Viewer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "1. Untuk membuka dokumen formulir elektronik SPT, pastikan komputer Anda telah terinstal Viewer. Jika Anda belum memiliki Viewer, anda dapat mengunduh aplikasi tersebut di halaman Download Viewer.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "2. Tata cara instalasi Viewer dapat Anda unduh di link Dokumen Instalasi Viewer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Unduh Viewer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; panel kanan"
+ },
+ {
+  "type": "text",
+  "text": "Viewer",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot"
+ },
+ {
+  "type": "text",
+  "text": "Untuk membuka dokumen formulir elektronik SPT, Anda perlu menginstal Viewer terlebih dahulu di komputer Anda. Silakan klik gambar di bawahi ini.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; 'bawahi' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Windows (24MB)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; screenshot; label ikon Windows"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Kementerian Keuangan Republik Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ },
+ {
+  "type": "text",
+  "text": "Direktorat Jenderal Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo"
+ }
+]

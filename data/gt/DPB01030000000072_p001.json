@@ -1,0 +1,82 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.17947,
+   0.09183,
+   0.81293,
+   0.33736
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Distribution of Komnas HAM's YouTube Content (2019-\nDiagram 5\n2020)",
+  "page_idx": 0,
+  "bbox": [
+   0.18521,
+   0.35333,
+   0.81444,
+   0.38707
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "As of 1 December 2021, the Komnas HAM's YouTube channel has 2,290\nsubscribers with 185,676 total views. In the 2019-2020 period, content thatspecifically\ndiscusses the SDGs explicitly cannot be found on the Komnas HAM's YouTube.\nNevertheless, on 15 December 2021, the Tanggap Rasa Podcast with the title of\n\"Podcast #EP32: SDGs dan Anak Muda\" (Translation: \"Podcast #EP32: SDGs and\nYouth\") has been broadcast and can increase the awareness and understanding of\nthe citizen on the SDGs, especially towards young generations.",
+  "page_idx": 0,
+  "bbox": [
+   0.11877,
+   0.40677,
+   0.88241,
+   0.5357
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11877,
+   0.54734,
+   0.88048,
+   0.7774
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Komnas HAM's YouTube channel as of 1 December\nFigure 4\n2021",
+  "page_idx": 0,
+  "bbox": [
+   0.21128,
+   0.80974,
+   0.79682,
+   0.83922
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "21",
+  "page_idx": 0,
+  "bbox": [
+   0.49029,
+   0.93152,
+   0.50865,
+   0.942
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

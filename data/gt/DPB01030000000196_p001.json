@@ -1,0 +1,162 @@
+[
+ {
+  "type": "text",
+  "text": "plexity when compared to MoE. This shift in ap-\nproach offers a unique and more straightforward\nway of working, moving away from conventional\nMoE challenges. Not only that, DUS also under-\ngoes continued pretraining to quickly recover per-\nformance of the scaled model.",
+  "page_idx": 0,
+  "bbox": [
+   0.11493,
+   0.08521,
+   0.49447,
+   0.17983
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "B.3 Prompt Engineering",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11493,
+   0.19188,
+   0.3266,
+   0.20822
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "A key research area to harness the emergent abil-\nities of LLMs is prompt engineering. Prompt en-\ngineering is the study of how to design inputs\n(prompts) that enable LLMs to better perform spe-\ncific tasks. A prime example of this research\nis Chain-of-Thought (CoT) (Wei et al., 2022b),\nwhich proposes CoT prompting that decomposes\nmulti-step problems into a series of intermedi-\nate reasoning steps. Moreover, efforts are under-\nway to replace even such prompt engineering with\nLLMs (Yang et al., 2023).",
+  "page_idx": 0,
+  "bbox": [
+   0.11493,
+   0.21424,
+   0.49204,
+   0.39145
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "B.4 Instruction Tuning",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11493,
+   0.39919,
+   0.31322,
+   0.41725
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "To enhance the steerability of LLMs, instruction\ntuning (Wei et al., 2021) has emerged as a learning\ntechnique. This involves fine-tuning LLMs using\ndata formatted as (instruction, input, output) for\nvarious tasks (Wang et al., 2022). Instruction tuning\nallows for targeted adjustments, providing a more\ncontrolled and task-oriented improvement to the\nmodel's capabilities.",
+  "page_idx": 0,
+  "bbox": [
+   0.11493,
+   0.42242,
+   0.48474,
+   0.54887
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Before instruction tuning, existing methods\nfaced challenges in effectively guiding and control-\nling the behavior of large language models (Zhang\net al., 2023b). The sheer complexity of these mod-\nels made it difficult to ensure precise and task-\noriented responses. The need for a more targeted\napproach arose from the limitations of existing\nmethods, leading to the development of instruc-\ntion tuning. This targeted approach enables better\ncontrol over the model's behavior, making it more\nsuitable for specific tasks and improving its overall\nperformance in alignment with user-defined objec-\ntives. Therefore, instruction tuning is computation-\nally efficient and facilitates the rapid adaptation\nof LLMs to a specific domain without requiring\nextensive retraining or architectural changes.",
+  "page_idx": 0,
+  "bbox": [
+   0.11615,
+   0.55059,
+   0.48961,
+   0.80865
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "B.5 Alignment Tuning",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11615,
+   0.81898,
+   0.312,
+   0.83446
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "LLM has been observed to generate sentences that\nmay be perceived as linguistically incongruent by\nhuman readers since they learned not human inten-\ntion, but only vast knowledge across various do-\nmains in the pretraining step (Ziegler et al., 2019).",
+  "page_idx": 0,
+  "bbox": [
+   0.11493,
+   0.83876,
+   0.49204,
+   0.91876
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "To overcome this limitation and align with human\nintentions, previous research (Ziegler et al., 2019)\nhave proposed Reinforcement Learning with Hu-\nman Feedback (RLHF). RLHF operates by learning\na reward model based on human preferences, em-\nploying reinforcement learning to guide the LLM\ntowards prioritizing answers with the highest re-\nward scores. This process enhances the safety,\npropriety, and overall quality of the generated re-\nsponses. Despite demonstrating satisfactory per-\nformance, RLHF encounters challenges such as\nmanaging numerous hyperparameters and necessi-\ntating the incorporation of multiple models (policy,\nvalue, reward, and reference models).",
+  "page_idx": 0,
+  "bbox": [
+   0.5115,
+   0.08521,
+   0.88374,
+   0.30887
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "In response to these challenges, the supervised\nfine-tuning based approaches have proposed, such\nas Rank Responses to align Human Feedback\n(RRHF) (Yuan et al., 2023), Reward rAnked Fine-\nTuning (RAFT) (Dong et al., 2023), and Direct\nPolicy Optimization (DPO) (Intel, 2023). They\navoid the complexities associated with reinforce-\nment learning while achieving empirical perfor-\nmance comparable to RLHF. Among them, DPO\nthat we used directly guides the LLM to increase\nthe probability of positive responses and decrease\nthe probability of negative responses through a \"di-\nrect\" approach. Interestingly, DPO demonstrates\nmore stable learning results compared to RLHF,\ndespite its simple training approach.",
+  "page_idx": 0,
+  "bbox": [
+   0.5115,
+   0.31747,
+   0.89104,
+   0.55833
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "B.6 Data Contamination",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.5115,
+   0.585,
+   0.7256,
+   0.59876
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Recent researches (Zhou et al., 2023; Sainz et al.,\n2023; Golchin and Surdeanu, 2023; Deng et al.,\n2023) emphasize the need to measure whether a\nspecific benchmark was used to train the large lan-\nguage models. There are three types of the data\ncontamination: guideline, raw text and annota-\ntion (Sainz et al., 2023). Guideline contamination\noccurs when a model accesses detailed annotation\nguidelines for a dataset, providing advantages in\nspecific tasks, and its impact should be considered,\nespecially in zero and few-shot evaluations. Raw\ntext contamination occurs when a model has ac-\ncess to the original text. Wikipedia is widely used\nas a pretraining data, but also as a source for cre-\nating new datasets. The caution is advised in the\ndevelopment of automatically annotated datasets\nsourced from the web. Annotation contamina-\ntion occurs when the annotations of the specific\nbenchmark are exposed during model training.",
+  "page_idx": 0,
+  "bbox": [
+   0.51272,
+   0.6108,
+   0.88374,
+   0.92134
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

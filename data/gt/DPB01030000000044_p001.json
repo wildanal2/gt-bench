@@ -1,0 +1,29 @@
+[
+ {
+  "type": "text",
+  "text": "Table of Contents",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.16032,
+   0.09477,
+   0.44162,
+   0.11552
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Executive Summary 4\nLegal Framework 6\nElection Administration 11\nCivil Society Engagement 15\nPolitical Parties, Candidates Registration and Election 18\nCampaign\nMedia Freedom and Access to Information 25\nVoter Education and Awareness 29\nParticipation of Marginalized Sectors 31\nRecommendations 39",
+  "page_idx": 0,
+  "bbox": [
+   0.15659,
+   0.1784,
+   0.8903,
+   0.55303
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ }
+]

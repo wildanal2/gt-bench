@@ -1,0 +1,204 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo pwc; furniture"
+ },
+ {
+  "type": "text",
+  "text": "pwc",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "LAPORAN AUDITOR INDEPENDEN KEPADA PARA PEMEGANG SAHAM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; judul bertumpuk 2 baris",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "INDEPENDENT AUDITORS’ REPORT TO THE SHAREHOLDERS OF",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring; judul bertumpuk 2 baris",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PT BANK PERMATA TBK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; baris judul bersama di tengah, melanjutkan judul ID dan EN",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Opini",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Opinion",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Kami telah mengaudit laporan keuangan PT Bank Permata Tbk (“Bank”), yang terdiri dari laporan posisi keuangan tanggal 31 Desember 2024, serta laporan laba rugi dan penghasilan komprehensif lain, laporan perubahan ekuitas dan laporan arus kas untuk tahun yang berakhir pada tanggal tersebut, serta catatan atas laporan keuangan, termasuk informasi kebijakan akuntansi material.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "We have audited the financial statements of PT Bank Permata Tbk (the “Bank”), which comprise the statement of financial position as at 31 December 2024, and the statement of profit or loss and other comprehensive income, statement of changes in equity and statement of cash flows for the year then ended, and notes to the financial statements, including material accounting policy information.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Menurut opini kami, laporan keuangan terlampir menyajikan secara wajar, dalam semua hal yang material, posisi keuangan Bank tanggal 31 Desember 2024, serta kinerja keuangan dan arus kasnya untuk tahun yang berakhir pada tanggal tersebut, sesuai dengan Standar Akuntansi Keuangan di Indonesia.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the Bank as at 31 December 2024, and its financial performance and its cash flows for the year then ended, in accordance with Indonesian Financial Accounting Standards.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Basis Opini",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Basis for Opinion",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Kami melaksanakan audit kami berdasarkan Standar Audit yang ditetapkan oleh Institut Akuntan Publik Indonesia. Tanggung jawab kami menurut standar tersebut diuraikan lebih lanjut dalam paragraf Tanggung Jawab Auditor terhadap Audit atas Laporan Keuangan pada laporan kami. Kami independen terhadap Bank berdasarkan ketentuan etika yang relevan dalam audit kami atas laporan keuangan di Indonesia, dan kami telah memenuhi tanggung jawab etika lainnya berdasarkan ketentuan tersebut. Kami yakin bahwa bukti audit yang telah kami peroleh adalah cukup dan tepat untuk menyediakan suatu basis bagi opini audit kami.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "We conducted our audit in accordance with Standards on Auditing established by the Indonesian Institute of Certified Public Accountants. Our responsibilities under those standards are further described in the Auditors’ Responsibilities for the Audit of the Financial Statements paragraph of our report. We are independent of the Bank in accordance with the ethical requirements that are relevant to our audit of the financial statements in Indonesia, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Hal Audit Utama",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Key Audit Matters",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Hal audit utama adalah hal-hal yang, menurut pertimbangan profesional kami, merupakan hal yang paling signifikan dalam audit kami atas laporan keuangan periode kini. Hal-hal tersebut disampaikan dalam konteks audit kami atas laporan keuangan secara keseluruhan, dan dalam merumuskan opini kami atas laporan keuangan terkait, kami tidak menyatakan suatu opini terpisah atas hal audit utama tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual"
+ },
+ {
+  "type": "text",
+  "text": "Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial statements of the current period. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bilingual; miring"
+ },
+ {
+  "type": "text",
+  "text": "Kantor Akuntan Publik Rintis, Jumadi, Rianto & Rekan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; kop KAP"
+ },
+ {
+  "type": "text",
+  "text": "WTC 3, Jl. Jend. Sudirman Kav. 29-31, Jakarta 12920 – Indonesia",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "T: +62 (21) 5099 2901 / 3119 2901, F: +62 (21) 5290 5555 / 5290 5050, www.pwc.com/id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Nomor Izin Usaha: KEP-315/KM.1/2024.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "00052/2.1457/AU.1/07/0230-1/1/II/2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor laporan auditor"
+ }
+]

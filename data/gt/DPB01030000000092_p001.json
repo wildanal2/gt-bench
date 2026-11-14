@@ -1,0 +1,94 @@
+[
+ {
+  "type": "text",
+  "text": "laboratory experiments that have formed key pillars of the field, such as those experiments depicted in\nExamples 1 and 2 in the book's Introduction section. The thought experiments in Section 1 are, for the\nmost part, re-castings of the simple cognitive tests devised by psychologists and economists over the\npast three-to-four decades to illustrate the fallacies, miscalculations, and biases distinguishing Homo\nsapiens from Homo economicus. Similarly, the laboratory experiments presented in Section 2 are, for the\nmost part, re-castings of the seminal experiments conducted by Kahneman and Tversky (among many\nothers). These experiments helped motivate the revised theories of human choice behavior, such as\nKahneman and Tversky's (1979) Prospect Theory, which form another pillar of behavioral economics.\nAlongside these experiments, Section 2 presents the revised theories of human choice behavior with\nvarying degrees of rigor. This is where the theoretical bases of Homo economicus' rational choice\nbehavior are examined, and where key refinements to this theory are developed-theoretical\nrefinements underpinning the myriad departures from rational choice behavior we witness Homo\nsapiens make in this section's laboratory and field experiments (and which are examined further in\nSections 3 and 4).",
+  "page_idx": 0,
+  "bbox": [
+   0.08839,
+   0.07032,
+   0.90991,
+   0.34119
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Section 3 submerses the student in the world of behavioral game theory. Here we explore games\nsuch as Ultimatum Bargaining presented in Example 5. We follow Camerer (2003)'s lead, first by\ncharacterizing the games analytically (i.e., identifying solution, or equilibrium, concepts that are\npredicted to result when members of Homo economicus play the games), and then by discussing\nempirical results obtained from corresponding field experiments conducted with Homo sapiens. It\nis within the context of these games and field experiments that theories of social interaction are\ntested concerning inter alia trust and trustworthiness, honesty, fairness, reciprocity, etc. As with the\nthought and laboratory experiments presented in Sections 1 and 2, the games and field experiments\npresented in Section 3 are meant to be replicated with students as subjects and the instructor as the\nexperimenter, or researcher.",
+  "page_idx": 0,
+  "bbox": [
+   0.08839,
+   0.3429,
+   0.90991,
+   0.53727
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Finally, Section 4 wades into the vast sea of empirical research and choice architecture. Here the\nstudent explores studies reporting on (1) the outcomes of actual policy nudges, such as the SMarT\nretirement-savings plan presented in Example 3 of the Introduction, (2) analyses of secondary datasets\nto test for choice behavior consistent with the revised theories discussed in Section 2, such as the test\nfor loss aversion in Example 4 of the Introduction, and (3) analyses of primary datasets obtained from\nnovel field experiments to further test the revised theories. The main purpose of this section is not\nonly to introduce the student to interesting empirical studies and policy adaptations in the field of\nbehavioral economics, but also, in the process, to incubate in the student an abiding appreciation for\nthe obscure settings that sometimes lend themselves to such study.3",
+  "page_idx": 0,
+  "bbox": [
+   0.08839,
+   0.53727,
+   0.90991,
+   0.71181
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "THE TEXTBOOK'S DIFFERENT LEVELS OF RIGOR",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08965,
+   0.7289,
+   0.55397,
+   0.74504
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Because the mathematical and computational rigor of material presented in this textbook varies\nthroughout, particularly in Sections 2 - 4, the extent of the rigor used in the presentation of a\ngiven topic is indicated with superscripts. Topics without a superscript are considered basic and\nuniversal enough that backgrounds in economics, mathematics, or statistics are not required for the\nreader to understand the material. Topics with a single asterisk (*) indicate that higher mathematical\nreasoning skills are recommended for the reader to fully grasp the material. Topics with a double",
+  "page_idx": 0,
+  "bbox": [
+   0.08839,
+   0.76118,
+   0.90991,
+   0.87599
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3. Our approach to studying behavioral economics is focused on the underlying laboratory experimentation and behavioral\ngames that form the bedrock of the field. As such, we eschew delving into related fields such as neuroeconomics and\nauction theory. See Cartwright (2018) and Just (2013) for introductions to the former and latter fields, respectively.",
+  "page_idx": 0,
+  "bbox": [
+   0.07698,
+   0.89785,
+   0.89321,
+   0.94656
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "XX ARTHUR J. CAPLAN",
+  "page_idx": 0,
+  "bbox": [
+   0.09049,
+   0.94964,
+   0.23275,
+   0.96003
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

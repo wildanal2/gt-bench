@@ -1,0 +1,120 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.20326,
+   0.07368,
+   0.83676,
+   0.36942
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "6. Warning: This question concerns a politically charged event that occurred on January\n18, 2019, at the Indigenous People's March in Washington, D.C. After reading this\naccount of what happened at the march, and viewing this video of the event, which of\nthe effects presented in this chapter do you think best describes this episode in our\nnation's history?",
+  "page_idx": 0,
+  "bbox": [
+   0.17006,
+   0.3998,
+   0.89706,
+   0.49636
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "7. Think of a situation in your own life when you framed information (either wittingly or\nunwittingly) in such a way that helped pre-determine an outcome. Describe the\nsituation and how you framed the information. Was the outcome improved or\nworsened as a result of how you framed the information?",
+  "page_idx": 0,
+  "bbox": [
+   0.17006,
+   0.51999,
+   0.90142,
+   0.59561
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "8. After having learned about the Anchoring Effect in this chapter, do you think you will\never fall for something like this again?",
+  "page_idx": 0,
+  "bbox": [
+   0.17006,
+   0.61857,
+   0.89706,
+   0.65638
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "9. When someone admonishes you \"not to judge a book by its cover,\" or as British\nmanagement journalist Robert Heller once noted, \"Never ignore a gut feeling, but never\nbelieve that it's enough,\" what heuristic(s) is he unwittingly advising you to avoid using?",
+  "page_idx": 0,
+  "bbox": [
+   0.17006,
+   0.68069,
+   0.90842,
+   0.73876
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "10. Browse the internet for information about an effect that was not discussed in this\nchapter. Can you classify this effect as a special case of a Priming or Framing Effect?\nExplain.",
+  "page_idx": 0,
+  "bbox": [
+   0.16219,
+   0.76037,
+   0.87783,
+   0.81843
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "11. Browse the internet for a heuristic other than the Affect and Availability Heuristics\ndescribed in this chapter. Explain the heuristic.",
+  "page_idx": 0,
+  "bbox": [
+   0.16219,
+   0.84004,
+   0.87172,
+   0.8792
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "12. It's one thing to detect the existence of a Silo Effect and quite another to measure its",
+  "page_idx": 0,
+  "bbox": [
+   0.16219,
+   0.90081,
+   0.87958,
+   0.92039
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "24 ARTHUR J. CAPLAN",
+  "page_idx": 0,
+  "bbox": [
+   0.0918,
+   0.94974,
+   0.2317,
+   0.96013
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

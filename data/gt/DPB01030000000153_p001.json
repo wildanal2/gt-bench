@@ -1,0 +1,122 @@
+[
+ {
+  "type": "text",
+  "text": "CHAPTER 7.",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09196,
+   0.14759,
+   0.20832,
+   0.15933
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "TEXAS",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09196,
+   0.18568,
+   0.16089,
+   0.19827
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "MICHELLE REED",
+  "page_idx": 0,
+  "bbox": [
+   0.09196,
+   0.30365,
+   0.22038,
+   0.31516
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "COURSE MARKING DRIVERS",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09196,
+   0.37579,
+   0.36423,
+   0.38839
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "I've worked at the University of Texas at Arlington (UTA) for the last three years as Open Education\nLibrarian and was recently promoted to the leadership team as Director of Open Educational\nResources following a half-million-dollar investment in OER from university administration. It was\nin my first year as Open Education Librarian that the Texas Legislature passed Senate Bill 810\n(SB810), which requires institutions of higher education across the state to provide searchable\ninformation to students about OER-only courses. A strong definition of OER was provided:",
+  "page_idx": 0,
+  "bbox": [
+   0.08974,
+   0.40557,
+   0.90985,
+   0.51762
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\"teaching, learning, and research resources that reside in the public domain or have been released under an\nintellectual property license that allows for free use, reuse, modification, and sharing with others, including\nfull courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools,\nmaterials, or techniques used to support access to knowledge.\"",
+  "page_idx": 0,
+  "bbox": [
+   0.1074,
+   0.53346,
+   0.89302,
+   0.59822
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "However, Texas was not given a very long implementation window. The bill passed in June 2017,\neffective immediately, with a compliance deadline of Spring 2018. We in higher education know a\nchange of this scope, and impacting as many stakeholders as course marking does, takes longer. A\nrecent survey commissioned by the Digital Higher Education Consortium of Texas (DigiTex) and\nadministered in May 2019 shows only 59 respondents of the 158 two-and four-year institutions that\nreceived the statewide survey have a course marking solution in place. The findings were presented\nin Open Educational Resources (OER) in Texas Higher Education, 2019.1",
+  "page_idx": 0,
+  "bbox": [
+   0.08974,
+   0.61378,
+   0.90985,
+   0.74919
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "1.Jimes, C., Karaglani, A., Petrides, L., Rios,J., Sebesta,J., & Torre, K. (2019). Open Educational Resources (OER) in Texas Higher Education,\n2019. Austin, TX: Digital Higher Education Consortium of Texas and Texas Higher Education Coordinating Board; Half Moon Bay,\nCA: Institute for the Study of Knowledge Management in Education.",
+  "page_idx": 0,
+  "bbox": [
+   0.07795,
+   0.9007,
+   0.90269,
+   0.94593
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "PRICE TRANSPARENCY 17",
+  "page_idx": 0,
+  "bbox": [
+   0.74689,
+   0.95001,
+   0.90801,
+   0.95966
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

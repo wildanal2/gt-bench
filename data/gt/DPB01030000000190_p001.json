@@ -1,0 +1,174 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Model</td><td>H6 (Avg.)</td><td>ARC</td><td>HellaSwag</td><td>MMLU</td><td>TruthfulQA</td><td>Winogrande</td><td>GSM8K</td></tr><tr><td>Cand. 1</td><td>73.73</td><td>70.48</td><td>87.47</td><td>65.73</td><td>70.62</td><td>81.53</td><td>66.57</td></tr><tr><td>Cand. 2</td><td>73.28</td><td>71.59</td><td>88.39</td><td>66.14</td><td>72.50</td><td>81.99</td><td>59.14</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.2552,
+   0.08413,
+   0.74624,
+   0.1276
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 6: Performance comparison amongst the merge candidates. 'Cand. 1' and 'Cand. 2' are trained using the\nsame setting as 'DPO v2' and 'DPO v3', respectively, but with slightly different hyper-parameters. The best scores\nfor H6 and the individual tasks are shown in bold.",
+  "page_idx": 0,
+  "bbox": [
+   0.11312,
+   0.13936,
+   0.88417,
+   0.18283
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Model</td><td>Merge Method</td><td>H6 (Avg.)</td><td>ARC</td><td>HellaSwag</td><td>MMLU</td><td>TruthfulQA</td><td>Winogrande</td><td>GSM8K</td></tr><tr><td>Merge v1</td><td>Average (0.5,0.5)</td><td>74.00</td><td>71.16</td><td>88.01</td><td>66.14</td><td>71.71</td><td>82.08</td><td>64.90</td></tr><tr><td>Merge v2</td><td>Average (0.4, 0.6)</td><td>73.93</td><td>71.08</td><td>88.08</td><td>66.27</td><td>71.89</td><td>81.77</td><td>64.52</td></tr><tr><td>Merge v3</td><td>Average (0.6, 0.4)</td><td>74.05</td><td>71.08</td><td>87.88</td><td>66.13</td><td>71.61</td><td>82.08</td><td>65.50</td></tr><tr><td>Merge v4</td><td>SLERP</td><td>73.96</td><td>71.16</td><td>88.03</td><td>66.25</td><td>71.79</td><td>81.93</td><td>64.59</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.21698,
+   0.19517,
+   0.78363,
+   0.25863
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 7: Ablation studies on the different merge methods used for obtaining the final model. We use 'Cand. 1'\nand 'Cand. 2' from Tab. 6 as our two models for merging. We name the merged models with the 'Merge' prefix to\nindicate they are merged. The best scores for H6 and the individual tasks are shown in bold.",
+  "page_idx": 0,
+  "bbox": [
+   0.11561,
+   0.26979,
+   0.88417,
+   0.31033
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "tively impacted by adding Synth. Math-Alignment.\nThus, we can conclude that adding Synth. Math-\nAlignment is beneficial for H6.",
+  "page_idx": 0,
+  "bbox": [
+   0.11645,
+   0.33794,
+   0.492,
+   0.38319
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Then, we experiment whether merging 'DPO\nv1' and 'DPO v2' is beneficial. Unfortunately,\n'DPO v1+v2' scores 73.21 in H6, which is worse\nthan 'DPO v2'. More importantly, the gain in\nthe GSM8K score from adding Synth. Math-\nAlignment is gone, which is undesirable. One\nreason for this could be that 'DPO v2' is a strict\nimprovement over 'DPO v1', unlike the case for\nmerging 'SFT v3' and 'SFT v4' where the models\nhad different strengths and weaknesses.",
+  "page_idx": 0,
+  "bbox": [
+   0.11561,
+   0.38789,
+   0.49034,
+   0.54535
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Ablation on the SFT base models. When ap-\nplying DPO, we start from a model that is already\ninstruction tuned ,i.e., the SFT base model and ab-\nlate on using different SFT base models. We use\nUltrafeedback Clean and Synth. Math-Alignment\ndatasets for this ablation. Each of the ablated mod-\nels is trained as follows. 'DPO v2' uses 'SFT v3'\nas the base SFT model, while 'DPO v3' uses 'SFT\nv3+v4' as the SFT base model instead.",
+  "page_idx": 0,
+  "bbox": [
+   0.11645,
+   0.5571,
+   0.48867,
+   0.69869
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Note that 'SFT v3+v4' has higher scores on all\ntasks compared to 'SFT v3', and the gap is espe-\ncially large for ARC (+1.45) and GSM8K (+2.43).\nSurprisingly, the two models perform similarly in\nterms of H6. A closer look at the scores for the\nindividual tasks shows only a small margin in the\nGSM8K scores, and other task scores show little\ndifference. Thus, the performance gaps in certain\ntasks in the SFT base models do not always carry\nover to the alignment-tuned models.",
+  "page_idx": 0,
+  "bbox": [
+   0.11977,
+   0.70222,
+   0.492,
+   0.85968
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Ablation on different merge methods. From\nTab. 3, we saw that merging two models that have\ndifferent strengths can be beneficial to performance.",
+  "page_idx": 0,
+  "bbox": [
+   0.11645,
+   0.87202,
+   0.49615,
+   0.9202
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "To utilize this for the alignment-tuned model as\nwell, we train two models named 'Cand. 1' and\n'Cand. 2' using the same training dataset and SFT\nbase model as 'DPO v2' and 'DPO v3' but with dif-\nferent hyper-parameters to maximize each model's\nrespective strengths. We compare 'Cand. 1' and\n'Cand. 2' in Tab. 6 where we can see that 'Cand. 1'\nhas high GSM8K scores but relatively low scores\nfor the other tasks, whereas 'Cand. 2' has low\nscores for GSM8K but high scores for the other\ntasks. We merge these two models using various\nmethods and ablate the results in Tab.. 7.",
+  "page_idx": 0,
+  "bbox": [
+   0.51034,
+   0.33587,
+   0.88167,
+   0.52882
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We use two merge methods: 1) Average (a, b),\nwhere a and b denote the weighting for 'Cand.\n1' and 'Cand. 2' when averaging weights and 2)\nSLERP (Shoemake, 1985). We use (0.5, 0.5), (0.4,\n0.6), and (0.6, 0.4) for Average (a, b). From Tab. 7,\nwe can see that the different merge methods have\nlittle effect on the H6 scores. The scores for the\nindividual tasks also do not differ by much, suggest-\ning that as long as the merge candidates have suffi-\nciently different strengths, the exact merge method\nmay not be as crucial. Thus, we chose 'Merge v1'\nas our SOLAR 10.7B-Instruct model.",
+  "page_idx": 0,
+  "bbox": [
+   0.51034,
+   0.53244,
+   0.88679,
+   0.72176
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "5 Conclusion",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.51239,
+   0.73409,
+   0.65087,
+   0.75005
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "We introduce SOLAR 10.7B and its fine-tuned vari-\nant SOLAR 10.7B-Instruct, which are depth up-\nscaled (DUS) models with 10.7 billion parameters.\nThey show superior performance over models like\nLlama 2, Mistral 7B, and Mixtral-7B-Instruct in es-\nsential NLP tasks while maintaining computational\nefficiency. Thus, DUS is effective in scaling-up\nhighly performant LLMs from smaller ones. With\nmore exploration, DUS could be further improved,\npaving a new path to efficiently scaling LLMs.",
+  "page_idx": 0,
+  "bbox": [
+   0.51034,
+   0.7602,
+   0.88679,
+   0.91761
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

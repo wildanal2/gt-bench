@@ -1,0 +1,135 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.41181,
+   0.07439,
+   0.58265,
+   0.2012
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 7.3. You can read more about KSU's\nmarketing approach in Marking Open and\nAffordable Courses (Hare, Kirschner, and Reed\n2020).",
+  "page_idx": 0,
+  "bbox": [
+   0.32363,
+   0.21615,
+   0.64897,
+   0.27335
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "For an even simpler graphic, we can look to Kansas State University. KSU's Open/Alternative\nTextbook Initiative developed their OER icon, a book with an \"O\" on the cover, to be recognizable\neven at a small scale. This was done because it would be used as a marking denoting the use of\nopen materials in their course schedule. This graphic is clear, easy to read, and emblematic of the\ninitiative itself, by representing open textbooks with a book icon.",
+  "page_idx": 0,
+  "bbox": [
+   0.1141,
+   0.29578,
+   0.88628,
+   0.39193
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Aligning with Your Identity",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.1141,
+   0.41753,
+   0.39504,
+   0.4377
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Like KSU did with their OER icon, your branding should be reflective of your initiative's work\nin some way. Think about your audience and what you want them to feel when they see your\nprogram's marketing on campus. Does your program have a unique name or tagline that\ninfluences the way you present it (e.g., playful, bold, colorful, or innovative)?",
+  "page_idx": 0,
+  "bbox": [
+   0.1141,
+   0.45496,
+   0.88628,
+   0.53314
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.1141,
+   0.53897,
+   0.35577,
+   0.78754
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 7.4. You can read more\nabout CVCC's marketing\napproach in Marking Open and\nAffordable Courses (Hare,\nKirschner, and Reed 2020).",
+  "page_idx": 0,
+  "bbox": [
+   0.11484,
+   0.79806,
+   0.33464,
+   0.86945
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "A great example of a program whose name and messaging align\nclearly with their work is Central Virginia Community College\n(CVCC). CVCC uses the tagline \"OpenEd CVCC: Innovation and\nAffordability\" as their program's name and their icon features this\ntheme of innovation through graphics of light bulbs, gears, and\nrepresentations of various disciplines.",
+  "page_idx": 0,
+  "bbox": [
+   0.36954,
+   0.55058,
+   0.88628,
+   0.66397
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "CVCC's logo is more complex than the ones we shared in our\n\"simple\" section. However, this isn't a problem in their case. Keep\nin mind that the simplicity of any graphic will depend on where\nand how it's used. CVCC's logo might have more going on than\nKSU's icon, but it is meant to be used at a larger scale, SO it can\naccommodate this complexity. If your logo will be used in print\nmaterials or as a smaller icon, that's when you'll want to focus on\nsimpler designs. For graphics that will be displayed more\nprominently, though, a larger graphic works fine.",
+  "page_idx": 0,
+  "bbox": [
+   0.36954,
+   0.68103,
+   0.88628,
+   0.85713
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "90 | PROGRAM MANAGEMENT",
+  "page_idx": 0,
+  "bbox": [
+   0.11484,
+   0.93968,
+   0.33464,
+   0.95377
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

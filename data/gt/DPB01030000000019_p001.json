@@ -1,0 +1,81 @@
+[
+ {
+  "type": "text",
+  "text": "Author's Note to the\n2021 Edition",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.24479,
+   0.20368,
+   0.72896,
+   0.28344
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "This book is a minimally amended, reprinted version of Sing me that\nlovely song again (Pandanus Press, 2006). The title was chosen by Ian\nTempleman, the publisher, because he was more interested in its literary\nmerits than in academic history. For that reason, many of my dates were\nremoved from the original manuscript during editing.",
+  "page_idx": 0,
+  "bbox": [
+   0.1209,
+   0.3419,
+   0.85125,
+   0.44514
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "My original intention was to get my parents and the elder of my two\nbrothers to write their own memories of how they experienced their\ninternment in Persia and five years behind barbed wire in Australia\nduring World War II, focusing on individual memory by gender and age.\nIt seemed a remarkable opportunity to make this anecdotal and analytical\ncontribution to social science: they had each lived in the same space with\nthe same people for the same period. It was to be an experiment made in\nheaven, that is, within an impeccable laboratory. But my parents had been\ntoo distressed by their loss of freedom and the congested and pressured\natmosphere of life in camp to collaborate.",
+  "page_idx": 0,
+  "bbox": [
+   0.12372,
+   0.45528,
+   0.85125,
+   0.65809
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Because I wanted to keep the focus on my own memories, and the tone\nof voice my own, I wrote my own book with only minimal research in\nvarious archives in Australia and abroad. I did some research as a check on\nsome important facts.",
+  "page_idx": 0,
+  "bbox": [
+   0.12372,
+   0.66735,
+   0.84455,
+   0.74963
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Asked to speak about my at an academic conference at the\nbook\nUniversity of Queensland in 2006, I did some further research to validate\nmy contribution. My speech was then published in National Socialism in\nOceania (edited by Emily Turner-Graham and Christine Winter, Peter\nLang, 2010) with the title I had originally suggested to Pandanus Press,\n'At Home in Exile: Ambiguities of wartime patriotism'. When in 2015\nI was asked by Japanese scholars to speak at Cowra, NSW, at a conference\non internment, I suggested that my younger brother, Peter, also be invited",
+  "page_idx": 0,
+  "bbox": [
+   0.12372,
+   0.7603,
+   0.84688,
+   0.9241
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "ix",
+  "page_idx": 0,
+  "bbox": [
+   0.88767,
+   0.92791,
+   0.91214,
+   0.94391
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

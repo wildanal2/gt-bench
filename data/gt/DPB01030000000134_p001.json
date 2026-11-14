@@ -1,0 +1,82 @@
+[
+ {
+  "type": "text",
+  "text": "What's unique about the growth of Alligator Gars is their fast growth in the first years of life followed by slower\ngrowth (Figure 8.6; Figure 8.7). Juvenile Alligator Gars quickly transition to fish-eating habits (Butler et al. 2018).\nA fish diet means the juveniles grow at 4-5 mm per day in the first three months of life, so that by the end of the\nfirst growing season they may reach 1.5 to 2 feet in length (~40-70 cm) and 8-10 pounds in weight (Sakaris et al.\n2019). Despite their fast growth, young Alligator Gars are preyed upon by many larger fish.",
+  "page_idx": 0,
+  "bbox": [
+   0.0946,
+   0.08222,
+   0.90293,
+   0.17524
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.21104,
+   0.19888,
+   0.78705,
+   0.47315
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 8.6: Growth in length of Alligator Gar in Texas. Figure 8.7: Growth in weight of Alligator\nGar in Texas. Long description.",
+  "page_idx": 0,
+  "bbox": [
+   0.19658,
+   0.48726,
+   0.79803,
+   0.51458
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.22331,
+   0.58518,
+   0.78117,
+   0.84564
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 8.7: Growth in weight of Alligator Gar in Texas.",
+  "page_idx": 0,
+  "bbox": [
+   0.20882,
+   0.85851,
+   0.55003,
+   0.8718
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Angling and Conservation of Living Fishy Dinosaurs | 171",
+  "page_idx": 0,
+  "bbox": [
+   0.53565,
+   0.93504,
+   0.90251,
+   0.9484
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

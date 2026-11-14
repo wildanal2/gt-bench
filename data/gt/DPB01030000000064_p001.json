@@ -1,0 +1,107 @@
+[
+ {
+  "type": "text",
+  "text": "estuarine influenced areas. Batangas, Cebu and Iloilo are located very near to protected areas\nand tourism areas. Batangas is within the center of the center of global marine biodiversity while\nCebu is in the Mactan key biodiversity area. Manila has the highest number of foreign shipcalls\nwhile Cebu has the highest domestic shipcalls and second to Manila in international shipcalls.",
+  "page_idx": 0,
+  "bbox": [
+   0.11537,
+   0.09298,
+   0.88334,
+   0.19234
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "PORT",
+  "page_idx": 0,
+  "bbox": [
+   0.12561,
+   0.23245,
+   0.16839,
+   0.24463
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "SHIPCALLS",
+  "page_idx": 0,
+  "bbox": [
+   0.3502,
+   0.23245,
+   0.43212,
+   0.24463
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td></td><td>Foreign</td><td>Domestic</td></tr><tr><td>MANILA</td><td>2454</td><td>6,125</td></tr><tr><td>CEBU</td><td>1138</td><td>79,500</td></tr><tr><td>BATANGAS</td><td>958</td><td>13,196</td></tr><tr><td>SUBIC</td><td>313</td><td>136</td></tr><tr><td>CAGAYAN DE ORO</td><td>137</td><td>3,159</td></tr><tr><td>DAVAO</td><td>750</td><td>17,807</td></tr><tr><td>ILOILO</td><td>212</td><td>24,381</td></tr><tr><td>GENERAL SANTOS</td><td>112</td><td>704</td></tr><tr><td>ZAMBOANGA</td><td>40</td><td>41,27</td></tr><tr><td>LUCENA</td><td>74</td><td>4,428</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11711,
+   0.24782,
+   0.49748,
+   0.45972
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Table 1. Top 10 ports in the Philippines in shipcalls (2020 data from PPA, CPA and SBMA)",
+  "page_idx": 0,
+  "bbox": [
+   0.11537,
+   0.48911,
+   0.82097,
+   0.50611
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The port of Manila has been documented to have a significant number of possible IAS. The on-\ngoing SAILS-PORTEC research program has detected IAS in Davao, Cebu and Matnog ports. These\nports are adjacent to specific oil tanker pathways/routes. In Luzon where the refineries and oil\nstorage facilities are located such as Batangas, are at higher risk. These loading ports are at high\nrisk for IAS/MNIS and these are located near to international ports.",
+  "page_idx": 0,
+  "bbox": [
+   0.11537,
+   0.54404,
+   0.88334,
+   0.67246
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The shipcall statistics in Table 1 represent the year 2020, when the COVID 19 pandemic caused a\nglobal and domestic maritime transport slowdown. The average reduction in shipcalls is around\n40%. Nonetheless, Manila and Cebu are likely the main ports that need to be closely monitored\nfor potential IAS bioinvasion. In 2018, before the COVID-19 pandemic, Manila was experiencing\nport congestion with a report that ships may stay at berth for five days (Wallis, 2019). This will\nincrease the risks for biofouling. Based on the 2021 statistics from the PPA, the average berthing\ntime has been reduced to 1 day. This is a result of less shipping traffic due to the pandemic.",
+  "page_idx": 0,
+  "bbox": [
+   0.11537,
+   0.71093,
+   0.88334,
+   0.89371
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "10",
+  "page_idx": 0,
+  "bbox": [
+   0.86305,
+   0.92255,
+   0.88271,
+   0.93366
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

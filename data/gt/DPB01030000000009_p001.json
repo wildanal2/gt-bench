@@ -1,0 +1,107 @@
+[
+ {
+  "type": "text",
+  "text": "74",
+  "page_idx": 0,
+  "bbox": [
+   0.10002,
+   0.04909,
+   0.12107,
+   0.05913
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BAIRD",
+  "page_idx": 0,
+  "bbox": [
+   0.84963,
+   0.04965,
+   0.89775,
+   0.05969
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.10859,
+   0.08293,
+   0.60286,
+   0.58388
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 4.3\nThe Honey-Moon [graphic]. Mezzotint,\nhand-colored.\nPRINTED FOR CARINGTON BOWLES,\nLONDON, JUNE 1777",
+  "page_idx": 0,
+  "bbox": [
+   0.62241,
+   0.51876,
+   0.86588,
+   0.58905
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "this list, Richard Walker, apothecary to the Prince\nof Wales, adds Arabic henna, manna, and rhu-\nbarb.34 The influence of the Arabian medicine first\non the Greek, then on the French and English phy-\nsicians, although often decried, brought an influx\nof medicinal plants from or through the Arabian",
+  "page_idx": 0,
+  "bbox": [
+   0.09731,
+   0.60987,
+   0.49012,
+   0.71998
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Peninsula to Europe, where they were customarily\nused in tinctures, purges, and other more or less\neffective elixirs.35 Alternately, incense was used for\nits love-inducing and rejuvenating properties, as\nseen in an 1787 etching by James Gillray represent-\ning a group of five elderly women of fashion at-\ntending an altar of Love (fig. 4.5).36",
+  "page_idx": 0,
+  "bbox": [
+   0.50879,
+   0.61056,
+   0.9016,
+   0.73798
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Book. Interspersed with Some Occasional Observations\non Some of the Most Celebrated Modern Dispensatories,\nand the Present State of Pharmacy (London: Printed\nand Sold by R. Willock, 1744). This volume contains a\nwealth of detailed recipes for various afflictions, albeit\nproviding few specifics as to what was treated by using\nthem.\n34 Richard Walker, Memoirs of Medicine; Including a\nSketch of Medical History from the Earliest Accounts to\nthe Eighteenth Century (London: Printed for J. Johnson,\n1799).",
+  "page_idx": 0,
+  "bbox": [
+   0.10002,
+   0.74279,
+   0.49097,
+   0.92014
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "35 For the influence of the Arabian medicine on Western\nEurope, see volume 3 of John Astruc's Treatise on the\nDiseases of Women, in Which Is Attempted to Join a Just\nTheory to the Most Safe and Approved Practice... (Lon-\ndon: Printed for J. Nourse, 1767). For detailed recipes of\nmedicines containing ingredients of Arabic origin, see\nPharmacopoia Reformata cited above.\n36 Arabian incense is made by using frankincense or gum\nArabic resin mixed with sweet-smelling essential oils,\nsuch as myrrh and oud.",
+  "page_idx": 0,
+  "bbox": [
+   0.50879,
+   0.75917,
+   0.89974,
+   0.9208
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

@@ -1,0 +1,95 @@
+[
+ {
+  "type": "text",
+  "text": "The Scholarly Publishing Cycle",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.08544,
+   0.08543,
+   0.53505,
+   0.10998
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Having explored the scholarly publishing ecosystem and its primary relationships, we\ncan update the cycle as follows:",
+  "page_idx": 0,
+  "bbox": [
+   0.08544,
+   0.1462,
+   0.91396,
+   0.18671
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.20698,
+   0.21004,
+   0.78845,
+   0.54027
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Our project set out to explore and address the shortfall in serving the scholarly reader\nidentified in this section. This shortfall is made clear in two connected points:",
+  "page_idx": 0,
+  "bbox": [
+   0.08544,
+   0.62443,
+   0.91396,
+   0.66495
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Scholarly readers are not just content consumers; scholarly reading is an act of\ncreation as well.\n· Publishers and aggregators are not incentivized to create better tools to support\nscholarly reading.",
+  "page_idx": 0,
+  "bbox": [
+   0.10554,
+   0.68963,
+   0.88178,
+   0.77159
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "From here, this report will consider the experiences of publishers, librarians and readers\nthrough a synthesis of interviews conducted with several members of each group, as\nwell as a short online survey aimed at readers. We will then share some of our own\nphilosophy on the future of scholarly reading, then detail the path forward we see for our\nown work in the area.",
+  "page_idx": 0,
+  "bbox": [
+   0.08544,
+   0.79751,
+   0.91396,
+   0.90081
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "10 | The Scholarly Publishing Ecosystem",
+  "page_idx": 0,
+  "bbox": [
+   0.08594,
+   0.93645,
+   0.35408,
+   0.94896
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

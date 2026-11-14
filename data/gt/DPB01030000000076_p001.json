@@ -1,0 +1,148 @@
+[
+ {
+  "type": "text",
+  "text": "Figure 1.6. Alien temporary work permits, Thailand",
+  "page_idx": 0,
+  "bbox": [
+   0.18892,
+   0.08324,
+   0.6581,
+   0.09872
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.18746,
+   0.10961,
+   0.7882,
+   0.30698
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Department of Employment, Thailand (2022)",
+  "page_idx": 0,
+  "bbox": [
+   0.18892,
+   0.31694,
+   0.58741,
+   0.32986
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1.7. Non-citizen population in Malaysia (in thousands)",
+  "page_idx": 0,
+  "bbox": [
+   0.18892,
+   0.34563,
+   0.74761,
+   0.36111
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.18746,
+   0.372,
+   0.7882,
+   0.59298
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Department of Statistics, Malaysia (2022). Figure for 2021 is an estimate.",
+  "page_idx": 0,
+  "bbox": [
+   0.18892,
+   0.60224,
+   0.8042,
+   0.61515
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1.8. Singapore foreign workforce stock (in thousands)",
+  "page_idx": 0,
+  "bbox": [
+   0.18892,
+   0.63111,
+   0.74761,
+   0.64658
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.18746,
+   0.65743,
+   0.7882,
+   0.8784
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: Compilation by Manpower Research & Statistics Department (Ministry of Manpower,\nSingapore, 2022).",
+  "page_idx": 0,
+  "bbox": [
+   0.18892,
+   0.88797,
+   0.88106,
+   0.91579
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "ASEAN Migration Outlook",
+  "page_idx": 0,
+  "bbox": [
+   0.14036,
+   0.95137,
+   0.42058,
+   0.96685
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "19",
+  "page_idx": 0,
+  "bbox": [
+   0.93002,
+   0.95241,
+   0.95218,
+   0.96407
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

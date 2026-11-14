@@ -1,0 +1,109 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo Kementerian Keuangan (lambang); kop siaran pers berupa gambar; furniture"
+ },
+ {
+  "type": "text",
+  "text": "KEMENTERIAN KEUANGAN REPUBLIK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; kop; teks logo (gambar, tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "SIARAN PERS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kop; teks kop berupa gambar, tidak ada di lapisan teks"
+ },
+ {
+  "type": "text",
+  "text": "Kinerja APBN Terjaga, Mendukung Program Prioritas Nasional dan Menjadi Katalis Pertumbuhan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul siaran pers, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Jakarta, 22 September 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanggal dan tempat (bold)"
+ },
+ {
+  "type": "text",
+  "text": "A. Perkembangan APBN hingga 31 Agustus 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian"
+ },
+ {
+  "type": "text",
+  "text": "1. Realisasi Pendapatan Negara mencapai Rp1.638,7 triliun (57,2% dari outlook berdasarkan Lapsem 2025). Penerimaan Pajak mencapai Rp1.135,4 triliun (54,7% dari outlook). Penerimaan Pajak bruto s.d. Agustus 2025 untuk jenis pajak PPh Orang Pribadi, PPh Badan dan PBB tumbuh seiring aktivitas ekonomi yang terus membaik, dan ditopang kinerja sektor utama seperti pertambangan, perdagangan, pertanian, industri, dan perbankan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "2. Penerimaan Kepabeanan dan Cukai mencapai Rp194,9 triliun (62,8% dari outlook), tumbuh 6,4% (yoy). Bea Keluar tumbuh didorong kenaikan harga dan volume ekspor sawit, Cukai tumbuh sebagai dampak perubahan kebijakan penundaan pelunasan pita cukai. Sementara itu, kinerja Bea Masuk dipengaruhi kebijakan perdagangan di bidang pangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "3. Realisasi PNBP mencapai Rp306,8 triliun (64,3% dari outlook). Kinerja PNBP SDA Migas dipengaruhi fluktuasi harga minyak dan gas bumi, sementara realisasi PNBP SDA Nonmigas mayoritas dipengaruhi Harga Batubara Acuan (HBA) dan volume produksi Batubara. Realisasi PNBP BLU dipengaruhi penurunan pendapatan penyediaan jasa dan layanan telekomunikasi dan perbankan. Sementara PNBP lainnya disumbang kenaikan Pendapatan Minyak Mentah (DMO) dan pendapatan layanan PNBP K/L.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "4. Belanja Negara terealisasi sebesar Rp1.960,3 triliun (55,6% dari outlook), tumbuh 1,5% (yoy). Belanja Pemerintah Pusat terealisasi sebesar Rp1.388,8 triliun (52,1% dari outlook), tumbuh 1,5% (yoy). Realisasi Belanja K/L sebesar Rp686,0 triliun (53,8% dari outlook), antara lain dipengaruhi oleh penyaluran Bansos (PBI JKN, PKH, kartu sembako, PIP, dan KIP Kuliah) yang semakin tepat sasaran melalui validasi Data Tunggal Ekonomi Nasional (DTSEN) serta pelaksanaan program prioritas Pemerintah. Belanja Non-K/L terealisasi sebesar Rp702,8 triliun (50,6% dari outlook), antara lain dipengaruhi oleh pembayaran manfaat pensiun dan subsidi yang dibayarkan sesuai jadwal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "5. Transfer ke Daerah (TKD) terealisasi Rp571,5 triliun (66,1% dari outlook), tumbuh 1,7% yoy. Realisasi TKD lebih tinggi dari periode yang sama tahun sebelumnya karena adanya perbaikan penyampaian dan pemenuhan syarat salur oleh Pemda. Peningkatan penyaluran TKD belum dibarengi kinerja belanja daerah. Optimalisasi pelaksanaan APBD perlu terus didorong untuk mendukung pertumbuhan ekonomi daerah dan kesejahteraan masyarakat.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold; istilah asing dicetak italic"
+ },
+ {
+  "type": "text",
+  "text": "6. Berbagai program prioritas terus berlanjut dan memberi manfaat kepada masyarakat di seluruh Indonesia. Program Makan Bergizi Gratis (MBG) hingga 8 September 2025 telah terealisasi sebesar Rp13 triliun dan menjangkau 22,7 juta penerima manfaat. Sekolah Rakyat yang telah beroperasi mencapai 100 sekolah dan memberikan akses pendidikan bagi 9.780 siswa aktif, sementara Program Revitalisasi Sekolah telah terealisasi Rp9,6 triliun untuk 10.440 satuan pendidikan dan 2.120 madrasah. Dukungan APBN untuk program prioritas akan memperkuat kualitas SDM, meningkatkan kesejahteraan masyarakat, serta menjadi penopang pertumbuhan ekonomi jangka menengah-panjang.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir bernomor; kalimat pertama bold"
+ },
+ {
+  "type": "text",
+  "text": "1/3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

@@ -1,0 +1,121 @@
+[
+ {
+  "type": "text",
+  "text": "should adopt two separate designators to mark no-cost VS. low-cost, but the council felt it was better\nto simplify the process and allow for some OER providers that have fees associated with their services.",
+  "page_idx": 0,
+  "bbox": [
+   0.09118,
+   0.07196,
+   0.90934,
+   0.10883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "At this point in time, the application of the #NOLO designator was a manual process. It required the\naddition of the designator to the section title prior to registration and then its removal after add/drop\nto ensure the label didn't appear on the student transcript. This process severely hampered our long-\nterm reporting abilities. In total, four colleges adopted the #NOLO designator in this fashion.",
+  "page_idx": 0,
+  "bbox": [
+   0.09118,
+   0.12433,
+   0.90934,
+   0.20111
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "To assist in greater faculty and institutional adoption as well as improve data capture, the CSCU OER\nAdvisory Council made a formal recommendation to the provost's academic council in Spring 2018\nto implement the #NOLO designator as a course section attribute within the student information\nsystem. In addition to adding a course section attribute, a student-facing course search filter was\nadded as well as an additional column within the course search results page.",
+  "page_idx": 0,
+  "bbox": [
+   0.09118,
+   0.21605,
+   0.90934,
+   0.31158
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.33816,
+   0.31924,
+   0.66304,
+   0.53449
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 2.1: Filtered Search Option for NOLO Sections.",
+  "page_idx": 0,
+  "bbox": [
+   0.33882,
+   0.54581,
+   0.65083,
+   0.55905
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.35767,
+   0.58645,
+   0.6427,
+   0.79582
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 2.2: Added Column in Results for NOLO\nDesignator.",
+  "page_idx": 0,
+  "bbox": [
+   0.34381,
+   0.82048,
+   0.61757,
+   0.84939
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "The request to implement the designator within the student information system was supported in\nFall 2018 by the president's cabinet. The ability to mark courses was enabled late Fall 2018 and the\nstudent-facing features were enabled in January 2019. Each institutional representative on the OER\ncouncil engaged with their local governance structures to request a vote for adoption.",
+  "page_idx": 0,
+  "bbox": [
+   0.09118,
+   0.86255,
+   0.90934,
+   0.93772
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4 BOYOUNG CHAE, KEVIN CORCORAN, MICHAEL DALY, ANN FIDDLER, JEFF GALLANT, JAMES GLAPA-GROSSKLAG, AMY HOFER, AND",
+  "page_idx": 0,
+  "bbox": [
+   0.09118,
+   0.95029,
+   0.89978,
+   0.96018
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,197 @@
+[
+ {
+  "type": "text",
+  "text": "Terakreditasi SINTA Peringkat 2",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Surat Keputusan Dirjen Penguatan Riset dan Pengembangan Ristek Dikti No. 10/E/KPT/2019",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "masa berlaku mulai Vol. 1 No. 1 tahun 2017 s.d Vol. 5 No. 3 tahun 2021",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Terbit online pada laman web jurnal: http://jurnal.iaii.or.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "IAII",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "JURNAL RESTI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "(Rekayasa Sistem dan Teknologi Informasi)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Vol. 4 No. 5 (2020) 829 - 836",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "ISSN Media Elektronik: 2580-0760",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Analisis Perbandingan Tools Forensic pada Aplikasi Twitter Menggunakan Metode Digital Forensics Research Workshop",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "Ikhsan Zuhriyanto1, Anton Yudhana2 dan Imam Riadi3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penulis; angka superskrip ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "1Program Studi Teknik Informatika, Fakultas Teknologi Industri, Universitas Ahmad Dahlan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "2Program Studi Teknik Elektro, Fakultas Teknologi Industri, Universitas Ahmad Dahlan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "3Program Studi Sistem Informasi, Fakultas Sains dan Teknologi Terapan, Universitas Ahmad Dahlan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; afiliasi; angka superskrip ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "Email: 1Ikhzann@gmail.com*, 2eyudhana@ee.uad.ac.id, 3imam.riadi@is.uad.ac.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; email; angka superskrip ditulis sebaris"
+ },
+ {
+  "type": "text",
+  "text": "Abstract - Current crime is increasing, one of which is the crime of using social media, although no crime does not leave digital evidence. Twitter application is a social media that is widely used by its users. Acts of crime such as fraud, insults, hate speech, and other crimes lately use many social media applications, especially Twitter. This research was conducted to find forensic evidence on the social media Twitter application that is accessed using a smartphone application using the Digital Forensics Research Workshop (DFRWS) method. These digital forensic stages include identification, preservation, collection, examination, analysis, and presentation in finding digital evidence of crime using the MOBILedit Forensic Express software and Belkasoft Evidence Center. Digital evidence sought on smartphones can be found using case scenarios and 16 variables that have been created so that digital proof in the form of smartphone specifications, Twitter accounts, application versions, conversations in the way of messages and status. This study's results indicate that MOBILedit Forensic Express digital forensic software is better with an accuracy rate of 85.75% while Belkasoft Evidence Center is 43.75%.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; abstrak; label sebaris"
+ },
+ {
+  "type": "text",
+  "text": "Keywords: Digital Forensics, DFRWS, Mobile Forensics, Social Media, Twitter",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris"
+ },
+ {
+  "type": "text",
+  "text": "Abstrak - Tindak kejahatan saat ini semakin meningkat salah satunya adalah kejahatan menggunakan media sosial, walaupun tidak ada kejahatan yang tidak meninggalkan bukti digital. Aplikasi Twitter adalah salah satu media sosial yang banyak digunakan oleh penggunanya. Tindakan kejahatan seperti penipuan, penghinaan, ujaran benci dan tindak kejahatan lainnya belakangan ini banyak menggunakan aplikasi sosial media khususnya Twitter. Penelitian ini dilakukan untuk menemukan bukti forensic pada aplikasi media sosial Twitter yang diakses menggunakan aplikasi smartphone menggukan metode Digital Forensics Research Workshop (DFRWS). Tahapan digital forensik ini meliputi identification, preservation, collection, examination, analysis dan presentation dalam menemukan bukti digital tindak kejahatan dengan menggunakan aplikasi software MOBILedit Forensic Express dan Belkasoft Evidence Center. Bukti digital yang dicari pada smartphone dapat ditemukan menggunakan skenario kasus dan 16 variabel yang telah dibuat sehingga didapatkan bukti digital berupa spesifikasi smartphone, account Twitter, versi aplikasi, percakapan berupa pesan dan status. Hasil penelitian ini menunjukan software digital forensik MOBILedit Forensic Express lebih baik dengan tingkat akurasi 85,75% sedangkan Belkasoft Evidence Center 43,75%.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; abstrak; label sebaris"
+ },
+ {
+  "type": "text",
+  "text": "Kata Kunci: Digital Forensik, DFRWS, Mobile Forensics, Media Sosial, Twitter.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label sebaris"
+ },
+ {
+  "type": "text",
+  "text": "1. Pendahuluan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Salah satu sifat dasar yang dimiliki oleh manusia yaitu saling berkomunikasi dan berinteraksi dengan sesama manusia lainnya. Teknologi yang semakin canggih menjadi bagian yang takbisa lepas dari kehidupan masyarakat [1][2]. Selain memberikan manfaat perkembangan era digital juga memberikan dampak negative juga yaitu banyaknya kasus kejahatan meningkat menggunakan aplikasi di internet. Kejahatan dunia maya semakin meningkat setiap tahunnya [3][4]. Internet juga telah merubah gaya hidup masyarakat baik dari sosial, Pendidikan bahkan pemerintah [5]. Dampak buruk yang dihasilkan dari penggunaan teknologi ini adalah penyalahgunaan dalam melakukan kejahatan. Penyalahgunaan penggunaan internet dan sosial media tersebut biasanya dikenal dengan nama cybercrime",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; bersambung ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "Diterima Redaksi : 12-07-2020 | Selesai Revisi : 26-08-2020 | Diterbitkan Online : 30-10-2020",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; info artikel"
+ },
+ {
+  "type": "text",
+  "text": "829",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

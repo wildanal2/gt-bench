@@ -1,0 +1,42 @@
+[
+ {
+  "type": "text",
+  "text": "Contents",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.05724,
+   0.12206,
+   0.2238,
+   0.18459
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. Overview of OCR Pack\n2. Introduction of Product Services and Key Features\n3. Product - Detail Specification\n4. Integration Policy\n5. FAQ",
+  "page_idx": 0,
+  "bbox": [
+   0.32375,
+   0.33663,
+   0.82755,
+   0.73387
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ },
+ {
+  "type": "text",
+  "text": "upstage |",
+  "page_idx": 0,
+  "bbox": [
+   0.92376,
+   0.93985,
+   0.97652,
+   0.98031
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

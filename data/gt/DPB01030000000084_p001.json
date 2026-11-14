@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "Jailed for Doing Business",
+  "page_idx": 0,
+  "bbox": [
+   0.16564,
+   0.04204,
+   0.38652,
+   0.05479
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 38: THREE CASE STUDIES ON NBFC\nCOMPLIANCES*",
+  "page_idx": 0,
+  "bbox": [
+   0.1642,
+   0.11555,
+   0.65336,
+   0.15031
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td></td><td>Small</td><td>Medium</td><td>Large</td></tr><tr><td>Total applicable compliances</td><td>784</td><td>1,188</td><td>1,693</td></tr><tr><td>Compliances with imprisonment</td><td>154</td><td>362</td><td>622</td></tr><tr><td>Percentage of imprisonment clauses</td><td>20%</td><td>30%</td><td>37%</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16681,
+   0.17178,
+   0.83317,
+   0.28278
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "* These are real data from three NBFCs",
+  "page_idx": 0,
+  "bbox": [
+   0.16681,
+   0.28652,
+   0.48713,
+   0.29927
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 39: BREAKDOWN OF IMPRISONMENT CLAUSES IN\nNBFC CASE STUDIES*",
+  "page_idx": 0,
+  "bbox": [
+   0.1642,
+   0.36053,
+   0.8171,
+   0.39529
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Range</td><td>Small</td><td>Mid</td><td>Large</td></tr><tr><td>Less than 3 months</td><td>10</td><td>42</td><td>82</td></tr><tr><td>3 months to less than 1 year</td><td>67</td><td>203</td><td>373</td></tr><tr><td>1 year to less than 3 years</td><td>50</td><td>58</td><td>68</td></tr><tr><td>3 years to less than 5 years</td><td>8</td><td>40</td><td>80</td></tr><tr><td>5 years to 10 years</td><td>19</td><td>19</td><td>19</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16681,
+   0.41676,
+   0.83317,
+   0.56292
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "* In table 38",
+  "page_idx": 0,
+  "bbox": [
+   0.16681,
+   0.56749,
+   0.26608,
+   0.58024
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "86",
+  "page_idx": 0,
+  "bbox": [
+   0.4851,
+   0.95016,
+   0.51471,
+   0.96466
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

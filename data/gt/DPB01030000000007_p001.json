@@ -1,0 +1,108 @@
+[
+ {
+  "type": "text",
+  "text": "CHAPTER 2",
+  "page_idx": 0,
+  "bbox": [
+   0.43844,
+   0.14646,
+   0.58735,
+   0.16542
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Narratives in Chuj",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.39493,
+   0.20335,
+   0.63252,
+   0.23123
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "T broad variety of stories people tell one another and the variety of sources\nHIS COLLECTION OF SIX narratives told in Chuj demonstrates the\nof those stories: personal narratives, legendary events, mythological\ntales, and stories borrowed from other cultures. All were recorded by me during\nfield work on Chuj from 1964 to 1965. (See the Archive of the Indigenous Lan-\nguages of Latin America, www.ailla.utexas.org, for these and other samples of\nChuj speech recorded during field work; AILLA reference codes for each text\nare given below and at the head of each transcription.)",
+  "page_idx": 0,
+  "bbox": [
+   0.14396,
+   0.28701,
+   0.88183,
+   0.45544
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Introduction to the Texts",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.36984,
+   0.48555,
+   0.65428,
+   0.50675
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Two of the stories are ultimately of foreign origin, but their origins are not the\nsame. In one case, the story known to the narrator as An Old Man Whose Son\nKilled Him [CAC 002 R022], the clearly comes from the European tra-\nstory\ndition, and must have been introduced to the Chuj by schoolteachers. It is the\nclassic Greek tale of a couple whose child is destined to kill his father and how\nthat came about, including the solution to a famous riddle: What animal walks\non four legs at dawn, on two legs at noon, and on three legs in the evening?",
+  "page_idx": 0,
+  "bbox": [
+   0.14563,
+   0.51679,
+   0.88183,
+   0.66403
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The other tale, Coyote and Rabbit [CAC 002 R027], is probably ultimately\nof African origin, although some of its episodes are traditional in the American\nSouth and have been introduced secondhand to the Chuj. This is the series\nmay\nof incidents that make up stories, stories that reflected earlier\nthe Br'er Rabbit\nAfrican tales involving Hyena instead of Fox (Diarassouba 2007). Here the story\nfeatures Coyote instead of either Fox or Hyena. Coyote stories and stories of\nRabbit Trickster abound in the native New World, and some of the episodes may\nbe of American origin, adapted to the framework of the African stories. Some ep-\nisodes have a local flavor (such as misty mountains) and are likely of local origin.",
+  "page_idx": 0,
+  "bbox": [
+   0.14563,
+   0.66514,
+   0.88183,
+   0.85142
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "A third story, Friend of the Animals [CAC 002 R020], expresses such a\nuniversal theme that it could possibly be of foreign origin as well, but it has",
+  "page_idx": 0,
+  "bbox": [
+   0.14396,
+   0.85365,
+   0.87848,
+   0.89381
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "22",
+  "page_idx": 0,
+  "bbox": [
+   0.50083,
+   0.92105,
+   0.52581,
+   0.93302
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

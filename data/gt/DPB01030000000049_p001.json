@@ -1,0 +1,80 @@
+[
+ {
+  "type": "text",
+  "text": "Overcoming Barriers to Filipino Women's Political Representation 9",
+  "page_idx": 0,
+  "bbox": [
+   0.23425,
+   0.05615,
+   0.90872,
+   0.07235
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "The post-World War II period saw women participating in formal\npolitics and even attempting to form a political party and an alliance\nsupporting President Ramon Magsaysay's candidacy for the presidency\n(He served as president from 1953 to 1957), while the advent of the\nmartial law period in 1972 witnessed feminist movements. Roces (2012,\n6) attributes this to the burgeoning student movement and activism, so\nmuch so that by the time Marcos declared martial law, women were\nprepared to take on the resistance. Though inspired by North America's\nsecond-wave feminists, Filipino women were also drawn to the era's\ndiscourses and contexts, such as the Vietnam War and the civil rights\nmovement.",
+  "page_idx": 0,
+  "bbox": [
+   0.13476,
+   0.10866,
+   0.90311,
+   0.34204
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The women's movement continued to flourish in the Cory Aquino\nregime (1986-1992). The democratic transition provided political\nopportunity structures and venues ensuring women's access to the\nstate and nonstate spheres. The drafting of the 1987 Constitution\nwas one such opportunity. The movement managed to advocate for\nimportant provisions paving the way for women's rights legislation\nfrom the 1980s to the present. The provision in the 1987 Constitution\nmandates the state to recognize \"the role of women in nation building\nand shall ensure the fundamental equality before the law of men and\nwomen\" (Article 2, Section 14). This provision is said to be unique and\nis not even found in other countries' charters (Masilungan n.d.).",
+  "page_idx": 0,
+  "bbox": [
+   0.13628,
+   0.35821,
+   0.9016,
+   0.59564
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The post-Marcos period advanced the participation of women\nnot only in civil society and nongovernment organizations but also in\nformal politics and bureaucracy. Several women from the movement\njoined formal politics, while others were invited by the Aquino and\nRamos governments (1992-1998) to executive posts. The entry of\nwomen activists, NGO leaders, and those from the academe ensured that\nthe new democracy would significantly help push measures promoting\nwomen's rights and gender equality. The House of Representative\n(HOR) and Philippine Commission on Women (PCW)'s \"How to Be\na Gender-Responsive Legislator\" (2021, 52) listed several recent laws\nresponding to women's empowerment and gender equality.",
+  "page_idx": 0,
+  "bbox": [
+   0.13628,
+   0.60978,
+   0.90311,
+   0.85125
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 11313: Safe Spaces Act (April 17, 2019)",
+  "page_idx": 0,
+  "bbox": [
+   0.19706,
+   0.86177,
+   0.8326,
+   0.88303
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 11210: 105-Day Expanded Maternity Leave\nLaw (March 11, 2019)",
+  "page_idx": 0,
+  "bbox": [
+   0.19706,
+   0.89745,
+   0.89978,
+   0.9392
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ }
+]

@@ -1,0 +1,109 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11432,
+   0.07073,
+   0.88536,
+   0.51588
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 12.2. A set of open textbooks printed in bulk are featured in this photo. Open textbooks from the\nOpen Course Library, picture by Tom Caswell, CC BY 2.0.",
+  "page_idx": 0,
+  "bbox": [
+   0.11506,
+   0.5274,
+   0.86567,
+   0.55661
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "What tool(s) do you typically use in your course?",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11432,
+   0.58616,
+   0.62811,
+   0.60628
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Ask whether the instructor utilizes your institution's course management system (Canvas,\nBlackboard, etc.), or a separate course website to communicate and share content with students.\nThis may affect the tools and practices you recommend.",
+  "page_idx": 0,
+  "bbox": [
+   0.11432,
+   0.62558,
+   0.88459,
+   0.68008
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "What supporting materials do you utilize for this course?",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11432,
+   0.70617,
+   0.71667,
+   0.72629
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "If the instructor relies on self-grading homework platforms or ancillary presentations and lecture\nnotes from publishers, you will want to discuss the various free and low-cost options available to\nreplace that content (See Chapter 15, Finding Ancillaries for OER).",
+  "page_idx": 0,
+  "bbox": [
+   0.11432,
+   0.74574,
+   0.88459,
+   0.80025
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Alternatively, does the instructor already supplement their course materials with course notes or\nmaterials they have personally created? Often, when traditional materials are lacking or require\nsupplement, instructors will create notes, reading lists, or other content to \"back up\" any\ntraditional, commercial content used in their course. This instructor-created content can be\nreused with OER as well, or even adapted into a new open resource in the future.",
+  "page_idx": 0,
+  "bbox": [
+   0.11432,
+   0.81896,
+   0.88459,
+   0.91312
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "164 | SUPPORTING OER ADOPTION",
+  "page_idx": 0,
+  "bbox": [
+   0.11664,
+   0.94123,
+   0.36722,
+   0.95348
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

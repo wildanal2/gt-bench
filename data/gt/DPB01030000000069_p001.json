@@ -1,0 +1,135 @@
+[
+ {
+  "type": "text",
+  "text": "Replace",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11634,
+   0.08996,
+   0.18036,
+   0.10532
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "l. Replace Plastics with Recyclable Materials. Plastics can be replaced by material\nmade from polypropylene, a material type that is 100% recyclable. However, recyclable\nmaterials should have a forward linkage - link to a recycler who is willing to take on\nthe recyclables. Paper-based wrappers are another alternative for bagels and sandwich\npapers. Containers and packaging can use plastics with a certain percentage of recycled\ncontent and designed to be recyclable or reusable. Highly recyclable packaging is of\nlittle benefit if it is not disposed of correctly. The success of a recyclable package is an\nequal demand from recycling companies through improved recyclability of packaging\nand investments in efficient recycling facilities and systems. This requires investment and\ninnovation since quality and availability are still often a stumbling block for companies\nto use recycled plastic. The recyclability of plastic packaging can often be improved by:",
+  "page_idx": 0,
+  "bbox": [
+   0.11634,
+   0.11016,
+   0.8244,
+   0.32788
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· choosing a common type of plastic (such as PE, PP or PET);\n· choosing a common color (white or transparent); and\n· avoiding combinations of materials, such as plastic windows in cardboard\npackaging. Watermarking technology is also being developed so that packaging\ncan be more easily recognized by sorters.",
+  "page_idx": 0,
+  "bbox": [
+   0.16134,
+   0.33245,
+   0.80488,
+   0.42912
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Trash",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11634,
+   0.45404,
+   0.16134,
+   0.46568
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "m. Waste Segregation and Segregated Bins. Shakey's Philippines implementation of\nwaste segregation and 3R (Reduce, Reuse, Recycle) in its corporate office is one good\ntestament of compliance to RA 9003. The country's premier pizza restaurant has installed\n\"Stop Before You Drop\" trash bins for the implementation of company-wide proper\nwaste management. The bins are labeled to indicate the different types of waste to aid in\nproper disposal and culture development of its employees. Waste collected are weighed\non a daily basis to aid in monitoring wastages and to map out more waste management\ninitiatives.56",
+  "page_idx": 0,
+  "bbox": [
+   0.11634,
+   0.4729,
+   0.8244,
+   0.63016
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "n. In-store Sorting and Recycling Bins.\nMcDonalds has installed sorting and\nrecycling points in select restaurants in\nits markets. It also improved its recycling\nbin signage to make the recycling process\neasier to understand. McDonald's Germany,\nAustria, Czech Republic and Slovakia on the\nother hand, collect customer waste to sort for\nrecycling. initiatives.57",
+  "page_idx": 0,
+  "bbox": [
+   0.11634,
+   0.65561,
+   0.50353,
+   0.83365
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.538,
+   0.65527,
+   0.81273,
+   0.77543
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 32. In-store Sorting and Recycling Bins,\nMcDonalds",
+  "page_idx": 0,
+  "bbox": [
+   0.54014,
+   0.77913,
+   0.81088,
+   0.80442
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "56 https://www.shakeyspizza.ph/images/asm-2021/PIZZA_ASM_2020_Report.pdf\n57 https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/our-planet/packaging-and-waste.html",
+  "page_idx": 0,
+  "bbox": [
+   0.11634,
+   0.87123,
+   0.69324,
+   0.90099
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "76 Study on Plastics Use and Waste Management in the Food Service Industry",
+  "page_idx": 0,
+  "bbox": [
+   0.02975,
+   0.94473,
+   0.56677,
+   0.96068
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

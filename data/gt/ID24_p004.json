@@ -1,0 +1,489 @@
+[
+ {
+  "type": "text",
+  "text": "Imam Riadi, Sunardi, Panggah Widiandana",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 730 – 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Proses imaging dilakukan menggunakan tools forensic yaitu MOBILedit Forensic Express untuk pengamanan dan menjaga keaslian barang bukti yang telah didapatkan. Tahap ini sangat mempengaruhi terhadap keaslian barang bukti, apakah barang bukti dapat diterima dipersidangan atau tidak dapat digunakan. Keaslian barang bukti dapat dikatakan sangat sensitif karena jika barang bukti asli berubah maka hasil investigasi yang telah dilakukan tidak dapat diakui didalam persidangan karena sudah dianggap memodifikasi data barang bukti yang telah didapatkan sebelumnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan; dicek: bisa paragraf baru, bukan lanjutan paragraf 3.2 di halaman sebelumnya"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 5. Create Physical Image",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar; teks sangat kecil (judul jendela, versi/scripts) tidak terbaca pada skala cetak, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit FORENSIC EXPRESS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Please wait or press Connect more",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Preparing report data... OK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of phonebook contacts... OK (12 found)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of organizer items... OK (0 events found)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of messages... OK (36 found)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of received calls... OK (0 found)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of dialed numbers... OK (0 found)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of missed calls... OK (0 found)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Acquiring number of SIM phonebook contacts... OK (3 max.)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Scanning folder: internal/mnt/knox/read/knox-emulated/...",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "SELECTED PHONE:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G532G - Acquiring data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Cancel",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Connect more",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "3.3. Collection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Collection seperti Gambar 6 dilakukan import hasil create physical image atau proses imaging pada smartphone korban pada tahap preservation. Tahap ini akan membuka barang bukti hasil cloning pada tahap preservation untuk selanjutnya akan dianalisis oleh investigator mengenai case yang telah dihadapi. Dengan demikian barang bukti asli tidak akan sedikitpun tersentuh dan merubah data barang bukti asli yang telah didapatkan karena barang bukti yang telah ditemukan harus valid dipersidangan dan salah satu syarat agar barang bukti dapat diterima dipengadilan adalah barang bukti yang asli yang sama seperti saat ditemukannya barang bukti tersebut.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 6. Collection barang bukti digital",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar; teks sangat kecil (judul jendela, versi/scripts) tidak terbaca pada skala cetak, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit FORENSIC EXPRESS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Select a phone or data and press Next",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Physical image - samsung SM-G532G",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Remove from list",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Browse phone",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "File: D:\\6. Hasil Akuisisi\\samsung SM-G532G.img",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "CONNECTED PHONES AND IMPORTED DATA:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G532G",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Physical image - samsung SM-G532G",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Searching for devices",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Wi-Fi connection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Bluetooth connection",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Import data",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Connect iCloud",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Hack phone",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "How to connect",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Next",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "3.4. Examination",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Examination dilakukan seperti pada Gambar 7 dilakukan dengan mencari aplikasi yang akan dilakukan investigasi. Pada penelitian ini aplikasi yang akan dianalisis atau diinvestigasi adalah WhatsApp Messenger. Proses examination atau filter barang bukti dilakukan sesuai dengan kebutuhan investigator dalam menganalisis barang bukti digital. Tahap ini akan membatasi dalam melakukan penyelidikan barang bukti agar tidak melebihi dari case yang telah diinvestigasi, karena dalam hal investigasi forensik investigator hanya diperbolehkan menganalisis sesuai perkara yang telah diajukan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 7. Proses examination barang bukti digital",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar; teks sangat kecil (judul jendela, versi/scripts) tidak terbaca pada skala cetak, tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "MOBILedit FORENSIC EXPRESS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Choose applications to export",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "wh",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "WhatsApp (com.whatsapp)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "samsung SM-G532G",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "IMEI - 354617081707690",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "IMSI - 510113796596300",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "ROOTED",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Select Shown",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "0 of 232 selected",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Back",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "Next",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks antarmuka tangkapan layar"
+ },
+ {
+  "type": "text",
+  "text": "3.5. Analysis",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Analisis hasil yang didapat menggunakan aplikasi MOBILedit Forensic Express dan export ke dalam bentuk file excel kemudian difilter yang diperlukan untuk proses identifikasi cyberbullying sehingga dalam proses analisis identifikasi lebih mudah dan dapat terlihat bagaimana rincian pesan tersebut diteruna mulai dari isi pesan, dari siapa pesan tersebut dikirim, dan dimana proses pesan itu telah berlangsung seperti pada Gambar 8.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 8. Analysis cyberbullying",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; tangkapan layar spreadsheet; isi sel, ribbon, dan tab terlalu kecil/buram pada skala cetak sehingga tidak ditranskripsi sebagai in_figure"
+ },
+ {
+  "type": "text",
+  "text": "Gambar 8 merupakan proses analisis cyberbullying hasil dari aplikasi MOBILedit Forensic Express. Hasil yang telah ditemukan kemudian dilakukan filtering untuk diambil beberapa field seperti Convertation/Referensi, From, dan Body yang dibutuhkan untuk text mining agar dapat mengidentifikasi cyberbullying. Field yang telah dipilih akan diketahui nama group, nama pengirim, dan percakapan yang terjadi pada group tersebut. Proses analisis cyberbullying pada WhatsApp Messenger merupakah hasil pemilihan field yang dibutuhkan untuk proses identifikasi cyberbullying sehingga dapat dilakukan preprocessing dan penerapan metode cosine similarity untuk identifikasi cyberbullying yang dilakukan pada group tersebut. Tahap yang dilakukan untuk mengidentifikasi cyberbullying yaitu data yang",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; bersambung ke halaman berikutnya"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 730 – 735",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "733",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

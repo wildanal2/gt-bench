@@ -1,0 +1,165 @@
+[
+ {
+  "type": "text",
+  "text": "Recommendation Pack: Track Record",
+  "page_idx": 0,
+  "bbox": [
+   0.07218,
+   0.07318,
+   0.27849,
+   0.09485
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Recommendation pack shows outstanding performance of 1.7~2.6 times that of\ncompeting models even when using commercial service data",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.07218,
+   0.1288,
+   0.81897,
+   0.22764
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Comparison with Beauty Commerce\nRecommendation Models",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.06391,
+   0.27811,
+   0.2531,
+   0.33221
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Recommendation model Hit Ratio comparison",
+  "page_idx": 0,
+  "bbox": [
+   0.06514,
+   0.33917,
+   0.26256,
+   0.36163
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.07051,
+   0.44146,
+   0.28393,
+   0.91725
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Comparison Case of Domestic Subscription\nPlatform Recommendation Model",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.36673,
+   0.27811,
+   0.58737,
+   0.33221
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Comparison of quantitative evaluations among\npersonalized content recommendations",
+  "page_idx": 0,
+  "bbox": [
+   0.36673,
+   0.33917,
+   0.56767,
+   0.38931
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.35959,
+   0.44146,
+   0.61286,
+   0.92698
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Education Content Platform PoC Case",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.68246,
+   0.27811,
+   0.87615,
+   0.29961
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Comparison of prediction rates of correct/incorrect\nanswers based on personalized questions",
+  "page_idx": 0,
+  "bbox": [
+   0.68246,
+   0.30698,
+   0.90327,
+   0.35712
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.69287,
+   0.5253,
+   0.92643,
+   0.84982
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "20",
+  "page_idx": 0,
+  "bbox": [
+   0.96536,
+   0.94708,
+   0.97746,
+   0.9622
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

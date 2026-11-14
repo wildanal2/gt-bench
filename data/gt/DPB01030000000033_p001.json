@@ -1,0 +1,120 @@
+[
+ {
+  "type": "text",
+  "text": "Prologue",
+  "page_idx": 0,
+  "bbox": [
+   0.14045,
+   0.05333,
+   0.22808,
+   0.07075
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "xvii",
+  "page_idx": 0,
+  "bbox": [
+   0.82403,
+   0.05417,
+   0.86324,
+   0.06866
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Functional Abstraction",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.14045,
+   0.08844,
+   0.455,
+   0.10507
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "But this corrected use of Leibniz notation is ugly. We had to\nintroduce extraneous symbols (q and q) in order to indicate the ar-\ngument position specifying the partial derivative. Nothing would\nchange here if we replaced q and q by a and b.3 We can sim-\nplify the notation by admitting that the partial derivatives of the\nLagrangian are themselves new functions, and by specifying the\nparticular partial derivative by the position of the argument that\nis varied",
+  "page_idx": 0,
+  "bbox": [
+   0.13816,
+   0.12693,
+   0.86324,
+   0.28197
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\\frac{d}{dl}\\left(\\left(\\partial_2L\\right)\\left(t,w(t),\\frac{d}{dl}w(t)\\right)\\right)-\\left(\\partial_1L\\right)\\left(t,w(t),\\frac{d}{dl}w(t)\\right)=0,",
+  "page_idx": 0,
+  "bbox": [
+   0.13816,
+   0.29475,
+   0.74268,
+   0.33442
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Equation; isi berupa LaTeX"
+ },
+ {
+  "type": "text",
+  "text": "where aiL is the function which is the partial derivative of the\n4\nfunction L with respect to the ith argument.",
+  "page_idx": 0,
+  "bbox": [
+   0.13816,
+   0.34661,
+   0.86324,
+   0.38387
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Two different notions of derivative appear in this expression.\nThe functions �2L and �1L, constructed from the Lagrangian\nL, have the same arguments as L. The derivative d/dt is an\nexpression derivative. It applies to an expression that involves\nthe variable t and it gives the rate of change of the value of the\nexpression as the value of the variable t is varied.",
+  "page_idx": 0,
+  "bbox": [
+   0.13816,
+   0.3852,
+   0.86324,
+   0.50442
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "These are both useful interpretations of the idea of a derivative.\nBut functions give us more power. There are many equivalent\nways to write expressions that compute the same value. For\nexample 1/(1/r1 + 1/r2) = (r1r2)/(r1 + r2). These expressions\ncompute the same function of the two variables r1 and r2. The\nfirst expression fails if r1 = 0 but the second one gives the right\nvalue of the function. If we abstract the function, say as II(r1, r2),\nwe can ignore the details of how it is computed. The ideas become\nclearer because they do not depend on the detailed shape of the\nexpressions.",
+  "page_idx": 0,
+  "bbox": [
+   0.13816,
+   0.5059,
+   0.86324,
+   0.70526
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3 That the symbols q and q can be replaced by other arbitrarily chosen non-\nconflicting symbols without changing the meaning of the expression tells us\nthat the partial derivative symbol is a logical quantifier, like forall and exists\n(∀ and ∃).\n4The argument positions of the Lagrangian are indicated by indices starting\nwith zero for the time argument.",
+  "page_idx": 0,
+  "bbox": [
+   0.13816,
+   0.73112,
+   0.86324,
+   0.83529
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

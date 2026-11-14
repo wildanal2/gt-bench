@@ -1,0 +1,158 @@
+[
+ {
+  "type": "text",
+  "text": "Overcoming Barriers to Filipino Women's Political Representation 11",
+  "page_idx": 0,
+  "bbox": [
+   0.23476,
+   0.0547,
+   0.9085,
+   0.07253
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 9501: Magna Carta for Micro, Small, and\nMedium Enterprises (May 23, 2008)",
+  "page_idx": 0,
+  "bbox": [
+   0.19065,
+   0.10818,
+   0.89915,
+   0.15095
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 9262: Anti-Violence Against Women and\ntheir Children Act of 2004 (March 8, 2004)",
+  "page_idx": 0,
+  "bbox": [
+   0.19065,
+   0.1661,
+   0.90182,
+   0.20621
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 9208 (May 26, 2003), as amended by\nRepublic Act No. 10364 (February 6, 2013): Anti-Trafficking in\nPersons Act of 2003",
+  "page_idx": 0,
+  "bbox": [
+   0.19065,
+   0.22314,
+   0.90048,
+   0.28374
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 9178: Barangay Micro Business Enterprises\nAct of 2002 (November 13, 2002)",
+  "page_idx": 0,
+  "bbox": [
+   0.18931,
+   0.29978,
+   0.89915,
+   0.34434
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 8972: Solo Parent's Welfare Act (November\n7, 2000)",
+  "page_idx": 0,
+  "bbox": [
+   0.18931,
+   0.3586,
+   0.89781,
+   0.40049
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 8505: Rape Victim Assistance and Protection\nAct (February 13, 1998)",
+  "page_idx": 0,
+  "bbox": [
+   0.19332,
+   0.41564,
+   0.89781,
+   0.45752
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 8504: Philippine AIDS Prevention and\nControl Act of 1998 (February 13, 1998)",
+  "page_idx": 0,
+  "bbox": [
+   0.19332,
+   0.47178,
+   0.89781,
+   0.51456
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 8353: Anti-Rape Law of 1997 (September 30,\n1997)",
+  "page_idx": 0,
+  "bbox": [
+   0.19471,
+   0.52971,
+   0.90048,
+   0.5716
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "· Republic Act No. 7877: Anti-Sexual Harassment Act of 1995\n(February 14, 1995)",
+  "page_idx": 0,
+  "bbox": [
+   0.19332,
+   0.58586,
+   0.89915,
+   0.62774
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "During the first Aquino administration (1986-1992), three women\nsectoral representatives were appointed in Congress. Yet feminist\nactivists such as Teresita Quintos-Deles and Jurgette Honculada's\nappointments were blocked by the House Committee on Appointments\n(Abao and Yang 2001, 19).",
+  "page_idx": 0,
+  "bbox": [
+   0.13149,
+   0.64509,
+   0.90182,
+   0.75025
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "While reliable electoral data during the Marcos regime is\nunavailable, it is safe to argue that the repressive regime hampered\nthe participation of women in formal politics given the widespread\nmilitarization and electoral fraud characterizing the dictatorship. And\neven with the legal framework guaranteed by the transition, women\nfound it difficult to enter formal politics, despite women's consistently\nhigh voter turnout during elections (Table 1).",
+  "page_idx": 0,
+  "bbox": [
+   0.13416,
+   0.7654,
+   0.90182,
+   0.91601
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

@@ -1,0 +1,211 @@
+[
+ {
+  "type": "text",
+  "text": "PETUNJUK UMUM PENGISIAN FORMULIR DIGITAL 1770 S",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "1. Format SPT ini telah sesuai dengan Peraturan Direktur Jenderal Pajak Nomor Per-34/PJ/2010 Tentang Bentuk Formulir Surat Pemberitahuan Tahunan Pajak Penghasilan Wajib Pajak Orang Pribadi Dan Wajib Pajak Badan Beserta Petunjuk Pengisiannya dan hanya dapat digunakan untuk pengisian SPT Tahun Pajak 2010 dan seterusnya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. SPT hasil pencetakan ini wajib ditanda tangani dan tidak boleh dilipat atau kusut. Untuk pencetakan gunakan hanya kertas HVS berukuran:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "a. Folio/Government Legal (8,5 X 13 inch);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; sub-butir 2"
+ },
+ {
+  "type": "text",
+  "text": "b. Berat minimal 70 gr;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; sub-butir 2"
+ },
+ {
+  "type": "text",
+  "text": "3. Untuk dapat menggunakan formulir ini secara optimal, gunakan aplikasi Adobe Reader versi 8 atau yang lebih baru. Aplikasi ini telah disertakan dalam CD atau dapat di unduh sendiri oleh Wajib Pajak secara gratis di internet;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "4. Isilah dari lampiran-lampirannya terlebih dahulu. Rumus-rumus penjumlahan, pengurangan, kaitan dengan bagian tertentu dan lainnya telah tersedia di dalam form ini, sehingga Wajib Pajak tidak perlu melakukan penghitungan kembali;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "5. Tanda <AUTO> menunjukan hasil perhitungan otomatis. Ada kalanya perhitungan otomatis ini terlambat melakukan eksekusi, untuk memastikan telah berjalan dengan baik, arahkan kursor penunjuk ke sel di mana rumus perhitungan seharusnya berjalan, blok angka yang ada, selanjutnya tekan tombol DELETE dilanjutkan dengan ENTER. Namun demikian Wajib Pajak diharapkan tetap melakukan pengecekan ulang atas hasil perhitungan pada SPT ini terutama pada field <AUTO>;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; <AUTO> tercetak merah"
+ },
+ {
+  "type": "text",
+  "text": "6. Jika formulir 1770 S-I dan 1770 S-II diperlukan lebih banyak lagi karena data yang akan diisikan lebih dari 1 (satu) halaman, di dalam direktori (folder) SPT ini telah tersedia file tersebut. File-file tersebut dapat diperbanyak sesuaikan dengan kebutuhan dengan cara di-copy dan diganti nama filenya (rename), misalnya: 1770 S-I-1, 1770 S-I-2 dst;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "7. Tombol SHOW digunakan untuk menampilkan rumus-rumus perhitungan dalam pengisian SPT secara digital;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "8. Tombol RESET digunakan untuk membersihkan file pdf ini dari data yang telah diisikan sebelumnya. Setelah selesai mengisi SPT dan mencetaknya, jangan lupa simpan ke file lain (Save-as dan beri nama yang berbeda dengan file semula), kemudian gunakan tombol RESET untuk membersihkan file;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "9. Tombol HIDE digunakan untuk menyembunyikan rumus-rumus perhitungan sehingga Formulir ini dapat dicetak kosong apabila ingin dilakukan pengisian secara manual;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; spasi ganda diringkas"
+ },
+ {
+  "type": "text",
+  "text": "10. Penjelasan lebih lengkap mengenai pengisian SPT Tahunan silahkan baca Buku Petunjuk Pengisian SPT Tahunan yang bentuk softcopy-nya disertakan dalam SPT digital ini;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "11. Penghasilan Tidak Kena Pajak:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label butir 11; paragraf lanjutannya elemen terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Pilih Button (bulatan pilihan) yang sesuai (TK/K/KI/PH/HB), selanjutnya pada kotak Drop Down menu pilih banyaknya tanggungan yang sesuai. Jika telah dipilih salah satu, pastikan kotak yang lainnya KOSONG.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; isi butir 11"
+ },
+ {
+  "type": "text",
+  "text": "Untuk Wajib Pajak dengan status PH (Pisah Harta atau suami istri yang memilih menjalankan kewajiban perpajakan sendiri-sendiri) isi Penghasilan Neto Suami dan Penghasilan Neto Istri serta PTKP dalam perhitungan di lembar petunjuk ini.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; isi butir 11"
+ },
+ {
+  "type": "text",
+  "text": "DAFTAR ISIAN DI BAWAH INI HANYA DIISI JIKA WAJIB PAJAK melakukan Penghitungan Pajak Penghasilan bagi suami-isteri yang mengadakan perjanjian pemisahan penghasilan secara tertulis atau jika isteri menghendaki untuk menjalankan hak dan kewajiban perpajakannya sendiri :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; awal tebal"
+ },
+ {
+  "type": "text",
+  "text": "Penghasilan Neto Suami",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak kosong"
+ },
+ {
+  "type": "text",
+  "text": "Penghasilan Neto Isteri",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak kosong"
+ },
+ {
+  "type": "text",
+  "text": "Penghasilan Neto Gabungan <AUTO>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak kosong; <AUTO> di kanan kotak"
+ },
+ {
+  "type": "text",
+  "text": "PTKP K/I/1 52.650.000 <AUTO>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; K/I/1 dan 52.650.000 nilai tercetak di kotak"
+ },
+ {
+  "type": "text",
+  "text": "Penghasilan Kena Pajak <AUTO>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak kosong"
+ },
+ {
+  "type": "text",
+  "text": "Pajak Penghasilan Terutang <AUTO>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; kotak kosong"
+ },
+ {
+  "type": "text",
+  "text": "<AUTO> <AUTO> <AUTO>",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; penanda di atas tiga kotak hitung (tinggi sedikit berbeda); dicek: urutan: penanda ditulis sebelum baris kotaknya"
+ },
+ {
+  "type": "text",
+  "text": "Pajak Penghasilan Suami X =",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; baris hitung; 'Pajak Penghasilan Suami' isi kotak pilihan; kotak nilai kosong"
+ },
+ {
+  "type": "text",
+  "text": "Pilih yang sesuai untuk pengisian Check box diatas, jika WP adalah SUAMI pilih check box \"Pajak Penghasilan Suami\" dan jika WP adalah ISTRI pilih \"Pajak Penghasilan Istri\". Diharapkan cek kembali perhitungan ini terutama pada field <AUTO>.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak catatan berbingkai; 2 baris digabung"
+ }
+]

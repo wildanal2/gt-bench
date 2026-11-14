@@ -1,0 +1,61 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>No.</th><th>Component (English)</th><th>Komponen (Bahasa Indonesia)</th><th>Jumlah (Diaudit)</th><th>No. Ref yang berasal dari Neraca</th></tr><tr><td>Rasio Kecukupan Pemenuhan Modal Minimum (KPMM) dan Tambahan Modal (Capital Buffer)</td><td></td><td></td><td></td><td></td></tr><tr><td>61</td><td>Common Equity Tier 1 (as a percentage of risk weighted assets)</td><td>Rasio Modal Inti Utama (CET1) - persentase terhadap ATMR</td><td>17.10%</td><td></td></tr><tr><td>62</td><td>Tier 1 (as a percentage of risk weighted assets)</td><td>Rasio Modal Inti (Tier 1) - persentase terhadap ATMR</td><td>17.10%</td><td></td></tr><tr><td>63</td><td>Total capital (as a percentage of risk weighted assets)</td><td>Rasio Total Modal - persentase terhadap ATMR</td><td>18.50%</td><td></td></tr><tr><td>64</td><td>Institution specific buffer requirement (minimum CET1 requirement plus capital conservation buffer plus countercyclical buffer requirements plus G-SIB buffer requirement, expressed as a percentage of risk weighted assets)</td><td>Tambahan Modal (buffer) - persentase terhadap ATMR</td><td>3.50%</td><td></td></tr><tr><td>65</td><td>of which: capital conservation buffer requirement</td><td>Capital Conservation Buffer</td><td>2.50%</td><td></td></tr><tr><td>66</td><td>of which: Bank specific countercyclical buffer requirement</td><td>Countercyclical Buffer</td><td>0.00%</td><td></td></tr><tr><td>67</td><td>Of which: higher loss absorbency requirement</td><td>Capital Surcharge untuk Bank Sistemik</td><td>1.00%</td><td></td></tr><tr><td>68</td><td>Common Equity Tier 1 available to meet buffers (as of percentage of risk weighted assets)</td><td>Modal Inti Utama (CET 1) yang tersedia untuk memenuhi Tambahan Modal (Buffer) - persentase terhadap ATMR</td><td>9.25%</td><td></td></tr><tr><td>National Minima (Jika berbeda dengan Basel 3)</td><td></td><td></td><td></td><td></td></tr><tr><td>69</td><td>National Common Equity Tier 1 minimum ratio</td><td>Rasio terendah CET 1 nasional (jika berbeda dengan Basel 3)</td><td>N/A</td><td></td></tr><tr><td>70</td><td>National Tier 1 minimum ratio</td><td>Rasio terendah Tier 1 nasional (jika berbeda dengan Basel 3)</td><td>N/A</td><td></td></tr><tr><td>71</td><td>National total capital minimum ratio</td><td>Rasio terendah total modal nasional (jika berbeda dengan Basel 3)</td><td>N/A</td><td></td></tr><tr><td>Jumlah di bawah batasan pengurangan (sebelum pembobotan risiko)</td><td></td><td></td><td></td><td></td></tr><tr><td>72</td><td>Non-significant investments in the capital and other TLAC liabilities of other financial entities</td><td>Investasi non-signifikan pada modal atau kewajiban TLAC lainnya pada entitas keuangan lain</td><td>N/A</td><td></td></tr><tr><td>73</td><td>Significant investments in the common stock of financial entities</td><td>Investasi signifikan pada saham biasa entitas keuangan</td><td>N/A</td><td></td></tr><tr><td>74</td><td>Mortgage servicing rights (net of related tax liability)</td><td>Mortgage servicing rights (net dari kewajiban pajak)</td><td>N/A</td><td></td></tr><tr><td>75</td><td>Deferred tax assets arising from temporary differences (net of related tax liability)</td><td>Aset pajak tangguhan yang berasal dari perbedaan temporer (net dari kewajiban pajak)</td><td>N/A</td><td></td></tr><tr><td>Cap yang dikenakan untuk provisi pada Tier 2</td><td></td><td></td><td></td><td></td></tr><tr><td>76</td><td>Provisions eligible for inclusion in Tier 2 in respect of exposures subject to standardised approach (prior to application of cap)</td><td>Provisi yang dapat diakui sebagai Tier 2 sesuai dengan eksposur berdasarkan pendekatan standar (sebelum dikenakan cap)</td><td>N/A</td><td></td></tr><tr><td>77</td><td>Cap on inclusion of provisions in Tier 2 under standardised approach</td><td>Cap atas provisi yang diakui sebagai Tier 2 berdasarkan pendekatan standar</td><td>N/A</td><td></td></tr><tr><td>78</td><td>Provisions eligible for inclusion in Tier 2 in respect of exposures subject to internal ratings-based approach (prior to application of cap)</td><td>Provisi yang dapat diakui sebagai Tier 2 sesuai dengan eksposur berdasarkan pendekatan IRB (sebelum dikenakan cap )</td><td>N/A</td><td></td></tr><tr><td>79</td><td>Cap for inclusion of provisions in Tier 2 under internal ratings-based approach</td><td>Cap atas provisi yang diakui sebagai Tier 2 berdasarkan pendekatan IRB</td><td>N/A</td><td></td></tr><tr><td></td><td>Instrumen Modal yang termasuk phase out (hanya berlaku antara 1 Jan 2018 s.d 1</td><td>Jan 2022)</td><td></td><td></td></tr><tr><td>80</td><td>Current cap on CET1 instruments subject to phase out arrangements</td><td>Cap pada CET1 yang termasuk phase out</td><td>N/A</td><td></td></tr><tr><td>81</td><td>Amount excluded from CET1 due to cap (excess over cap after redemptions and maturities)</td><td>Jumlah yang dikecualikan dari CET1 karena adanya cap (kelebihan diatas cap setelah redemptions dan maturities )</td><td>N/A</td><td></td></tr><tr><td>82</td><td>Current cap on AT1 instruments subject to phase out arrangements</td><td>Cap pada AT1 yang termasuk phase out</td><td>N/A</td><td></td></tr><tr><td>83</td><td>Amount excluded from AT1 due to cap (excess over cap after redemptions and maturities)</td><td>Jumlah yang dikecualikan dari AT1 karena adanya cap (kelebihan di atas cap setelah redemptions dan maturities )</td><td>N/A</td><td></td></tr><tr><td>84</td><td>Current cap on Tier 2 instruments subject to phase out arrangements</td><td>Cap pada Tier 2 yang termasuk phase out</td><td>N/A</td><td></td></tr><tr><td>85</td><td>Amount excluded from Tier 2 due to cap (excess over cap after redemptions and maturities)</td><td>Jumlah yang dikecualikan dari Tier 2 karena adanya cap (kelebihan di atas cap setelah redemptions dan maturities )</td><td>N/A</td><td></td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": "Cat:\n*) Setelah dikurangi amortisasi berdasarkan jangka waktu tersisa\n**) Pos-pos yang diberi keterangan N/A adalah pos-pos yang tidak applicable",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; lanjutan tabel CC1 (header diulang di sumber); bilingual kolom terpisah; baris seksi biru merentang penuh di sumber, dicatat di sel pertama dengan sel lain kosong; spasi ganda di sekitar istilah miring dirapatkan jadi satu; spasi sebelum ) dihapus bila celahnya hanya celah huruf miring; catatan Cat: masuk table_footnote"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor halaman; furniture"
+ }
+]

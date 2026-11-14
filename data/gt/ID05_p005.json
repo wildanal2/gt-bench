@@ -1,0 +1,373 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis dua sumbu (IHSG dan Yield SBN); judul, legenda, label data, sumbu, dan sumber tercetak di dalam gambar"
+ },
+ {
+  "type": "text",
+  "text": "Kepercayaan Investor di Pasar Keuangan Domestik Terus Membaik",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul grafik"
+ },
+ {
+  "type": "text",
+  "text": "Gencatan perang dagang AS–Tiongkok dan pemangkasan suku bunga The Fed lebih agresif mendorong optimisme dan sentimen positif.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; subjudul grafik, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "IHSG",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Yield SBN (RHS)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "7,0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data awal Yield SBN"
+ },
+ {
+  "type": "text",
+  "text": "7.079,9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data awal IHSG"
+ },
+ {
+  "type": "text",
+  "text": "All time high 8.710,7 (8 Des)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label anotasi; 'All time high' bold italic"
+ },
+ {
+  "type": "text",
+  "text": "8.646,9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data akhir IHSG"
+ },
+ {
+  "type": "text",
+  "text": "6,0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data akhir Yield SBN"
+ },
+ {
+  "type": "text",
+  "text": "Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu x"
+ },
+ {
+  "type": "text",
+  "text": "Sumber: Bloomberg",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sumber"
+ },
+ {
+  "type": "text",
+  "text": "Sejalan dengan perbaikan indikator makro dan sektor riil, kepercayaan investor di sektor keuangan juga terus membaik. Pada Triwulan IV 2025, tekanan global yang semakin menurun mendorong perbaikan sentimen pasar. Imbal hasil Surat Berharga Negara/yield SBN tenor 10 tahun mencapai 6,01 persen pada akhir 2025, jauh menurun dibandingkan dengan posisi akhir 2024 yang masih berada di atas 7 persen. Penurunan yield ini menjadi bukti peningkatan kepercayaan investor terhadap stabilitas makroekonomi dan konsistensi kebijakan fiskal. Arus modal asing juga kembali menguat, khususnya di pasar SBN. Sepanjang 2025, investor nonresiden mencatatkan beli bersih SBN (net inflow) sebesar Rp2,01 triliun, dengan inflow bulan Desember mencapai Rp6,49 triliun. Di pasar saham, Indeks Harga Saham Gabungan (IHSG) mencatatkan kinerja yang solid dan mencapai rekor tertinggi (all time high) 8.710,70 pada 8 Desember 2025 dengan nilai kapitaliasi pasar tertinggi Rp 16.000 triliun di tanggal yang sama. Hal ini didukung oleh stabilitas ekonomi, kinerja emiten yang membaik, serta optimisme terhadap prospek pertumbuhan ekonomi ke depan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: yield, net inflow, inflow, all time high; 'kapitaliasi' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Sementara itu, nilai tukar Rupiah bergerak relatif stabil sepanjang 2025, meskipun sempat menghadapi tekanan pada periode tertentu. Tekanan terutama terjadi pada Triwulan II seiring meningkatnya eskalasi perang dagang global yang memicu volatilitas pasar keuangan, serta pada Triwulan III 2025 seiring meningkatnya sentimen risiko domestik. Namun demikian, secara keseluruhan tahun, stabilitas nilai tukar tetap terjaga, didukung oleh fundamental ekonomi domestik yang kuat, surplus neraca perdagangan yang berkelanjutan, serta sinergi kebijakan antara Pemerintah dan Bank Indonesia dalam menjaga stabilitas pasar keuangan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Likuiditas pasar juga membaik dengan pertumbuhan base money (M0) hingga 11,4% (yoy) pada Desember 2025. Hal itu didukung kebijakan penempatan dana Pemerintah pada perbankan komersial, khususnya Bank Himbara. Selain memperkuat likuiditas pasar uang, kondisi ini juga mendukung kelancaran intermediasi keuangan, menciptakan ruang yang lebih kondusif bagi penurunan biaya pendanaan dan peningkatan pembiayaan ke sektor riil.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: base money"
+ },
+ {
+  "type": "text",
+  "text": "Di sisi lain, perkembangan ekonomi dan fiskal sepanjang 2025 juga dipengaruhi oleh fluktuasi harga komoditas global. Harga minyak mentah (ICP) mengalami tekanan seiring pelemahan permintaan global dan peningkatan pasokan. ICP USD67,95 per barel pada November 2025, di bawah asumsi APBN. Harga gas alam relatif moderat di kisaran USD4,1 per MMBtu pada akhir tahun. Sementara harga batubara bergerak lebih dinamis, sempat melemah pada awal 2025 seiring normalisasi permintaan global, sebelum kembali menunjukkan perbaikan pada Triwulan IV 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pada sektor pertambangan, harga nikel cenderung menurun dibandingkan puncaknya pada Triwulan II 2024, dipengaruhi peningkatan kapasitas produksi global serta penyesuaian permintaan. Dinamika harga komoditas tersebut memberikan tekanan pada penerimaan negara, baik dari perpajakan maupun PNBP, terutama yang berbasis sumber daya alam. Meski terdapat kenaikan pada lifting minyak dan gas. Data sementara per November 2025 menunjukkan realisasi lifting minyak dan gas masing-masing mencapai 577,6 ribu barel per hari dan 965,5 ribu barel setara minyak per hari. Kinerja lifting migas tetap terjaga dan dioptimalkan melalui peningkatan investasi dan pengembangan teknologi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: lifting"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi yang stabil dan kondisi fiskal yang terjaga sepanjang 2025 menjadi fondasi penting yang memberikan ruang bagi APBN untuk terus menjalankan peran melindungi masyarakat dan menjadi penopang ekonomi ke depan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; panel infografis indikator makro (gambar tanpa lapisan teks; baris berpita warna tanpa garis kolom, tidak dijadikan tabel); per indikator: label, asumsi APBN di kiri, realisasi + periode di kanan"
+ },
+ {
+  "type": "text",
+  "text": "REALISASI INDIKATOR EKONOMI MAKRO DIBANDINGKAN ASUMSI APBN 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel, dua baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi (yoy)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "5,2%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "5,2% Outlook 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode; 'Outlook' italic"
+ },
+ {
+  "type": "text",
+  "text": "Inflasi (yoy)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "2,5%",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "2,92% Desember 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode"
+ },
+ {
+  "type": "text",
+  "text": "Nilai Tukar",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "Rp16.000/USD",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "Rp16.475/USD (ytd) Rp16.782/USD (eop) 31 Desember 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode"
+ },
+ {
+  "type": "text",
+  "text": "Yield SBN 10 Tahun",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "7,0% (ytd)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "6,71% (ytd) 16 Desember 2025 6,01% (eop) 31 Desember 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode"
+ },
+ {
+  "type": "text",
+  "text": "Harga Minyak Mentah (ytd)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "USD82/barel",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "67,95 November 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode"
+ },
+ {
+  "type": "text",
+  "text": "Lifting Minyak (barel/hari)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "605 ribu",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "577,6 ribu November 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode"
+ },
+ {
+  "type": "text",
+  "text": "Lifting Gas (barel setara minyak/hari)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label indikator"
+ },
+ {
+  "type": "text",
+  "text": "1.005 ribu",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; asumsi APBN 2025"
+ },
+ {
+  "type": "text",
+  "text": "965,5 ribu November 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; realisasi (angka tebal) + periode"
+ },
+ {
+  "type": "text",
+  "text": "Sumber: Kemenkeu, BI, SKK Migas, BPS, K-ESDM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sumber panel"
+ }
+]

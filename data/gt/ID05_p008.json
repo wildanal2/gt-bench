@@ -1,0 +1,125 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Januari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "8",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Belanja Negara Responsif dan Antisipatif Mendukung Program Prioritas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold), lanjutan artikel APBN 2025; heading tertinggi di halaman = 1"
+ },
+ {
+  "type": "text",
+  "text": "Realisasi Belanja Negara hingga akhir 2025 mencapai Rp3.451,4 triliun atau 95,3 persen dari APBN. Belanja negara diarahkan secara responsif dan antisipatif untuk mendukung pelaksanaan program prioritas Pemerintah, menjaga stabilitas ekonomi, serta melindungi masyarakat dari berbagai risiko, termasuk tekanan ekonomi dan dampak bencana. Sejak awal tahun, efisiensi dan refocusing belanja dilakukan secara bertahap. Selanjutnya, belanja diakselerasi seiring penajaman prioritas kebijakan dan penyaluran berbagai paket stimulus ekonomi. Pada Triwulan IV, realisasi belanja meningkat signifikan, antara lain untuk penyaluran paket stimulus lanjutan dan penguatan respons penanganan bencana.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: refocusing"
+ },
+ {
+  "type": "text",
+  "text": "Realisasi Belanja Pemerintah Pusat (BPP) mencapai Rp2.602,3 triliun (96,3 persen APBN), dengan fokus pada peningkatan kualitas belanja melalui efisiensi dan realokasi ke kegiatan prioritas. Dalam pelaksanaannya, BPP menjalankan peran strategis APBN, yaitu sebagai agen pembangunan (development agent), peredam tekanan (shock absorber), dan instrumen antisipasi penanggulangan bencana. BPP juga difokuskan pada pelaksanaan program prioritas nasional, penguatan perlindungan sosial, serta dukungan bagi sektor produktif guna mengakselerasi transformasi ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: development agent, shock absorber"
+ },
+ {
+  "type": "text",
+  "text": "Seiring adanya belanja tambahan dan pergeseran anggaran, realisasi belanja K/L tercatat sebesar Rp1.500,4 triliun, tumbuh 13,3 persen (yoy), antara lain untuk mendukung program prioritas Pemerintah dan respons cepat terhadap kejadian bencana. Belanja bansos tumbuh cukup tinggi 20,5 persen (yoy), sejalan dengan strategi Pemerintah untuk terus memberikan stimulus sosial guna melindungi kelompok rentan, menjaga daya beli masyarakat, serta memastikan konsumsi rumah tangga tetap tumbuh di tengah dinamika ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Belanja non-K/L salah satunya direalisasikan dalam bentuk subsidi. Pemerintah menyediakan kuota subsidi yang memadai sampai dengan akhir tahun dalam rangka menjaga daya beli, sehingga masyarakat dapat mengakses berbagai barang bersubsidi seperti BBM, LPG 3 kg, listrik bersubsidi, pupuk, serta subsidi perumahan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Hingga 31 Desember 2025, Pemerintah telah menyalurkan subsidi sebesar Rp281,6 triliun, dipengaruhi dinamika asumsi makro dan parameter subsidi (harga minyak mentah, nilai tukar, dan volume). Di sisi lain, penyederhanaan birokrasi penyaluran pupuk bersubsidi dan penyesuaian HET pupuk turut mendorong distribusi yang lebih cepat dan harga pupuk yang lebih terjangkau bagi petani.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Transfer ke Daerah (TKD) mencapai Rp849,0 triliun atau 92,3 persen dari APBN. TKD berperan penting dalam meningkatkan kualitas layanan publik, mendorong pertumbuhan ekonomi daerah, serta mendukung pengendalian inflasi dan kesejahteraan masyarakat. Sepanjang 2025, dilakukan upaya peningkatan efektivitas dan efisiensi kebijakan TKD.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dana Alokasi Umum antara lain dimanfaatkan untuk Gaji ASN Daerah dan PPPK serta penyaluran Tunjangan Profesi Guru yang dilakukan lebih cepat dan langsung ke rekening penerima. Dana Desa digunakan untuk pembentukan dan penguatan KD/KMP, pembangunan infrastruktur dasar, serta bantuan langsung tunai di desa. Sementara itu, Dana Alokasi Khusus diarahkan untuk mendukung operasional sekolah, layanan kesehatan primer, dan penguatan layanan rujukan di daerah.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "TKD yang disalurkan ke daerah terus dioptimalkan untuk belanja, namun capaian realisasi belanja APBD 2025 diperkirakan masih rendah. Hal tersebut berdampak pada peningkatan posisi kas pemerintah daerah. Excess cash daerah diharapkan dapat segera dimanfaatkan di awal 2026 untuk mempercepat realisasi belanja daerah, khususnya pada belanja produktif dan pelayanan publik, sehingga dampak TKD terhadap perekonomian dan kesejahteraan masyarakat di daerah dapat semakin optimal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic: Excess cash"
+ },
+ {
+  "type": "text",
+  "text": "Pelaksanaan program prioritas sepanjang 2025 diarahkan untuk memperkuat fondasi pembangunan sumber daya manusia, ketahanan sosial, dan aktivitas ekonomi di berbagai daerah yang memberikan manfaat langsung kepada masyarakat. Fokus utama diarahkan pada pembangunan SDM melalui pemenuhan gizi, peningkatan partisipasi sekolah, dan peningkatan kesehatan. Dukungan kebijakan lain yang juga menjadi fokus adalah bidang ketahanan pangan, pembangunan desa, koperasi, dan UMKM.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto kunjungan ke sekolah bersama anak-anak; tanpa teks terbaca"
+ }
+]

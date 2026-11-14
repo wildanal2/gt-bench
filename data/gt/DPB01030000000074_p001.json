@@ -1,0 +1,120 @@
+[
+ {
+  "type": "text",
+  "text": "Thailand, Malaysia, and Singapore. In these three countries, per capita GDP\nfell between 4 percent to 7 percent.3",
+  "page_idx": 0,
+  "bbox": [
+   0.18808,
+   0.08385,
+   0.88134,
+   0.11705
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 1.2. Per capita GDP growth in 2020",
+  "page_idx": 0,
+  "bbox": [
+   0.18873,
+   0.12997,
+   0.58591,
+   0.14703
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.18808,
+   0.1581,
+   0.88395,
+   0.43849
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Source: World Bank (2022a)",
+  "page_idx": 0,
+  "bbox": [
+   0.18873,
+   0.4472,
+   0.41064,
+   0.45986
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "It is also noteworthy that in two of these major destination countries - Thailand\nand Malaysia - the most-affected sectors were also ones heavily reliant\non migrant workers. In Thailand, affected sectors include manufacturing,\nconstruction, agriculture, fishing, seafood processing, domestic work, and\nhospitality (United Nations Thematic Working Group, 2019; ILO, 2020). In\nMalaysia, migrant workers were, in 2019, especially prevalent in manufacturing\n(705,000), construction (435,000), services (306,000), plantation (282,000),\nagriculture (160,000), and domestic work (127,000) (Wahab, 2020a; Theng,\nNoor and Khalidi, 2020).",
+  "page_idx": 0,
+  "bbox": [
+   0.18873,
+   0.47564,
+   0.88296,
+   0.62829
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The construction sector in Malaysia crashed in the second quarter of 2020\nand did not experience growth again until the second quarter of 2021,\nbefore suffering negative growth again the next quarter after a COVID-19\nresurgence. Accommodation and dining establishments which includes many\ntourism-related jobs, fared even worse. Furthermore, wholesale trade and\nrelated activities in Malaysia have not recovered to pre-pandemic levels, even\nafter growing in the first two quarters of 2021. In Thailand, the construction\nsector avoided a massive output decline similar to Malaysia's, although it did\ndecline in the first quarter of 2020. However, manufacturing, accommodation,\nand wholesale trade in Thailand all suffered large contractions due to travel\nrestrictions, supply chain disruptions, and weak aggregate demand, and,\ndespite some recovery in the second quarter of 2021, remain well below pre-\npandemic levels (Table 1.1).",
+  "page_idx": 0,
+  "bbox": [
+   0.18808,
+   0.64277,
+   0.88231,
+   0.86457
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3 The Philippine economy was hit hardest because of the length and severity of the movement restrictions\nimposed in the country (Olanday and Rigby, 2020).",
+  "page_idx": 0,
+  "bbox": [
+   0.14099,
+   0.89599,
+   0.88231,
+   0.9192
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "ASEAN Migration Outlook",
+  "page_idx": 0,
+  "bbox": [
+   0.14099,
+   0.95209,
+   0.42052,
+   0.96687
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "13",
+  "page_idx": 0,
+  "bbox": [
+   0.92952,
+   0.95253,
+   0.95176,
+   0.96427
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

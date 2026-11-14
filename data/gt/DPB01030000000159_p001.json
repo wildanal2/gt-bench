@@ -1,0 +1,81 @@
+[
+ {
+  "type": "text",
+  "text": "be a starting point for asking questions too, but I would recommend\nagainst brainstorming as the only strategy towards topic and\nquestion identification since it does not enable students to get to\ntopics they didn't know existed.",
+  "page_idx": 0,
+  "bbox": [
+   0.13918,
+   0.09562,
+   0.86023,
+   0.18314
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "I struggle with getting students to actually read the sources we\nfind together in our research consultations. They seem to want\nto do all the searching first and all the reading later. No matter\nhow I tell them it's iterative and you need to go back and forth\nbetween reading and searching many many times, the messages\nwasn't landing. This chapter is my next iteration in how to talk\nabout the research process, but I really don't now what the secret\nrecipe is yet. Let me know if you think this one lands.",
+  "page_idx": 0,
+  "bbox": [
+   0.13723,
+   0.18629,
+   0.86218,
+   0.36636
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Types of Sources",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.13723,
+   0.42681,
+   0.41456,
+   0.45955
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "I am a big fan of Mike Caulfield's information literacy work (see\nthe next chapter, SIFTing Information.) Sometimes I have found\nmy attempts to use his strategies in the classroom were hard for\nstudents. For example, when I've tried the exercise about the\nAmerican Academy of Pediatrics and the American College of\nPediatricians (Reflection & Discussion Question 1) without first\ntalking about professional organizations, students rarely got how\nthey were different, and it did not build their confidence.",
+  "page_idx": 0,
+  "bbox": [
+   0.13723,
+   0.49607,
+   0.86218,
+   0.67552
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "It's hard to identify a legitimate professional association if you've\nnever heard of the concept of professional associations. This\nchapter may be long, but I felt it was important to enumerate at\nleast some of the dimensions of the sources they may find, SO that\nwhen we get to Caulfield's SIFT method they are set up for success.",
+  "page_idx": 0,
+  "bbox": [
+   0.13528,
+   0.67993,
+   0.86412,
+   0.79074
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "102 | Instructor Resources",
+  "page_idx": 0,
+  "bbox": [
+   0.13723,
+   0.92108,
+   0.40093,
+   0.93997
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

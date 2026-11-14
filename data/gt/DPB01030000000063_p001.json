@@ -1,0 +1,68 @@
+[
+ {
+  "type": "text",
+  "text": "The other potentially invasive fouler is the tropical American Mytilopsis sallei and M. adamsi\nwhich has been recorded invasive in Singapore, Australia, Thailand among other regions. While\nthey are recorded from the Manila South Harbor, there is no evidence that it is invasive as it exists\nin low abundances.",
+  "page_idx": 0,
+  "bbox": [
+   0.11573,
+   0.09354,
+   0.88467,
+   0.19098
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.14711,
+   0.24665,
+   0.84365,
+   0.4186
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Figure 3. Non-indigenous macrofoulers from Manila Bay with IAS, Mytilopsis sallei and Mytella strigata\n(=charruana). (From Trinidad et aL 2019)",
+  "page_idx": 0,
+  "bbox": [
+   0.11709,
+   0.43791,
+   0.86754,
+   0.4776
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Newer estimates (2021) on the number of possible IAS in Manila Bay is likely more than 30\nspecies based on more intensive biofouling ecological monitoring and the use environmental\nDNA in detecting species. When research started in 2006 on IAS in Manila Bay, 3 species were\ninitially observed.",
+  "page_idx": 0,
+  "bbox": [
+   0.11709,
+   0.51769,
+   0.86617,
+   0.61619
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": [
+   0.87229,
+   0.92229,
+   0.88278,
+   0.93336
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

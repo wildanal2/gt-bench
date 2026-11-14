@@ -1,0 +1,299 @@
+[
+ {
+  "type": "text",
+  "text": "PETUNJUK PENGISIAN SURAT PEMBERITAHUAN TAHUNAN PAJAK PENGHASILAN WAJIB PAJAK ORANG PRIBADI SANGAT SEDERHANA (Formulir SPT 1770 SS)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul 5 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PETUNJUK UMUM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Wajib Pajak Orang Pribadi yang dapat menggunakan formulir ini adalah Wajib Pajak yang:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "a. mempunyai penghasilan selain dari usaha dan/atau pekerjaan bebas;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. jumlah penghasilan bruto tidak lebih dari Rp60.000.000,00 (enam puluh juta rupiah) setahun",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tanpa tanda baca di akhir"
+ },
+ {
+  "type": "text",
+  "text": "Batasan penghasilan bruto tersebut meliputi keseluruhan penghasilan selain penghasilan dari usaha dan/atau pekerjaan bebas.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Penghasilan dari pekerjaan dapat bersumber dari satu atau lebih pemberi kerja.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dalam hal Wajib Pajak telah kawin, penghasilan dimaksud adalah penghasilan dari seluruh anggota keluarga Wajib Pajak, namun tidak termasuk penghasilan isteri yang semata-mata diterima atau diperoleh dari satu pemberi kerja yang telah dipotong PPh Pasal 21, apabila pemenuhan kewajiban pajaknya dilakukan oleh Wajib Pajak sebagai kepala keluarga (KK).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dalam hal Wajib Pajak telah kawin, namun:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "a. suami-isteri telah hidup berpisah berdasarkan putusan hakim (HB);",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "b. dikehendaki secara tertulis oleh suami-isteri berdasarkan perjanjian pemisahan harta dan penghasilan (PH); atau",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "c. dikehendaki oleh isteri yang memilih untuk menjalankan hak dan kewajiban perpajakannya sendiri (MT).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "pemenuhan kewajiban pajaknya dilakukan masing-masing oleh suami dan isteri secara terpisah. Dalam hal ini, isteri memiliki kewajiban mendaftarkan diri untuk diberikan NPWP sehingga menjadi Wajib Pajak Orang Pribadi tersendiri.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kata ulang masing-/masing ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Suami-isteri yang mempunyai penghasilan selain dari usaha dan/atau pekerjaan bebas dengan jumlah penghasilan bruto tidak lebih dari Rp60.000.000,00 (enam puluh juta rupiah) setahun, namun memiliki status perpajakan PH atau MT wajib melaporkan penghasilan dan penghitungan Pajak Penghasilan dengan menggunakan Fomulir SPT Tahunan PPh Orang Pribadi 1770 S, bukan menggunakan Formulir SPT Tahunan PPh Orang Pribadi 1770 SS ini.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; typo 'Fomulir' dipertahankan"
+ },
+ {
+  "type": "text",
+  "text": "Wajib Pajak wajib mengisi dan menyampaikan SPT Tahunan dengan benar, lengkap, jelas dan menandatanganinya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "Wajib Pajak harus mengambil sendiri formulir SPT Tahunan dan menyampaikannya paling lambat 3 (tiga) bulan setelah tahun pajak berakhir.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "dalam mengisi kolom-kolom yang berisi nilai Rupiah, harus tanpa nilai desimal. Contoh: dalam menuliskan sepuluh juta rupiah adalah: 10.000.000 (bukan 10.000.000,00) atau dalam menuliskan seratus dua puluh lima rupiah lima puluh sen adalah: 125 (bukan 125,50).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "kekurangan pembayaran pajak yang terutang berdasarkan SPT Tahunan harus dibayar lunas sebelum SPT Tahunan disampaikan. Apabila pembayaran dilakukan setelah tanggal jatuh tempo penyampaian Surat Pemberitahuan Tahunan, dikenai sanksi administrasi berupa bunga sebesar 2% (dua persen) perbulan yang dihitung mulai dari berakhirnya batas waktu penyampaian Surat Pemberitahuan Tahunan sampai dengan tanggal pembayaran dan bagian dari bulan dihitung penuh 1 (satu) bulan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi); lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "Apabila SPT Tahunan tidak disampaikan dalam jangka waktu yang ditetapkan atau dalam batas waktu perpanjangan penyampaian SPT Tahunan, kepada Wajib Pajak akan dikirimkan Surat Teguran dan dikenai sanksi administrasi berupa denda sebesar Rp100.000 (seratus ribu rupiah).",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "Wajib Pajak yang karena kealpaannya atau dengan sengaja tidak menyampaikan SPT Tahunan atau menyampaikan SPT Tahunan tetapi isinya tidak benar sehingga dapat menimbulkan kerugian pada pendapatan negara, dapat dikenakan sanksi administrasi dan/atau sanksi pidana.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "Wajib Pajak tidak perlu melampirkan bukti pemotongan PPh Pasal 21 (1721-A1 atau 1721 A2)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda \"-\" (penanda tidak ditranskripsi); '1721 A2' tanpa tanda hubung, tanpa titik akhir, sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "PETUNJUK KHUSUS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "Tahun Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Kolom Tahun Pajak diisi dengan tahun pajak yang sesuai. Contoh: Atas pelaporan SPT Tahunan untuk tahun pajak 2014, maka kolom tahun pajak diisi dengan 2014.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "SPT Pembetulan ke- .....",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Kotak SPT Pembetulan diisi dengan tanda silang (X) dan kolom Ke- ... diisi dengan angka banyaknya melakukan pembetulan jika Wajib Pajak menyampaikan SPT Pembetulan. Jika Wajib Pajak menyampaikan SPT normal maka kotak SPT Pembetulan dan kolom Ke- ... tersebut tidak perlu diisi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Nomor Pokok Wajib Pajak (NPWP) dan Nama Wajib Pajak",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Kolom ini diisi sesuai dengan Nomor Pokok Wajib Pajak dan nama Wajib Pajak.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "A. Pajak Penghasilan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "1. Penghasilan bruto dalam negeri sehubungan dengan pekerjaan dan penghasilan neto dalam negeri lainnya",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; butir bernomor sebagai subjudul",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "a. Jumlah penghasilan bruto dalam negeri sehubungan dengan pekerjaan dapat diisi dengan jumlah penghasilan bruto yang tercantum pada bukti pemotongan PPh 1721-A1 angka 9 atau 1721-A2 angka 10 atau bukti pemotongan PPh Pasal 21 (tidak final). Apabila Wajib Pajak memperoleh penghasilan lebih dari satu pemberi kerja maka kolom ini diisi dengan hasil penjumlahan dari keseluruhan penghasilan bruto yang tercantum pada setiap bukti pemotongan PPh Pasal 21 yang diterimanya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode 1721-/A1 terpotong di akhir baris, ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Catatan:",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Tidak termasuk penghasilan isteri yang semata-mata diterima atau diperoleh dari satu pemberi kerja yang telah dipotong PPh Pasal 21 apabila pemenuhan kewajiban pajaknya dilakukan oleh Wajib Pajak sebagai kepala keluarga (KK). Penghasilan ini dimasukkan dalam Bagian B Nomor 8: Dasar Pengenaan Pajak/Penghasilan Bruto Penghasilan Final.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kata ulang semata-/mata ditulis utuh; dicek: 'Pajak/' di akhir baris digabung tanpa spasi"
+ },
+ {
+  "type": "text",
+  "text": "b. Penghasilan neto dalam negeri lainnya di antaranya meliputi royalti, sewa selain sewa tanah dan/atau bangunan, hadiah perlombaan, keuntungan pengalihan harta dll.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "2. Pengurangan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 4
+ },
+ {
+  "type": "text",
+  "text": "Pengurangan ini merupakan pengurangan atas penghasilan bruto dalam negeri sehubungan dengan pekerjaan yang meliputi biaya jabatan, biaya pensiun serta iuran pensiun dan iuran THT",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; berlanjut ke halaman berikutnya"
+ }
+]

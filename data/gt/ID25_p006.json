@@ -1,0 +1,61 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon tab bab aktif; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Ikhtisar Keuangan dan Operasional",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan; tab navigasi bab"
+ },
+ {
+  "type": "text",
+  "text": "Financial and Operational Highlights",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan; tab navigasi bab"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; deretan 7 ikon navigasi bab tanpa teks; furniture"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Uraian Description</th><th>2024</th><th>2023</th><th>2022</th></tr><tr><td>Liabilitas imbalan kerja Employee benefits liabilities</td><td>213.368</td><td>170.827</td><td>156.969</td></tr><tr><td>Liabilitas sewa jangka panjang Long-term lease liabilities</td><td>746.813</td><td>366.251</td><td>206.789</td></tr><tr><td>Liabilitas jangka panjang lainnya Other long-term liabilities</td><td>164.336</td><td>89.000</td><td>84.056</td></tr><tr><td>Jumlah liabilitas jangka panjang Total long-term liabilities</td><td>9.096.396</td><td>8.870.323</td><td>7.644.202</td></tr><tr><td>Jumlah liabilitas Total liabilities</td><td>21.669.238</td><td>20.103.805</td><td>17.238.585</td></tr><tr><td>Ekuitas Equity</td><td></td><td></td><td></td></tr><tr><td>Modal saham Share capital</td><td>18.332.900</td><td>18.332.900</td><td>18.332.900</td></tr><tr><td>Tambahan modal disetor Additional paid-up capital</td><td>5.478.207</td><td>5.482.610</td><td>5.487.013</td></tr><tr><td>Proforma ekuitas yang timbul dari transaksi restrukturisasi entitas sepengendali Proforma equity arise from transaction of entities under common control</td><td></td><td>-</td><td>-</td></tr><tr><td>Surplus revaluasi aset tetap Gain on revaluation of fixed assets</td><td>2.265.877</td><td>2.438.119</td><td>2.247.326</td></tr><tr><td>Keuntungan (kerugian) belum direalisasi dari perubahan nilai wajar melalui penghasilan komprehensif lainnya - setelah pajak Unrealized gain (loss) from changes in fair value of other comprehensive income - net of tax</td><td>2.451.507</td><td>2.036.286</td><td>(432.226)</td></tr><tr><td>Saldo laba Retained earnings</td><td></td><td></td><td></td></tr><tr><td>Telah ditentukan penggunaannya Appropriated</td><td>78.521</td><td>78.521</td><td>78.521</td></tr><tr><td>Belum ditentukan penggunaannya Unappropriated</td><td>1.534.564</td><td>397.197</td><td>(526.107)</td></tr><tr><td>Total saldo laba Total retained earnings</td><td>30.141.576</td><td>28.765.633</td><td>25.187.427</td></tr><tr><td>Kepentingan non-pengendali Non-controlling interest</td><td>11.920.741</td><td>11.583.070</td><td>11.066.444</td></tr><tr><td>Jumlah ekuitas Total equity</td><td>42.062.317</td><td>40.348.703</td><td>36.253.871</td></tr><tr><td>Jumlah liabilitas dan ekuitas Total liabilities and equity</td><td>63.731.555</td><td>60.452.508</td><td>53.492.456</td></tr></table>",
+  "table_caption": "dalam Jutaan Rupiah\nIn million Rupiah",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; lanjutan tabel Posisi Keuangan Konsolidasian dari halaman sebelumnya (judul tidak diulang); bilingual: label ID dan EN tercetak bertumpuk dalam satu sel, digabung satu spasi; header Uraian/Description bertumpuk digabung satu spasi; format angka titik ribuan disalin verbatim; label ID/EN dua baris digabung satu spasi; baris seksi (Ekuitas, Saldo laba) diberi sel nilai kosong; penanda butir '•' pada sub-butir Saldo laba tidak ditulis; Proforma ekuitas: sel 2024 kosong di sumber, 2023 dan 2022 '-'"
+ },
+ {
+  "type": "text",
+  "text": "Annual Report 2024 I PT Danareksa (Persero)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; pemisah 'I' sesuai sumber"
+ },
+ {
+  "type": "text",
+  "text": "37",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

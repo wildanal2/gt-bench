@@ -1,0 +1,9 @@
+# lingkungan dan cache lokal
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# output parser dibuat di luar dataset (lihat README "Cara menguji parser")
+predictions/

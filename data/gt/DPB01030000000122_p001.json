@@ -1,0 +1,252 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.04789,
+   0.39908,
+   0.0663
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.79618,
+   0.04903,
+   0.87072,
+   0.0663
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "For use with CarolinaBLUTM stain:",
+  "page_idx": 0,
+  "bbox": [
+   0.33317,
+   0.09959,
+   0.61206,
+   0.11396
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Tube</td><td>BamHI-Hindlll restriction enzyme mixture</td><td>Restriction Buffer-RNase</td><td>Suspect 1 DNA</td><td>Suspect 2 DNA</td><td>Evidence A or B</td><td>H2O</td></tr><tr><td>S1</td><td>3 �L</td><td>3 �L</td><td>10 �L</td><td></td><td></td><td>2 �L</td></tr><tr><td>S2</td><td>3 �L</td><td>3 �L</td><td></td><td>10 �L</td><td></td><td>2 �L</td></tr><tr><td>EA or EB</td><td>3 �L</td><td>3 �L</td><td></td><td></td><td>10 �L</td><td>2 �L</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.13701,
+   0.12043,
+   0.84634,
+   0.23824
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "3. Mix reagents by pipetting gently up and down.",
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.26697,
+   0.46053,
+   0.28206
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "4. Incubate all of the reaction tubes for 1 hour at 37 °C.",
+  "page_idx": 0,
+  "bbox": [
+   0.11656,
+   0.29858,
+   0.49679,
+   0.31295
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "NOTE: Your instructor will freeze your completed restriction digests at -20 °C until the next lab period.",
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.32987,
+   0.8326,
+   0.34743
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "III. Electrophorese Digests",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.36625,
+   0.35654,
+   0.38151
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Reagents:",
+  "page_idx": 0,
+  "bbox": [
+   0.11737,
+   0.39896,
+   0.18157,
+   0.41259
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Restriction digests from Part II, on ice\n· 10× loading dye, 10 �L",
+  "page_idx": 0,
+  "bbox": [
+   0.14419,
+   0.43015,
+   0.41642,
+   0.45796
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Supplies and Equipment",
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.47667,
+   0.27311,
+   0.4888
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Gel electrophoresis chamber with agarose gel in gel tray, power supply\n· 1-20 �L Micropipette and pipet tips",
+  "page_idx": 0,
+  "bbox": [
+   0.14354,
+   0.50751,
+   0.62387,
+   0.53482
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Load the Gel",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11374,
+   0.55288,
+   0.22244,
+   0.5665
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1. Use a micropipette to add 2 �L of 10× loading dye to a reaction tube. Use the pipet tip and gently pipet up\nand down a couple of times to mix the 10× loading dye with the digested DNA. Use a new pipet tip and repeat\nfor each digest.",
+  "page_idx": 0,
+  "bbox": [
+   0.11656,
+   0.58682,
+   0.87883,
+   0.62956
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2. Use a micropipette to load the contents of each reaction tube (20 �L total) into a separate well in the gel.\nUse a fresh pipet tip for each reaction tube and write down the order in which the samples are loaded.",
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.64638,
+   0.8607,
+   0.67791
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "NOTE: Be careful not to punch the tip of the pipet through the bottom or side of the well.",
+  "page_idx": 0,
+  "bbox": [
+   0.11504,
+   0.72765,
+   0.73376,
+   0.74307
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "While loading,",
+  "page_idx": 0,
+  "bbox": [
+   0.11374,
+   0.79154,
+   0.21839,
+   0.80814
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· steady the pipet over the well using two hands. You may wish to place one or both elbows on\nthe lab bench to steady your hands.\n· be careful to expel any air in the pipet tip end before loading the gel. If an air bubble forms a\ncap over the well, the sample will flow into the buffer around the edges of the well.",
+  "page_idx": 0,
+  "bbox": [
+   0.20344,
+   0.82548,
+   0.88375,
+   0.8883
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "133",
+  "page_idx": 0,
+  "bbox": [
+   0.4851,
+   0.92353,
+   0.51585,
+   0.93795
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

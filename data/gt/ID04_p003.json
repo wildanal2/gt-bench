@@ -1,0 +1,662 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; infografis dua grafik batang horizontal berkelompok (2025, 2024, 2023); judul tercetak di dalam gambar, dicatat sebagai teks in_figure"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Indonesia Tahun 2025 Tumbuh Tinggi Ditopang Permintaan yang Kuat dan Produksi Bernilai Tambah",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul infografis"
+ },
+ {
+  "type": "text",
+  "text": "Sumber : BPS",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sumber; italic"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Menurut Komponen Pengeluaran (% yoy)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Rumah Tangga (Des. 2025: 53,9%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "4,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "4,94",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,83",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Konsumsi Pemerintah (7,5%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "2,50",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "6,76",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "3,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "PMTB (28,8%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "5,09",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "4,61",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "3,76",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Ekspor (22,8%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "7,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "6,85",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "1,73",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Impor (20,5%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "4,77",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "8,15",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "(1,24)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Menurut Komponen Produksi (% yoy)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Manufaktur (Des. 2025: 19,1%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "5,30",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "4,43",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,64",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Perdagangan (13,2%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "5,49",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "4,89",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,85",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Pertanian (13,1%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "5,33",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "0,68",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "1,31",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Akomodasi Mamin (2,7%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "7,41",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "8,46",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "10,00",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Konstruksi (9,8%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "3,81",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "7,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,91",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Pertambangan (8,8%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "-0,66",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "4,90",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "6,12",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Transportasi (6,2%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "8,78",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "8,69",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "13,96",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Infokom (4,4%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "8,35",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "7,57",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "7,59",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Jasa Keu (4,1%)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label kategori; nilai dalam kurung = pangsa"
+ },
+ {
+  "type": "text",
+  "text": "3,96",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2025"
+ },
+ {
+  "type": "text",
+  "text": "4,74",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2024"
+ },
+ {
+  "type": "text",
+  "text": "4,77",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; nilai batang 2023"
+ },
+ {
+  "type": "text",
+  "text": "Peran konsumsi Pemerintah semakin menguat pada paruh kedua 2025. Konsumsi Pemerintah tumbuh 2,5% (yoy) sepanjang tahun, seiring peningkatan realisasi belanja setelah fase moderasi di awal tahun. Secara keseluruhan, belanja negara diarahkan untuk fokus pada program prioritas dan perlindungan sosial, dengan alokasi Rp805,4 triliun untuk program prioritas serta Rp110,7 triliun untuk stimulus rumah tangga dan dunia usaha. Di tengah kondisi global yang dinamis, APBN tetap memainkan perannya sebagai penyangga stabilitas sekaligus penggerak ekonomi.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dari sisi investasi, Pembentukan Modal Tetap Bruto (PMTB) menunjukkan penguatan yang konsisten, tumbuh 5,09% (yoy) sepanjang tahun. Kualitas investasi juga membaik, tercermin dari lonjakan investasi mesin dan perlengkapan sebesar 17,99% (yoy). Realisasi investasi Penanaman Modal Asing (PMA) dan Penanaman Modal Dalam Negeri (PMDN) yang meningkat sepanjang 2025 turut menegaskan terjaganya kepercayaan investor di tengah stabilitas makro dan sinergi kebijakan.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sisi eksternal tetap solid, dengan ekspor barang dan jasa tumbuh 7,03% (yoy), didorong minyak nabati, besi dan baja, serta mesin dan elektronik. Sementara pertumbuhan impor mencapai 4,77% (yoy), terutama untuk impor bahan baku dan barang modal. Surplus neraca perdagangan berlanjut selama 68 bulan berturut-turut, dengan akumulasi surplus pada 2025 sebesar USD41,05 miliar.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; hyphen: 'berturut-/turut' kata ulang ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Sektor Bernilai Tambah dan Pendukung Mobilitas Menjadi Penopang Pertumbuhan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold); level 1 karena tidak ada judul artikel di halaman ini"
+ },
+ {
+  "type": "text",
+  "text": "Dari sisi produksi, penguatan ekonomi semakin merata dan selaras dengan agenda prioritas Pemerintah. Manufaktur tumbuh 5,30% (yoy) sepanjang 2025, didukung Purchasing Managers’ Index (PMI) yang tetap ekspansif serta penguatan hilirisasi dan industri logam dasar. Perdagangan meningkat 5,49% (yoy), didorong meningkatnya pasokan untuk memenuhi kebutuhan rumah tangga dan dunia usaha seiring pembalikan aktivitas ekonomi. Sektor pertanian, kehutanan, dan perikanan tumbuh 5,33% (yoy), ditopang penguatan ketahanan pangan dan meningkatnya permintaan domestik, termasuk untuk mendukung program MBG.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'Purchasing Managers’ Index' italic"
+ },
+ {
+  "type": "text",
+  "text": "Mobilitas dan logistik tetap kuat. Transportasi tumbuh 8,78% (yoy), mencerminkan pergerakan masyarakat dan distribusi barang yang stabil, tanpa lagi bergantung pada efek basis rendah pascapandemi. Sejalan dengan itu, informasi dan komunikasi tumbuh 8,35% serta jasa keuangan 3,96%, menandakan digitalisasi yang meluas dan likuiditas yang membaik. Di sisi lain, pertambangan menjadi satu-satunya sektor yang terkontraksi akibat moderasi harga komoditas global.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Ketahanan Ekonomi Domestik Mendorong Perbaikan Kesejahteraan Rakyat",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold); level 1 karena tidak ada judul artikel di halaman ini"
+ },
+ {
+  "type": "text",
+  "text": "Yang tak kalah penting, momentum pertumbuhan 2025 juga terefleksikan pada indikator kesejahteraan rakyat. Per November 2025, jumlah penduduk bekerja meningkat menjadi 147,9 juta orang, bertambah 1,37 juta dibandingkan Agustus 2025, serta tingkat pengangguran terbuka menurun menjadi 4,74% (Agustus 2025: 4,85%). Tingkat kemiskinan juga turun menjadi 8,25% per September 2025 (Sep 2024: 8,57%). Ini menegaskan bahwa akselerasi ekonomi tidak hanya terlihat pada indikator makro, tetapi juga mendorong penciptaan lapangan kerja dan perbaikan kondisi sosial.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Dengan fondasi tersebut, Indonesia mampu memasuki 2026 dengan lebih kuat. Kebijakan fiskal yang antisipatif dan responsif menghadapi dinamika global dinilai berhasil membalikkan arah ekonomi tanpa mengorbankan disiplin fiskal.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Pembangunan merupakan proses transformasi yang dalam perjalanan waktu ditandai oleh perubahan struktural yaitu perubahan pada landasan kegiatan ekonomi maupun pada kerangka susunan eknomi masyarakat yang bersangkutan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kutipan (pull quote), italic; tanda kutip dekoratif tidak ditulis; typo 'eknomi' sesuai cetakan"
+ },
+ {
+  "type": "text",
+  "text": "Sumitro Djojohadikusumo (1994)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; atribusi kutipan"
+ }
+]

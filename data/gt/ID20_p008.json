@@ -1,0 +1,161 @@
+[
+ {
+  "type": "text",
+  "text": "FORMULIR",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; vertikal"
+ },
+ {
+  "type": "text",
+  "text": "1770 S - I",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kode formulir; huruf besar tebal"
+ },
+ {
+  "type": "text",
+  "text": "KEMENTERIAN KEUANGAN RI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "DIREKTORAT JENDERAL PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "LAMPIRAN - I SPT TAHUNAN PPh WAJIB PAJAK ORANG PRIBADI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; judul bertumpuk 2 baris digabung",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "PENGHASILAN NETO DALAM NEGERI LAINNYA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat (penanda tidak ditranskripsi)"
+ },
+ {
+  "type": "text",
+  "text": "PENGHASILAN YANG TIDAK TERMASUK OBJEK PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat"
+ },
+ {
+  "type": "text",
+  "text": "DAFTAR PEMOTONGAN/PEMUNGUTAN PPh OLEH PIHAK LAIN DAN PPh YANG DITANGGUNG PEMERINTAH",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir berpenanda bulat; 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "TAHUN PAJAK 2 0",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label 'TAHUN PAJAK' vertikal; digit 2 dan 0 dalam kotak terpisah; 2 kotak lain kosong"
+ },
+ {
+  "type": "text",
+  "text": "N P W P :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian; huruf berspasi sesuai sumber; kotak isian kosong tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "NAMA WAJIB PAJAK :",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; label isian"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN A : PENGHASILAN NETO DALAM NEGERI LAINNYA (TIDAK TERMASUK PENGHASILAN DIKENAKAN PPh FINAL DAN/ATAU BERSIFAT FINAL)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading; 2 baris digabung",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th colspan=\"2\">JENIS PENGHASILAN</th><th>JUMLAH PENGHASILAN (Rupiah)</th></tr><tr><th>(1)</th><th colspan=\"2\">(2)</th><th>(3)</th></tr><tr><td>1.</td><td colspan=\"2\">BUNGA</td><td></td></tr><tr><td>2.</td><td colspan=\"2\">ROYALTI</td><td></td></tr><tr><td>3.</td><td colspan=\"2\">SEWA</td><td></td></tr><tr><td>4.</td><td colspan=\"2\">PENGHARGAAN DAN HADIAH</td><td></td></tr><tr><td>5.</td><td colspan=\"2\">KEUNTUNGAN DARI PENJUALAN/PENGALIHAN HARTA</td><td></td></tr><tr><td>6.</td><td colspan=\"2\">PENGHASILAN LAINNYA</td><td></td></tr><tr><td></td><td>JUMLAH BAGIAN A &lt;AUTO&gt;</td><td>JBA</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": "Pindahkan Jumlah Bagian A ke Formulir Induk 1770 S Bagian A angka (2)",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom uraian dibelah 2 hanya di baris jumlah (kode JBA); <AUTO> merah"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN B : PENGHASILAN YANG TIDAK TERMASUK OBJEK PAJAK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>NO.</th><th colspan=\"2\">JENIS PENGHASILAN</th><th>JUMLAH PENGHASILAN (Rupiah)</th></tr><tr><th>(1)</th><th colspan=\"2\">(2)</th><th>(3)</th></tr><tr><td>1.</td><td colspan=\"2\">BANTUAN/SUMBANGAN/HIBAH</td><td></td></tr><tr><td>2.</td><td colspan=\"2\">WARISAN</td><td></td></tr><tr><td>3.</td><td colspan=\"2\">BAGIAN LABA ANGGOTA PERSEROAN KOMANDITER TIDAK ATAS SAHAM, PERSEKUTUAN, PERKUMPULAN, FIRMA, KONGSI</td><td></td></tr><tr><td>4.</td><td colspan=\"2\">KLAIM ASURANSI KESEHATAN, KECELAKAAN, JIWA, DWIGUNA, BEASISWA</td><td></td></tr><tr><td>5.</td><td colspan=\"2\">BEASISWA</td><td></td></tr><tr><td>6.</td><td colspan=\"2\">PENGHASILAN LAINNYA YANG TIDAK TERMASUK OBJEK PAJAK</td><td></td></tr><tr><td></td><td>JUMLAH BAGIAN B &lt;AUTO&gt;</td><td>JBB</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom uraian dibelah 2 hanya di baris jumlah (kode JBB); <AUTO> merah"
+ },
+ {
+  "type": "text",
+  "text": "BAGIAN C : DAFTAR PEMOTONGAN/PEMUNGUTAN PPh OLEH PIHAK LAIN DAN PPh YANG DITANGGUNG PEMERINTAH",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th rowspan=\"2\">NO</th><th rowspan=\"2\">NAMA PEMOTONG/ PEMUNGUT PAJAK</th><th rowspan=\"2\">NPWP PEMOTONG/ PEMUNGUT PAJAK</th><th colspan=\"2\">BUKTI PEMOTONGAN/ PEMUNGUTAN</th><th rowspan=\"2\" colspan=\"2\">JENIS PAJAK : PPh PASAL 21/ 22/23/24/26/DTP*</th><th rowspan=\"2\">JUMLAH PPh YANG DIPOTONG / DIPUNGUT</th></tr><tr><th>NOMOR</th><th>TANGGAL</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th colspan=\"2\">(6)</th><th>(7)</th></tr><tr><td>1.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>2.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>3.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>4.</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td>5. dst</td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr><tr><td></td><td colspan=\"4\">JUMLAH BAGIAN C</td><td>&lt;AUTO&gt;</td><td>JBC</td><td>0</td></tr></table>",
+  "table_caption": null,
+  "table_footnote": "Pindahkan Jumlah Bagian C ke Formulir Induk 1770 S Bagian D angka 12\nCatatan :\n*) - DTP : Ditanggung Pemerintah\n- Kolom (6) diisi dengan pilihan PPh Pasal 21/22/23/24/26/DTP (Contoh : ditulis 21, 22, 23, 24, 26, DTP)\n- Jika terdapat kredit pajak PPh Pasal 24, maka jumlah yang diisi adalah maksimum yang dapat dikreditkan sesuai lampiran tersendiri (lihat petunjuk pengisian tentang Lampiran I Bagian C dan Induk SPT angka 3)",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; formulir; kolom (6) dibelah 2 hanya di baris jumlah (<AUTO> sel abu | JBC); '5. dst' 2 baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "JIKA FORMULIR INI TIDAK MENCUKUPI, DAPAT DIBUAT SENDIRI SESUAI DENGAN BENTUK INI",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; tebal; dalam bingkai"
+ },
+ {
+  "type": "text",
+  "text": "Halaman ke- dari halaman Lampiran-I",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; kotak isian kosong setelah 'Halaman ke-' dan 'dari'"
+ }
+]

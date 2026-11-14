@@ -1,0 +1,135 @@
+[
+ {
+  "type": "text",
+  "text": "Appendices",
+  "page_idx": 0,
+  "bbox": [
+   0.73265,
+   0.04206,
+   0.83348,
+   0.05523
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 35: UNION-STATE BREAKDOWN OF\nIMPRISONMENT CLAUSES BY CATEGORIES",
+  "page_idx": 0,
+  "bbox": [
+   0.16445,
+   0.11548,
+   0.66341,
+   0.14988
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Category</td><td>Number of clauses in Union laws</td><td>In percent</td><td>Number of clauses in State laws</td><td>In percent</td></tr><tr><td>Commercial</td><td>529</td><td>10.1%</td><td>817</td><td>3.9%</td></tr><tr><td>Environment, Health and Safety</td><td>834</td><td>15.9%</td><td>345</td><td>1.7%</td></tr><tr><td>Finance & Taxation</td><td>41</td><td>0.8%</td><td>888</td><td>4.2%</td></tr><tr><td>General</td><td>75</td><td>1.4%</td><td>360</td><td>1.7%</td></tr><tr><td>Industry Specific</td><td>2979</td><td>56.9%</td><td>1200</td><td>5.7%</td></tr><tr><td>Labour</td><td>534</td><td>10.2%</td><td>17285</td><td>82.7%</td></tr><tr><td>Secretarial</td><td>247</td><td>4.7%</td><td>0</td><td>0.0%</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16656,
+   0.17163,
+   0.83299,
+   0.40954
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 36: THREE CASE STUDIES ON MANUFACTURING\nCOMPLIANCES*",
+  "page_idx": 0,
+  "bbox": [
+   0.16445,
+   0.43041,
+   0.79843,
+   0.46481
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td></td><td>Small</td><td>Medium</td><td>Large</td></tr><tr><td>Total Applicable Compliances</td><td>669</td><td>3,109</td><td>5,796</td></tr><tr><td>Compliances with imprisonment</td><td>461</td><td>2,172</td><td>4,085</td></tr><tr><td>Percentage of imprisonment clauses</td><td>69%</td><td>70%</td><td>70%</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16705,
+   0.48647,
+   0.83348,
+   0.61162
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "* These are real data from three companies operating in the automotive components\nbusiness",
+  "page_idx": 0,
+  "bbox": [
+   0.16504,
+   0.61409,
+   0.83525,
+   0.64687
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "TABLE 37: BREAKDOWN OF IMPRISONMENT CLAUSES IN\nMANUFACTURING CASE STUDIES*",
+  "page_idx": 0,
+  "bbox": [
+   0.16445,
+   0.66947,
+   0.81852,
+   0.70387
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td></td><td>Small</td><td>Medium</td><td>Large</td></tr><tr><td>Less than 3 months</td><td>25</td><td>82</td><td>185</td></tr><tr><td>3 months to less than 1 year</td><td>187</td><td>699</td><td>1,220</td></tr><tr><td>1 year to less than 3 years</td><td>178</td><td>1,070</td><td>1,964</td></tr><tr><td>3 years to less than 5 years</td><td>59</td><td>245</td><td>505</td></tr><tr><td>5 years to 10 years</td><td>12</td><td>76</td><td>211</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.16656,
+   0.72603,
+   0.83299,
+   0.87239
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "* In Table 36",
+  "page_idx": 0,
+  "bbox": [
+   0.16539,
+   0.8769,
+   0.27146,
+   0.88876
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "85",
+  "page_idx": 0,
+  "bbox": [
+   0.48527,
+   0.9501,
+   0.51486,
+   0.96529
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

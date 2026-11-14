@@ -1,0 +1,109 @@
+[
+ {
+  "type": "text",
+  "text": "Promotional Materials",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11414,
+   0.07533,
+   0.38271,
+   0.09252
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "A good promotional strategy should include multiple facets, from physical materials to digital\ncommunications. Below, we've compiled a table of promotional materials you might use on\ncampus, and examples of each type.",
+  "page_idx": 0,
+  "bbox": [
+   0.11414,
+   0.11887,
+   0.88663,
+   0.17271
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Table 7.1. Types of promotional materials",
+  "page_idx": 0,
+  "bbox": [
+   0.34837,
+   0.19349,
+   0.65137,
+   0.20699
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>Communication Channel</td><td>Medium</td><td>Examples</td></tr><tr><td>Direct communications</td><td>Physical or digital</td><td>meetings, consultations, listening sessions, email lists</td></tr><tr><td>Indirect communications</td><td>Primarily digital</td><td>websites, videos, news articles, newsletters, social media posts,</td></tr><tr><td>Messaging</td><td>Physical or digital</td><td>brochures, posters, signs, booklets</td></tr><tr><td>Events</td><td>Physical or digital</td><td>presentations, webinars, seminars, panels, training sessions</td></tr><tr><td>Interactive</td><td>Physical or digital</td><td>OER \"petting zoos,\" games, exhibits, surveys</td></tr><tr><td>Goodies</td><td>Primarily physical</td><td>pens, notepads, bookmarks, stickers, buttons, etc</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.11511,
+   0.21129,
+   0.88508,
+   0.47928
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Get in contact with partners at your institution to learn more about the processes and options\navailable to you and how you can best leverage the support at your disposal. If you have a\nmarketing team available to you that orders pens and other materials for campus events, get in\ncontact with them about their vendors and how you can leverage their existing workflows for\nordering materials to support your OER Program. This might be as simple as ordering buttons and\nposters through your University Printing Office, or it may require you to browse a third party's\nmarketing catalog or to create materials yourself, if you lack funding for your work.",
+  "page_idx": 0,
+  "bbox": [
+   0.11414,
+   0.49922,
+   0.88663,
+   0.63393
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Annual Events",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.11414,
+   0.66003,
+   0.2657,
+   0.67722
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Creating promotional materials and graphics can make your OER program recognizable on your\ncollege's campus, but just because you've created materials doesn't mean that people will find or\nlearn from them. As a program manager, you will need to find ways to implement your messaging\nand events on campus. Leveraging annual events like Open Education Week in March and\nInternational Open Access Week in October can ground your work in a given time of year and\nfocus your programming around a topic or theme (Open Education Global, n.d.; SPARC, n.d.).\nThe Open Education Week website lists past events and provides downloadable promotional\nmaterials to help you kickstart your event planning and coordination. If these weeks regularly\nconflict with other events at your institution, that's okay. You can celebrate Open Education Week\nthe week before or after it falls. So long as you are consistent in the general time you hold these\nevents, they will still gain recognition at your institution and faculty will come to expect them.",
+  "page_idx": 0,
+  "bbox": [
+   0.11414,
+   0.69955,
+   0.88663,
+   0.91394
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "92 | PROGRAM MANAGEMENT",
+  "page_idx": 0,
+  "bbox": [
+   0.11618,
+   0.94046,
+   0.33437,
+   0.95356
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

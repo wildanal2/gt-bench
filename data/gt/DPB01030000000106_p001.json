@@ -1,0 +1,68 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.08618,
+   0.08038,
+   0.91367,
+   0.4416
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "An example of a conceptual map created by one of our interviewees",
+  "page_idx": 0,
+  "bbox": [
+   0.084,
+   0.44662,
+   0.66572,
+   0.46225
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "It seemed at times that the remarkable freedom of writing freeform allowed these\nlanguages to form, but it was difficult, if not impossible, to replicate that freedom on\navailable digital tools. Printing out articles or chapters of interest and annotating them\nwith pen or pencil is still seen as the way to go by many. Having physical copies on hand\nalso means easier management as this benefits from the very natural use of space for\narranging things, e.g.: \"The pile on the right contains my primary sources; on the left are\nthings I've flagged as potentially interesting and to revisit.\" Often mentioned was the\nuse of digital editions for quick consultation and search, but print versions for in-depth\nreading and annotation. Most collect important works in print.",
+  "page_idx": 0,
+  "bbox": [
+   0.08618,
+   0.53638,
+   0.91367,
+   0.72789
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "While some note taking did take place alongside annotation, each of our researchers\nwould reach a point where they needed to take the texts they had read and turn the\nnotes, quotes, and other takeaways into something they could then begin to incorporate\ninto their writing. Again, the approaches to this varied widely, and depended on the\ntools used initially. Some would take handwritten annotations and highlighting and type\nthem into a word processor. Others would export annotations from tools in whatever",
+  "page_idx": 0,
+  "bbox": [
+   0.08618,
+   0.74599,
+   0.91367,
+   0.873
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "32 | Considering Scholarly Readers",
+  "page_idx": 0,
+  "bbox": [
+   0.08618,
+   0.93709,
+   0.32044,
+   0.9483
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

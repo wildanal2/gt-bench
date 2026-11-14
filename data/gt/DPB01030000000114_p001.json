@@ -1,0 +1,54 @@
+[
+ {
+  "type": "text",
+  "text": "MOHAVE COMMUNITY COLLEGE",
+  "page_idx": 0,
+  "bbox": [
+   0.07442,
+   0.02776,
+   0.3554,
+   0.04551
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "BIO181",
+  "page_idx": 0,
+  "bbox": [
+   0.87352,
+   0.03069,
+   0.94516,
+   0.04551
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Genetics Lab - Blood Disorders .............................................................................. 94\nHuman Traits Governed by Mendelian Genetics................................................... 97\n1. Record your phenotype and genotype for the following Mendelian traits:.. 97\nHuman Traits not Governed by Mendelian Genetics ............................................ 98\nHuman Genetics Problems ................................................................................... 100\nPedigree Analysis ................................................................................................. 102\nPractice Problems................................................................................................. 102\nLab Materials......................................................................................................... 104\nContributors and Attributions .............................................................................. 104\nFrom Gene to Protein via Transcription and Translation.................................... 105",
+  "page_idx": 0,
+  "bbox": [
+   0.06704,
+   0.07414,
+   0.95349,
+   0.36614
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Index"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": [
+   0.49387,
+   0.9683,
+   0.50548,
+   0.98011
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

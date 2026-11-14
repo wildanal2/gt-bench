@@ -1,0 +1,587 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 8 Infografis Pertumbuhan Ekonomi Indonesia Tahun 2025",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; infografis BRS satu halaman (kotak angka besar, grafik garis PDB 2015–2025, dua grafik batang, peta kontribusi/pertumbuhan PDRB); seluruh teks di dalamnya dicatat in_figure; label-label sumbu tersembunyi di lapisan teks ('2015 dobel, angka 8 dan -5) tidak tampak dan tidak dicatat"
+ },
+ {
+  "type": "text",
+  "text": "PERTUMBUHAN EKONOMI INDONESIA TRIWULAN IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul infografis; dua baris digabung"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; QR code di pojok kanan atas infografis"
+ },
+ {
+  "type": "text",
+  "text": "Berita Resmi Statistik No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Q-TO-Q 0,86 persen",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kotak sorotan; label miring"
+ },
+ {
+  "type": "text",
+  "text": "Y-ON-Y 5,39 persen",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kotak sorotan; label miring"
+ },
+ {
+  "type": "text",
+  "text": "C-TO-C 5,11 persen",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kotak sorotan; label miring"
+ },
+ {
+  "type": "text",
+  "text": "PRODUK DOMESTIK BRUTO (PDB) HARGA BERLAKU 2025 Rp23.821,1 triliun",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kotak sorotan"
+ },
+ {
+  "type": "text",
+  "text": "PDB PERKAPITA 2025 Rp83.747.734 (USD 5.083,4)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kotak sorotan"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi tokoh kartun dengan tumpukan koin; tulisan 'Rp' kecil pada koin tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "PERTUMBUHAN PRODUK DOMESTIK BRUTO (PDB), 2015–2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "(persen)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; satuan grafik garis"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis pertumbuhan PDB 2015–2025 dengan penanda koin dan ilustrasi forklift; tulisan 'Rp' pada koin tidak ditranskripsi"
+ },
+ {
+  "type": "text",
+  "text": "4,88",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,07",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,17",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,02",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "-2,07",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "3,70",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,31",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,05",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "5,11",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data grafik garis"
+ },
+ {
+  "type": "text",
+  "text": "2015",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2016",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2017",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2018",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2019",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2020",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2021",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2022",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2023",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu tahun"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang pertumbuhan PDB menurut lapangan usaha 2025 dengan ikon per kategori"
+ },
+ {
+  "type": "text",
+  "text": "PERTUMBUHAN PDB MENURUT LAPANGAN USAHA, 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul grafik batang kiri"
+ },
+ {
+  "type": "text",
+  "text": "(persen)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; satuan grafik kiri"
+ },
+ {
+  "type": "text",
+  "text": "Pertanian 5,33",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Pertambangan & Penggalian -0,66",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung; batang negatif berwarna cokelat"
+ },
+ {
+  "type": "text",
+  "text": "Industri Pengolahan 5,30",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Konstruksi 3,81",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Perdagangan & Reparasi 5,49",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Lainnya 6,26",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung; ikon lingkaran bertuliskan 'etc' di atas label"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik batang pertumbuhan PDB menurut pengeluaran 2025 dengan ikon per komponen"
+ },
+ {
+  "type": "text",
+  "text": "PERTUMBUHAN PDB MENURUT PENGELUARAN, 2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul grafik batang kanan"
+ },
+ {
+  "type": "text",
+  "text": "(persen)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; satuan grafik kanan"
+ },
+ {
+  "type": "text",
+  "text": "Konsumsi Rumah Tangga 4,98",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Konsumsi LNPRT 5,13",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Konsumsi Pemerintah 2,50",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "PMTB 5,09",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Ekspor 7,03",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung"
+ },
+ {
+  "type": "text",
+  "text": "Impor 4,77",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label batang dan nilai digabung; batang impor berwarna cokelat"
+ },
+ {
+  "type": "text",
+  "text": "KONTRIBUSI DAN PERTUMBUHAN PDRB MENURUT WILAYAH",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul panel peta; tiga baris digabung"
+ },
+ {
+  "type": "text",
+  "text": "(persen)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; satuan panel peta"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ikon papan klip"
+ },
+ {
+  "type": "text",
+  "text": "Pulau Jawa memberikan kontribusi terhadap perekonomian Indonesia sebesar 56,93 persen dengan pertumbuhan 5,30 persen (c-to-c)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; c-to-c miring"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; peta Indonesia per wilayah pulau"
+ },
+ {
+  "type": "text",
+  "text": "SUMATERA 22,22 4,81",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah + kontribusi (kotak) + pertumbuhan (segitiga)"
+ },
+ {
+  "type": "text",
+  "text": "KALIMANTAN 8,12 4,79",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah + kontribusi (kotak) + pertumbuhan (segitiga)"
+ },
+ {
+  "type": "text",
+  "text": "SULAWESI 7,22 6,23",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah + kontribusi (kotak) + pertumbuhan (segitiga)"
+ },
+ {
+  "type": "text",
+  "text": "MALUKU & PAPUA 2,69 1,44",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah + kontribusi (kotak) + pertumbuhan (segitiga)"
+ },
+ {
+  "type": "text",
+  "text": "JAWA 56,93 5,30",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah + kontribusi (kotak) + pertumbuhan (segitiga)"
+ },
+ {
+  "type": "text",
+  "text": "BALI & NUSA TENGGARA 2,82 4,87",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label wilayah + kontribusi (kotak) + pertumbuhan (segitiga)"
+ },
+ {
+  "type": "text",
+  "text": "Kontribusi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; legenda"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BPS"
+ },
+ {
+  "type": "text",
+  "text": "BADAN PUSAT STATISTIK",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks logo; miring"
+ },
+ {
+  "type": "text",
+  "text": "https://www.bps.go.id",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; URL di bawah logo"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "15",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

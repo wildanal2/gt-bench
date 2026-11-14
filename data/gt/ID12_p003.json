@@ -1,0 +1,79 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo BUMN Untuk Indonesia; furniture"
+ },
+ {
+  "type": "text",
+  "text": "BUMN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; huruf bergaya; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UNTUK INDONESIA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo btn; furniture"
+ },
+ {
+  "type": "text",
+  "text": "btn",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; logo; furniture"
+ },
+ {
+  "type": "text",
+  "text": "UMUM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 1
+ },
+ {
+  "type": "text",
+  "text": "1. Laporan Ukuran Utama (Key Metrics) (KM1)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; src=Heading",
+  "text_level": 2
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th colspan=\"2\" rowspan=\"3\">Keterangan/Deskripsi</th><th colspan=\"5\">Periode</th></tr><tr><th>Des-24</th><th>Sep-24</th><th rowspan=\"2\">Jun-24</th><th rowspan=\"2\">Mar-24</th><th>Des-23</th></tr><tr><th>(Audited )</th><th>(Reviewed )</th><th>(Audited )</th></tr><tr><td>Modal Yang Tersedia (nilai)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>Modal Inti Utama (CET1)</td><td>29,834,471</td><td>29,079,844</td><td>27,524,771</td><td>26,983,968</td><td>27,154,078</td></tr><tr><td>2</td><td>Modal Inti (Tier 1)</td><td>29,834,471</td><td>29,079,844</td><td>27,524,771</td><td>26,983,968</td><td>27,154,078</td></tr><tr><td>3</td><td>Total Modal</td><td>32,273,030</td><td>31,916,329</td><td>30,791,472</td><td>30,631,510</td><td>31,230,282</td></tr><tr><td>Aset Tertimbang Menurut Risiko (Nilai)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>Total Aset Tertimbang Menurut Risiko</td><td>174,444,978</td><td>170,661,087</td><td>165,760,553</td><td>161,216,093</td><td>155,590,147</td></tr><tr><td>Rasio Modal berbasis Risiko dalam bentuk persentase dari ATMR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>Rasio CET1 (%)</td><td>17.10%</td><td>17.04%</td><td>16.61%</td><td>16.74%</td><td>17.45%</td></tr><tr><td>6</td><td>Rasio Tier 1 (%)</td><td>17.10%</td><td>17.04%</td><td>16.61%</td><td>16.74%</td><td>17.45%</td></tr><tr><td>7</td><td>Rasio Total Modal (%)</td><td>18.50%</td><td>18.70%</td><td>18.58%</td><td>19.00%</td><td>20.07%</td></tr><tr><td>Rasio Modal berbasis Risiko dalam bentuk persentase dari ATMR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>Capital Conservation Buffer (2,5% dari ATMR) (%)</td><td>2.50%</td><td>2.50%</td><td>2.50%</td><td>2.50%</td><td>2.50%</td></tr><tr><td>9</td><td>Countercyclical Buffer (0 - 2,5% dari ATMR) (%)</td><td>0.00%</td><td>0.00%</td><td>0.00%</td><td>0.00%</td><td>0.00%</td></tr><tr><td>10</td><td>Capital Surcharge untuk Bank Sistemik (1% - 2,5%) (%)</td><td>1.00%</td><td>1.00%</td><td>1.00%</td><td>1.00%</td><td>1.00%</td></tr><tr><td>11</td><td>Total CET1 sebagai buffer (Baris 8 + Baris 9 + Baris 10)</td><td>3.50%</td><td>3.50%</td><td>3.50%</td><td>3.50%</td><td>3.50%</td></tr><tr><td>12</td><td>Komponen CET1 untuk buffer</td><td>9.25%</td><td>9.45%</td><td>9.33%</td><td>9.82%</td><td>10.89%</td></tr><tr><td>Rasio Pengungkit sesuai Basel III</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td>Total Eksposur</td><td>455,163,508</td><td>441,456,794</td><td>441,599,095</td><td>441,663,531</td><td>441,571,623</td></tr><tr><td>14.a</td><td>Nilai Rasio Pengungkit, termasuk dampak dari penyesuaian terhadap pengecualian sementara atas penempatan giro pada Bank Indonesia dalam rangka memenuhi ketentuan GWM (jika ada) (%).</td><td>6.42%</td><td>6.55%</td><td>6.16%</td><td>6.11%</td><td>6.14%</td></tr><tr><td>14.b</td><td>Nilai Rasio Pengungkit, tidak termasuk dampak dari penyesuaian terhadap pengecualian sementara atas penempatan giro pada Bank Indonesia dalam rangka memenuhi ketentuan GWM (jika ada) (%).</td><td>6.42%</td><td>6.55%</td><td>6.16%</td><td>6.11%</td><td>6.14%</td></tr><tr><td>14.c</td><td>Nilai Rasio Pengungkit, termasuk dampak dari penyesuaian terhadap pengecualian sementara atas penempatan giro pada Bank Indonesia dalam rangka memenuhi ketentuan GWM (jika ada), yang telah memasukkan nilai rata-rata dari nilai tercatat aset Securities Financing Transction (SFT) secara gross (%).</td><td>6.42%</td><td>6.54%</td><td>6.15%</td><td>6.11%</td><td>6.14%</td></tr><tr><td>14.d</td><td>Nilai Rasio Pengungkit, tidak termasuk dampak dari penyesuaian terhadap pengecualian sementara atas penempatan giro pada Bank Indonesia dalam rangka memenuhi ketentuan GWM (jika ada), yang telah memasukkan nilai rata-rata dari nilai tercatat aset Securities Financing Transction (SFT) secara gross (%).</td><td>6.42%</td><td>6.54%</td><td>6.15%</td><td>6.11%</td><td>6.14%</td></tr><tr><td>Rasio Kecukupan Likuiditas (LCR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td>Total Aset Likuid Berkualitas Tinggi (HQLA)</td><td>74,276,531</td><td>77,132,537</td><td>80,840,277</td><td>79,654,760</td><td>76,223,040</td></tr><tr><td>16</td><td>Total Arus Kas Keluar Bersih (net cash outflow)</td><td>38,853,989</td><td>38,118,819</td><td>41,681,816</td><td>35,401,435</td><td>40,067,317</td></tr><tr><td>17</td><td>LCR (%)</td><td>191.17%</td><td>202.35%</td><td>193.95%</td><td>225.00%</td><td>190.24%</td></tr><tr><td>Rasio Pendanaan Stabil Bersih (NSFR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td>Total Pendanaan Stabil yang Tersedia (ASF)</td><td>252,191,739</td><td>247,255,664</td><td>244,451,089</td><td>243,098,458</td><td>241,948,844</td></tr><tr><td>19</td><td>Total Pendanaan Stabil yang Diperlukan (RSF)</td><td>209,135,110</td><td>204,476,752</td><td>209,209,884</td><td>206,594,728</td><td>197,105,438</td></tr><tr><td>20</td><td>NSFR (%)</td><td>120.59%</td><td>120.92%</td><td>116.84%</td><td>117.67%</td><td>122.75%</td></tr></table>",
+  "table_caption": "(dalam Jutaan Rupiah)",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; header Keterangan/Deskripsi mencakup kolom nomor (colspan=2, rowspan=3); baris seksi (Modal Yang Tersedia (nilai), dst.) merentang penuh di sumber, dicatat di sel pertama dengan sel lain kosong; spasi sebelum ) pada (Audited ) mengikuti celah huruf miring di sumber; format angka koma ribuan disalin verbatim"
+ },
+ {
+  "type": "text",
+  "text": "1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; nomor halaman; furniture"
+ }
+]

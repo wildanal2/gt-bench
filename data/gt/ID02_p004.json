@@ -1,0 +1,134 @@
+[
+ {
+  "type": "text",
+  "text": "Jenis Layanan e-FORM",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul slide"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; ilustrasi orang dengan laptop, map, ponsel, buku catatan; logo DJP di footer tertutup ilustrasi, hanya huruf k terlihat sehingga tidak dicatat; teks kecil di buku catatan (20 Monday) dan tagline logo di layar laptop terlalu kecil pada ukuran cetak, dilewati"
+ },
+ {
+  "type": "text",
+  "text": "e form",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; teks logo e-Form di layar laptop"
+ },
+ {
+  "type": "text",
+  "text": "SPT Tahunan OP 1770S",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; sub-judul"
+ },
+ {
+  "type": "text",
+  "text": "dari satu atau lebih pemberi kerja;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "dalam negeri lainnya; dan/atau",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "dikenakan PPh Final dan/atau bersifat Final",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "SPT Tahunan OP 1770",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; sub-judul"
+ },
+ {
+  "type": "text",
+  "text": "dari usaha/pekerjaan bebas;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "dari satu atau lebih pemberi kerja;",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "dikenakan PPh Final dan/atau bersifat Final",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "dalam negeri lainnya/luar negeri",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir"
+ },
+ {
+  "type": "text",
+  "text": "Nihil",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir centang; dihubungkan kurung kurawal ke kedua jenis SPT"
+ },
+ {
+  "type": "text",
+  "text": "Kurang Bayar",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir centang"
+ },
+ {
+  "type": "text",
+  "text": "Lebih Bayar",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; butir centang"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ }
+]

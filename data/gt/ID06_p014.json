@@ -1,0 +1,44 @@
+[
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Komponen</th><th>2023</th><th>2024</th><th>2025</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th></tr><tr><td>PDB Per Kapita Atas Dasar Harga Berlaku</td><td></td><td></td><td></td></tr><tr><td>– Nilai (Juta Rupiah)</td><td>75,0</td><td>78,6</td><td>83,7</td></tr><tr><td>– Nilai (USD)</td><td>4.919,7</td><td>4.960,3</td><td>5.083,4</td></tr></table>",
+  "table_caption": "Tabel 7 PDB Per Kapita Indonesia",
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; baris seksi 'PDB Per Kapita Atas Dasar Harga Berlaku' dengan sel nilai kosong; penanda '–' (en dash) di depan butir ikut ditulis seperti tercetak; baris (1)-(4) = nomor kolom"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tr><th>Pulau</th><th>Triw III-2025 terhadap Triw II-2025 (Q-to-Q)1</th><th>Triw IV-2025 terhadap Triw III-2025 (Q-to-Q)1</th><th>Triw III-2025 terhadap Triw III-2024 (Y-on-Y)2</th><th>Triw IV-2025 terhadap Triw IV-2024 (Y-on-Y)2</th><th>Laju Pertumbuhan 2025</th><th>Sumber Pertumbuhan 2025</th></tr><tr><th>(1)</th><th>(2)</th><th>(3)</th><th>(4)</th><th>(5)</th><th>(6)</th><th>(7)</th></tr><tr><td>1. Sumatera</td><td>1,81</td><td>0,36</td><td>4,90</td><td>4,54</td><td>4,81</td><td>1,00</td></tr><tr><td>2. Jawa</td><td>0,78</td><td>1,86</td><td>5,17</td><td>5,80</td><td>5,30</td><td>3,11</td></tr><tr><td>3. Bali dan Nusa Tenggara</td><td>0,94</td><td>3,89</td><td>4,72</td><td>7,70</td><td>4,87</td><td>0,13</td></tr><tr><td>4. Kalimantan</td><td>1,45</td><td>3,43</td><td>4,68</td><td>5,19</td><td>4,79</td><td>0,40</td></tr><tr><td>5. Sulawesi</td><td>3,45</td><td>2,65</td><td>5,84</td><td>6,83</td><td>6,23</td><td>0,43</td></tr><tr><td>6. Maluku dan Papua</td><td>0,40</td><td>-1,85</td><td>3,11</td><td>-2,17</td><td>1,44</td><td>0,04</td></tr></table>",
+  "table_caption": "Tabel 8 Laju Pertumbuhan dan Sumber Pertumbuhan PDRB Menurut Pulau (persen)",
+  "table_footnote": "Catatan: 1Q-to-Q : PDB atas dasar harga konstan pada suatu triwulan dibandingkan dengan triwulan sebelumnya\n2Y-on-Y : PDB atas dasar harga konstan pada suatu triwulan dibandingkan dengan triwulan yang sama tahun sebelumnya",
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; baris (1)-(7) = nomor kolom; angka 1/2 setelah (Q-to-Q)/(Y-on-Y) dan di catatan adalah superskrip; Q-to-Q/Y-on-Y miring; sumber pertumbuhan pulau dijumlahkan = 5,11 (sesuai PDB nasional)"
+ },
+ {
+  "type": "text",
+  "text": "14",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan Ekonomi Indonesia Triwulan IV-2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ },
+ {
+  "type": "text",
+  "text": "BRS No. 18/02/Th. XXIX, 5 Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; footer"
+ }
+]

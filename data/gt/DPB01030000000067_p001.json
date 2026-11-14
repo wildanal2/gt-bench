@@ -1,0 +1,121 @@
+[
+ {
+  "type": "text",
+  "text": "very much interested to know more about plastics as well as the plastics types that can\nbe reused or recycled. Almost all respondents (87.8%) are interested in approaches to\nrecycle plastics. 87% (20) are interested in improving waste management systems in\ntheir LGUs.",
+  "page_idx": 0,
+  "bbox": [
+   0.21731,
+   0.08136,
+   0.86789,
+   0.15472
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "d. Awareness of Plastics Ordinance. About 68% of respondents know that there is a city\nordinance on plastics, while 52% are aware of the provincial plastic ordinance. 9% do not\nknow of any ordinance and 17% do not know whether or not there is a plastic ordinance.\nIn the same way, only 70% knows of the implementation of an ordinance regulating or\nprohibiting Single Use Plastics. 30% of the respondents are not aware of the ordinance.",
+  "page_idx": 0,
+  "bbox": [
+   0.17428,
+   0.18046,
+   0.88369,
+   0.27824
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "6.2 Waste Management",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.17492,
+   0.30096,
+   0.42436,
+   0.32041
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "a. Waste Management Fee Collection. At the Barangay level, only 5 respondent\nbarangays - Sampaloc II, H-2, Salitran-ll, San Roque-Sta. Cristina II, and Salawag - collect\nwaste management fees.",
+  "page_idx": 0,
+  "bbox": [
+   0.17428,
+   0.34338,
+   0.87006,
+   0.40013
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "b. Waste Management Budget. Majority of the respondents (44%) do not know the\nbudget allocation of their LGUS for waste management. 12% of respondents replied that\ntheir LGUs have no allocation for waste management while 32% of respondents replied\nthat their budget allocation is below 5% of their LGU budget. Only 8% of respondents\nreplied that their budget allocation for waste management is between 10-20% if the LGU\nbudget. See Figure 20.",
+  "page_idx": 0,
+  "bbox": [
+   0.17428,
+   0.42423,
+   0.88369,
+   0.54128
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.25499,
+   0.57746,
+   0.79752,
+   0.79577
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "Figure 20. Percentage of LGU Budget Allocated for Waste Management",
+  "page_idx": 0,
+  "bbox": [
+   0.31683,
+   0.80119,
+   0.73565,
+   0.81465
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "c. Waste Collection and Segregation. For 70% of the respondents, wastes are collected\nby the city government. 35% responded that barangays collect their wastes and still,",
+  "page_idx": 0,
+  "bbox": [
+   0.17554,
+   0.84995,
+   0.86324,
+   0.88615
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Study on Plastics Use and Waste Management in the Food Service Industry 49",
+  "page_idx": 0,
+  "bbox": [
+   0.4144,
+   0.94495,
+   0.96177,
+   0.96077
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,181 @@
+[
+ {
+  "type": "text",
+  "text": "Rastri Prathivi",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 717 – 722",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "proses training dari citra pelatihan. Tetapi penggunaan metode CNN untuk diterapkan dalam pengenalan fitur citra memiliki tantangan tersendiri yaitu dimensi fitur citra yang diekstraksi akan meningkat secara dramatis dengan lebih banyak lapisan jaringan yang terbentuk. Semakin lengkap fitur citra diekstaksi maka semakin besar lapisan jaringan yang terbentuk sehingga dimensi citra juga semakin meningkat. Banyak penelitian terkait yang membahas tentang cara mereduksi fitur citra menggunakan metode CNN. Beberapa penelitian yang terkait dengan akurasi algoritma PCA dan t-SNE sudah banyak dilakukan. Zhong melakukan penelitian pada citra hiperspektral dengan mengadopsi t-SNE untuk memproyeksikan data mentah citra hiperspektral dan mengekstraksi fitur spektral spasial untuk mendapatkan representasi ftur ke dalam bidang dua dimensi. Dia menggunakan metode residual network (ResNets) dan t-SNE dengan 1000 iterasi. Gabungan metode tersebut memiliki performa lebih baik dan lebih stabil.[1]",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lanjutan"
+ },
+ {
+  "type": "text",
+  "text": "J.Ma dan Y. Yuan melakukan penelitian dengan menggabungkan metode CNN dengan PCA. Hasil dari penelitin ini menunjukkan bahwa akurasi rata-rata algoritma CNN sebelum mengunakan PCA sebesar 87,98%. Setelah menerapkan CNN dengan PCA akurasinya lebih besar yaitu 90,35 % dengan pengurangan dimensi fitur citra sebesar 4 kali dari sebelum menggunakan PCA[2]. Gao melakukan penelitian pada citra hiperspektral yang diklasifikasi dengan metode t-SNE CNN dibandingkan dengan dimension-reduced CNN (DR-CNN) dan CNN multiskala. Hasil yang diperoleh menunjukkan bahwa metode t-SNE CNN memiliki akurasi rata-rata paling tinggi yaitu 98% dibandingkan metode DR-CNN 97% dan CNN multiskala 92% [3]. Dalam penelitian yang dilakukan oleh Kobak yang memvisualisasi ribuan citra sel RNA (Ribonucleic Acid) menggunakan kombinasi metode t-SNE dengan inisialisasi menggunakan PCA. Hasil yang diperoleh adalah memiliki rata-rata tingkat pembelajaran 2.058.652/12, tingkat prediksi distribusi pixel pada citra sebesar 30, dan nilai perbesaran citra 4 [4]. Husnain dalam penelitiannya memvisualisasi angka dan tulisan tangan Urdu asli menggunakan metode t-SNE dengan mengeksploitasi struktur lokal dan global dari kumpulan data besar pada skala yang berbeda. Visualisasi yang diproduksi oleh t-SNE mengungguli teknik analisis komponen utama (PCA) dan auto-encoders (AE)[5]. Giuste dalam penelitiannya mengklasifikasikan citra menggunakan dataset CIFAR-10. Mereka meningkatkan akurasi klasifikasi dengan mengoptimasi bobot jaringan optimal transfer learning (TL) dengan memilih 1000 komponen utama teratas dari TLVGG, TL-Inception, HOG, intensitas piksel, dan CIFAR-VGG, dengan akurasi pengujian sebesar 94,6%[6].. Basha melakukan penelitian terhadap metode CNN seberapa banyak jaringan yang terbentuk untuk melakukan eksperimen pengenalan citra pada beberapa dataset yang berbeda yaitu CIFAR-10, CIFAR-100, Tiny ImageNet, dan CRCHistoPhenotypes [7]. Dalam penelitian ini mengunakan dataset citra yang berasal dari dataset public CIFAR-10. Di dalam dataset CIFAR-10 terdapat 10 kelas citra yang setiap kelas memiliki 5.000 citra training dan 1.000 citra testing [8]. Citra training dalam penelitian ini sejumlah 50.000 dan citra testing sejumlah 10.000. Citra di dalam dataset CIFAR-10 merupakan jenis citra berwarna yang memiliki dimensi 32x32. Penelitian ini bertujuan untuk mengklasifikasi citra berdasarkan kelasnya melalui ekstraksi fitur citra dan melakukan proses pengenalan citra pada dataset CIFAR-10 sehingga memperoleh informasi dari citra tersebut sesuai dengan bentuk dan ciri citra. Ekstraksi fitur citra pada penelitian ini menggunakan metode CNN. Sedangkan optimasi pengenalan fitur citra dan reduksi dimensi citra menggunakan algoritma PCA dan t-SNE. Algoritma tersebut akan mereduksi citra CIFAR-10 tanpa mengurangi informasi pada citra tersebut. Metode CNN yang dioptimasi dengan t-SNE dan PCA akan diterapkan pada proses transfer awal pembelajaran/ transfer learning inception (TL-Inception). Model transfer learning dapat memberikan model jaringan yang kompleks dengan tingkat akurasi yang tinggi untuk membentuk klasifikasi citra CIFAR-10 yang lebih akurat [9]. Dalam penelitian yang dilakukan oleh Hussain, beliau menggunakan model arstitektur CNN Inception V3 untuk menentukan efisiensi dan akurasi dataset citra CIFAR-10 melalui model transfer learning (TL). Hasil akurasi yang diperoleh adalah sebesar 70,1% dengan efisiensi GPU dan CPU lebih baik [10]. Klasifikasi terhadap beberapa dataset menggunakan model pra latih atau transfer leaning dan CNN diterapkan juga oleh Muhammed. Hasil akurasi tertinggi sebesar 99% dihasilkan dari model TL CNN v3 untuk dataset ke-1 sedangkan model ResNet v2 memberikan hasil akurasi sebesar 87% dan 97% untuk dataset ke-2 dan ke-3 [11].",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom"
+ },
+ {
+  "type": "text",
+  "text": "2. Metode Penelitian",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 2
+ },
+ {
+  "type": "text",
+  "text": "2.1. Algoritma Metode CNN",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14",
+  "text_level": 3
+ },
+ {
+  "type": "text",
+  "text": "Awalnya metode CNN pada citra CIFAR-10 diterapkan tanpa optimasi. Metode CNN ini menggunakan jaringan yang memiliki dua lapisan konvolusional, dua lapisan yang terhubung sepenuhnya dan lapisan akhir yaitu lapisan softmax yang merupakan lapisan klasifikasi. Arsitektur metode CNN dapat dilihat pada gambar 1.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": "Gambar 1. Arsitektur Metode CNN",
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; diagram arsitektur"
+ },
+ {
+  "type": "text",
+  "text": "Citra Input (32x32 pixel)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Citra yang terdistorsi (32x32 pixel)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Lapisan konvolusi (64x3 bobot filter) 64 channel output",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Lapisan konvolusi (64x64 bobot filter) 64 channel output",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Lapisan terhubung penuh (256 dan 128 fitur)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "0.1",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "0.9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Lapisan Softmax",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "0 1 2 3 4 5",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "7 8 9",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Nomor kelas",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label gambar; urutan kiri-ke-kanan"
+ },
+ {
+  "type": "text",
+  "text": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi) Vol. 4 No. 4 (2020) 717 – 722",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ },
+ {
+  "type": "text",
+  "text": "718",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture"
+ }
+]

@@ -1,0 +1,133 @@
+[
+ {
+  "type": "text",
+  "text": "CIRCULATING THINGS, CIRCULATING STEREOTYPES",
+  "page_idx": 0,
+  "bbox": [
+   0.10003,
+   0.04881,
+   0.48824,
+   0.06058
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "73",
+  "page_idx": 0,
+  "bbox": [
+   0.87832,
+   0.04742,
+   0.89885,
+   0.06058
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "indicates the use of balsam, which is \"indigenous\nin various parts of Arabia,\" as an ingredient in the\n\"Myrabolan comfit.\"25 Such references emphasize\nArabia's exoticism and refined taste, as well as the\nsweetness and fragrance of its products, which\nwere much valued during a time when the con-\nsumption of sugar and spices was rising rapidly\namong European populations.",
+  "page_idx": 0,
+  "bbox": [
+   0.10003,
+   0.07928,
+   0.49011,
+   0.22681
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Coffee is another staple thing customarily asso-\nciated with the area. In his Dictionary, Johnson indi-\ncates the Arabic origin of coffee and rightly so, as\none the most popular types of coffee is called \"Ara-\nbica\" because it was first domesticated for commer-\ncial use in the southern part of Arabia the Happy\n(present-day Yemen). Given the Muslim prohibi-\ntion of alcohol, coffee became particularly attrac-\ntive to the Muslim world as \"the wine of Islam,\"26\nand spread through the ports of the Persian Gulf in\nWestern Europe, where it became immensely pop-\nular. Collections of travels published during the\ntime mention that coffee was \"the product of Ara-\nbia only.\"27 Imported largely from Yemen, which\nwas credited with producing the best coffee in the\nworld, coffee was considered to have stimulating\nand therapeutic properties.28 The former quality is\nfamously described by Pope in The Rape ofthe Lock:\n\"Coffee (which makes the politician wise), / And see\nthro' all things with his half-shut Eyes) / Sent up in\nvapours to the Baron's brain / New Stratagems, the\nradiant Lock to gain.\"29 According to Beawes, the\nproduct was brought to Mecca through the port of\nJeddah, whose \"[t]rade consists mainly of coffee\nbrought here by the Arabians and bought by the",
+  "page_idx": 0,
+  "bbox": [
+   0.09817,
+   0.22888,
+   0.49011,
+   0.68462
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.50803,
+   0.07528,
+   0.87832,
+   0.3037
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "FIGURE 4.2 William Hogarth, Taste in High Life [graphic].\nPRINT MADE BY ISAAC MILLS AFTER WILLIAM\nHOGARTH'S PAINTING, WITHOUT THE ARTIST'S\nPERMISSION, LONDON, 1798",
+  "page_idx": 0,
+  "bbox": [
+   0.50803,
+   0.31956,
+   0.87991,
+   0.37825
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "text",
+  "text": "Turks ... [and] by the Merchants of Mogul, Persia,\nand several places on the coast of Ehiopia.\"30 From\nhere, coffee spread rapidly in England, France, and\nItaly, giving rise to the coffeehouse culture that is a\nhallmark of the eighteenth century. Coffee was also\nregularly paired in the visual culture of the time\nwith expensive china (fig. 4.2), was employed as a\nmark of the culture of sociability (fig. 4.3), or was\nused for its oracular properties 31 (fig. 4.4).",
+  "page_idx": 0,
+  "bbox": [
+   0.50803,
+   0.4076,
+   0.89701,
+   0.57178
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Arabian medicines were also much sought-after\nin the Western world. As indicated by Beawes,\n\"from Arabia, Medicinal drugs, Dragon's Blood,\nManna, Myrrh, [and] Incense,\"32 were brought to\nthe British metropolis. Pharmacopoia Reformata\n(1744) mentions gum Arabic, aloe, cassia, acacia,\ncardamom, saffron, myrrh, and spikenard, which\nwere all used for their therapeutic properties. 33 To",
+  "page_idx": 0,
+  "bbox": [
+   0.50697,
+   0.57336,
+   0.89885,
+   0.72168
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "25 Wiliam Beckford, An Arabian Tale, from an Unpub-\nlished Manuscript: With Notes Critical and Explanatory\n(London: Printed for J,Johnson, 1786), 165.\n26 For the association between coffee and wine, see Ralph\nS. Hattox, Coffee and Coffeehouses: The Origins of a So-\ncial Beverage in the Medieval Middle East (Seattle: Uni-\nversity of Washington Press, 1985), 18-19.\n27 A Collection of Voyages and Travels, 1:440.\n28 Coffee was customarily used as a mild painkiller during\nthe eighteenth century. Poet Alexander Pope, for in-\nstance, used it as a palliative for his migraines.\n29 Pope, The Rape of the Lock, 69.",
+  "page_idx": 0,
+  "bbox": [
+   0.09817,
+   0.72544,
+   0.4918,
+   0.92265
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "30 Beawes, Lex Mercatoria Rediviva, 791.\n31 Again, the custom of reading one's fortune in coffee\ngrounds is of Turkish provenance, not Arabic. Such\nmistaken attributions were pervasive during the eigh-\nteenth century.\n32 Beawes, Lex Mercatoria Rediviva, 792.\n33 M.M., Pharmacopoia Reformata: Or, An Essay for a Ref-\normation of the London Pharmacopoia, by a Set of Re-\nmarks on the Draught for a New One, and a Brief Ac-\ncount of the Proceedings of the Committee Appointed by\nthe College of Physicians, to Thoroughly Reform Their",
+  "page_idx": 0,
+  "bbox": [
+   0.50697,
+   0.7423,
+   0.90022,
+   0.92075
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ }
+]

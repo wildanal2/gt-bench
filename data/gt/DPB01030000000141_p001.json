@@ -1,0 +1,383 @@
+[
+ {
+  "type": "text",
+  "text": "10 THINGS YOU SHOULD KNOW ABOUT",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.05543,
+   0.02987,
+   0.94623,
+   0.06228
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "COPYRIGHT",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.07733,
+   0.08496,
+   0.92798,
+   0.16274
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "COPYRIGHT PROTECTS CREATIVE WORK -\nYOURS, MINE, EVERYONE'S!",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.10728,
+   0.2701,
+   0.4598,
+   0.2979
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "1",
+  "page_idx": 0,
+  "bbox": [
+   0.07062,
+   0.35471,
+   0.09995,
+   0.37879
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "We're all both consumers and creators of creative\nwork. As consumers, we watch movies, listen to\nmusic, read books, and more! As creators, we\ntake photos, write songs, make videos, etc.",
+  "page_idx": 0,
+  "bbox": [
+   0.15374,
+   0.36642,
+   0.43147,
+   0.4146
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "2",
+  "page_idx": 0,
+  "bbox": [
+   0.07551,
+   0.46994,
+   0.10387,
+   0.49338
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Copyright protects creative work, so people can't\ngenerally copy or share or perform other\npeople's work without permission.",
+  "page_idx": 0,
+  "bbox": [
+   0.14885,
+   0.48817,
+   0.42854,
+   0.52007
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "3",
+  "page_idx": 0,
+  "bbox": [
+   0.07551,
+   0.57932,
+   0.09995,
+   0.60341
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Copyright comes from the Constitution. Its purpose is\nto promote more creativity. The idea is that letting\neach of us decide what happens to our own creations\nwill encourage us to keep creating.",
+  "page_idx": 0,
+  "bbox": [
+   0.14787,
+   0.59494,
+   0.45592,
+   0.64052
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": [
+   0.07551,
+   0.69586,
+   0.10191,
+   0.71799
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "All creative work is protected by copyright as soon as\nit's written down or recorded or saved-and not just\nwork by professional artists or big studios. Copyright\nprotects all of us-our photos on Instagram and\neverything we write or create.",
+  "page_idx": 0,
+  "bbox": [
+   0.14787,
+   0.71344,
+   0.45592,
+   0.76812
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "5",
+  "page_idx": 0,
+  "bbox": [
+   0.07159,
+   0.815,
+   0.09995,
+   0.83714
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "If you copy or share other people's creative\nworks without permission, that's called copyright\ninfringement. Examples:",
+  "page_idx": 0,
+  "bbox": [
+   0.14885,
+   0.82607,
+   0.42756,
+   0.85797
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "· Downloading music, movies, ebooks, or games\nfrom illegal sources that operate without artists'\npermission.\n· Uploading your collection of music, movies,\nebooks, or games for your friends to copy.",
+  "page_idx": 0,
+  "bbox": [
+   0.16645,
+   0.86188,
+   0.44516,
+   0.91331
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=List"
+ },
+ {
+  "type": "text",
+  "text": "Copyright infringement is illegal and carries\nserious penalties.",
+  "page_idx": 0,
+  "bbox": [
+   0.14787,
+   0.91461,
+   0.39627,
+   0.9361
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "BUT COPYRIGHT DOESN'T\nCOVER EVERYTHING",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.62187,
+   0.2701,
+   0.84878,
+   0.29916
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "6",
+  "page_idx": 0,
+  "bbox": [
+   0.5371,
+   0.35471,
+   0.57224,
+   0.37879
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Copyright gives a lot of protection, but it also has\nlimitations. Not everything gets copyright protection.\nFacts and ideas are not protected by copyright, neither\nare US Government documents, like NASA photos and\nreports by federal agencies.",
+  "page_idx": 0,
+  "bbox": [
+   0.61259,
+   0.36473,
+   0.92368,
+   0.4146
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "7",
+  "page_idx": 0,
+  "bbox": [
+   0.5384,
+   0.47132,
+   0.56183,
+   0.49211
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Another limitation of copyright is \"fair use,\" which\nallows us to copy and re-use copyrighted work\nwithout the artist's permission in certain, limited\nways that are still fair to the creator.",
+  "page_idx": 0,
+  "bbox": [
+   0.61129,
+   0.48171,
+   0.89504,
+   0.52677
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "8",
+  "page_idx": 0,
+  "bbox": [
+   0.541,
+   0.57932,
+   0.56313,
+   0.60216
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "When you re-use portions of someone else's work\nfor a school project-like using images or songs for\na presentation in class-that's a fair use situation.\nYou don't need the author's permission.",
+  "page_idx": 0,
+  "bbox": [
+   0.61389,
+   0.59494,
+   0.90415,
+   0.63596
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "9",
+  "page_idx": 0,
+  "bbox": [
+   0.5384,
+   0.69489,
+   0.56834,
+   0.71915
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Copyright protection doesn't last forever.\nEventually it expires, and the creative work falls\ninto the \"public domain.\" Works in the public\ndomain are free to re-use and share however\nyou want.",
+  "page_idx": 0,
+  "bbox": [
+   0.60999,
+   0.71344,
+   0.88593,
+   0.76812
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "10",
+  "page_idx": 0,
+  "bbox": [
+   0.53579,
+   0.8136,
+   0.57484,
+   0.83714
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "cc",
+  "page_idx": 0,
+  "bbox": [
+   0.541,
+   0.86646,
+   0.56964,
+   0.88119
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Some creators are happy to share their\ncreative work. They use a licensing system\nfor sharing called Creative Commons. You\ncan find millions of CC work that are free to\nshare or re-use.",
+  "page_idx": 0,
+  "bbox": [
+   0.60999,
+   0.84653,
+   0.8638,
+   0.90112
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Ⓒopyrightand Creativity.org",
+  "page_idx": 0,
+  "bbox": [
+   0.34128,
+   0.95359,
+   0.66414,
+   0.97537
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "Ⓒ",
+  "page_idx": 0,
+  "bbox": [
+   0.9123,
+   0.9422,
+   0.93664,
+   0.96265
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

@@ -1,0 +1,95 @@
+[
+ {
+  "type": "text",
+  "text": "16 Encinas Franco and Laguna",
+  "page_idx": 0,
+  "bbox": [
+   0.09836,
+   0.05377,
+   0.41263,
+   0.07389
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Header; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "table",
+  "table_body": "<table><tbody><tr><td>IX - Zamboanga Peninsula</td><td>4</td><td>2</td><td>4</td></tr><tr><td>X - Northern Mindanao</td><td>2</td><td>2</td><td>2</td></tr><tr><td>XI - Davao Region</td><td>1</td><td>3</td><td>5</td></tr><tr><td>XII - SOCCSKSARGEN</td><td>2</td><td>2</td><td>1</td></tr><tr><td>XIII - Caraga</td><td>1</td><td>3</td><td>3</td></tr><tr><td>ARMM</td><td>1</td><td>2</td><td>2</td></tr><tr><td>Party-List</td><td>10</td><td>15</td><td>20</td></tr><tr><td>TOTAL (w/ Party- List)</td><td>55</td><td>66</td><td>88</td></tr><tr><td>TOTAL (w/o Party- List)</td><td>45</td><td>51</td><td>68</td></tr></tbody></table>",
+  "table_caption": null,
+  "table_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.09836,
+   0.10825,
+   0.8589,
+   0.40324
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Table; header tabel tidak ditandai <th> di sumber"
+ },
+ {
+  "type": "text",
+  "text": "Source: HOR 2022. Computations made by the authors.",
+  "page_idx": 0,
+  "bbox": [
+   0.10088,
+   0.41833,
+   0.62257,
+   0.43509
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Overall, the abovementioned situation indicates that Filipino\nwomen have gradually increased their presence in formal politics.\nIn Asia, the Philippines and Taiwan are the only countries above the\nglobal average of 24.5 percent of women in parliament (Liu 2021).\nHowever, challenges remain as the increased participation of women\ncomes from dysfunctional features of the country's political system:\npolitical dynasties and the Party-List law. Nonetheless, not all women\nfrom these groups are necessarily averse to women's issues.",
+  "page_idx": 0,
+  "bbox": [
+   0.09836,
+   0.4728,
+   0.85764,
+   0.6446
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Barriers to Filipino Women's Participation",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09836,
+   0.68986,
+   0.66908,
+   0.71164
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "Previous studies have identified political, economic, and cultural\nfactors that impede women's participation in politics. However, context\nstill matters since the perception of women's role in societies and the\nevolution of political systems differ. The following section examines\nsome of these barriers.",
+  "page_idx": 0,
+  "bbox": [
+   0.09334,
+   0.73511,
+   0.85638,
+   0.8407
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "The Philippine electoral system's \"first-past-the-post\" electoral\ntype, coupled with the lack of well-developed political parties, inhibits\nwomen's entry into politics. Encinas-Franco (2021) argues that \"[w]\nithout party discipline and institutionalized rules within parties, one",
+  "page_idx": 0,
+  "bbox": [
+   0.09585,
+   0.85579,
+   0.8589,
+   0.94211
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ }
+]

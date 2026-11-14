@@ -1,0 +1,108 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.22154,
+   0.06927,
+   0.77832,
+   0.44649
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Figure"
+ },
+ {
+  "type": "text",
+  "text": "Now, how do we solve for the game's analytical equilibrium?12",
+  "page_idx": 0,
+  "bbox": [
+   0.10721,
+   0.44765,
+   0.61496,
+   0.46873
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Here, Player 2 applies backward induction to find what's known as a Perfect Bayesian Equilibrium\n(PBE). As we already know, if Player 2 is the weak type and Player 1 has chosen to invade, then Player\n2 should concede. If he is the strong type, then Player 2 should fight. We also know that Player 1\nrecognizes that she gets a payoff of $0 if she concedes in the first round, regardless of Player 2's type.\nIf she instead chooses to invade in the first round, then Player 1's expected payoff from invading is\np - 0.2(1 - p) = 1.2p - 0.2. This is merely the weighted average of Player 1's expected payoff\nwhen Player 2 is weak and her expected payoff when Player 2is strong. Thus, invade is a better strategy\nthan concede for Player 1 when 1.2p - 0.2 > 0 ⇒ p > 1/6. In other words, if the probability that\nPlayer 1 assigns to Player 2 being weak is greater than one-sixth, Player 1 should choose to invade in the\nfirst round. Otherwise, Player 1 should concede and be done with it.",
+  "page_idx": 0,
+  "bbox": [
+   0.13947,
+   0.47065,
+   0.91183,
+   0.66363
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "What's the outcome when you and your classmates play this more complicated version of the\nEscalation Game?",
+  "page_idx": 0,
+  "bbox": [
+   0.09233,
+   0.66427,
+   0.91101,
+   0.69941
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "BURNING BRIDGES GAME",
+  "text_level": 1,
+  "page_idx": 0,
+  "bbox": [
+   0.09027,
+   0.72056,
+   0.34044,
+   0.73546
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Heading1; DP-Bench hanya punya 1 level heading; level asli belum diverifikasi"
+ },
+ {
+  "type": "text",
+  "text": "This game shares starkly similar features with the Escalation Game, but there is no uncertainty\n(thus, the analytical equilibrium is an SPE rather than a PBE). The SPE has much to say about the\nrelationship between two tenacious competitors. Spaniel (2011) portrays the game as follows:",
+  "page_idx": 0,
+  "bbox": [
+   0.08914,
+   0.74981,
+   0.90829,
+   0.80878
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "12. This equilibrium is known as a Perfect Bayesian Equilibrium (PBE) rather than an SPE because of the uncertainty that at\nleast one of the players is forced to contend with. Similar to Nash, Thomas Bayes is considered a towering figure. He was\nan 18th-century English statistician, philosopher, and Presbyterian minister who is known for formulating a specific case\nof the theorem that bears his name: Bayes Theorem. Bayes never published his theory himself-his notes were edited and\npublished posthumously.",
+  "page_idx": 0,
+  "bbox": [
+   0.06763,
+   0.86551,
+   0.89471,
+   0.94571
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footnote"
+ },
+ {
+  "type": "text",
+  "text": "132 ARTHUR J. CAPLAN",
+  "page_idx": 0,
+  "bbox": [
+   0.09194,
+   0.94946,
+   0.23974,
+   0.96049
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]

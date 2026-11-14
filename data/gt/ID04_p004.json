@@ -1,0 +1,217 @@
+[
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; logo APBNKITA; furniture"
+ },
+ {
+  "type": "text",
+  "text": "APBNKITA",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; furniture; teks logo/wordmark (tidak ada di lapisan teks)"
+ },
+ {
+  "type": "text",
+  "text": "| Edisi Februari 2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; header berjalan"
+ },
+ {
+  "type": "text",
+  "text": "4",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; furniture; nomor halaman"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; foto pasar tradisional"
+ },
+ {
+  "type": "text",
+  "text": "Foto: Pexels - Matthew Yeung",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; kredit foto tercetak di atas foto"
+ },
+ {
+  "type": "text",
+  "text": "Momentum Pertumbuhan Ekonomi di Awal 2026 Tetap Terjaga",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 1,
+  "gt_note": "verif:AB:2026-11-14; judul artikel"
+ },
+ {
+  "type": "text",
+  "text": "Aktivitas Domestik Kuat di Tengah Moderasi Global dan Volatilitas Pasar",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 2,
+  "gt_note": "verif:AB:2026-11-14; subjudul artikel"
+ },
+ {
+  "type": "text",
+  "text": "Berbekal fondasi pertumbuhan yang solid sepanjang 2025, perekonomian Indonesia memasuki 2026 dalam posisi yang kuat. Indikator aktivitas domestik menunjukkan bahwa momentum pertumbuhan ekonomi masih berlanjut, antara lain dengan tetap ekspansifnya sektor manufaktur, terjaganya mobilitas masyarakat, serta optimisme konsumen yang tetap positif.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; italic; paragraf pembuka"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan ekonomi global relatif stabil, namun sejumlah risiko perlu diwaspadai",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold)"
+ },
+ {
+  "type": "text",
+  "text": "Pertumbuhan ekonomi global pada 2026 diperkirakan tetap stabil, meski dengan kecenderungan moderasi di sejumlah ekonomi besar dan belum pulihnya perdagangan dunia. Perlambatan konsumsi domestik di Tiongkok turut membayangi prospek global, meskipun aktivitas manufaktur secara umum masih ekspansif.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Perdagangan global mengalami moderasi akibat melemahnya permintaan dan fragmentasi geopolitik. Perkembangan terbaru menunjukkan Mahkamah Agung AS membatalkan kebijakan tarif resiprokal sebelumnya dan menimbulkan ketidakpastian baru.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sejalan dengan itu, harga komoditas bergerak beragam. Harga energi seperti batu bara dan minyak mentah sempat tertekan akibat penetrasi energi terbarukan dan lemahnya permintaan global, meski dalam beberapa pekan terakhir kembali menguat dipicu ketegangan geopolitik dan permintaan Tiongkok. Harga emas tetap tinggi didorong beralihnya investor ke aset safe haven karena kondisi global yang volatile. Harga tembaga juga masih tinggi karena berkembangnya green infrastructure yang banyak membutuhkan penggunaan logam ini. Sedangkan harga CPO dan nikel masih berfluktuasi, sehingga perlu terus dipantau dan dimitigasi risikonya.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'safe haven', 'volatile', 'green infrastructure' italic"
+ },
+ {
+  "type": "text",
+  "text": "Di sektor moneter dan keuangan, dinamika kebijakan AS, termasuk isu independensi The Fed pasca nominasi kepemimpinan baru, masih menjadi perhatian. Selain itu, setelah tiga kali pemangkasan suku bunga, FOMC pada Januari 2026 memutuskan menahan Fed Funds Rate di kisaran 3,50%–3,75%, mencerminkan sikap kehati-hatian di tengah inflasi yang belum sepenuhnya mereda.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; lintas_kolom; 'Fed Funds Rate' italic; hyphen: 'kehati-/hatian' kata ulang ditulis utuh"
+ },
+ {
+  "type": "text",
+  "text": "Indeks dolar AS cenderung melemah seiring ekspektasi pelonggaran moneter lebih lanjut, meskipun yield US Treasury tenor panjang masih relatif tinggi akibat kekhawatiran risiko fiskal AS.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14; 'yield' italic"
+ },
+ {
+  "type": "text",
+  "text": "Ekonomi Domestik Tetap Kuat di Awal Tahun",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "text_level": 3,
+  "gt_note": "verif:AB:2026-11-14; subjudul bagian (bold)"
+ },
+ {
+  "type": "text",
+  "text": "Di tengah dinamika global tersebut, indikator domestik menunjukkan ketahanan yang cukup baik. IKK bulan Januari 2026 meningkat ke level 127 (Desember 2025: 123,5), membuktikan persepsi positif masyarakat bahwa kondisi ekonomi saat ini membaik sekaligus ekspektasi terhadap masa depan yang tetap optimistis. Sejalan dengan itu, IPR juga menguat pada awal tahun dengan pertumbuhan 7,9% (yoy), lebih tinggi dibandingkan rata-rata pertumbuhan sepanjang 2025.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "text",
+  "text": "Sektor manufaktur menunjukkan penguatan berkelanjutan, dengan PMI Januari 2026 meningkat ke 52,6 (Desember 2025: 51,2) dan memperpanjang ekspansi selama enam bulan berturut-turut. Peningkatan ini didorong oleh permintaan domestik yang solid, sejalan dengan optimisme pelaku usaha yang mencapai level tertinggi dalam hampir setahun terakhir.",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": false,
+  "gt_note": "verif:AB:2026-11-14"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": null,
+  "gt_note": "verif:AB:2026-11-14; grafik garis PMI manufaktur Jan 2024 - Jan 2026 dengan area arsiran; tanpa nilai sumbu Y; judul tercetak di dalam gambar, dicatat sebagai teks in_figure"
+ },
+ {
+  "type": "text",
+  "text": "Kinerja Manufaktur ekspansif 6 bulan berturut-turut, didorong akselerasi permintaan domestik (Januari, Index)",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; judul grafik"
+ },
+ {
+  "type": "text",
+  "text": "Sumber : S&P Global",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; sumber"
+ },
+ {
+  "type": "text",
+  "text": "52,6",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label data titik terakhir (Januari 2026)"
+ },
+ {
+  "type": "text",
+  "text": "J F M A M J J A S O N D J F M A M J J A S O N D J",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu X (inisial bulan), 25 tick ditulis dalam satu elemen"
+ },
+ {
+  "type": "text",
+  "text": "2024",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu X (tahun)"
+ },
+ {
+  "type": "text",
+  "text": "2025",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu X (tahun)"
+ },
+ {
+  "type": "text",
+  "text": "2026",
+  "page_idx": 0,
+  "bbox": null,
+  "in_figure": true,
+  "gt_note": "verif:AB:2026-11-14; label sumbu X (tahun)"
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "type": "text",
+  "text": "this content \"very often\", 71% were from\nIndonesia and 28.6% were from Thailand.\nWhen asked about how often participants\nhad heard of groups expressing the\nimportance of men accompanying women\nwhen travelling to conflict zones, more\nrespondents had heard this message\nwith a higher frequency (\"always\" or \"very\noften\", 37.1%) than those who had rarely or\nnever heard it (34%). Forty-six per cent of\nrespondents from Indonesia heard this\nmessage with a higher frequency, followed\nby the Philippines (38%) and Thailand\n(15%). When grouping the answer options\nof \"always\", \"very often\" and \"sometimes\",\n66% of respondents said they had heard\ngroups stress the importance of women\nbeing accompanied by men when\ntravelling to conflict areas.",
+  "page_idx": 0,
+  "bbox": [
+   0.11653,
+   0.08382,
+   0.47479,
+   0.42031
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Figure 5: Importance of a male\nguardian accompanying women when\ntravelling to conflict zones",
+  "page_idx": 0,
+  "bbox": [
+   0.11653,
+   0.45695,
+   0.46205,
+   0.50736
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Caption; caption belum ditautkan ke tabel/gambar"
+ },
+ {
+  "type": "image",
+  "img_path": null,
+  "image_caption": null,
+  "image_footnote": null,
+  "page_idx": 0,
+  "bbox": [
+   0.12164,
+   0.53053,
+   0.46605,
+   0.7602
+  ],
+  "gt_note": "verif:dpbench:upstage; src=Chart"
+ },
+ {
+  "type": "text",
+  "text": "In the second part of the survey, using\na five-point Likert scale from \"strong-\nly agree\" to \"strongly disagree\", partic-\nipants were presented with a series of\nstatements regarding how worried they\nwere about intolerant content being es-\npoused in the offline space by violent ex-",
+  "page_idx": 0,
+  "bbox": [
+   0.11653,
+   0.79669,
+   0.47479,
+   0.91841
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "tremist groups. Most respondents (77%)\nagreed (combining both \"strongly agree\"\nand \"agree\") that they were worried about\nintolerance in their communities, partic-\nularly respondents from Indonesia and\nthe Philippines. Almost all respondents in\nthe sample (93%) agreed that they were\nworried about violent extremism in their\ncountries. This appeared to be a general\nconcern among both men and women\nas 85% of men and 95% of women agreed\nthat they were concerned.",
+  "page_idx": 0,
+  "bbox": [
+   0.52521,
+   0.08382,
+   0.88347,
+   0.29721
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Significantly, 89% of respondents agreed\nthat religious extremism would impede\nwomen's rights. Half of the participants\nin Indonesia agreed they were concerned\nthat religious extremism would hamper\nwomen's rights, 27% in Philippines and 16%\nin Thailand. Both men (84.6%) and women\n(89.2%) expressed their concerns on this\nissue. Furthermore, 91% of respondents\nagreed that religious extremism prioritizes\nmen's rights over women's rights - 93.1%\nof women strongly agreed with the\nstatement compared to 6.90% of men.",
+  "page_idx": 0,
+  "bbox": [
+   0.52521,
+   0.32377,
+   0.88347,
+   0.55278
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "For example, one interviewee from\nIndonesia observed that the teachings\nof extremism have entered schools, such\nas high schools, and have also begun to\npenetrate student organizations. She\nobserved that the teachings \"spread from\nthe Middle East, bringing misogynistic\nteachings towards women as part of their\nsubjugation strategy\". She acknowledged\nthat it was part of the organizational\nstrategy where women appeared to look\nempowered:",
+  "page_idx": 0,
+  "bbox": [
+   0.52521,
+   0.57845,
+   0.88347,
+   0.79106
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\"",
+  "page_idx": 0,
+  "bbox": [
+   0.5406,
+   0.81982,
+   0.57202,
+   0.8391
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "\"However, this is just\nmanipulation; behind it is the\npractice of misogyny, women's\nconsciousness, their bodies and\nminds are controlled, even though",
+  "page_idx": 0,
+  "bbox": [
+   0.58772,
+   0.83153,
+   0.87913,
+   0.91708
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Paragraph"
+ },
+ {
+  "type": "text",
+  "text": "Gender Analysis of Violent Extremism and the Impact of COVID-19 on Peace and Security in ASEAN",
+  "page_idx": 0,
+  "bbox": [
+   0.03138,
+   0.97523,
+   0.71709,
+   0.98675
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ },
+ {
+  "type": "text",
+  "text": "31",
+  "page_idx": 0,
+  "bbox": [
+   0.92836,
+   0.97552,
+   0.9423,
+   0.98402
+  ],
+  "in_figure": false,
+  "gt_note": "verif:dpbench:upstage; src=Footer; furniture: kecualikan atau nilai terpisah"
+ }
+]
